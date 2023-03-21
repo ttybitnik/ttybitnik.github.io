@@ -1,5 +1,5 @@
 * Blog.wolper
 
-My personal website written using =GNU Emacs== org-mode.
+My personal website written using =GNU Emacs= org-mode.
 
 [[./images/free-software-champion.jpg]]
