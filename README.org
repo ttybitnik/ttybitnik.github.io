@@ -1,4 +1,4 @@
-* Blog.wolper
+* Blog.w0lper
 
 My personal website written using =GNU Emacs= org-mode.
 
