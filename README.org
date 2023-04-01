@@ -1,4 +1,7 @@
-* Blog.w0lper
+#+TITLE: Blog.w0lper	
+#+AUTHOR: Vinicius Moraes
+#+EMAIL: vinicius.moraes@eternodevir.com
+#+OPTIONS:   num:nil
 
 My personal website written using =GNU Emacs= org-mode.
 

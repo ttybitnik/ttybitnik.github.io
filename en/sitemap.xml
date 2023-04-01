@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eternodevir.com/projects/</loc>
+    <lastmod>2023-03-31T00:09:00-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://eternodevir.com/pt-br/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eternodevir.com/projects/"
+                />
+  </url><url>
     <loc>https://eternodevir.com/home/</loc>
     <lastmod>2023-03-12T19:16:33-03:00</lastmod>
     <xhtml:link
@@ -65,6 +78,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://eternodevir.com/about/"
+                />
+  </url><url>
+    <loc>https://eternodevir.com/contact/</loc>
+    <lastmod>2023-03-06T15:34:29-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://eternodevir.com/pt-br/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eternodevir.com/contact/"
                 />
   </url><url>
     <loc>https://eternodevir.com/categories/broadcasts/</loc>
