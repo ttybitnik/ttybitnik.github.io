@@ -4,5 +4,3 @@
 #+OPTIONS:   num:nil
 
 My personal website written using =GNU Emacs= org-mode.
-
-[[./images/free-software-champion.jpg]]
