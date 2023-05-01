@@ -3,4 +3,4 @@
 #+EMAIL: vinicius.moraes@eternodevir.com
 #+OPTIONS:   num:nil
 
-My personal website written using =GNU Emacs= org-mode.
+This repository contains the source files for my personal blog, which is generated using *GNU Emacs* =org-mode=.
