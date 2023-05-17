@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cinema on Vinicius Moraes</title>
+    <title>cinema on Eterno Devir</title>
     <link>https://eternodevir.com/tags/cinema/</link>
-    <description>Recent content in cinema on Vinicius Moraes</description>
+    <description>Recent content in cinema on Eterno Devir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor>
+    <webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 03 Feb 2019 20:36:05 -0300</lastBuildDate><atom:link href="https://eternodevir.com/tags/cinema/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>For Street Cinema memories</title>
       <link>https://eternodevir.com/blog/2019/02/for-street-cinema-memories/</link>
       <pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate>
-      
+      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
       <guid>https://eternodevir.com/blog/2019/02/for-street-cinema-memories/</guid>
       <description>Cinearte Palace, Juiz de Fora, 2017 Glauber Rocha taught me to perceive, at the heart of Cinema Novo, the real possibility of a national cinema going beyond a purely commercial logic. Art, to some extent and with all the difficulties, still resisting as a stage for something uncertain, unexpected. A space of plural resistance, of the creative singularity of each director, of each film, where the obvious and the predetermined, of lucrative Hollywood formulas, refuse to happen.</description>
     </item>
@@ -21,7 +23,7 @@
       <title>The Seventh</title>
       <link>https://eternodevir.com/blog/2018/12/the-seventh/</link>
       <pubDate>Sun, 02 Dec 2018 22:07:49 -0300</pubDate>
-      
+      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
       <guid>https://eternodevir.com/blog/2018/12/the-seventh/</guid>
       <description>Cinearte Palace, Juiz de Fora, 2016 For some time now, it has become a habit to revisit films through the soundtrack. Reflecting on the subject, I realized that many of my cinematic memories are connected to the strength of this audiovisual relationship, especially some scenes closely linked to songs. The playlist below arose from the desire to remember and gather these memories.
 Far from being just a background, songs are an integral part of the narrative itself when used well.</description>

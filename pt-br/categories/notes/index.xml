@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>notes on Vinícius Moraes</title>
+    <title>notes on Eterno Devir</title>
     <link>https://eternodevir.com/pt-br/categories/notes/</link>
-    <description>Recent content in notes on Vinícius Moraes</description>
+    <description>Recent content in notes on Eterno Devir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor>
+    <webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 27 Jun 2020 10:52:51 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Psicopolítica</title>
       <link>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</link>
       <pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate>
-      
+      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
       <guid>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</guid>
       <description>Byung-Chul Han, enquanto escritor e filósofo, tem uma qualidade admirável: escrever de maneira clara e objetiva sobre temas complexos. Ainda assim, foi um livro trabalhoso pela necessidade constante de separar o joio do trigo. Contudo, uma vez identificada a causa do problema, a leitura foi bastante proveitosa. A obra é dividida em treze seções/ensaios: (1) crise da liberdade; (2) poder inteligente; (3) a toupeira e a serpente; (4) biopolítica; (5) o dilema de Foucault; (6) a cura como assassinato; (7) choque; (8) o amável grande irmão; (9) o capitalismo da emoção; (10) gamificação; (11) big data; (12) para além do sujeito; e (13) idiotismo.</description>
     </item>
@@ -21,7 +23,7 @@
       <title>O homem unidimensional</title>
       <link>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</link>
       <pubDate>Tue, 02 Jun 2020 18:36:32 -0300</pubDate>
-      
+      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
       <guid>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</guid>
       <description>Em uma tradução menos comercial, “O homem unidimensional: estudos sobre a ideologia da sociedade industrial desenvolvida”, publicado em 1964. Um livro com muitos pontos fortes. Marcuse é um pensador dialético por excelência. Se por um lado, ele demonstra como a tecnologia modifica os instrumentos de produção e promove avanços para a emancipação humana, por outro, ele avalia como a tecnologia é parte de uma nova forma de controle, impactando: (i) o trabalho; (ii) o universo político; (iii) a consciência; (iv) o universo de locução; (v) a cultura; e (vi) o pensamento.</description>
     </item>
@@ -30,7 +32,7 @@
       <title>Escrevo para descobrir o que penso</title>
       <link>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</link>
       <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
-      
+      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
       <guid>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</guid>
       <description>Outro dia, me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos tópicos que me interessava. De alguma forma, parecia me encantar conseguir vislumbrar um universo de possibilidades dentro de determinada circunstância. Hoje de manhã, acabei reunindo essa memória com uma ideia que tem me habitado nós últimos tempos: a do escrever como exercício de reflexão e descoberta. As aulas que nunca têm fim…</description>
     </item>
@@ -39,7 +41,7 @@
       <title>Festa dos incomodados</title>
       <link>https://eternodevir.com/pt-br/blog/2020/02/festa-dos-incomodados/</link>
       <pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate>
-      
+      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
       <guid>https://eternodevir.com/pt-br/blog/2020/02/festa-dos-incomodados/</guid>
       <description>Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.
 No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente.</description>

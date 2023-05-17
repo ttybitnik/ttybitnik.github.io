@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>notes on Vinicius Moraes</title>
+    <title>notes on Eterno Devir</title>
     <link>https://eternodevir.com/categories/notes/</link>
-    <description>Recent content in notes on Vinicius Moraes</description>
+    <description>Recent content in notes on Eterno Devir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor>
+    <webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sat, 27 Jun 2020 10:52:51 -0300</lastBuildDate><atom:link href="https://eternodevir.com/categories/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Psychopolitics</title>
       <link>https://eternodevir.com/blog/2020/06/psychopolitics/</link>
       <pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate>
-      
+      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
       <guid>https://eternodevir.com/blog/2020/06/psychopolitics/</guid>
       <description>Byung-Chul Han, as a writer and philosopher, has an admirable quality: he writes clearly and objectively about complex topics. Even so, it was a laborious book due to the constant need to separate the wheat from the chaff. However, once the cause of the problem was identified, the reading was quite fruitful. The work is divided into thirteen sections/essays: (1) crisis of freedom; (2) intelligent power; (3) the mole and the serpent; (4) biopolitics; (5) Foucault&amp;#39;s dilemma; (6) healing as murder; (7) shock; (8) the lovable big brother; (9) the capitalism of emotion; (10) gamification; (11) big data; (12) beyond the subject; and (13) idiocy.</description>
     </item>
@@ -21,7 +23,7 @@
       <title>One-Dimensional Man</title>
       <link>https://eternodevir.com/blog/2020/06/one-dimensional-man/</link>
       <pubDate>Tue, 02 Jun 2020 18:36:32 -0300</pubDate>
-      
+      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
       <guid>https://eternodevir.com/blog/2020/06/one-dimensional-man/</guid>
       <description>In a less commercial translation, “One-Dimensional Man: Studies in the Ideology of Developed Industrial Society”, published in 1964. A book with many strengths. Marcuse is a dialectical thinker par excellence. If, on the one hand, he demonstrates how technology modifies production instruments and promotes advances towards human emancipation, on the other hand, he assesses how technology is part of a new form of control, impacting: (i) work; (ii) the political universe; (iii) conscience; (iv) the locution universe; (v) culture; and (vi) thought.</description>
     </item>
@@ -30,7 +32,7 @@
       <title>I write to find out what I think</title>
       <link>https://eternodevir.com/blog/2020/05/i-write-to-find-out-what-i-think/</link>
       <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
-      
+      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
       <guid>https://eternodevir.com/blog/2020/05/i-write-to-find-out-what-i-think/</guid>
       <description>The other day, I remembered my high school math teacher and how combinatorics was one of the few topics I was interested in. Somehow, it seemed to delight me being able to envision a universe of possibilities within a given circumstance. This morning, I ended up putting that memory together with an idea that has been inhabiting me lately: that of writing as an exercise of reflection and discovery. Lessons that never end…</description>
     </item>
@@ -39,7 +41,7 @@
       <title>Party of the bothered ones</title>
       <link>https://eternodevir.com/blog/2020/02/party-of-the-bothered-ones/</link>
       <pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate>
-      
+      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
       <guid>https://eternodevir.com/blog/2020/02/party-of-the-bothered-ones/</guid>
       <description>A bothered person talks about some annoyance. Some bothered ones agree, other bothered ones disagree. At the party, those who aren&amp;#39;t bothered are divided into two groups of people who are bothered: those who aren&amp;#39;t bothered by that annoyance, but by the fact that there are so many bothered people bothering them; and those who aren&amp;#39;t bothered by absolutely nothing, with the exception of those who aren&amp;#39;t bothered by being bothered by so many bothers, which, it&amp;#39;s known, causes them a deep annoyance.</description>
     </item>
