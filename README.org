@@ -3,4 +3,10 @@
 #+EMAIL: vinicius.moraes@eternodevir.com
 #+OPTIONS:   num:nil
 
-This repository contains the source files for my personal blog, which is generated using *GNU Emacs* =org-mode=. Powered by [[http://gohugo.io/][Hugo]], themed by [[https://github.com/rhazdon][Djordje Atlialp]], with personal modifications.
+This repository contains the source files for my personal blog.
+
+Deployed with *[[https://github.com/ttybitnik/emacs][GNU Emacs]]* =org-mode=.
+
+Powered by [[http://gohugo.io/][Hugo]].
+
+Custom theme by [[https://github.com/rhazdon][Djordje Atlialp]], with personal modifications.
