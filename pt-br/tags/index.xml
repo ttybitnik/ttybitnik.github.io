@@ -1,50 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Eterno Devir</title>
-    <link>https://eternodevir.com/pt-br/tags/</link>
-    <description>Recent content in Tags on Eterno Devir</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor>
-    <webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 11:01:24 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>music</title>
-      <link>https://eternodevir.com/pt-br/tags/music/</link>
-      <pubDate>Fri, 16 Oct 2020 11:01:24 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reading</title>
-      <link>https://eternodevir.com/pt-br/tags/reading/</link>
-      <pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/tags/reading/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>autobiography</title>
-      <link>https://eternodevir.com/pt-br/tags/autobiography/</link>
-      <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/tags/autobiography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cinema</title>
-      <link>https://eternodevir.com/pt-br/tags/cinema/</link>
-      <pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/tags/cinema/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>Tags on Eterno Devir</title>
+        <link>https://eternodevir.com/pt-br/tags/</link>
+        <description>Recent content in Tags on Eterno Devir</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <managingEditor>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</managingEditor>
+        <webMaster>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</webMaster>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Fri, 16 Oct 2020 11:01:24 -0300</lastBuildDate>
+        <atom:link href="https://eternodevir.com/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>music</title>
+            <link>https://eternodevir.com/pt-br/tags/music/</link>
+            <pubDate>Fri, 16 Oct 2020 11:01:24 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/tags/music/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>reading</title>
+            <link>https://eternodevir.com/pt-br/tags/reading/</link>
+            <pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/tags/reading/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>autobiography</title>
+            <link>https://eternodevir.com/pt-br/tags/autobiography/</link>
+            <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/tags/autobiography/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>cinema</title>
+            <link>https://eternodevir.com/pt-br/tags/cinema/</link>
+            <pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/tags/cinema/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
 </rss>

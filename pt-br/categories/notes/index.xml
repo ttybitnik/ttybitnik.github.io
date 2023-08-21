@@ -1,51 +1,155 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>notes on Eterno Devir</title>
-    <link>https://eternodevir.com/pt-br/categories/notes/</link>
-    <description>Recent content in notes on Eterno Devir</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor>
-    <webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 27 Jun 2020 10:52:51 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/categories/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Psicopolítica</title>
-      <link>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</link>
-      <pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</guid>
-      <description>Byung-Chul Han, enquanto escritor e filósofo, tem uma qualidade admirável: escrever de maneira clara e objetiva sobre temas complexos. Ainda assim, foi um livro trabalhoso pela necessidade constante de separar o joio do trigo. Contudo, uma vez identificada a causa do problema, a leitura foi bastante proveitosa. A obra é dividida em treze seções/ensaios: (1) crise da liberdade; (2) poder inteligente; (3) a toupeira e a serpente; (4) biopolítica; (5) o dilema de Foucault; (6) a cura como assassinato; (7) choque; (8) o amável grande irmão; (9) o capitalismo da emoção; (10) gamificação; (11) big data; (12) para além do sujeito; e (13) idiotismo.</description>
-    </item>
-    
-    <item>
-      <title>O homem unidimensional</title>
-      <link>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</link>
-      <pubDate>Tue, 02 Jun 2020 18:36:32 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</guid>
-      <description>Em uma tradução menos comercial, “O homem unidimensional: estudos sobre a ideologia da sociedade industrial desenvolvida”, publicado em 1964. Um livro com muitos pontos fortes. Marcuse é um pensador dialético por excelência. Se por um lado, ele demonstra como a tecnologia modifica os instrumentos de produção e promove avanços para a emancipação humana, por outro, ele avalia como a tecnologia é parte de uma nova forma de controle, impactando: (i) o trabalho; (ii) o universo político; (iii) a consciência; (iv) o universo de locução; (v) a cultura; e (vi) o pensamento.</description>
-    </item>
-    
-    <item>
-      <title>Escrevo para descobrir o que penso</title>
-      <link>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</link>
-      <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</guid>
-      <description>Outro dia, me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos tópicos que me interessava. De alguma forma, parecia me encantar conseguir vislumbrar um universo de possibilidades dentro de determinada circunstância. Hoje de manhã, acabei reunindo essa memória com uma ideia que tem me habitado nós últimos tempos: a do escrever como exercício de reflexão e descoberta. As aulas que nunca têm fim…</description>
-    </item>
-    
-    <item>
-      <title>Festa dos incomodados</title>
-      <link>https://eternodevir.com/pt-br/blog/2020/02/festa-dos-incomodados/</link>
-      <pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2020/02/festa-dos-incomodados/</guid>
-      <description>Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.
+    <channel>
+        <title>notes on Eterno Devir</title>
+        <link>https://eternodevir.com/pt-br/categories/notes/</link>
+        <description>Recent content in notes on Eterno Devir</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <managingEditor>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</managingEditor>
+        <webMaster>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</webMaster>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 27 Jun 2020 10:52:51 -0300</lastBuildDate>
+        <atom:link href="https://eternodevir.com/pt-br/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Psicopolítica</title>
+            <link>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</link>
+            <pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</guid>
+            <description>Byung-Chul Han, enquanto escritor e filósofo, tem uma qualidade admirável: escrever de maneira clara e objetiva sobre temas complexos. Ainda assim, foi um livro trabalhoso pela necessidade constante de separar o joio do trigo. Contudo, uma vez identificada a causa do problema, a leitura foi bastante proveitosa. A obra é dividida em treze seções/ensaios: (1) crise da liberdade; (2) poder inteligente; (3) a toupeira e a serpente; (4) biopolítica; (5) o dilema de Foucault; (6) a cura como assassinato; (7) choque; (8) o amável grande irmão; (9) o capitalismo da emoção; (10) gamificação; (11) big data; (12) para além do sujeito; e (13) idiotismo.</description>
+            <content type="html"><![CDATA[<p>
+Byung-Chul Han, enquanto escritor e filósofo, tem uma qualidade admirável: escrever de maneira clara e objetiva sobre temas complexos. Ainda assim, foi um livro trabalhoso pela necessidade constante de separar o joio do trigo. Contudo, uma vez identificada a causa do problema, a leitura foi bastante proveitosa. A obra é dividida em treze seções/ensaios: (1) crise da liberdade; (2) poder inteligente; (3) a toupeira e a serpente; (4) biopolítica; (5) o dilema de Foucault; (6) a cura como assassinato; (7) choque; (8) o amável grande irmão; (9) o capitalismo da emoção; (10) gamificação; (11) big data; (12) para além do sujeito; e (13) idiotismo.</p>
+<p>
+De maneira resumida, no desenvolvimento de algumas teses, Byung-Chul defende que o neoliberalismo opera a transição: da sociedade da biopolítica (controle do corpo) para a sociedade da psicopolítica (controle da mente); do poder disciplinar (negativo e violento) para o poder inteligente (positivo e internalizado); da produtividade pela exploração da racionalidade para a produtividade pela exploração da emoção (gamificação do trabalho e da vida, sistema de recompensas); do sujeito-trabalhador (classista, proletário) para o sujeito-projeto (empreendedor de si); da exploração do homem pelo homem (explorador e explorado) para a exploração do homem por si mesmo (“autoexploração”); do modo de produção material (objetos materiais) para o modo de produção imaterial (“capitalismo da emoção/like”, sociabilidade e comunicação são exploradas); da memória humana (esquecimento e narrativa) para a memória digital (não-esquecimento e quantificação); das forças repressivas contra a expressão (censura) para as forças sedutoras de expressão (redes sociais); da vigilância extrínseca (serviços secretos) para a vigilância intrínseca (autoexposição); do panóptico de Bentham (prisão e isolamento, controle óptico) para o panóptico digital (liberdade ilusória e comunicação, big data).</p>
+<p>
+O joio é que, em várias das teses apresentadas, Byung-Chul não opera em termos de relação dialética entre os elementos, ou sequer de aprofundamento, mas sim em termos de transformação completa. Diante disso, nas 11 primeiras seções, o neoliberalismo assume um caráter absoluto e determinístico, gerando algumas conclusões descoladas da realidade mesmo que baseadas em meias-verdades. Na minha leitura, a raiz desse problema provém da constatação de que o neoliberalismo “eliminou a exploração alheia da classe trabalhadora”, de sorte que não existiria proletariado (uma classe explorada por outra) no neoliberalismo. Ora, uma coisa é constatar que as novas técnicas de poder do neoliberalismo operam no sentido de omitir (!) o antagonismo e a luta de classes, “internalizando a exploração” nos trabalhadores e afetando os indivíduos “em nível pré-reflexivo”, outra é tomar isso como um aspecto absoluto/determinístico da realidade. Ou seja, Byung-Chul apaga completamente a existência da luta de classes dentro da sociedade neoliberal, o que o leva a revisar Marx (aliás, outros também, inclusive Foucault). Para Byung-Chul, o neoliberalismo transforma os trabalhadores em empreendedores de si através da “autoexploração” (meia-verdade) ao ponto de o antagonismo de classes, entre explorados e exploradores, ter sido eliminado (falso).</p>
+<p>
+Para elucidar a problemática com apenas um exemplo concreto: Byung-Chul descreve a gamificação do trabalho (sistema de recompensas, produtividade pela exploração da emoção etc.) e a “autoexploração” (empreendedor de si) da lógica neoliberal, isto é, aspectos constatáveis na realidade dos entregadores por aplicativos (sistema de pontos, ausência de vínculo empregatício etc.); contudo, não existe escopo na teoria proposta para contemplar a organização classista e concreta dos entregadores na luta contra a (auto)exploração, reivindicando melhores condições de trabalho e explicando com todas as letras: “ninguém aqui é empreendedor, nós somos força de trabalho”. Em outras palavras, a prática daqueles que lutam de maneira classista e antagônica contra a exploração imposta pelo capital em favor da burguesia, classe dominante por deter a propriedade dos meios de produção (importante lembrar), coloca em cheque o derrotismo revisionista de Byung-Chul. Dito isso, no que tange à exploração do trabalho no neoliberalismo, uma síntese/epígrafe complementar seria: “proteja-me do que eu preciso fazer para sobreviver”; por mais que, em relação à pretensa liberdade digital e ao big data, a epígrafe da obra permaneça pertinente: “proteja-me do que eu quero” (Jenny Holzer).</p>
+<p>
+Discordâncias à parte, além da gamificação da vida e do trabalho, enfatizo os trechos sobre o eu-quantificado (quantified self) e as aplicações do big data, via inteligência artificial, como forma de dominação neoliberal nas mais variadas esferas da vida. O imperativo na era digital é tudo virar dado e informação, de tal forma que, através do eu-quantificado (seguidores, likes, n.º de amigos) e do big data, o <em>digitus</em> começa a tomar o lugar do <em>phallus</em>. Nesse sentido, a sociabilidade e a comunicação humanas, sob o pretexto de uma liberdade ilusória do neoliberalismo, desempenham um papel central na produção das massas de dados e informações. Diante disso, a mineração via inteligência artificial dessa imensa quantidade de dados que produzimos diariamente é capaz de criar uma fiel “versão digital/multidimensional de nós mesmos”, influenciando e prevendo nosso comportamento e, até mesmo, acessando nossos pensamentos e desejos mais íntimos. Nesse contexto, até nosso inconsciente é explorado, tanto o individual quanto o coletivo. Isto é, através do big data e da inteligência artificial, o neoliberalismo conseguiu fundir exploração, comercialização, informação, vigilância e dominação (a junção entre Big Brother, Big Data e Big Business, nos termos do Byung-Chul). Um exemplo concreto é a influência do big data de uma empresa privada nos rumos das eleições de 2016 nos EUA. Não obstante, a título de menção, Byung-Chul realiza uma das melhores explicações metafóricas sobre mineração de dados e big data. Ele faz uma alusão entre dataísmo e dadaísmo que, posteriormente, desdobra-se em uma metáfora para refletir sobre o poder e as implicações da black box da inteligência artificial (por mais que ele não aborde esse conceito diretamente no livro).</p>
+<p>
+Por fim, nas duas últimas seções, Byung-Chul suspende o caráter determinístico da sua análise do neoliberalismo e propõe uma saída filosófica para combatê-lo: o idiotismo. Explicando de maneira reducionista, ser idiota no sentido socrático da postura do saber que não sabe nada. Para Byung-Chul, a inteligência significa “escolher-entre” dentro da lógica de um sistema. Assim, a inteligência não seria inteiramente livre por ter que escolher conforme aquilo que o sistema oferece. O idiotismo, por outro lado, seria completamente livre por ser herético e alheio (“outsider“) à imanência sistêmica da inteligência. O idiota, pela imanência do vazio, fica em silêncio e em solitude e, por isso, encontra a singularidade do que “realmente valha a pena ser dito” (num sentido negativo [“subversivo”] em relação ao sistema). O idiota, portanto, não existiria enquanto sujeito do sistema (contrapondo o individualismo do neoliberalismo), ele seria mais como “uma flor: uma existência simplesmente aberta à luz”, sendo caracterizado não pela individualidade, mas pela singularidade. Apesar de não ser explicitado diretamente, o idiota lembra um pouco Zarathustra ou um monge budista, o que faz sentido tendo em vista as referências teóricas dessa saída filosófica proposta pelo Byung-Chul: Nietzsche, Deleuze, Clément Rosset e Botho Strauss.</p>
+<p>
+Em conclusão, é um livro relevante para a compreender as novas técnicas de poder e de exploração do neoliberalismo, mas que, ao meu ver, não contribui incisivamente para a superação dessa dominação, para a transformação radical dessa realidade, dada o derrotismo de Byung-Chul ante à famigerada máxima da tese onze. Por mais que haja reflexões interessantes do ponto de vista estritamente filosófico, não conheço qualquer povo oprimido que tenha combatido sua exploração, de maneira eficaz, conforme proposto pelo idiotismo. O mesmo, contudo, não pode ser dito em relação à tão criticada práxis marxista. A luta organizada de maneira classista foi historicamente mais efetiva rumo à valorização da vida e à emancipação humana.</p>
+<p>
+Nota de pé de página para os amantes do audiovisual: não existe um episódio de Black Mirror sequer que não seja contemplado por algum trecho desse livro. A realidade nua e crua de todos nós que somos explorados, até digital e psicologicamente, pelo capital. Alguns excertos:</p>
+<blockquote>
+<p>The capitalism of Like should come with a warning label: Protect me from what I want.  (pg. 16)</p>
+</blockquote>
+<blockquote>
+<p>Under neoliberalism, the technology of power takes on a subtle form. It does not lay hold of individuals directly. Instead, it ensures that individuals act on themselves so that power relations are interiorized – and then interpreted as freedom. Self-optimization and submission, freedom and exploitation, fall into one.  (pg. 23)</p>
+</blockquote>
+<blockquote>
+<p>The neoliberal regime is in the course of inaugurating the age of exhaustion. Today, the psyche itself is being exploited.  (pg. 24)</p>
+</blockquote>
+<blockquote>
+<p>Neoliberal psychopolitics is dominated by positivity. Instead of working with negative threats, it works with positive stimuli. Instead of administering ‘bitter medicine’, it enlists Liking.  (pg. 28)</p>
+</blockquote>
+<blockquote>
+<p>Today’s society of information is not characterized by destroying words, but by multiplying them without end.  (pg. 29)</p>
+</blockquote>
+<blockquote>
+<p>In the digital panopticon, the illusion of limitless freedom and communication predominates. Here there is no torture – just tweets and posts. Nor is there a mysterious ‘Ministry of Truth’. Transparency and information have taken the place of truth. The new conception of power does not involve controlling the past, but steering the future psychopolitically.  (pg. 30)</p>
+</blockquote>
+<blockquote>
+<p>The gamification of work exploits homo ludens. The player subjugates him- or herself to the order of domination in the very act of playing. Today, the gamification logic of ‘Likes’, ‘Friends’ and ‘Followers’ means that social communication is also being plugged into and subordinated to a game mode. The corollary of the gamification of communication is its commercialization. That said, this process is destroying human communication.  (pg. 38)</p>
+</blockquote>
+<blockquote>
+<p>Belief that life admits measurement and quantification governs the digital age as a whole. ‘Quantified Self’ honours this faith too. The body is outfitted with sensors that automatically register data.  (pg. 45)</p>
+</blockquote>
+<blockquote>
+<p>Who am I? ‘Quantified Self’ represents a Dadaist technology too; it empties the self of any and all meaning. The self gets broken down into data until no sense remains. (…) The motto of Quantified Self is ‘Self Knowledge through Numbers’. (pg. 46)</p>
+</blockquote>
+<blockquote>
+<p>Big Data never forgets anything at all. For this reason alone, the digital panopticon is much more efficient than Bentham’s.  (pg. 47)</p>
+</blockquote>
+<blockquote>
+<p>For instance, at a given stage of pregnancy, a woman may crave a particular product – yet this impulse marks a correlation of which she remains unaware. She buys the item, but she doesn’t know why. That’s how it is. Conceivably, this that’s-how-it-is (Es-ist-so) exists in psychic proximity to the Freudian id (Es), which escapes the ego and consciousness. In this light, Big Data is making the id into an ego to be exploited psychopolitically. If Big Data has access to the realm of our unconscious actions and inclinations, it is possible to construct a psychopolitics that would reach deep into our psyche to exploit it.  (pg. 48)</p>
+</blockquote>
+]]></content>
+        </item>
+        
+        <item>
+            <title>O homem unidimensional</title>
+            <link>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</link>
+            <pubDate>Tue, 02 Jun 2020 18:36:32 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</guid>
+            <description>Em uma tradução menos comercial, “O homem unidimensional: estudos sobre a ideologia da sociedade industrial desenvolvida”, publicado em 1964. Um livro com muitos pontos fortes. Marcuse é um pensador dialético por excelência. Se por um lado, ele demonstra como a tecnologia modifica os instrumentos de produção e promove avanços para a emancipação humana, por outro, ele avalia como a tecnologia é parte de uma nova forma de controle, impactando: (i) o trabalho; (ii) o universo político; (iii) a consciência; (iv) o universo de locução; (v) a cultura; e (vi) o pensamento.</description>
+            <content type="html"><![CDATA[<p>
+Em uma tradução menos comercial, “O homem unidimensional: estudos sobre a ideologia da sociedade industrial desenvolvida”, publicado em 1964. Um livro com muitos pontos fortes. Marcuse é um pensador dialético por excelência. Se por um lado, ele demonstra como a tecnologia modifica os instrumentos de produção e promove avanços para a emancipação humana, por outro, ele avalia como a tecnologia é parte de uma nova forma de controle, impactando: (i) o trabalho; (ii) o universo político; (iii) a consciência; (iv) o universo de locução; (v) a cultura; e (vi) o pensamento.</p>
+<p>
+Nesse sentido, abreviadamente, essa nova forma de controle é a sociedade unidimensional e o pensamento unidimensional. É a ideologia da sociedade industrial desenvolvida – que é em uma de suas formas o “Estado de Bem-Estar Social”. Em outras palavras, uma sociedade e um pensamento que se reafirmam nas mais variadas esferas (particularidades) de maneira positiva, racionalizando o irracional e harmonizando/suprimindo o pensamento negativo (subversivo), afastando, assim, a potencialidade (concreta) de outras formas alternativas de sociedade (de transformação do real).</p>
+<p>
+No geral, achei dois aspectos especialmente interessantes. O primeiro é que Marcuse não deixa de reafirmar que o modo social de produção, e não a técnica, é o fator histórico básico. O segundo é que a questão tecnológica não se trata de simples negação ou afirmação em abstrato, uma tecnologia pode servir, ao mesmo tempo, a uma sociedade capitalista ou socialista; contudo (!), isso não implica que as transformações tecnológicas e científicas não sejam materializações dos valores de determinada sociedade. Ou seja, os valores de uma tecnologia não são meros complementos ou externos a ela, mas a própria tecnologia é a materialização desses valores. O conhecimento científico idem.</p>
+<p>
+Por fim, um relato sobre a importância do pensamento dialético que perpassa o livro. Outro dia acompanhava uma discussão na internet em que ambos os lados estavam certos e errados ao mesmo tempo. Certos porque apontavam especificidades reais sobre o que discutiam. Errados porque negavam as especificidades apontadas entre si por, aparentemente, serem excludentes. Ou seja, por negarem o contraditório do que o outro dizia, perdiam de vista a totalidade mais complexa. Deixavam, assim, uma parte da realidade para trás, incompreendida. Caíam, então, numa espécie de batalha discursiva sem fim. Enfim, apesar de ser contra-intuitivo (afinal a sociedade capitalista nos condiciona estruturalmente a ter um pensamento unidimensional), é perfeitamente possível pensarmos a realidade através do contraditório. E, apesar de existirem vários, talvez este seja o maior ensinamento que se possa tirar da obra: a recusa do pensamento unidimensional e a prática de um pensamento dialético. Feito que Marcuse realiza com método e maestria ao longo da obra.</p>
+<p>
+Aliás, a última página é sinteticamente excepcional:</p>
+<blockquote>
+<p>Contudo, por baixo da base conservadora popular está o substrato dos párias e estranhos, dos explorados e perseguidos de outras raças e de outras cores, os desempregados e os não-empregáveis. Eles existem fora do processo democrático; sua existência é a mais imediata e a mais real necessidade de por fim às condições e instituições intoleráveis. Assim, sua oposição é revolucionária ainda que sua consciência não o seja. Sua oposição atinge o sistema de fora para dentro, não sendo, portanto, desviada pelo sistema, é uma força elementar que viola as regras do jogo e, ao fazê-lo, revela-o como um jogo trapaceado. Quando eles se reúnem e saem às ruas, sem armas, sem proteção, para reivindicar os mais primitivos direitos civis, sabem que enfrentam cães, pedras e bombas, cadeia, campos de concentração e até a morte. Sua força está por trás de toda manifestação política para as vítimas da lei e da ordem. O fato de eles começarem a recusar a jogar o jogo pode ser o fato que marca o começo do fim de um período.</p>
+<p>
+Nada indica que será um bom fim. As aptidões econômicas e técnicas das sociedades estabelecidas são suficientemente vastas para permitir ajustamentos e concessões aos subcães, e suas forças armadas suficientemente adestradas e equipadas para cuidar de situações de emergência. Contudo, lá está novamente o espectro, dentro e fora das fronteiras das sociedades avançadas. O fácil paralelo histórico com os bárbaros ameaçando o império da civilização prejulga a causa; o segundo período de barbarismo bem pode ser o império continuado da própria civilização. Mas a probabilidade é que, nesse período, os extremos históricos possam novamente se encontrar: a mais avançada consciência da humanidade e sua força mais explorada. Nada mais é do que uma probabilidade. A teoria crítica da sociedade não possui conceito algum que possa cobrir a lacuna entre o presente o seu futuro; não oferecendo promessa alguma e não ostentando êxito algum, permanece negativa. Assim, ela deseja permanecer leal àqueles que, sem esperança, deram e dão sua vida à Grande Recusa.</p>
+<p>
+No início da era fascista, Walter Benjamin escreveu:</p>
+<p>
+Nur um der Hoffnungslosen willen ist uns die Hoffnung gegeben.</p>
+<p>
+Somente em nome dos desesperançados nos é dada esperança.</p>
+</blockquote>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Escrevo para descobrir o que penso</title>
+            <link>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</link>
+            <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</guid>
+            <description>Outro dia, me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos tópicos que me interessava. De alguma forma, parecia me encantar conseguir vislumbrar um universo de possibilidades dentro de determinada circunstância. Hoje de manhã, acabei reunindo essa memória com uma ideia que tem me habitado nós últimos tempos: a do escrever como exercício de reflexão e descoberta. As aulas que nunca têm fim…</description>
+            <content type="html"><![CDATA[
+<p>
+<figure><img src="/images/escrevo-para-descobrir-o-que-penso/image1.jpg"/>
+</figure>
+</p>
+<p>
+Outro dia, me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos tópicos que me interessava. De alguma forma, parecia me encantar conseguir vislumbrar um universo de possibilidades dentro de determinada circunstância. Hoje de manhã, acabei reunindo essa memória com uma ideia que tem me habitado nós últimos tempos: a do escrever como exercício de reflexão e descoberta. As aulas que nunca têm fim…</p>
+<div id="outline-container-headline-1" class="outline-4">
+<h4 id="headline-1">
+Exercício de análise combinatória I
+</h4>
+<div id="outline-text-headline-1" class="outline-text-4">
+<p>
+Escrevo para descobrir o que penso.<br>
+Penso para escrever o que descubro.<br>
+Descubro para pensar o que escrevo.<br>
+Escrevo para pensar o que descubro.<br>
+Penso para descobrir o que escrevo.<br>
+Descubro para escrever o que penso.</p>
+</div>
+</div>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Festa dos incomodados</title>
+            <link>https://eternodevir.com/pt-br/blog/2020/02/festa-dos-incomodados/</link>
+            <pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/blog/2020/02/festa-dos-incomodados/</guid>
+            <description>Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.
 No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente.</description>
-    </item>
-    
-  </channel>
+            <content type="html"><![CDATA[<p>
+Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.</p>
+<p>
+No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente. Quer dizer, parecia ser assim… pelo menos até perceberem que sequer tinham sido convidados.</p>
+]]></content>
+        </item>
+        
+    </channel>
 </rss>

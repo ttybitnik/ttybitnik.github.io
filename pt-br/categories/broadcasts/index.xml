@@ -1,33 +1,160 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>broadcasts on Eterno Devir</title>
-    <link>https://eternodevir.com/pt-br/categories/broadcasts/</link>
-    <description>Recent content in broadcasts on Eterno Devir</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor>
-    <webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 11:01:24 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/categories/broadcasts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rendez-vous 1408</title>
-      <link>https://eternodevir.com/pt-br/blog/2020/10/rendez-vous-1408/</link>
-      <pubDate>Fri, 16 Oct 2020 11:01:24 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2020/10/rendez-vous-1408/</guid>
-      <description>Canções que acompanharam noites de sarau, encontros com amigos queridos e mergulhos de piscina na madrugada durante a época de faculdade no 1408.</description>
-    </item>
-    
-    <item>
-      <title>A Sétima</title>
-      <link>https://eternodevir.com/pt-br/blog/2018/12/a-s%C3%A9tima/</link>
-      <pubDate>Sun, 02 Dec 2018 22:07:49 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2018/12/a-s%C3%A9tima/</guid>
-      <description>Cinearte Palace, Juiz de Fora, 2016 De uns tempos para cá, tem se tornado um hábito revisitar filmes através da trilha sonora. Refletindo sobre o assunto, percebi que muitas das minhas memórias cinematográficas estão conectadas à força dessa relação audiovisual, especialmente algumas cenas ligadas intimamente a músicas. A playlist abaixo surgiu do desejo de relembrar e reunir essas memórias.
+    <channel>
+        <title>broadcasts on Eterno Devir</title>
+        <link>https://eternodevir.com/pt-br/categories/broadcasts/</link>
+        <description>Recent content in broadcasts on Eterno Devir</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <managingEditor>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</managingEditor>
+        <webMaster>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</webMaster>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Fri, 16 Oct 2020 11:01:24 -0300</lastBuildDate>
+        <atom:link href="https://eternodevir.com/pt-br/categories/broadcasts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Rendez-vous 1408</title>
+            <link>https://eternodevir.com/pt-br/blog/2020/10/rendez-vous-1408/</link>
+            <pubDate>Fri, 16 Oct 2020 11:01:24 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/blog/2020/10/rendez-vous-1408/</guid>
+            <description>Canções que acompanharam noites de sarau, encontros com amigos queridos e mergulhos de piscina na madrugada durante a época de faculdade no 1408.</description>
+            <content type="html"><![CDATA[<p>
+Canções que acompanharam noites de sarau, encontros com amigos queridos e mergulhos de piscina na madrugada durante a época de faculdade no 1408.</p>
+<p>
+ 
+ <div style="margin: 25px 0px">
+ 
+ <iframe src="https://open.spotify.com/embed/playlist/5yZp29Dlx1ftTTsqPwH9uy"
+     width="100%"
+     height="480"
+     frameborder="0"
+     allowtransparency="true"
+     allow="encrypted-media"></iframe>
+ 
+ </div>
+</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>A Sétima</title>
+            <link>https://eternodevir.com/pt-br/blog/2018/12/a-s%C3%A9tima/</link>
+            <pubDate>Sun, 02 Dec 2018 22:07:49 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/blog/2018/12/a-s%C3%A9tima/</guid>
+            <description>Cinearte Palace, Juiz de Fora, 2016 De uns tempos para cá, tem se tornado um hábito revisitar filmes através da trilha sonora. Refletindo sobre o assunto, percebi que muitas das minhas memórias cinematográficas estão conectadas à força dessa relação audiovisual, especialmente algumas cenas ligadas intimamente a músicas. A playlist abaixo surgiu do desejo de relembrar e reunir essas memórias.
 Longe de serem apenas um pano de fundo, as músicas são parte integrante da própria narrativa quando bem utilizadas.</description>
-    </item>
+            <content type="html"><![CDATA[<p>
+<figure >
     
-  </channel>
+        <img src="/images/a-setima/image1.jpg"  />
+    
+    
+    <figcaption>
+        <h5>Cinearte Palace, Juiz de Fora, 2016</h5>
+        
+    </figcaption>
+    
+</figure>
+</p>
+<p>
+De uns tempos para cá, tem se tornado um hábito revisitar filmes através da trilha sonora. Refletindo sobre o assunto, percebi que muitas das minhas memórias cinematográficas estão conectadas à força dessa relação audiovisual, especialmente algumas cenas ligadas intimamente a músicas. A playlist abaixo surgiu do desejo de relembrar e reunir essas memórias.</p>
+<p>
+Longe de serem apenas um pano de fundo, as músicas são parte integrante da própria narrativa quando bem utilizadas. Escolhas conscientes, dignas da mais profunda apreciação. Por vezes, fortalecem minha conexão com as cenas, com os personagens e até com o filme como um todo. A sétima arte parece possuir essa habilidade antropofágica de absorver suas antecessoras à sua própria maneira, criando combinações inesquecíveis.</p>
+<p>
+Dedico a playlist e a lista de filmes ao Cinearte Palace, último cinema de rua em Juiz de Fora que, tragicamente, encerrou suas atividades em 2017. Morada mais que especial, de resistência cultural e cinematográfica ao marasmo comercial, onde vivenciei muitas das memórias aqui compartilhadas.</p>
+<p>
+
+<div style="margin: 25px 0px">
+
+<iframe src="https://open.spotify.com/embed/playlist/7p8v5VBR4dmB66zukdRnNr"
+    width="100%"
+    height="480"
+    frameborder="0"
+    allowtransparency="true"
+    allow="encrypted-media"></iframe>
+
+</div>
+</p>
+<ol>
+<li>Jules et Jim (1962), François Truffaut</li>
+<li>Hable con ella (2002), Pedro Almodóvar</li>
+<li>Cidade de Deus (2002), Fernando Meirelles &amp; Kátia Lund</li>
+<li>The Dreamers (2003), Bernardo Bertolucci</li>
+<li>Que Horas Ela Volta? (2015), Anna Muylaert</li>
+<li>Volver (2006), Pedro Almodóvar</li>
+<li>Deus e o Diabo na Terra do Sol (1964), Glauber Rocha</li>
+<li>Boi Neon (2015), Gabriel Mascaro</li>
+<li>Une robe d&#39;été (1996), François Ozon</li>
+<li>Hotel Chevalier (2007), Wes Anderson</li>
+<li>Moonrise Kingdom (2012), Wes Anderson</li>
+<li>Cazuza: O Tempo Não Pára (2004), Walter Carvalho &amp; Sandra Werneck</li>
+<li>Buena Vista Social Club (1999), Wim Wenders</li>
+<li>Orfeu Negro (1959), Marcel Camus</li>
+<li>Ma vie en rose (1997), Alain Berliner</li>
+<li>Jack et la mécanique du coeur (2013), Stéphane Berla &amp; Mathias Malzieu</li>
+<li>Scent of a Woman (1992), Martin Brest</li>
+<li>The Forbidden Dance (1990), Greydon Clark</li>
+<li>Beetlejuice (1988), Tim Burton</li>
+<li>Pulp Fiction (1994), Quentin Tarantino</li>
+<li>Reservoir Dogs (1992), Quentin Tarantino</li>
+<li>Across the Universe (2007), Julie Taymor</li>
+<li>Reservoir Dogs (1992), Quentin Tarantino</li>
+<li>Velvet Goldmine (1998), Todd Haynes</li>
+<li>Reservoir Dogs (1992), Quentin Tarantino</li>
+<li>Kôkaku Kidôtai (1995), Mamoru Oshii</li>
+<li>Trainspotting (1996), Danny Boyle</li>
+<li>B-Movie: Lust &amp; Sound in West-Berlin 1979-1989 (2015), Jörg A. Hoppe &amp; Heiko Lange</li>
+<li>T2 Trainspotting (2017), Danny Boyle</li>
+<li>Manhattan (1979), Woody Allen</li>
+<li>Dirty Dancing (1987), Emile Ardolino</li>
+<li>Footloose (1984), Herbert Ross</li>
+<li>American Psycho (2000), Mary Harron</li>
+<li>The Crow (1994), Alex Proyas</li>
+<li>Moonlight (2016), Barry Jenkins</li>
+<li>Blue Velvet (1986), David Lynch</li>
+<li>Blue Velvet (1986), David Lynch</li>
+<li>Walk the Line (2005), James Mangold</li>
+<li>2001: A Space Odyssey (1968), Stanley Kubrick</li>
+<li>Interview with the Vampire (1994), Neil Jordan</li>
+<li>Le jeune Karl Marx (2017), Raoul Peck</li>
+<li>Moulin Rouge! (2001), Baz Luhrmann</li>
+<li>Baby Driver (2017), Edgar Wright</li>
+<li>Fight Club (1999), David Fincher</li>
+<li>Donnie Darko (2001), Richard Kelly</li>
+<li>The Lost Boys (1987), Joel Schumacher</li>
+<li>Dark Shadows (2012), Tim Burton</li>
+<li>Zodiac (2007), David Fincher</li>
+<li>500 Days of Summer (2009), Marc Webb</li>
+<li>The Doors: When You&#39;re Strange (2009), Tom DiCillo</li>
+<li>20,000 Days on Earth (2014), Iain Forsyth &amp; Jane Pollard</li>
+<li>Trainspotting (1996), Danny Boyle</li>
+<li>Her (2013), Spike Jonze</li>
+<li>La La Land (2016), Damien Chazelle</li>
+<li>Billy Elliot (2000), Stephen Daldry</li>
+<li>Into the Wild (2007), Sean Penn</li>
+<li>Captain Fantastic (2016), Matt Ross</li>
+<li>Dancer in the Dark (2000), Lars von Trier</li>
+<li>Léon (1994), Luc Besson</li>
+<li>Låt den rätte komma in (2008), Tomas Alfredson</li>
+<li>Whiplash (2014), Damien Chazelle</li>
+<li>Lilja 4-ever (2002), Lukas Moodysson</li>
+<li>The Silence of the Lambs (1991), Jonathan Demme</li>
+<li>Boyhood (2014), Richard Linklater</li>
+<li>Aquarius (2016), Kleber Mendonça Filho</li>
+<li>Sonnenallee (1999), Leander Haußmann</li>
+<li>Beetlejuice (1988), Tim Burton</li>
+<li>Apocalypse Now (1979), Francis Ford Coppola</li>
+<li>The Wicker Man (1973), Robin Hardy</li>
+<li>A Clockwork Orange (1971), Stanley Kubrick</li>
+<li>Blade Runner (1982), Ridley Scott</li>
+<li>Apocalypse Now (1979), Francis Ford Coppola</li>
+<li>Blade Runner (1982), Ridley Scott</li>
+</ol>
+]]></content>
+        </item>
+        
+    </channel>
 </rss>

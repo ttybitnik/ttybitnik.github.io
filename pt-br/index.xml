@@ -1,111 +1,331 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Eterno Devir</title>
-    <link>https://eternodevir.com/pt-br/</link>
-    <description>Recent content on Eterno Devir</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor>
-    <webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 08 Mar 2023 10:29:42 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projetos</title>
-      <link>https://eternodevir.com/pt-br/projects/</link>
-      <pubDate>Fri, 31 Mar 2023 00:09:00 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/projects/</guid>
-      <description>Homelab (2022-presente) Este projeto em andamento é um servidor doméstico elaborado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede e administração de sistemas. Ao longo do processo, tenho planejado, desenvolvido e gerenciado um ambiente que integra tecnologias como QEMU/KVM, Debian e Docker. À medida que me aprofundo, estou implementando e testando continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.</description>
-    </item>
-    
-    <item>
-      <title>Olá, m̶u̶n̶d̶o̶!</title>
-      <link>https://eternodevir.com/pt-br/home/</link>
-      <pubDate>Sun, 12 Mar 2023 19:16:33 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/home/</guid>
-      <description>Sou o Vinícius Moraes e este é meu recanto pessoal na internet. Aqui você poderá acompanhar minhas produções e ler sobre os mais variados temas.
+    <channel>
+        <title>Eterno Devir</title>
+        <link>https://eternodevir.com/pt-br/</link>
+        <description>Recent content on Eterno Devir</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <managingEditor>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</managingEditor>
+        <webMaster>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</webMaster>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 08 Mar 2023 10:29:42 -0300</lastBuildDate>
+        <atom:link href="https://eternodevir.com/pt-br/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Projetos</title>
+            <link>https://eternodevir.com/pt-br/projects/</link>
+            <pubDate>Fri, 31 Mar 2023 00:09:00 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/projects/</guid>
+            <description>Homelab (2022-presente) Este projeto em andamento é um servidor doméstico elaborado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede e administração de sistemas. Ao longo do processo, tenho planejado, desenvolvido e gerenciado um ambiente que integra tecnologias como QEMU/KVM, Debian e Docker. À medida que me aprofundo, estou implementando e testando continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.</description>
+            <content type="html"><![CDATA[
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Homelab (2022-presente)
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+Este projeto em andamento é um servidor doméstico elaborado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede e administração de sistemas. Ao longo do processo, tenho planejado, desenvolvido e gerenciado um ambiente que integra tecnologias como QEMU/KVM, Debian e Docker. À medida que me aprofundo, estou implementando e testando continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.</p>
+<p>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <ul>
+      <li>
+        <p>Sistema</p>
+        <ul>
+          <li>QEMU/KVM</li>
+          <li>Debian Bullseye</li>
+          <li>Docker</li>
+        </ul>
+      </li>
+      <li>
+        <p>Rede</p>
+        <ul>
+          <li>Nginx Reverse Proxy</li>
+          <li>Unbound DNS</li>
+          <li>UFW</li>
+          <li>Pihole</li>
+          <li>VPN</li>
+          <li>SSH</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div style="flex: 1;">
+    <ul>
+      <li>
+        <p>Serviços</p>
+        <ul>
+          <li>Home Assistant</li>
+          <li>Jellyfin</li>
+          <li>Hugo</li>
+        </ul>
+      </li>
+      <li>
+        <p>Gerenciamento</p>
+        <ul>
+          <li>Portainer</li>
+          <li>Grafana</li>
+          <li>Prometheus</li>
+          <li>Node Exporter</li>
+          <li>cAdvisor</li>
+          <li>Gotify</li>	  
+          <li>Watchtower</li>
+        </ul>
+      </li>      
+    </ul>
+  </div>
+</div>
+</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+AWS Cloud (2018-2022)
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciamento de rede, DNS, snapshots e atualização de sistema em instâncias Ubuntu Server. Para isso, utilizei uma combinação de recursos da AWS, como Route 53 e Lightsail, juntamente com ferramentas remotas e de segurança. Durante a operação, também lidei com tarefas de gerenciamento de WordPress, criação de conteúdo e design e personalização de sites.</p>
+<ul>
+<li>Ubuntu Server</li>
+<li>Route 53</li>
+<li>Lightsail</li>
+<li>CloudWatch</li>
+<li>Bitnami</li>
+<li>Wordpress Multisite</li>
+</ul>
+</div>
+</div>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Olá, m̶u̶n̶d̶o̶!</title>
+            <link>https://eternodevir.com/pt-br/home/</link>
+            <pubDate>Sun, 12 Mar 2023 19:16:33 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/home/</guid>
+            <description>Sou o Vinícius Moraes e este é meu recanto pessoal na internet. Aqui você poderá acompanhar minhas produções e ler sobre os mais variados temas.
 Indexação do Blog:
 Categorias
 Broadcasts — playlists, podcasts, vídeos e outros formatos não textuais. Ensaios — textos que aprofundam temáticas de interesse. Notas — anotações, comentários, interpretações. Temas
 Autobiografia — produções pessoais. Cinema — arte cinematográfica e filmes. Computação — programação, GNU Linux, Emacs, self-hosting. Leitura — livros, poemas, contos, artigos.</description>
-    </item>
-    
-    <item>
-      <title>Publicações</title>
-      <link>https://eternodevir.com/pt-br/publications/</link>
-      <pubDate>Wed, 08 Mar 2023 00:40:43 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/publications/</guid>
-      <description>Artigo Metamorfoses: a transformação dos mitos e o ato de (re)contar histórias. Rónai – Revista de Estudos Clássicos e Tradutórios, vol. 4, no. 2, 2016, pp. 71-78. Monografia O abismo do original: a bitradução simultânea de Malone Morre, de Samuel Beckett, por Paulo Leminski. Trabalho de Conclusão de Curso, UFJF, Juiz de Fora, 2021. Trabalho Ekphrasis and Other Forms of Text-Image Relations: Open City by Teju Cole. Presentation, Universität Passau, Passau, 2018.</description>
-    </item>
-    
-    <item>
-      <title>Contato</title>
-      <link>https://eternodevir.com/pt-br/contact/</link>
-      <pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/contact/</guid>
-      <description>Email: vinicius.moraes@eternodevir.com Sinta-se à vontade para me enviar um e-mail sobre qualquer conteúdo deste site, quer tenha uma sugestão, algum comentário ou apenas queira conversar sobre um interesse comum. Normalmente, respondo dentro de uma semana no máximo, muitas vezes bem antes. Se você não tiver recebido uma resposta minha após esse período, verifique sua pasta de spam, pois a mensagem pode ter sido filtrada por lá.
+            <content type="html"><![CDATA[<p>Sou o <strong><a href="/pt-br/about/">Vinícius Moraes</a></strong> e este é meu recanto pessoal na internet. Aqui você poderá acompanhar minhas produções e ler sobre os mais variados temas.</p>
+<p>
+Indexação do <a href="/pt-br/blog/">Blog</a>:</p>
+<ul>
+<li>
+<p><a href="/pt-br/categories/">Categorias</a></p>
+<ul>
+<li><a href="/pt-br/categories/broadcasts/">Broadcasts</a> — playlists, podcasts, vídeos e outros formatos não textuais.</li>
+<li><a href="/pt-br/categories/essays/">Ensaios</a> — textos que aprofundam temáticas de interesse. </li>
+<li><a href="/pt-br/categories/notes/">Notas</a> — anotações, comentários, interpretações.</li>
+</ul>
+</li>
+<li>
+<p><a href="/pt-br/tags/">Temas</a></p>
+<ul>
+<li><a href="/pt-br/tags/autobiography/">Autobiografia</a> — produções pessoais.</li>
+<li><a href="/pt-br/tags/cinema/">Cinema</a> — arte cinematográfica e filmes.</li>
+<li><a href="#">Computação</a> — programação, GNU Linux, Emacs, self-hosting. </li>
+<li><a href="/pt-br/tags/reading/">Leitura</a> — livros, poemas, contos, artigos.</li>
+<li><a href="#">Tradução</a> — arte tradutória e traduções. </li>
+<li><a href="/pt-br/tags/music/">Música</a> — playlists e músicas.</li>
+</ul>
+</li>
+</ul>
+<p>
+Caso tenha alguma dúvida ou interesse em conversar, sinta-se à vontade para entrar em <a href="https://eternodevir.com/pt-br/contact/">contato</a> por e-mail.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Blog</title>
+            <link>https://eternodevir.com/pt-br/blog/</link>
+            <pubDate>Wed, 08 Mar 2023 10:29:42 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/blog/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>Publicações</title>
+            <link>https://eternodevir.com/pt-br/publications/</link>
+            <pubDate>Wed, 08 Mar 2023 00:40:43 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/publications/</guid>
+            <description>Artigo Metamorfoses: a transformação dos mitos e o ato de (re)contar histórias. Rónai – Revista de Estudos Clássicos e Tradutórios, vol. 4, no. 2, 2016, pp. 71-78. Monografia O abismo do original: a bitradução simultânea de Malone Morre, de Samuel Beckett, por Paulo Leminski. Trabalho de Conclusão de Curso, UFJF, Juiz de Fora, 2021. Trabalho Ekphrasis and Other Forms of Text-Image Relations: Open City by Teju Cole. Presentation, Universität Passau, Passau, 2018.</description>
+            <content type="html"><![CDATA[
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Artigo
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<ul>
+<li><a href="https://periodicos.ufjf.br/index.php/ronai/article/view/23186">Metamorfoses: a transformação dos mitos e o ato de (re)contar histórias</a>. Rónai – Revista de Estudos Clássicos e Tradutórios, vol. 4, no. 2, 2016, pp. 71-78.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Monografia
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<ul>
+<li><a href="https://www2.ufjf.br/bachareladotraducao/wp-content/uploads/sites/166/2021/05/Vinicius-Moraes-Tiago.pdf">O abismo do original: a bitradução simultânea de Malone Morre, de Samuel Beckett, por Paulo Leminski</a>. Trabalho de Conclusão de Curso, UFJF, Juiz de Fora, 2021.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Trabalho
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<ul>
+<li><a href="https://bit.ly/2nvlwSJ">Ekphrasis and Other Forms of Text-Image Relations: Open City by Teju Cole</a>. Presentation, Universität Passau, Passau, 2018.</li>
+</ul>
+<ul>
+<li><a href="https://bit.ly/2mJ1xQt">Aspectos intertextuais nas canções de Bob Dylan: Tristia e Epistulae Ex Ponto de Ovídio</a>. Pôster, XXI Congresso da SBEC, São Paulo, 2017.</li>
+</ul>
+<ul>
+<li><a href="https://bit.ly/2lZeXY7">O abismo do original: a bitradução simultânea de Malone Morre, de Samuel Beckett, por Paulo Leminski</a>. Pré-projeto TCC, UFJF, Juiz de Fora, 2017.</li>
+</ul>
+<ul>
+<li><a href="https://bit.ly/33I5XYP">Madrugada em Claro: gêneros textuais</a>. Trabalho Acadêmico, UFJF, Juiz de Fora, 2017.</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Tradução
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<ul>
+<li><a href="https://docs.slackware.com/pt-br:slackbook:emacs">Emacs</a>. Slackware Linux Project, Sebeka, dez. 2022.</li>
+</ul>
+<ul>
+<li><a href="https://periodicos.ufjf.br/index.php/ipotesi/article/view/36737">O inconsciente intertextual, Michael Riffaterre</a>. Revista Ipotesi, v.25, n.1, Juiz de Fora, jan./jun. 2021.</li>
+</ul>
+<ul>
+<li><a href="https://revistaopera.com.br/2020/08/10/john-pilger-se-nao-pararmos-agora-outra-hiroshima-se-aproxima/">Se não pararmos agora, outra Hiroshima se aproxima, John Pilger</a>. Revista Opera, São Paulo, ago. 2020.</li>
+</ul>
+<ul>
+<li><a href="https://revistaopera.com.br/2019/08/12/por-uma-coreia-pacifica-e-unida/">Por uma Coreia pacífica e unida, George Burchett</a>. Revista Opera, São Paulo, ago. 2019.</li>
+</ul>
+<ul>
+<li><a href="https://revistaopera.com.br/2019/07/15/eua-brasil-defesa-seguranca-e-subordinacao/">EUA-Brasil: defesa, segurança e subordinação, Tamara Lajtman</a>. Revista Opera, São Paulo, jul. 2019.</li>
+</ul>
+<ul>
+<li><a href="https://revistaopera.com.br/2019/06/19/russia-china-a-cupula-que-a-midia-ignorou/">Rússia-China: a cúpula que a mídia ignorou, Manlio Dinucci</a>. Revista Opera, São Paulo, jun. 2019.</li>
+</ul>
+<ul>
+<li><a href="https://revistaopera.com.br/2019/06/12/eua-e-a-disputa-pela-infraestrutura-na-america-latina/">EUA e a disputa pela infraestrutura na América Latina, Silvina Romano e Aníbal García Fernández</a>. Revista Opera, São Paulo, jun. 2019.</li>
+</ul>
+<ul>
+<li><a href="https://revistaopera.com.br/2019/04/23/a-propagacao-hegemonica-como-as-agencias-globais-e-a-midia-ocidental-cobrem-a-geopolitica-parte-1/">A Propagação Hegemônica: como as agências globais e a mídia ocidental cobrem a geopolítica, Swiss Propaganda Research</a>. Revista Opera, São Paulo, abr. 2019.</li>
+</ul>
+<ul>
+<li><a href="https://revistaopera.com.br/2019/04/20/socialismo-sob-ataque-da-amedrontada-casa-branca/">Socialismo sob ataque da amedrontada Casa Branca, Ian Goodrum</a>. Revista Opera, São Paulo, abr. 2019.</li>
+</ul>
+</div>
+</div>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Contato</title>
+            <link>https://eternodevir.com/pt-br/contact/</link>
+            <pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/contact/</guid>
+            <description>Email: vinicius.moraes@eternodevir.com Sinta-se à vontade para me enviar um e-mail sobre qualquer conteúdo deste site, quer tenha uma sugestão, algum comentário ou apenas queira conversar sobre um interesse comum. Normalmente, respondo dentro de uma semana no máximo, muitas vezes bem antes. Se você não tiver recebido uma resposta minha após esse período, verifique sua pasta de spam, pois a mensagem pode ter sido filtrada por lá.
 Criptografia PGP para e-mails (opcional) -----BEGIN PGP PUBLIC KEY BLOCK----- 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 =M+na -----END PGP PUBLIC KEY BLOCK----- Chave válida de 01/04/2023 a 31/03/2025.</description>
-    </item>
-    
-    <item>
-      <title>Sobre</title>
-      <link>https://eternodevir.com/pt-br/about/</link>
-      <pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/about/</guid>
-      <description>Sou bacharel em Letras pela Universidade Federal de Juiz de Fora, onde me especializei em Língua Portuguesa e Tradução. Na minha monografia de conclusão de curso, &amp;#34;O Abismo do Original&amp;#34;, abordei a bitradução simultânea de Paulo Leminski das obras &amp;#34;Malone Dies&amp;#34; e &amp;#34;Malone Meurt&amp;#34; de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</description>
-    </item>
-    
-    <item>
-      <title>Rendez-vous 1408</title>
-      <link>https://eternodevir.com/pt-br/blog/2020/10/rendez-vous-1408/</link>
-      <pubDate>Fri, 16 Oct 2020 11:01:24 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2020/10/rendez-vous-1408/</guid>
-      <description>Canções que acompanharam noites de sarau, encontros com amigos queridos e mergulhos de piscina na madrugada durante a época de faculdade no 1408.</description>
-    </item>
-    
-    <item>
-      <title>Psicopolítica</title>
-      <link>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</link>
-      <pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</guid>
-      <description>Byung-Chul Han, enquanto escritor e filósofo, tem uma qualidade admirável: escrever de maneira clara e objetiva sobre temas complexos. Ainda assim, foi um livro trabalhoso pela necessidade constante de separar o joio do trigo. Contudo, uma vez identificada a causa do problema, a leitura foi bastante proveitosa. A obra é dividida em treze seções/ensaios: (1) crise da liberdade; (2) poder inteligente; (3) a toupeira e a serpente; (4) biopolítica; (5) o dilema de Foucault; (6) a cura como assassinato; (7) choque; (8) o amável grande irmão; (9) o capitalismo da emoção; (10) gamificação; (11) big data; (12) para além do sujeito; e (13) idiotismo.</description>
-    </item>
-    
-    <item>
-      <title>O homem unidimensional</title>
-      <link>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</link>
-      <pubDate>Tue, 02 Jun 2020 18:36:32 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</guid>
-      <description>Em uma tradução menos comercial, “O homem unidimensional: estudos sobre a ideologia da sociedade industrial desenvolvida”, publicado em 1964. Um livro com muitos pontos fortes. Marcuse é um pensador dialético por excelência. Se por um lado, ele demonstra como a tecnologia modifica os instrumentos de produção e promove avanços para a emancipação humana, por outro, ele avalia como a tecnologia é parte de uma nova forma de controle, impactando: (i) o trabalho; (ii) o universo político; (iii) a consciência; (iv) o universo de locução; (v) a cultura; e (vi) o pensamento.</description>
-    </item>
-    
-    <item>
-      <title>Escrevo para descobrir o que penso</title>
-      <link>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</link>
-      <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</guid>
-      <description>Outro dia, me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos tópicos que me interessava. De alguma forma, parecia me encantar conseguir vislumbrar um universo de possibilidades dentro de determinada circunstância. Hoje de manhã, acabei reunindo essa memória com uma ideia que tem me habitado nós últimos tempos: a do escrever como exercício de reflexão e descoberta. As aulas que nunca têm fim…</description>
-    </item>
-    
-    <item>
-      <title>Até o glorioso fim</title>
-      <link>https://eternodevir.com/pt-br/blog/2020/03/at%C3%A9-o-glorioso-fim/</link>
-      <pubDate>Thu, 19 Mar 2020 23:26:08 -0300</pubDate>
-      <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
-      <guid>https://eternodevir.com/pt-br/blog/2020/03/at%C3%A9-o-glorioso-fim/</guid>
-      <description>Caixa Cultural, São Paulo, 2015 Ensaio de Paulo Leminski, publicado em 1989 na Folha de Londrina, meses antes de sua morte.
-Corpo não mente Quando Francisco Xavier, o missionário jesuíta, aportou no Japão, na crista das navegações, sua catequese produziu milhares de conversões e o catolicismo começou a se espalhar pelo país.
-Nas cartas que escreveu para seus superiores em Roma, Xavier descreve com júbilo os progressos do apostolado na Terra do Sol Nascente.</description>
-    </item>
-    
-  </channel>
+            <content type="html"><![CDATA[
+<ul>
+<li>Email: <a href="mailto:vinicius.moraes@eternodevir.com">vinicius.moraes@eternodevir.com</a></li>
+</ul>
+<p>Sinta-se à vontade para me enviar um e-mail sobre qualquer conteúdo deste site, quer tenha uma sugestão, algum comentário ou apenas queira conversar sobre um interesse comum. Normalmente, respondo dentro de uma semana no máximo, muitas vezes bem antes. Se você não tiver recebido uma resposta minha após esse período, verifique sua pasta de spam, pois a mensagem pode ter sido filtrada por lá.</p>
+<div id="outline-container-headline-1" class="outline-3">
+<h3 id="headline-1">
+Criptografia PGP para e-mails (opcional)
+</h3>
+<div id="outline-text-headline-1" class="outline-text-3">
+<pre class="example">
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=M+na
+-----END PGP PUBLIC KEY BLOCK-----
+</pre>
+<p>
+<em>Chave válida de 01/04/2023 a 31/03/2025. Qualquer chave antiga deve ser descartada.</em></p>
+<p>
+Recomendo aprender sobre criptografia para se comunicar com seus contatos de forma mais segura e confiável. Ao usar o PGP, você pode ter certeza de que o conteúdo do e-mail é confidencial, autêntico e não foi adulterado durante a transmissão. Mesmo que você não seja um especialista em tecnologia, a implementação do PGP não é difícil. Você pode começar com este excelente <a href="https://emailselfdefense.fsf.org/en/">guia</a> da Free Software Foundation.</p>
+</div>
+</div>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Sobre</title>
+            <link>https://eternodevir.com/pt-br/about/</link>
+            <pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/about/</guid>
+            <description>Sou bacharel em Letras pela Universidade Federal de Juiz de Fora, onde me especializei em Língua Portuguesa e Tradução. Na minha monografia de conclusão de curso, &amp;#34;O Abismo do Original&amp;#34;, abordei a bitradução simultânea de Paulo Leminski das obras &amp;#34;Malone Dies&amp;#34; e &amp;#34;Malone Meurt&amp;#34; de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</description>
+            <content type="html"><![CDATA[<p>
+Sou bacharel em Letras pela Universidade Federal de Juiz de Fora, onde me especializei em Língua Portuguesa e Tradução. Na minha monografia de conclusão de curso, &#34;O Abismo do Original&#34;, abordei a bitradução simultânea de Paulo Leminski das obras &#34;Malone Dies&#34; e &#34;Malone Meurt&#34; de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</p>
+<p>
+Mas não se deixe enganar pela minha queda pela Torre de Babel, quando não estou envolvido com palavras, provavelmente estou mergulhando fundo em alguma outra área — em geral, nas áreas do cinema, da filosofia e da tecnologia. Ultimamente, tenho me aprofundado no mundo do GNU Linux e do Emacs, explorando o poder do software livre e do self-hosting, aprendendo diferentes linguagens de programação, como Bash, Python, Elisp e C, para expandir o que consigo fazer.</p>
+<p>
+Durante minha época de faculdade, passei um ano na Universidade de Passau, na Alemanha, onde cursei Sprach- und Textwissenschaften e aprofundei meus estudos sobre ekphrasis e relações verbais e visuais. Foi uma experiência incrível que realmente ampliou meus horizontes em todos os sentidos — assim como a vista de tirar o fôlego de palavras compostas mais longas que a Autobahn.</p>
+<p>
+Desde 2018, mantenho este site para reunir meus interesses e criações. E como <em>eterno devir</em> já diz… sempre haverá mais por vir.</p>
+]]></content>
+        </item>
+        
+    </channel>
 </rss>
