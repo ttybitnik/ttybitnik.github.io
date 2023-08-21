@@ -5,8 +5,8 @@
         <description>Recent content in Blog on Eterno Devir</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor>
-        <webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster>
+        <managingEditor>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</managingEditor>
+        <webMaster>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</webMaster>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Wed, 08 Mar 2023 10:29:42 -0300</lastBuildDate>
         <atom:link href="https://eternodevir.com/pt-br/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +15,8 @@
             <title>Rendez-vous 1408</title>
             <link>https://eternodevir.com/pt-br/blog/2020/10/rendez-vous-1408/</link>
             <pubDate>Fri, 16 Oct 2020 11:01:24 -0300</pubDate>
-            <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/blog/2020/10/rendez-vous-1408/</guid>
             <description>Canções que acompanharam noites de sarau, encontros com amigos queridos e mergulhos de piscina na madrugada durante a época de faculdade no 1408.</description>
             <content type="html"><![CDATA[<p>
@@ -40,7 +41,8 @@ Canções que acompanharam noites de sarau, encontros com amigos queridos e merg
             <title>Psicopolítica</title>
             <link>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</link>
             <pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate>
-            <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</guid>
             <description>Byung-Chul Han, enquanto escritor e filósofo, tem uma qualidade admirável: escrever de maneira clara e objetiva sobre temas complexos. Ainda assim, foi um livro trabalhoso pela necessidade constante de separar o joio do trigo. Contudo, uma vez identificada a causa do problema, a leitura foi bastante proveitosa. A obra é dividida em treze seções/ensaios: (1) crise da liberdade; (2) poder inteligente; (3) a toupeira e a serpente; (4) biopolítica; (5) o dilema de Foucault; (6) a cura como assassinato; (7) choque; (8) o amável grande irmão; (9) o capitalismo da emoção; (10) gamificação; (11) big data; (12) para além do sujeito; e (13) idiotismo.</description>
             <content type="html"><![CDATA[<p>
@@ -99,7 +101,8 @@ Nota de pé de página para os amantes do audiovisual: não existe um episódio 
             <title>O homem unidimensional</title>
             <link>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</link>
             <pubDate>Tue, 02 Jun 2020 18:36:32 -0300</pubDate>
-            <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</guid>
             <description>Em uma tradução menos comercial, “O homem unidimensional: estudos sobre a ideologia da sociedade industrial desenvolvida”, publicado em 1964. Um livro com muitos pontos fortes. Marcuse é um pensador dialético por excelência. Se por um lado, ele demonstra como a tecnologia modifica os instrumentos de produção e promove avanços para a emancipação humana, por outro, ele avalia como a tecnologia é parte de uma nova forma de controle, impactando: (i) o trabalho; (ii) o universo político; (iii) a consciência; (iv) o universo de locução; (v) a cultura; e (vi) o pensamento.</description>
             <content type="html"><![CDATA[<p>
@@ -130,7 +133,8 @@ Somente em nome dos desesperançados nos é dada esperança.</p>
             <title>Escrevo para descobrir o que penso</title>
             <link>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</link>
             <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
-            <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</guid>
             <description>Outro dia, me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos tópicos que me interessava. De alguma forma, parecia me encantar conseguir vislumbrar um universo de possibilidades dentro de determinada circunstância. Hoje de manhã, acabei reunindo essa memória com uma ideia que tem me habitado nós últimos tempos: a do escrever como exercício de reflexão e descoberta. As aulas que nunca têm fim…</description>
             <content type="html"><![CDATA[
@@ -161,7 +165,8 @@ Descubro para escrever o que penso.</p>
             <title>Até o glorioso fim</title>
             <link>https://eternodevir.com/pt-br/blog/2020/03/at%C3%A9-o-glorioso-fim/</link>
             <pubDate>Thu, 19 Mar 2020 23:26:08 -0300</pubDate>
-            <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/blog/2020/03/at%C3%A9-o-glorioso-fim/</guid>
             <description>Caixa Cultural, São Paulo, 2015 Ensaio de Paulo Leminski, publicado em 1989 na Folha de Londrina, meses antes de sua morte.
 Corpo não mente Quando Francisco Xavier, o missionário jesuíta, aportou no Japão, na crista das navegações, sua catequese produziu milhares de conversões e o catolicismo começou a se espalhar pelo país.
@@ -278,7 +283,8 @@ a alma, esse conto de fada. </p>
             <title>Festa dos incomodados</title>
             <link>https://eternodevir.com/pt-br/blog/2020/02/festa-dos-incomodados/</link>
             <pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate>
-            <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/blog/2020/02/festa-dos-incomodados/</guid>
             <description>Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.
 No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente.</description>
@@ -293,7 +299,8 @@ No fim, só não estava incomodado de verdade quem decidiu não ir à festa — 
             <title>Por memórias de Cinema de Rua</title>
             <link>https://eternodevir.com/pt-br/blog/2019/02/por-mem%C3%B3rias-de-cinema-de-rua/</link>
             <pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate>
-            <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/blog/2019/02/por-mem%C3%B3rias-de-cinema-de-rua/</guid>
             <description>Cinearte Palace, Juiz de Fora, 2017 Glauber Rocha me ensinou a perceber, no coração do Cinema Novo, a possibilidade real de um cinema nacional para além de uma lógica meramente comercial. A arte, em alguma medida e com todas as dificuldades, ainda resistindo como palco de algo de incerto, de inesperado. Um espaço de resistência do plural, da singularidade criativa de cada diretor, de cada filme, onde o óbvio e o predeterminado, das lucrativas fórmulas hollywoodianas, se recusa a acontecer.</description>
             <content type="html"><![CDATA[<p>
@@ -374,7 +381,8 @@ Na busca por um desses lugares em Passau, tive a alegria de reencontrar o inespe
             <title>A Sétima</title>
             <link>https://eternodevir.com/pt-br/blog/2018/12/a-s%C3%A9tima/</link>
             <pubDate>Sun, 02 Dec 2018 22:07:49 -0300</pubDate>
-            <author>vinicius.moraes@eternodevir.com (Vinicius Moraes)</author>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/blog/2018/12/a-s%C3%A9tima/</guid>
             <description>Cinearte Palace, Juiz de Fora, 2016 De uns tempos para cá, tem se tornado um hábito revisitar filmes através da trilha sonora. Refletindo sobre o assunto, percebi que muitas das minhas memórias cinematográficas estão conectadas à força dessa relação audiovisual, especialmente algumas cenas ligadas intimamente a músicas. A playlist abaixo surgiu do desejo de relembrar e reunir essas memórias.
 Longe de serem apenas um pano de fundo, as músicas são parte integrante da própria narrativa quando bem utilizadas.</description>
