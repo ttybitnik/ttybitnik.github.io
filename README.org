@@ -1,0 +1,14 @@
+#+TITLE: Blog.ttybitnik
+#+AUTHOR: Vinicius Moraes
+#+EMAIL: vinicius.moraes@eternodevir.com
+#+OPTIONS:   num:nil
+
+This repository contains the source files for my personal blog.
+
+Made with *[[https://github.com/ttybitnik/emacs][GNU Emacs]]* and =org-mode=.
+
+Deployed with GitHub Actions.
+
+Powered by [[http://gohugo.io/][Hugo]].
+
+Custom theme by Djordje Atlialp, with personal modifications.
