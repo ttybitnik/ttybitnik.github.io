@@ -19,7 +19,7 @@
             <author><name>Vinicius Moraes</name>
 	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/projects/</guid>
-            <description>Homelab (2022-present) This ongoing project is an elaborate home server that involves a wide range of areas, including virtualization, containerization, network security, and system administration. Throughout its process, I&amp;#39;ve been conceptualizing, developing, and managing a comprehensive environment that integrates technologies such as QEMU/KVM, Debian, and Docker. As I delve into it, I&amp;#39;m continuously deploying and testing a variety of tools and services, enabling me to create a highly optimized system for my specific needs.</description>
+            <description>Homelab (2022-present) This ongoing project is an elaborate home server that involves a wide range of areas, including virtualization, containerization, network security, infrastructure as code, and system administration. Throughout its process, I&amp;#39;ve been conceptualizing, developing, and managing a comprehensive environment that integrates technologies such as QEMU/KVM, Ansible, and Docker. As I delve into it, I&amp;#39;m continuously deploying and testing a variety of tools and services, enabling me to create a highly optimized system for my specific needs.</description>
             <content type="html"><![CDATA[
 <div id="outline-container-headline-1" class="outline-2">
 <h2 id="headline-1">
@@ -27,7 +27,7 @@ Homelab (2022-present)
 </h2>
 <div id="outline-text-headline-1" class="outline-text-2">
 <p>
-This ongoing project is an elaborate home server that involves a wide range of areas, including virtualization, containerization, network security, and system administration. Throughout its process, I&#39;ve been conceptualizing, developing, and managing a comprehensive environment that integrates technologies such as QEMU/KVM, Debian, and Docker. As I delve into it, I&#39;m continuously deploying and testing a variety of tools and services, enabling me to create a highly optimized system for my specific needs.</p>
+This ongoing project is an elaborate home server that involves a wide range of areas, including virtualization, containerization, network security, infrastructure as code, and system administration. Throughout its process, I&#39;ve been conceptualizing, developing, and managing a comprehensive environment that integrates technologies such as QEMU/KVM, Ansible, and Docker. As I delve into it, I&#39;m continuously deploying and testing a variety of tools and services, enabling me to create a highly optimized system for my specific needs.</p>
 <p>
 <div style="display: flex;">
   <div style="flex: 1;">
@@ -36,8 +36,9 @@ This ongoing project is an elaborate home server that involves a wide range of a
         <p>System</p>
         <ul>
           <li>QEMU/KVM</li>
-          <li>Debian Bullseye</li>
-          <li>Docker</li>
+          <li>Ansible</li>
+          <li>Debian, RHEL</li>
+          <li>Docker, Podman</li>
         </ul>
       </li>
       <li>
@@ -45,10 +46,10 @@ This ongoing project is an elaborate home server that involves a wide range of a
         <ul>
           <li>Nginx Reverse Proxy</li>
           <li>Unbound DNS</li>
-          <li>UFW</li>
           <li>Pihole</li>
           <li>VPN</li>
           <li>SSH</li>
+          <li>iptables</li>
         </ul>
       </li>
     </ul>
@@ -61,6 +62,7 @@ This ongoing project is an elaborate home server that involves a wide range of a
           <li>Home Assistant</li>
           <li>Jellyfin</li>
           <li>Hugo</li>
+          <li>Gotify</li>
         </ul>
       </li>
       <li>
@@ -71,10 +73,9 @@ This ongoing project is an elaborate home server that involves a wide range of a
           <li>Prometheus</li>
           <li>Node Exporter</li>
           <li>cAdvisor</li>
-          <li>Gotify</li>	  
           <li>Watchtower</li>
         </ul>
-      </li>      
+      </li>
     </ul>
   </div>
 </div>
@@ -246,10 +247,10 @@ Translation
 	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/about/</guid>
             <description>I&amp;#39;m a Bachelor of Arts graduate from the Federal University of Juiz de Fora, where I majored in Portuguese and Translation. For my undergraduate thesis, &amp;#34;The Abyss of the Original&amp;#34;, I addressed Leminski&amp;#39;s simultaneous bitranslation of Beckett&amp;#39;s &amp;#34;Malone Dies&amp;#34; and &amp;#34;Malone Meurt&amp;#34;. Within my academic program, I pursued topics in Classical Studies, Semiotics, Translation Theory, Computational Linguistics, and a range of other subjects.
-But don&amp;#39;t let my fall for the Babel Tower fool you, when I&amp;#39;m not lost in the world of language, I&amp;#39;m probably diving deep in some other world—overall the worlds of cinema, philosophy, and technology.</description>
+But don&amp;#39;t let my fall for the Babel Tower fool you, when I&amp;#39;m not lost in the domain of language, I&amp;#39;m probably diving deep in some other world—overall the worlds of cinema, philosophy, and technology.</description>
             <content type="html"><![CDATA[<p>I&#39;m a Bachelor of Arts graduate from the Federal University of Juiz de Fora, where I majored in Portuguese and Translation. For my undergraduate thesis, &#34;The Abyss of the Original&#34;, I addressed Leminski&#39;s simultaneous bitranslation of Beckett&#39;s &#34;Malone Dies&#34; and &#34;Malone Meurt&#34;. Within my academic program, I pursued topics in Classical Studies, Semiotics, Translation Theory, Computational Linguistics, and a range of other subjects.</p>
 <p>
-But don&#39;t let my fall for the Babel Tower fool you, when I&#39;m not lost in the world of language, I&#39;m probably diving deep in some other world—overall the worlds of cinema, philosophy, and technology. Lately, I&#39;ve been immersing myself in the realm of GNU Linux and Emacs, exploring the power of free software and self-hosting, and tinkering with different programming languages like Bash, Python, Elisp, and C to extend what I can do.</p>
+But don&#39;t let my fall for the Babel Tower fool you, when I&#39;m not lost in the domain of language, I&#39;m probably diving deep in some other world—overall the worlds of cinema, philosophy, and technology. Lately, I&#39;ve been immersing myself in the realm of GNU Linux and Emacs, exploring the power of free software and self-hosting, and tinkering with different programming languages like Bash, Elisp, Go and C to extend what I can do.</p>
 <p>
 During my college days, I spent a year abroad at the University of Passau in Germany, where I attended Sprach- und Textwissenschaften and advanced my studies on Ekphrasis and Text-Image Relations. It was an incredible experience and really broadened my horizons in every sense—just as the breathtaking view of compound words longer than the Autobahn.</p>
 <p>

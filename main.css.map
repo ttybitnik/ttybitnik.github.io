@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/ttybitnik/.config/hugo/blog.backend/blog",
+	"sourceRoot": "/home/ttybitnik/Documents/Github/blog.backend",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
