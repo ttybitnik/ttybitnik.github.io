@@ -27,11 +27,11 @@ Privacidade Este site é hospedado no GitHub utilizando Cloudflare como provedor
             <content type="html"><![CDATA[
 <p>
 Este site, eternodevir.com, é obra de (C) Vinícius Moraes.</p>
-<div id="outline-container-headline-1" class="outline-5">
-<h5 id="headline-1">
+<div id="outline-container-headline-1" class="outline-4">
+<h4 id="headline-1">
 Licença
-</h5>
-<div id="outline-text-headline-1" class="outline-text-5">
+</h4>
+<div id="outline-text-headline-1" class="outline-text-4">
 <p>
 Textos originais, como postagens do blog e páginas, estão disponíveis sob os termos da licença <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br">Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional</a>.</p>
 <p>
@@ -40,11 +40,11 @@ Códigos originais, bem como qualquer documentação embutida, estão disponíve
 Exceções podem ser aplicadas no contexto. Conteúdos de terceiros podem ser regidos por licenças diferentes.</p>
 </div>
 </div>
-<div id="outline-container-headline-2" class="outline-5">
-<h5 id="headline-2">
+<div id="outline-container-headline-2" class="outline-4">
+<h4 id="headline-2">
 Privacidade
-</h5>
-<div id="outline-text-headline-2" class="outline-text-5">
+</h4>
+<div id="outline-text-headline-2" class="outline-text-4">
 <p>
 Este site é hospedado no GitHub utilizando Cloudflare como provedor de DNS. Por padrão, alguns dos registros incluem o endereço IP e o agente de usuário do visitante, horário e data da visita, e as exatas páginas visitadas. O agente de usuário pode incluir sistema operacional, navegador, mecanismo do navegador e suas respectivas versões. Por favor, consulte as políticas de privacidade do GitHub e do Cloudflare para obter informações adicionais.</p>
 </div>
@@ -363,11 +363,11 @@ Recomendo aprender sobre criptografia para se comunicar com seus contatos de for
             <guid>https://eternodevir.com/pt-br/about/</guid>
             <description>Biografia Sou bacharel em Letras pela Universidade Federal de Juiz de Fora, onde me especializei em Língua Portuguesa e Tradução. Na minha monografia de conclusão de curso, &amp;#34;O Abismo do Original&amp;#34;, abordei a bitradução simultânea de Paulo Leminski das obras &amp;#34;Malone Dies&amp;#34; e &amp;#34;Malone Meurt&amp;#34; de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</description>
             <content type="html"><![CDATA[
-<div id="outline-container-headline-1" class="outline-5">
-<h5 id="headline-1">
+<div id="outline-container-headline-1" class="outline-4">
+<h4 id="headline-1">
 Biografia
-</h5>
-<div id="outline-text-headline-1" class="outline-text-5">
+</h4>
+<div id="outline-text-headline-1" class="outline-text-4">
 <p>
 Sou bacharel em Letras pela Universidade Federal de Juiz de Fora, onde me especializei em Língua Portuguesa e Tradução. Na minha monografia de conclusão de curso, &#34;O Abismo do Original&#34;, abordei a bitradução simultânea de Paulo Leminski das obras &#34;Malone Dies&#34; e &#34;Malone Meurt&#34; de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</p>
 <p>
@@ -377,18 +377,18 @@ Durante minha época de faculdade, passei um ano na Universidade de Passau, na A
 <p>
 Desde 2018, mantenho este site para reunir meus interesses e criações. E como <em>eterno devir</em> já diz… sempre haverá mais por vir.</p>
 <p>
-<h5>Social</h5>
-     <a href="/pt-br/%20contact/">Contact</a>,
+<h4>Social</h4>
+     <a href="/pt-br/contact/">Contact</a>,
 <a href="https://github.com/ttybitnik">GitHub</a>,
 <a href="https://www.instapaper.com/p/12152153">Instapaper</a>,
 <a href="https://letterboxd.com/vinicivsmoraes/">Letterboxd</a>,
 <a href="https://open.spotify.com/user/12181461793?si=23fa399f6f654a4e">Spotify</a>
 
-<h5>Pseudôminos</h5>
-PGP: <a href="/pt-br/%20contact/">0xD3ABD88652EA7D41</a>,
+<h4>Pseudôminos</h4>
+PGP: <a href="/pt-br/contact/">0xD3ABD88652EA7D41</a>,
 IRC: ttybitnik
 
-<h5>O que estou fazendo agora</h5>
+<h4>O que estou fazendo agora</h4>
 
 Lendo: <a href="https://www.goodreads.com/en/book/show/17255186">The Phoenix Project, Gene Kim (2013)</a>
 <br>
@@ -398,7 +398,7 @@ Assistindo: <a href="https://letterboxd.com/film/chef/">Chef (2014)</a>
 
 <span class="post-info">
   <br>
-  <i>Última atualização em nov. 23, 2023 9:32 PM</i>
+  <i>Última atualização em nov. 23, 2023 9:46 PM</i>
 </span>
 </p>
 </div>
