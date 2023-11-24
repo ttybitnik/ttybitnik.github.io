@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Eterno Devir</title>
+        <title>Olá, m̶u̶n̶d̶o̶! on Eterno Devir</title>
         <link>https://eternodevir.com/pt-br/</link>
-        <description>Recent content on Eterno Devir</description>
+        <description>Recent content in Olá, m̶u̶n̶d̶o̶! on Eterno Devir</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <managingEditor>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</managingEditor>
         <webMaster>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</webMaster>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-SA 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Wed, 08 Mar 2023 10:29:42 -0300</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 19:16:33 -0300</lastBuildDate>
         <atom:link href="https://eternodevir.com/pt-br/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Avisos</title>
+            <link>https://eternodevir.com/pt-br/notices/</link>
+            <pubDate>Fri, 31 Mar 2023 00:09:00 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/pt-br/notices/</guid>
+            <description>Este site, eternodevir.com, é obra de (C) Vinícius Moraes.
+Licença Textos originais, como postagens do blog e páginas, estão disponíveis sob os termos da licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional.
+Códigos originais, bem como qualquer documentação embutida, estão disponíveis sob os termos da licença Licença Pública Geral GNU Versão 3.
+Exceções podem ser aplicadas no contexto. Conteúdos de terceiros podem ser regidos por licenças diferentes.
+Privacidade Este site é hospedado no GitHub utilizando Cloudflare como provedor de DNS.</description>
+            <content type="html"><![CDATA[
+<p>
+Este site, eternodevir.com, é obra de (C) Vinícius Moraes.</p>
+<div id="outline-container-headline-1" class="outline-5">
+<h5 id="headline-1">
+Licença
+</h5>
+<div id="outline-text-headline-1" class="outline-text-5">
+<p>
+Textos originais, como postagens do blog e páginas, estão disponíveis sob os termos da licença <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br">Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional</a>.</p>
+<p>
+Códigos originais, bem como qualquer documentação embutida, estão disponíveis sob os termos da licença <a href="https://www.gnu.org/licenses/quick-guide-gplv3.pt-br.html">Licença Pública Geral GNU Versão 3</a>.</p>
+<p>
+Exceções podem ser aplicadas no contexto. Conteúdos de terceiros podem ser regidos por licenças diferentes.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-5">
+<h5 id="headline-2">
+Privacidade
+</h5>
+<div id="outline-text-headline-2" class="outline-text-5">
+<p>
+Este site é hospedado no GitHub utilizando Cloudflare como provedor de DNS. Por padrão, alguns dos registros incluem o endereço IP e o agente de usuário do visitante, horário e data da visita, e as exatas páginas visitadas. O agente de usuário pode incluir sistema operacional, navegador, mecanismo do navegador e suas respectivas versões. Por favor, consulte as políticas de privacidade do GitHub e do Cloudflare para obter informações adicionais.</p>
+</div>
+</div>
+]]></content>
+        </item>
         
         <item>
             <title>Projetos</title>
@@ -103,50 +143,9 @@ Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciament
         </item>
         
         <item>
-            <title>Olá, m̶u̶n̶d̶o̶!</title>
-            <link>https://eternodevir.com/pt-br/home/</link>
-            <pubDate>Sun, 12 Mar 2023 19:16:33 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/pt-br/home/</guid>
-            <description>Sou o Vinícius Moraes e este é meu recanto pessoal na internet. Aqui você poderá acompanhar minhas produções e ler sobre os mais variados temas.
-Indexação do Blog:
-Categorias
-Broadcasts — playlists, podcasts, vídeos e outros formatos não textuais. Ensaios — textos que aprofundam temáticas de interesse. Notas — anotações, comentários, interpretações. Temas
-Autobiografia — produções pessoais. Cinema — arte cinematográfica e filmes. Computação — programação, GNU Linux, Emacs, self-hosting. Leitura — livros, poemas, contos, artigos.</description>
-            <content type="html"><![CDATA[<p>Sou o <strong><a href="/pt-br/about/">Vinícius Moraes</a></strong> e este é meu recanto pessoal na internet. Aqui você poderá acompanhar minhas produções e ler sobre os mais variados temas.</p>
-<p>
-Indexação do <a href="/pt-br/blog/">Blog</a>:</p>
-<ul>
-<li>
-<p><a href="/pt-br/categories/">Categorias</a></p>
-<ul>
-<li><a href="/pt-br/categories/broadcasts/">Broadcasts</a> — playlists, podcasts, vídeos e outros formatos não textuais.</li>
-<li><a href="/pt-br/categories/essays/">Ensaios</a> — textos que aprofundam temáticas de interesse. </li>
-<li><a href="/pt-br/categories/notes/">Notas</a> — anotações, comentários, interpretações.</li>
-</ul>
-</li>
-<li>
-<p><a href="/pt-br/tags/">Temas</a></p>
-<ul>
-<li><a href="/pt-br/tags/autobiography/">Autobiografia</a> — produções pessoais.</li>
-<li><a href="/pt-br/tags/cinema/">Cinema</a> — arte cinematográfica e filmes.</li>
-<li><a href="#">Computação</a> — programação, GNU Linux, Emacs, self-hosting. </li>
-<li><a href="/pt-br/tags/reading/">Leitura</a> — livros, poemas, contos, artigos.</li>
-<li><a href="#">Tradução</a> — arte tradutória e traduções. </li>
-<li><a href="/pt-br/tags/music/">Música</a> — playlists e músicas.</li>
-</ul>
-</li>
-</ul>
-<p>
-Caso tenha alguma dúvida ou interesse em conversar, sinta-se à vontade para entrar em <a href="https://eternodevir.com/pt-br/contact/">contato</a> por e-mail.</p>
-]]></content>
-        </item>
-        
-        <item>
             <title>Blog</title>
             <link>https://eternodevir.com/pt-br/blog/</link>
-            <pubDate>Wed, 08 Mar 2023 10:29:42 -0300</pubDate>
+            <pubDate>Sun, 12 Mar 2023 19:16:33 -0300</pubDate>
             <author><name>Vinicius Moraes</name>
 	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/blog/</guid>
@@ -362,8 +361,14 @@ Recomendo aprender sobre criptografia para se comunicar com seus contatos de for
             <author><name>Vinicius Moraes</name>
 	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/about/</guid>
-            <description>Sou bacharel em Letras pela Universidade Federal de Juiz de Fora, onde me especializei em Língua Portuguesa e Tradução. Na minha monografia de conclusão de curso, &amp;#34;O Abismo do Original&amp;#34;, abordei a bitradução simultânea de Paulo Leminski das obras &amp;#34;Malone Dies&amp;#34; e &amp;#34;Malone Meurt&amp;#34; de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</description>
-            <content type="html"><![CDATA[<p>
+            <description>Biografia Sou bacharel em Letras pela Universidade Federal de Juiz de Fora, onde me especializei em Língua Portuguesa e Tradução. Na minha monografia de conclusão de curso, &amp;#34;O Abismo do Original&amp;#34;, abordei a bitradução simultânea de Paulo Leminski das obras &amp;#34;Malone Dies&amp;#34; e &amp;#34;Malone Meurt&amp;#34; de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</description>
+            <content type="html"><![CDATA[
+<div id="outline-container-headline-1" class="outline-5">
+<h5 id="headline-1">
+Biografia
+</h5>
+<div id="outline-text-headline-1" class="outline-text-5">
+<p>
 Sou bacharel em Letras pela Universidade Federal de Juiz de Fora, onde me especializei em Língua Portuguesa e Tradução. Na minha monografia de conclusão de curso, &#34;O Abismo do Original&#34;, abordei a bitradução simultânea de Paulo Leminski das obras &#34;Malone Dies&#34; e &#34;Malone Meurt&#34; de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</p>
 <p>
 Mas não se deixe enganar pela minha queda pela Torre de Babel, quando não estou envolvido com palavras, provavelmente estou mergulhando fundo em alguma outra área — em geral, nas áreas do cinema, da filosofia e da tecnologia. Ultimamente, tenho me aprofundado no mundo do GNU Linux e do Emacs, explorando o poder do software livre e do self-hosting, aprendendo diferentes linguagens de programação, como Bash, Elisp, Go e C, para expandir o que consigo fazer.</p>
@@ -371,6 +376,33 @@ Mas não se deixe enganar pela minha queda pela Torre de Babel, quando não esto
 Durante minha época de faculdade, passei um ano na Universidade de Passau, na Alemanha, onde cursei Sprach- und Textwissenschaften e aprofundei meus estudos sobre ekphrasis e relações verbais e visuais. Foi uma experiência incrível que realmente ampliou meus horizontes em todos os sentidos — assim como a vista de tirar o fôlego de palavras compostas mais longas que a Autobahn.</p>
 <p>
 Desde 2018, mantenho este site para reunir meus interesses e criações. E como <em>eterno devir</em> já diz… sempre haverá mais por vir.</p>
+<p>
+<h5>Social</h5>
+     <a href="/pt-br/%20contact/">Contact</a>,
+<a href="https://github.com/ttybitnik">GitHub</a>,
+<a href="https://www.instapaper.com/p/12152153">Instapaper</a>,
+<a href="https://letterboxd.com/vinicivsmoraes/">Letterboxd</a>,
+<a href="https://open.spotify.com/user/12181461793?si=23fa399f6f654a4e">Spotify</a>
+
+<h5>Pseudôminos</h5>
+PGP: <a href="/pt-br/%20contact/">0xD3ABD88652EA7D41</a>,
+IRC: ttybitnik
+
+<h5>O que estou fazendo agora</h5>
+
+Lendo: <a href="https://www.goodreads.com/en/book/show/17255186">The Phoenix Project, Gene Kim (2013)</a>
+<br>
+Ouvindo: <a href="https://open.spotify.com/album/4Of3XWjWpHx6pj5jsL72kl">Fantasma, Cornelius (1997)</a>
+<br>
+Assistindo: <a href="https://letterboxd.com/film/chef/">Chef (2014)</a>
+
+<span class="post-info">
+  <br>
+  <i>Última atualização em nov. 23, 2023 9:32 PM</i>
+</span>
+</p>
+</div>
+</div>
 ]]></content>
         </item>
         
