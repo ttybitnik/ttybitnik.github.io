@@ -94,7 +94,7 @@
                 />
   </url><url>
     <loc>https://eternodevir.com/tags/autobiography/</loc>
-    <lastmod>2020-10-16T11:01:24-03:00</lastmod>
+    <lastmod>2022-10-16T11:01:24-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -107,7 +107,7 @@
                 />
   </url><url>
     <loc>https://eternodevir.com/categories/broadcasts/</loc>
-    <lastmod>2020-10-16T11:01:24-03:00</lastmod>
+    <lastmod>2022-10-16T11:01:24-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -120,7 +120,7 @@
                 />
   </url><url>
     <loc>https://eternodevir.com/categories/</loc>
-    <lastmod>2020-10-16T11:01:24-03:00</lastmod>
+    <lastmod>2022-10-16T11:01:24-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -133,7 +133,7 @@
                 />
   </url><url>
     <loc>https://eternodevir.com/tags/music/</loc>
-    <lastmod>2020-10-16T11:01:24-03:00</lastmod>
+    <lastmod>2022-10-16T11:01:24-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -146,7 +146,7 @@
                 />
   </url><url>
     <loc>https://eternodevir.com/blog/rendez-vous-1408/</loc>
-    <lastmod>2020-10-16T11:01:24-03:00</lastmod>
+    <lastmod>2022-10-16T11:01:24-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -159,7 +159,7 @@
                 />
   </url><url>
     <loc>https://eternodevir.com/tags/</loc>
-    <lastmod>2020-10-16T11:01:24-03:00</lastmod>
+    <lastmod>2022-10-16T11:01:24-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -247,6 +247,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://eternodevir.com/categories/essays/"
+                />
+  </url><url>
+    <loc>https://eternodevir.com/tags/translation/</loc>
+    <lastmod>2020-03-19T23:26:08-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://eternodevir.com/pt-br/tags/translation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eternodevir.com/tags/translation/"
                 />
   </url><url>
     <loc>https://eternodevir.com/blog/until-the-glorious-end/</loc>
