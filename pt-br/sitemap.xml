@@ -93,6 +93,19 @@
                 href="https://eternodevir.com/pt-br/about/"
                 />
   </url><url>
+    <loc>https://eternodevir.com/pt-br/tags/autobiography/</loc>
+    <lastmod>2020-10-16T11:01:24-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eternodevir.com/tags/autobiography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://eternodevir.com/pt-br/tags/autobiography/"
+                />
+  </url><url>
     <loc>https://eternodevir.com/pt-br/categories/broadcasts/</loc>
     <lastmod>2020-10-16T11:01:24-03:00</lastmod>
     <xhtml:link
@@ -132,17 +145,17 @@
                 href="https://eternodevir.com/pt-br/tags/music/"
                 />
   </url><url>
-    <loc>https://eternodevir.com/pt-br/blog/2020/10/rendez-vous-1408/</loc>
+    <loc>https://eternodevir.com/pt-br/blog/rendez-vous-1408/</loc>
     <lastmod>2020-10-16T11:01:24-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eternodevir.com/blog/2020/10/rendez-vous-1408/"
+                href="https://eternodevir.com/blog/rendez-vous-1408/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://eternodevir.com/pt-br/blog/2020/10/rendez-vous-1408/"
+                href="https://eternodevir.com/pt-br/blog/rendez-vous-1408/"
                 />
   </url><url>
     <loc>https://eternodevir.com/pt-br/tags/</loc>
@@ -171,17 +184,17 @@
                 href="https://eternodevir.com/pt-br/categories/notes/"
                 />
   </url><url>
-    <loc>https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/</loc>
+    <loc>https://eternodevir.com/pt-br/blog/psicopol%C3%ADtica/</loc>
     <lastmod>2020-06-27T10:52:51-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eternodevir.com/blog/2020/06/psychopolitics/"
+                href="https://eternodevir.com/blog/psychopolitics/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://eternodevir.com/pt-br/blog/2020/06/psicopol%C3%ADtica/"
+                href="https://eternodevir.com/pt-br/blog/psicopol%C3%ADtica/"
                 />
   </url><url>
     <loc>https://eternodevir.com/pt-br/tags/reading/</loc>
@@ -197,56 +210,43 @@
                 href="https://eternodevir.com/pt-br/tags/reading/"
                 />
   </url><url>
-    <loc>https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/</loc>
+    <loc>https://eternodevir.com/pt-br/blog/o-homem-unidimensional/</loc>
     <lastmod>2020-06-02T18:36:32-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eternodevir.com/blog/2020/06/one-dimensional-man/"
+                href="https://eternodevir.com/blog/one-dimensional-man/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://eternodevir.com/pt-br/blog/2020/06/o-homem-unidimensional/"
+                href="https://eternodevir.com/pt-br/blog/o-homem-unidimensional/"
                 />
   </url><url>
-    <loc>https://eternodevir.com/pt-br/tags/autobiography/</loc>
+    <loc>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</loc>
     <lastmod>2020-05-21T00:02:29-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eternodevir.com/tags/autobiography/"
+                href="https://eternodevir.com/blog/i-write-to-find-out-what-i-think/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://eternodevir.com/pt-br/tags/autobiography/"
+                href="https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/"
                 />
   </url><url>
-    <loc>https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/</loc>
-    <lastmod>2020-05-21T00:02:29-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eternodevir.com/blog/2020/05/i-write-to-find-out-what-i-think/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://eternodevir.com/pt-br/blog/2020/05/escrevo-para-descobrir-o-que-penso/"
-                />
-  </url><url>
-    <loc>https://eternodevir.com/pt-br/blog/2020/03/at%C3%A9-o-glorioso-fim/</loc>
+    <loc>https://eternodevir.com/pt-br/blog/at%C3%A9-o-glorioso-fim/</loc>
     <lastmod>2020-03-19T23:26:08-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eternodevir.com/blog/2020/03/until-the-glorious-end/"
+                href="https://eternodevir.com/blog/until-the-glorious-end/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://eternodevir.com/pt-br/blog/2020/03/at%C3%A9-o-glorioso-fim/"
+                href="https://eternodevir.com/pt-br/blog/at%C3%A9-o-glorioso-fim/"
                 />
   </url><url>
     <loc>https://eternodevir.com/pt-br/categories/essays/</loc>
@@ -262,17 +262,17 @@
                 href="https://eternodevir.com/pt-br/categories/essays/"
                 />
   </url><url>
-    <loc>https://eternodevir.com/pt-br/blog/2020/02/festa-dos-incomodados/</loc>
+    <loc>https://eternodevir.com/pt-br/blog/festa-dos-incomodados/</loc>
     <lastmod>2020-02-12T00:57:28-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eternodevir.com/blog/2020/02/party-of-the-bothered-ones/"
+                href="https://eternodevir.com/blog/party-of-the-bothered-ones/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://eternodevir.com/pt-br/blog/2020/02/festa-dos-incomodados/"
+                href="https://eternodevir.com/pt-br/blog/festa-dos-incomodados/"
                 />
   </url><url>
     <loc>https://eternodevir.com/pt-br/tags/cinema/</loc>
@@ -288,30 +288,30 @@
                 href="https://eternodevir.com/pt-br/tags/cinema/"
                 />
   </url><url>
-    <loc>https://eternodevir.com/pt-br/blog/2019/02/por-mem%C3%B3rias-de-cinema-de-rua/</loc>
+    <loc>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</loc>
     <lastmod>2019-02-03T20:36:05-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eternodevir.com/blog/2019/02/for-street-cinema-memories/"
+                href="https://eternodevir.com/blog/for-street-cinema-memories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://eternodevir.com/pt-br/blog/2019/02/por-mem%C3%B3rias-de-cinema-de-rua/"
+                href="https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/"
                 />
   </url><url>
-    <loc>https://eternodevir.com/pt-br/blog/2018/12/a-s%C3%A9tima/</loc>
+    <loc>https://eternodevir.com/pt-br/blog/a-s%C3%A9tima/</loc>
     <lastmod>2018-12-02T22:07:49-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://eternodevir.com/blog/2018/12/the-seventh/"
+                href="https://eternodevir.com/blog/the-seventh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://eternodevir.com/pt-br/blog/2018/12/a-s%C3%A9tima/"
+                href="https://eternodevir.com/pt-br/blog/a-s%C3%A9tima/"
                 />
   </url><url>
     <loc>https://eternodevir.com/pt-br/series/</loc>

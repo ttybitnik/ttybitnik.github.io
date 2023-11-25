@@ -246,7 +246,7 @@ Tradução
 	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/pt-br/contact/</guid>
             <description>Email: vinicius.moraes@eternodevir.com Sinta-se à vontade para me enviar um e-mail sobre qualquer conteúdo deste site, quer tenha uma sugestão, algum comentário ou apenas queira conversar sobre um interesse comum. Normalmente, respondo dentro de uma semana no máximo, muitas vezes bem antes. Se você não tiver recebido uma resposta minha após esse período, verifique sua pasta de spam, pois a mensagem pode ter sido filtrada por lá.
-Criptografia PGP para e-mails (opcional) curl eternodevir.</description>
+Criptografia PGP para e-mails (opcional) 1 curl eternodevir.</description>
             <content type="html"><![CDATA[
 <ul>
 <li>Email: <a href="mailto:vinicius.moraes@eternodevir.com">vinicius.moraes@eternodevir.com</a></li>
@@ -257,8 +257,9 @@ Criptografia PGP para e-mails (opcional) curl eternodevir.</description>
 Criptografia PGP para e-mails (opcional)
 </h3>
 <div id="outline-text-headline-1" class="outline-text-3">
+<span id="pgp"></span>
 <div class="src src-shell">
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>  curl eternodevir.com/publickey.asc</span></span></code></pre></div>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span>  curl eternodevir.com/publickey.asc</span></span></code></pre></div>
 </div>
 <pre class="example">
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -394,7 +395,7 @@ Social
 Pseudôminos
 </h4>
 <div id="outline-text-headline-3" class="outline-text-4">
-<p><a href="/publickey.asc">0xD3ABD88652EA7D41</a>, ttybitnik</p>
+<p><a href="/pt-br/contact/#pgp">0xD3ABD88652EA7D41</a>, ttybitnik</p>
 </div>
 </div>
 <div id="outline-container-headline-4" class="outline-4">
@@ -409,13 +410,22 @@ Ouvindo: <a href="https://open.spotify.com/album/4Of3XWjWpHx6pj5jsL72kl">Fantasm
 Assistindo: <a href="https://letterboxd.com/film/chef/">Chef (2014)</a>
 <span class="post-info">
   <br>
-  <i>Última atualização em nov. 24, 2023 1:15 PM</i>
+  <i>Última atualização em nov. 24, 2023 11:00 PM</i>
 </span>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-4">
+<h4 id="headline-5">
+Apoia
+</h4>
+<div id="outline-text-headline-5" class="outline-text-4">
+<p>
+<a href="https://www.gnu.org/philosophy/free-sw.pt-br.html">Free Software</a>, <a href="http://slow-science.org/">Slow Science</a></p>
 </div>
 </div>
 <div id="outline-container-headline-7" class="outline-4">
 <h4 id="headline-7">
-Sobre este site
+Site
 </h4>
 <div id="outline-text-headline-7" class="outline-text-4">
 <p>

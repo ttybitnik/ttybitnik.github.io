@@ -13,6 +13,17 @@
         <atom:link href="https://eternodevir.com/tags/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
+            <title>autobiography</title>
+            <link>https://eternodevir.com/tags/autobiography/</link>
+            <pubDate>Fri, 16 Oct 2020 11:01:24 -0300</pubDate>
+            <author><name>Vinicius Moraes</name>
+	    <email>vinicius.moraes@eternodevir.com</email></author>
+            <guid>https://eternodevir.com/tags/autobiography/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
             <title>music</title>
             <link>https://eternodevir.com/tags/music/</link>
             <pubDate>Fri, 16 Oct 2020 11:01:24 -0300</pubDate>
@@ -30,17 +41,6 @@
             <author><name>Vinicius Moraes</name>
 	    <email>vinicius.moraes@eternodevir.com</email></author>
             <guid>https://eternodevir.com/tags/reading/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
-        </item>
-        
-        <item>
-            <title>autobiography</title>
-            <link>https://eternodevir.com/tags/autobiography/</link>
-            <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/tags/autobiography/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
