@@ -58,7 +58,7 @@ Privacy
 </div>
 ]]></content:encoded></item><item><title>Projects</title><link>https://eternodevir.com/projects/</link><pubDate>Fri, 31 Mar 2023 00:09:00 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/</guid><description>In progress Homelab (2022-current) This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.
 System
-QEMU/KVM Ansible Debian, RHEL Docker, Podman Network</description><content:encoded><![CDATA[
+QEMU/KVM Ansible Debian, RHEL Docker, Podman Network</description><content:encoded><![CDATA[
 <div id="outline-container-headline-1" class="outline-2">
 <h2 id="headline-1">
 In progress
@@ -79,15 +79,15 @@ This project is a custom home server that involves a wide range of areas, includ
       <ul>
         <li>QEMU/KVM</li>
         <li>Ansible</li>
-        <li>Debian, RHEL</li>
-        <li>Docker, Podman</li>
+        <li>Debian, RHEL</li>
+        <li>Docker, Podman</li>
       </ul>
       </li>
     <li>
         <p>Network</p>
         <ul>
-          <li>Nginx Reverse Proxy</li>
-          <li>Unbound DNS</li>
+          <li>Nginx Reverse Proxy</li>
+          <li>Unbound DNS</li>
           <li>Pihole</li>
           <li>VPN</li>
           <li>SSH</li>
@@ -99,7 +99,7 @@ This project is a custom home server that involves a wide range of areas, includ
       <li>
         <p>Services</p>
         <ul>
-          <li>Home Assistant</li>
+          <li>Home Assistant</li>
           <li>Jellyfin</li>
           <li>Hugo</li>
           <li>Gotify</li>
@@ -111,7 +111,7 @@ This project is a custom home server that involves a wide range of areas, includ
           <li>Portainer</li>
           <li>Grafana</li>
           <li>Prometheus</li>
-          <li>Node Exporter</li>
+          <li>Node Exporter</li>
           <li>cAdvisor</li>
           <li>Watchtower</li>
         </ul>
@@ -125,79 +125,69 @@ This project is a custom home server that involves a wide range of areas, includ
 </div>
 <div id="outline-container-headline-3" class="outline-2">
 <h2 id="headline-3">
-FOSS/Open Source
+FOSS and Open Source
 </h2>
 <div id="outline-text-headline-3" class="outline-text-2">
-<div id="outline-container-headline-4" class="outline-3">
-<h3 id="headline-4">
-Software
-</h3>
-<div id="outline-text-headline-4" class="outline-text-3">
 <table class="projects-table">
-<tbody>
-<tr>
-<td><a href="https://github.com/masasam/emacs-easy-hugo">easy‑hugo</a></td>
-<td>Contributor</td>
-<td>GNU Emacs major mode designed for writing Hugo-powered blogs using various markup formats.</td>
-</tr>
-</tbody>
+  <tr>
+    <td colspan="3" class="projects-table-sections">Software</td>
+  </tr>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/masasam/emacs-easy-hugo">easy‑hugo</a></td>
+      <td>Contributor</td>
+      <td>GNU Emacs major mode designed for writing Hugo-powered blogs using various markup formats.</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td colspan="3" class="projects-table-sections">Configuration</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ttybitnik/dotfiles">dotfiles</a></td>
+      <td>Author</td>
+      <td>UNIX/Linux environment setup, including my automation scripts and configuration files for a variety of tools.</td>
+    </tr>
+
+    <tr>
+      <td><a href="https://github.com/ttybitnik/emacs.d">emacs.d</a></td>
+      <td>Author</td>
+      <td>GNU Emacs configuration along with an in-depth chronicle of my crafting and managing processes.</td>
+    </tr>
+
+    <tr>
+      <td><a href="https://github.com/ttybitnik/suckless">suckless</a></td>
+      <td>Author</td>
+      <td>Source code and configuration files for my  suckless builds of dwm, dmenu, dwmblocks, st, and slock.</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td colspan="3" class="projects-table-sections">Laboratory</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ttybitnik/lab.99-problems">99‑problems</a></td>
+      <td>Author</td>
+      <td>Programming practice in different languages of the classic <i>Ninety-Nine Prolog Problems</i> crafted by Werner Hett.</td>
+    </tr>
+  </tbody>
 </table>
 </div>
 </div>
-<div id="outline-container-headline-5" class="outline-3">
-<h3 id="headline-5">
-Configuration
-</h3>
-<div id="outline-text-headline-5" class="outline-text-3">
-<table class="projects-table">
-<tbody>
-<tr>
-<td><a href="https://github.com/ttybitnik/dotfiles">dotfiles</a></td>
-<td>Author</td>
-<td>UNIX/Linux environment setup, including my automation scripts and configuration files for a variety of tools.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ttybitnik/emacs.d">emacs.d</a></td>
-<td>Author</td>
-<td>GNU Emacs configuration along with an in-depth chronicle of my crafting and managing processes.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ttybitnik/suckless">suckless</a></td>
-<td>Author</td>
-<td>Source code and configuration files for my  suckless builds of dwm, dmenu, dwmblocks, st, and slock.</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div id="outline-container-headline-6" class="outline-3">
-<h3 id="headline-6">
-Laboratory
-</h3>
-<div id="outline-text-headline-6" class="outline-text-3">
-<table class="projects-table">
-<tbody>
-<tr>
-<td><a href="https://github.com/ttybitnik/lab.99-problems">99‑problems</a></td>
-<td>Author</td>
-<td>Programming practice in different languages of the classic <em>Ninety-Nine Prolog Problems</em> crafted by Werner Hett.</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</div>
-<div id="outline-container-headline-7" class="outline-2">
-<h2 id="headline-7">
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
 Archived
 </h2>
-<div id="outline-text-headline-7" class="outline-text-2">
-<div id="outline-container-headline-8" class="outline-3">
-<h3 id="headline-8">
+<div id="outline-text-headline-4" class="outline-text-2">
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
 AWS Cloud (2018-2022)
 </h3>
-<div id="outline-text-headline-8" class="outline-text-3">
+<div id="outline-text-headline-5" class="outline-text-3">
 <p>
 This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.</p>
 <ul>
@@ -214,7 +204,7 @@ This project involved deploying dynamic websites on AWS, managing network, DNS, 
 </div>
 ]]></content:encoded></item><item><title>Projetos</title><link>https://eternodevir.com/pt-br/projects/</link><pubDate>Fri, 31 Mar 2023 00:09:00 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/</guid><description>Em progresso Homelab (2022-presente) Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
 Sistema
-QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede</description><content:encoded><![CDATA[
+QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede</description><content:encoded><![CDATA[
 <div id="outline-container-headline-1" class="outline-2">
 <h2 id="headline-1">
 Em progresso
@@ -235,15 +225,15 @@ Este projeto é um servidor doméstico customizado que envolve uma ampla gama de
       <ul>
         <li>QEMU/KVM</li>
         <li>Ansible</li>
-        <li>Debian, RHEL</li>
-        <li>Docker, Podman</li>
+        <li>Debian, RHEL</li>
+        <li>Docker, Podman</li>
       </ul>
       </li>
     <li>
         <p>Rede</p>
         <ul>
-          <li>Nginx Reverse Proxy</li>
-          <li>Unbound DNS</li>
+          <li>Nginx Reverse Proxy</li>
+          <li>Unbound DNS</li>
           <li>Pihole</li>
           <li>VPN</li>
           <li>SSH</li>
@@ -255,7 +245,7 @@ Este projeto é um servidor doméstico customizado que envolve uma ampla gama de
       <li>
         <p>Serviços</p>
         <ul>
-          <li>Home Assistant</li>
+          <li>Home Assistant</li>
           <li>Jellyfin</li>
           <li>Hugo</li>
           <li>Gotify</li>
@@ -267,7 +257,7 @@ Este projeto é um servidor doméstico customizado que envolve uma ampla gama de
           <li>Portainer</li>
           <li>Grafana</li>
           <li>Prometheus</li>
-          <li>Node Exporter</li>
+          <li>Node Exporter</li>
           <li>cAdvisor</li>
           <li>Watchtower</li>
         </ul>
@@ -281,79 +271,69 @@ Este projeto é um servidor doméstico customizado que envolve uma ampla gama de
 </div>
 <div id="outline-container-headline-3" class="outline-2">
 <h2 id="headline-3">
-FOSS/Open Source
+FOSS e Open Source
 </h2>
 <div id="outline-text-headline-3" class="outline-text-2">
-<div id="outline-container-headline-4" class="outline-3">
-<h3 id="headline-4">
-Programa
-</h3>
-<div id="outline-text-headline-4" class="outline-text-3">
 <table class="projects-table">
-<tbody>
-<tr>
-<td><a href="https://github.com/masasam/emacs-easy-hugo">easy‑hugo</a></td>
-<td>Contribuidor</td>
-<td>Major mode do GNU Emacs projetado para escrever blogs Hugo usando várias linguagens de marcação.</td>
-</tr>
-</tbody>
+  <tr>
+    <td colspan="3" class="projects-table-sections">Programa</td>
+  </tr>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/masasam/emacs-easy-hugo">easy‑hugo</a></td>
+      <td>Contribuidor</td>
+      <td>Major mode do GNU Emacs projetado para escrever blogs Hugo usando várias linguagens de marcação.</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td colspan="3" class="projects-table-sections">Configuração</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ttybitnik/dotfiles">dotfiles</a></td>
+      <td>Autor</td>
+      <td>Preparação de ambientes UNIX/Linux, incluindo meus scripts de automação e arquivos de configuração para diversas ferramentas.</td>
+    </tr>
+
+    <tr>
+      <td><a href="https://github.com/ttybitnik/emacs.d">emacs.d</a></td>
+      <td>Autor</td>
+      <td>Configuração do GNU Emacs junto com uma crônica detalhada do meu processo de produção e gerenciamento.</td>
+    </tr>
+
+    <tr>
+      <td><a href="https://github.com/ttybitnik/suckless">suckless</a></td>
+      <td>Autor</td>
+      <td>Código-fonte e arquivos de configuração para minhas compilações do suckless dwm, dmenu, dwmblocks, st e slock.</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td colspan="3" class="projects-table-sections">Laboratório</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/ttybitnik/lab.99-problems">99‑problems</a></td>
+      <td>Autor</td>
+      <td>Prática de programação em diferentes linguagens do clássico <i>Noventa e Nove Problemas em Prolog</i> elaborado por Werner Hett.</td>
+    </tr>
+  </tbody>
 </table>
 </div>
 </div>
-<div id="outline-container-headline-5" class="outline-3">
-<h3 id="headline-5">
-Configuração
-</h3>
-<div id="outline-text-headline-5" class="outline-text-3">
-<table class="projects-table">
-<tbody>
-<tr>
-<td><a href="https://github.com/ttybitnik/dotfiles">dotfiles</a></td>
-<td>Autor</td>
-<td>Preparação de ambientes UNIX/Linux, incluindo meus scripts de automação e arquivos de configuração para diversas ferramentas.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ttybitnik/emacs.d">emacs.d</a></td>
-<td>Autor</td>
-<td>Configuração do GNU Emacs junto com uma crônica detalhada do meu processo de produção e gerenciamento.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/ttybitnik/suckless">suckless</a></td>
-<td>Autor</td>
-<td>Código-fonte e arquivos de configuração para minhas compilações do suckless dwm, dmenu, dwmblocks, st e slock.</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-<div id="outline-container-headline-6" class="outline-3">
-<h3 id="headline-6">
-Laboratório
-</h3>
-<div id="outline-text-headline-6" class="outline-text-3">
-<table class="projects-table">
-<tbody>
-<tr>
-<td><a href="https://github.com/ttybitnik/lab.99-problems">99‑problems</a></td>
-<td>Autor</td>
-<td>Prática de programação em diferentes linguagens do clássico <em>Noventa e Nove Problemas em Prolog</em> elaborado por Werner Hett.</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
-</div>
-</div>
-<div id="outline-container-headline-7" class="outline-2">
-<h2 id="headline-7">
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
 Arquivado
 </h2>
-<div id="outline-text-headline-7" class="outline-text-2">
-<div id="outline-container-headline-8" class="outline-3">
-<h3 id="headline-8">
+<div id="outline-text-headline-4" class="outline-text-2">
+<div id="outline-container-headline-5" class="outline-3">
+<h3 id="headline-5">
 AWS Cloud (2018-2022)
 </h3>
-<div id="outline-text-headline-8" class="outline-text-3">
+<div id="outline-text-headline-5" class="outline-text-3">
 <p>
 Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciamento de rede, DNS, snapshots e atualização de sistema em instâncias Ubuntu Server. Para isso, utilizei uma combinação de recursos da AWS, como Route 53 e Lightsail, juntamente com ferramentas remotas e de segurança. Durante a operação, também lidei com tarefas de gerenciamento de WordPress, criação de conteúdo e design e personalização de sites.</p>
 <ul>
@@ -519,8 +499,8 @@ Translation
 ]]></content:encoded></item><item><title>About</title><link>https://eternodevir.com/about/</link><pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/about/</guid><description>Vinicius Moraes Biography I graduated with two Bachelor of Arts degrees from the Federal University of Juiz de Fora, where I specialized in Portuguese and Translation. For my undergraduate thesis, The Abyss of the Original, I addressed Paulo Leminski&amp;#39;s simultaneous bitranslation of Samuel Beckett&amp;#39;s Malone Dies and Malone Meurt. Within my academic program, I pursued topics in Classical Studies, Semiotics, Translation Theory, Computational Linguistics, and a range of other subjects.</description><content:encoded><![CDATA[
 <p>
 
-<div class="circle-container">
-  <img src="/images/avatar.jpg" class="circle" title="Hi there 👋🏻" alt="An art picture of me" style="max-width:128px" />
+<div class="avatar-container">
+  <img src="/images/avatar.jpg" class="avatar" title="Hi there 👋🏻" alt="An art picture of me" style="max-width:128px" />
   <h1>Vinicius Moraes</h1>
 </div>
 
@@ -545,7 +525,7 @@ Since 2018, I have been maintaining this website to gather my interests and crea
 Social
 </h2>
 <div id="outline-text-headline-2" class="outline-text-2">
-<p><a href="/contact/">Email</a>, <a href="https://github.com/ttybitnik">GitHub</a>, <a href="http://localhost:1313/twtxt.txt">Twtxt</a>, <a href="https://www.instapaper.com/p/12152153">Instapaper</a>, <a href="https://letterboxd.com/vinicivsmoraes/">Letterboxd</a>, <a href="https://open.spotify.com/user/12181461793?si=23fa399f6f654a4e">Spotify</a></p>
+<p><a href="/contact/">Email</a>, <a href="https://github.com/ttybitnik">GitHub</a>, <a href="/twtxt.txt">Twtxt</a>, <a href="https://www.instapaper.com/p/12152153">Instapaper</a>, <a href="https://letterboxd.com/vinicivsmoraes/">Letterboxd</a>, <a href="https://open.spotify.com/user/12181461793?si=23fa399f6f654a4e">Spotify</a></p>
 </div>
 </div>
 <div id="outline-container-headline-3" class="outline-2">
@@ -568,7 +548,7 @@ Listening: <a href="https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5?si=8cx
 Watching: <a href="https://letterboxd.com/film/chef/">Chef (2014)</a>
 <span class="post-info">
   <br>
-  <i>Last update on Dec 01, 2023 11:29 PM</i>
+  <i>Last update on Dec 02, 2023 12:11 PM</i>
 </span>
 </div>
 </div>
@@ -811,8 +791,8 @@ Recomendo aprender sobre criptografia para se comunicar com seus contatos de for
 ]]></content:encoded></item><item><title>Sobre</title><link>https://eternodevir.com/pt-br/about/</link><pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/about/</guid><description>Vinícius Moraes Biografia Eu me formei em dois cursos da Faculdade de Letras da Universidade Federal de Juiz de Fora, onde me especializei em Português e Tradução. Na minha monografia de graduação, O abismo do original, abordei a bitradução simultânea de Paulo Leminski das obras Malone Dies e Malone Meurt de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</description><content:encoded><![CDATA[
 <p>
 
-<div class="circle-container">
-  <img src="/images/avatar.jpg" class="circle" title="Olá! 👋🏻" alt="An art picture of me" style="max-width:128px" />
+<div class="avatar-container">
+  <img src="/images/avatar.jpg" class="avatar" title="Olá! 👋🏻" alt="An art picture of me" style="max-width:128px" />
   <h1>Vinícius Moraes</h1>
 </div>
 
@@ -837,7 +817,7 @@ Desde 2018, mantenho este site para reunir meus interesses e criações. E como 
 Social
 </h2>
 <div id="outline-text-headline-2" class="outline-text-2">
-<p><a href="/pt-br/contact/">E-mail</a>, <a href="https://github.com/ttybitnik">GitHub</a>, <a href="http://localhost:1313/twtxt.txt">Twtxt</a>, <a href="https://www.instapaper.com/p/12152153">Instapaper</a>, <a href="https://letterboxd.com/vinicivsmoraes/">Letterboxd</a>, <a href="https://open.spotify.com/user/12181461793?si=23fa399f6f654a4e">Spotify</a></p>
+<p><a href="/pt-br/contact/">E-mail</a>, <a href="https://github.com/ttybitnik">GitHub</a>, <a href="/twtxt.txt">Twtxt</a>, <a href="https://www.instapaper.com/p/12152153">Instapaper</a>, <a href="https://letterboxd.com/vinicivsmoraes/">Letterboxd</a>, <a href="https://open.spotify.com/user/12181461793?si=23fa399f6f654a4e">Spotify</a></p>
 </div>
 </div>
 <div id="outline-container-headline-3" class="outline-2">
@@ -860,7 +840,7 @@ Ouvindo: <a href="https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5?si=8cxKE
 Assistindo: <a href="https://letterboxd.com/film/chef/">Chef (2014)</a>
 <span class="post-info">
   <br>
-  <i>Última atualização em dez. 01, 2023 11:29 PM</i>
+  <i>Última atualização em dez. 02, 2023 12:11 PM</i>
 </span>
 </div>
 </div>
