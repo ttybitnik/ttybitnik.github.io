@@ -1,27 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Blog on Eterno Devir</title>
-        <link>https://eternodevir.com/blog/</link>
-        <description>Recent content in Blog on Eterno Devir</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <managingEditor>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</managingEditor>
-        <webMaster>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</webMaster>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-SA 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 12 Mar 2023 19:16:33 -0300</lastBuildDate>
-        <atom:link href="https://eternodevir.com/blog/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Rendez-vous 1408</title>
-            <link>https://eternodevir.com/blog/rendez-vous-1408/</link>
-            <pubDate>Sun, 16 Oct 2022 11:01:24 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/blog/rendez-vous-1408/</guid>
-            <description>I have fond memories of the songs that would play during the soirée nights, casual gatherings with dear friends, and late-night pool dips during my college days at 1408. The melodic tunes and lyrics that once filled the air of that apartment now refresh my memory with those unforgettable times.</description>
-            <content type="html"><![CDATA[<p>
-I have fond memories of the songs that would play during the soirée nights, casual gatherings with dear friends, and late-night pool dips during my college days at 1408. The melodic tunes and lyrics that once filled the air of that apartment now refresh my memory with those unforgettable times.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blog on Eterno Devir</title><link>https://eternodevir.com/blog/</link><description>Recent content in Blog on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 12 Mar 2023 19:16:33 -0300</lastBuildDate><atom:link href="https://eternodevir.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Rendez-vous 1408</title><link>https://eternodevir.com/blog/rendez-vous-1408/</link><pubDate>Sun, 16 Oct 2022 11:01:24 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/rendez-vous-1408/</guid><description>I have fond memories of the songs that would play during the soirée nights, the casual gatherings with dear friends, and the late-night pool dips during my college days at 1408. The melodic tunes and lyrics that once filled the air of that apartment now refresh my memory of those unforgettable times.</description><content:encoded><![CDATA[<p>
+I have fond memories of the songs that would play during the soirée nights, the casual gatherings with dear friends, and the late-night pool dips during my college days at 1408. The melodic tunes and lyrics that once filled the air of that apartment now refresh my memory of those unforgettable times.</p>
 <p>
  
  <div style="margin: 25px 0px">
@@ -35,18 +13,7 @@ I have fond memories of the songs that would play during the soirée nights, cas
  
  </div>
 </p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Psychopolitics</title>
-            <link>https://eternodevir.com/blog/psychopolitics/</link>
-            <pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/blog/psychopolitics/</guid>
-            <description>Byung-Chul Han, as a writer and philosopher, has an admirable quality: he writes clearly and objectively about complex topics. Even so, it was a laborious book due to the constant need to separate the wheat from the chaff. However, once the cause of the problem was identified, the reading was quite fruitful. The work is divided into thirteen sections/essays: (1) crisis of freedom; (2) intelligent power; (3) the mole and the serpent; (4) biopolitics; (5) Foucault&amp;#39;s dilemma; (6) healing as murder; (7) shock; (8) the lovable big brother; (9) the capitalism of emotion; (10) gamification; (11) big data; (12) beyond the subject; and (13) idiocy.</description>
-            <content type="html"><![CDATA[<p>
+]]></content:encoded></item><item><title>Psychopolitics</title><link>https://eternodevir.com/blog/psychopolitics/</link><pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/psychopolitics/</guid><description>Byung-Chul Han, as a writer and philosopher, has an admirable quality: he writes clearly and objectively about complex topics. Even so, it was a laborious book due to the constant need to separate the wheat from the chaff. However, once the cause of the problem was identified, the reading was quite fruitful. The work is divided into thirteen sections/essays: (1) crisis of freedom; (2) intelligent power; (3) the mole and the serpent; (4) biopolitics; (5) Foucault&amp;#39;s dilemma; (6) healing as murder; (7) shock; (8) the lovable big brother; (9) the capitalism of emotion; (10) gamification; (11) big data; (12) beyond the subject; and (13) idiocy.</description><content:encoded><![CDATA[<p>
 Byung-Chul Han, as a writer and philosopher, has an admirable quality: he writes clearly and objectively about complex topics. Even so, it was a laborious book due to the constant need to separate the wheat from the chaff. However, once the cause of the problem was identified, the reading was quite fruitful. The work is divided into thirteen sections/essays: (1) crisis of freedom; (2) intelligent power; (3) the mole and the serpent; (4) biopolitics; (5) Foucault&#39;s dilemma; (6) healing as murder; (7) shock; (8) the lovable big brother; (9) the capitalism of emotion; (10) gamification; (11) big data; (12) beyond the subject; and (13) idiocy.</p>
 <p>
 In summary, in the development of some theses, Byung-Chul argues that neoliberalism operates the transition: from the biopolitical society (body control) to the psychopolitical society (mind control); from disciplinary power (negative and violent) to intelligent power (positive and internalized); from productivity by exploring rationality to productivity by exploring emotion (gamification of work and life, reward system); from the worker-subject (classist, proletarian) to the project-subject (self-entrepreneur); from the exploitation of man by man (exploiter and exploited) to the exploitation of man by himself (“self-exploitation”); from the material mode of production (material objects) to the immaterial mode of production (“emotion/like capitalism”, sociability and communication are exploited); from human memory (forgetting and narrative) to digital memory (non-forgetting and quantification); from the repressive forces against expression (censorship) to the seductive forces of expression (social networks); from extrinsic surveillance (secret services) to intrinsic surveillance (self-exposure); from Bentham&#39;s panopticon (prison and isolation, optical control) to the digital panopticon (illusory freedom and communication, big data).</p>
@@ -95,18 +62,7 @@ Footnote for audiovisual lovers: there is not a single episode of Black Mirror t
 <blockquote>
 <p>For instance, at a given stage of pregnancy, a woman may crave a particular product – yet this impulse marks a correlation of which she remains unaware. She buys the item, but she doesn’t know why. That’s how it is. Conceivably, this that’s-how-it-is (Es-ist-so) exists in psychic proximity to the Freudian id (Es), which escapes the ego and consciousness. In this light, Big Data is making the id into an ego to be exploited psychopolitically. If Big Data has access to the realm of our unconscious actions and inclinations, it is possible to construct a psychopolitics that would reach deep into our psyche to exploit it.  (pg. 48)</p>
 </blockquote>
-]]></content>
-        </item>
-        
-        <item>
-            <title>One-Dimensional Man</title>
-            <link>https://eternodevir.com/blog/one-dimensional-man/</link>
-            <pubDate>Tue, 02 Jun 2020 18:36:32 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/blog/one-dimensional-man/</guid>
-            <description>In a less commercial translation, “One-Dimensional Man: Studies in the Ideology of Developed Industrial Society”, published in 1964. A book with many strengths. Marcuse is a dialectical thinker par excellence. If, on the one hand, he demonstrates how technology modifies production instruments and promotes advances towards human emancipation, on the other hand, he assesses how technology is part of a new form of control, impacting: (i) work; (ii) the political universe; (iii) conscience; (iv) the locution universe; (v) culture; and (vi) thought.</description>
-            <content type="html"><![CDATA[<p>
+]]></content:encoded></item><item><title>One-dimensional man</title><link>https://eternodevir.com/blog/one-dimensional-man/</link><pubDate>Tue, 02 Jun 2020 18:36:32 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/one-dimensional-man/</guid><description>In a less commercial translation, “One-Dimensional Man: Studies in the Ideology of Developed Industrial Society”, published in 1964. A book with many strengths. Marcuse is a dialectical thinker par excellence. If, on the one hand, he demonstrates how technology modifies production instruments and promotes advances towards human emancipation, on the other hand, he assesses how technology is part of a new form of control, impacting: (i) work; (ii) the political universe; (iii) conscience; (iv) the locution universe; (v) culture; and (vi) thought.</description><content:encoded><![CDATA[<p>
 In a less commercial translation, “One-Dimensional Man: Studies in the Ideology of Developed Industrial Society”, published in 1964. A book with many strengths. Marcuse is a dialectical thinker par excellence. If, on the one hand, he demonstrates how technology modifies production instruments and promotes advances towards human emancipation, on the other hand, he assesses how technology is part of a new form of control, impacting: (i) work; (ii) the political universe; (iii) conscience; (iv) the locution universe; (v) culture; and (vi) thought.</p>
 <p>
 In this sense, in short, this new form of control is the one-dimensional society and one-dimensional thinking. It is the ideology of developed industrial society – which is in one of its forms the “Welfare State”. In other words, a society and a thought that reaffirm themselves in the most varied spheres (particularities) in a positive way, rationalizing the irrational and harmonizing/suppressing negative (subversive) thinking, thus removing the (concrete) potentiality of other alternative forms of society (of transformation of the real).</p>
@@ -127,30 +83,19 @@ Nur um der Hoffnungslosen willen ist uns die Hoffnung gegeben.</p>
 <p>
 Only on behalf of the hopeless are we given hope.</p>
 </blockquote>
-]]></content>
-        </item>
-        
-        <item>
-            <title>I write to find out what I think</title>
-            <link>https://eternodevir.com/blog/i-write-to-find-out-what-i-think/</link>
-            <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/blog/i-write-to-find-out-what-i-think/</guid>
-            <description>The other day, I was reminded of my high school math teacher and how combinatorics was one of the few topics that interested me. The ability to envision a universe of possibilities within a given scenario was delightful. This morning, I combined that memory with an idea that has been occupying my mind lately—writing as an exercise of reflection and discovery. The lessons never end…
-Combinatorial analysis exercise I I write to discover what I think.</description>
-            <content type="html"><![CDATA[
+]]></content:encoded></item><item><title>I write to find out what I think</title><link>https://eternodevir.com/blog/i-write-to-find-out-what-i-think/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/i-write-to-find-out-what-i-think/</guid><description>The other day, I was reminded of my high school math teacher and how combinatorics was one of the few topics that interested me. The ability to envision an universe of possibilities within a given scenario was delightful. This morning, I combined that memory with an idea that has been occupying my mind lately—writing as an exercise of reflection and discovery. The lessons never end…
+Combinatorial analysis exercise I I write to discover what I think.</description><content:encoded><![CDATA[
 <p>
 <figure><img src="/images/2020/image03.jpg"/>
 </figure>
 </p>
 <p>
-The other day, I was reminded of my high school math teacher and how combinatorics was one of the few topics that interested me. The ability to envision a universe of possibilities within a given scenario was delightful. This morning, I combined that memory with an idea that has been occupying my mind lately—writing as an exercise of reflection and discovery. The lessons never end…</p>
-<div id="outline-container-headline-1" class="outline-4">
-<h4 id="headline-1">
+The other day, I was reminded of my high school math teacher and how combinatorics was one of the few topics that interested me. The ability to envision an universe of possibilities within a given scenario was delightful. This morning, I combined that memory with an idea that has been occupying my mind lately—writing as an exercise of reflection and discovery. The lessons never end…</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
 Combinatorial analysis exercise I
-</h4>
-<div id="outline-text-headline-1" class="outline-text-4">
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
 <p>
 I write to discover what I think.<br>
 I think to write what I discover.<br>
@@ -160,31 +105,15 @@ I think to discover what I write.<br>
 I discover to write what I think.</p>
 </div>
 </div>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Until the glorious end</title>
-            <link>https://eternodevir.com/blog/until-the-glorious-end/</link>
-            <pubDate>Thu, 19 Mar 2020 23:26:08 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/blog/until-the-glorious-end/</guid>
-            <description>Caixa Cultural, São Paulo, 2015 Essay by Paulo Leminski, published in 1989 in Folha de Londrina, months before his death.
+]]></content:encoded></item><item><title>Until the glorious end</title><link>https://eternodevir.com/blog/until-the-glorious-end/</link><pubDate>Thu, 19 Mar 2020 23:26:08 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/until-the-glorious-end/</guid><description>Caixa Cultural, São Paulo, 2015
+Essay by Paulo Leminski, published in 1989 in Folha de Londrina, months before his death.
 Body not mind When Francis Xavier, the Jesuit missionary, landed in Japan, at the height of navigation, his catechesis produced thousands of conversions and Catholicism began to spread across the country.
-In the letters he wrote to his superiors in Rome, Xavier describes with joy the progress of the apostolate in the Land of the Rising Sun.</description>
-            <content type="html"><![CDATA[
+In the letters he wrote to his superiors in Rome, Xavier describes with joy the progress of the apostolate in the Land of the Rising Sun.</description><content:encoded><![CDATA[
 <p>
-<figure >
-    
-        <img src="/images/2020/image00.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Caixa Cultural, São Paulo, 2015</h5>
-        
-    </figcaption>
-    
+<figure><img src="/images/2020/image00.jpg"
+         alt="Caixa Cultural, São Paulo, 2015"/><figcaption>
+            <p>Caixa Cultural, São Paulo, 2015</p>
+        </figcaption>
 </figure>
 </p>
 <blockquote>
@@ -198,15 +127,15 @@ Body not mind
 <p>
 When Francis Xavier, the Jesuit missionary, landed in Japan, at the height of navigation, his catechesis produced thousands of conversions and Catholicism began to spread across the country.</p>
 <p>
-In the letters he wrote to his superiors in Rome, Xavier describes with joy the progress of the apostolate in the Land of the Rising Sun. In the same letters, however, he complains against the adherents of a sect called Zen (it must be the first mention of Zen in Europe). I can&#39;t convert any of that sect&#39;s adherents, Xavier confesses. They show no respect for sacred things, they laugh at everything and make fun of the symbols of our religion, he continues.</p>
+In the letters he wrote to his superiors in Rome, Xavier describes with joy the progress of the apostolate in the Land of the Rising Sun. In the same letters, however, he complains against the adherents of a sect called Zen (it must be the first mention of Zen in Europe). I can not convert any of that sect&#39;s adherents, Xavier confesses. They show no respect for sacred things, they laugh at everything and make fun of the symbols of our religion, he continues.</p>
 <p>
 The secret reason for Xavier&#39;s failure with Zen practitioners lies in the radical difference between body/mind (or body/soul) relationships in Catholicism and Zen. All Zen practices (Zen is – above all – a practice) aim to reach the body/mind fusion point, that alpha place where this distinction (seen as error and illusion) is no longer possible. They would aim, in a way, at a spiritualization of the body and an embodiment of the mind and spirit.</p>
 <p>
-This is very visible in martial arts, judo, kendo, karate, aikido, all soaked in zen. Those who practice martial arts soon learn that the body is not a machine governed by a brilliant commander called the mind. When applying a blow, it is clearly felt that the body is thinking. It is impossible not to see the parallels between this experience and the experience of sex which, to be fully realized, requires a moment of total fusion between a body that feels and a mind that directs. You can&#39;t get an erection or an orgasm thinking about tax reform…</p>
+This is very visible in martial arts, judo, kendo, karate, aikido, all soaked in zen. Those who practice martial arts soon learn that the body is not a machine governed by a brilliant commander called the mind. When applying a blow, it is clearly felt that the body is thinking. It is impossible not to see the parallels between this experience and the experience of sex which, to be fully realized, requires a moment of total fusion between a body that feels and a mind that directs. You can not get an erection or an orgasm thinking about tax reform…</p>
 <p>
 When trying to convert superiors of the Zen sect, with the basic phrase “save your soul”, Xavier ran into an insurmountable obstacle: the Zen monks could not conceive that the soul was something that people possessed and could have a different destiny from the body, its adventures, miseries and splendours. The art of a judoka or a karateka is not “una cosa mentale”, as Leonardo said of painting. It is essentially unitary, before or after the body/mind dichotomy that surreptitiously pervades all Western thought from Descartes onwards.</p>
 <p>
-The origins of this divorce from the indissociable are, of course, religious in nature: the mind of Western rationalism is the lay child of the salvageable soul of Christianity. No right to beyond the grave, however. But don&#39;t think that something so serious had only philosophical roots in the mind of some isolated thinker. The urban-industrial society, through the work methods it imposed, promotes the body/mind dissociation more than any metaphysical treatise.</p>
+The origins of this divorce from the indissociable are, of course, religious in nature: the mind of Western rationalism is the lay child of the salvageable soul of Christianity. No right to beyond the grave, however. But do not think that something so serious had only philosophical roots in the mind of some isolated thinker. The urban-industrial society, through the work methods it imposed, promotes the body/mind dissociation more than any metaphysical treatise.</p>
 <p>
 It is a disintegrating, detribalizing, atomizing force. There is no place for the body in the big factory, except as a work unit, never as a place of pleasure and sensory satisfaction. And the soul takes on the new names of “professional qualification”, “specialized training”, abstractions within that immense abstraction that is the anonymous industrial-urban society.</p>
 </div>
@@ -221,7 +150,7 @@ Slaves and masters. Nobles and servants. Bosses and employees. Technicians and w
 <p>
 It was through the division of labor that man multiplied his powers over nature at a fantastic speed: just 30,000 years ago all we had to face the hostility of the environment were weapons made of wood, stone and bone and clothing made from animal skins. In this biologically short period of time, we jumped from the wooden spear to the computer, electricity, genetic engineering and nuclear energy. This was only possible because man, in all latitudes, specialized certain groups of society in specific tasks. Any tiger knows how to do everything any tiger can do, and nothing more. Every tiger is a whole. We are fragmented. Some plant, others sell. Some command, others obey. Some celebrate ceremonies to the gods, others carry stones to build pyramids, temples and cathedrals.</p>
 <p>
-Who doesn&#39;t see that the mind/body dichotomy is a projection and a consequence of the division of labor, the division internalized in us? The mind is a metaphor for the ruling class served by the body.</p>
+Who does not see that the mind/body dichotomy is a projection and a consequence of the division of labor, the division internalized in us? The mind is a metaphor for the ruling class served by the body.</p>
 <p>
 The division of labor is the true Original Sin, the one that expels us from paradise and launches us into the great adventure of life and the world. The serpent suggests, Eve picks the forbidden fruit, Adam eats it… To integrate mind and body is to return to the paradise that we can only experience in privileged moments: for disintegrated people, paradise is also experienced in the form of a fragment.</p>
 <p>
@@ -229,7 +158,7 @@ One of the most radical moments in the division of labor is the separation betwe
 <p>
 And certain religious practices such as fasting, chastity, silence and the pursuit of physical discomfort have powerfully contributed to accelerating the split between body and mind. It would not be an exaggeration to imagine that the notion of the “soul” was born from these practices where the body is treated as an enemy, a beast that must be tamed, humiliated and reduced to being a docile mount under the reins of the “Spirit”.</p>
 <p>
-In the last century, when today&#39;s industrial rule begins, the figure of the “intellectual” appears, the man/mind par excellence, living only in the rarefied atmosphere of the “world of ideas”. With the intellectual, his affines, the technician, the specialist, the thinker…</p>
+In the last century, when nowadays industrial rule begins, the figure of the “intellectual” appears, the man/mind par excellence, living only in the rarefied atmosphere of the “world of ideas”. With the intellectual, his affines, the technician, the specialist, the thinker…</p>
 <p>
 Between a body and a mind, a thousand light years of emptiness where monsters and demons, goblins and neuroses are created. The demons were called Lucifer, Beelzebub, Asmodeus, Belial. Today they are called neurosis, paranoia, schizophrenia, mania, anxiety. It is dangerous to separate what is by nature one and whole.</p>
 </div>
@@ -251,11 +180,11 @@ For Zen, the secret is in everyday life itself. It is necessary to rescue the in
 It takes work.</p>
 <p>
 But to shine, the stars must burn, until the glorious end.</p>
-<div id="outline-container-headline-4" class="outline-4">
-<h4 id="headline-4">
+<div id="outline-container-headline-4" class="outline-3">
+<h3 id="headline-4">
 Towards the lushness
-</h4>
-<div id="outline-text-headline-4" class="outline-text-4">
+</h3>
+<div id="outline-text-headline-4" class="outline-text-3">
 <p>
 Disguise, there are people looking.<br>
 Some look up,<br>
@@ -278,133 +207,65 @@ the soul, this fairy tale.</p>
 </div>
 </div>
 </div>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Party of the bothered ones</title>
-            <link>https://eternodevir.com/blog/party-of-the-bothered-ones/</link>
-            <pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/blog/party-of-the-bothered-ones/</guid>
-            <description>A person who is bothered talks about something that is annoying them. Some people who are bothered agree with them, while others who are bothered disagree. At a party, those who are not bothered are divided into two groups: those who are not bothered by the annoyance itself, but by the fact that there are so many bothered people bothering them; and those who are not bothered by anything at all, except for those who are not bothered by being bothered by so many bothers, which is known to cause them deep annoyance.</description>
-            <content type="html"><![CDATA[<p>
-A person who is bothered talks about something that is annoying them. Some people who are bothered agree with them, while others who are bothered disagree. At a party, those who are not bothered are divided into two groups: those who are not bothered by the annoyance itself, but by the fact that there are so many bothered people bothering them; and those who are not bothered by anything at all, except for those who are not bothered by being bothered by so many bothers, which is known to cause them deep annoyance.</p>
-<p>
-In the end, the only people who decided not to go to the party were those who were not bothered at all, which certainly bothered a lot of people. Or at least that&#39;s how it seemed until they realized they weren&#39;t even invited.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>For Street Cinema memories</title>
-            <link>https://eternodevir.com/blog/for-street-cinema-memories/</link>
-            <pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/blog/for-street-cinema-memories/</guid>
-            <description>Cinearte Palace, Juiz de Fora, 2017 Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that wasn&amp;#39;t purely commercial. It was a place for art, experimentation, transformation, and freedom. Each director had their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.
-However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil.</description>
-            <content type="html"><![CDATA[<p>
-<figure >
-    
-        <img src="/images/2019/image00.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Cinearte Palace, Juiz de Fora, 2017</h5>
-        
-    </figcaption>
-    
+]]></content:encoded></item><item><title>Party of the bothered ones</title><link>https://eternodevir.com/blog/party-of-the-bothered-ones/</link><pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/party-of-the-bothered-ones/</guid><description>A person who is bothered talks about something that is annoying them. Some people who are bothered agree with them, while others who are bothered disagree. At the party, those who are not bothered are divided into two groups: those who are not bothered by the annoyance itself, but by the fact that there are so many bothered people bothering them; and those who are not bothered by anything at all, except for those who are not bothered by being bothered by so many bothers, which is known to cause them deep annoyance.</description><content:encoded>&lt;p>
+A person who is bothered talks about something that is annoying them. Some people who are bothered agree with them, while others who are bothered disagree. At the party, those who are not bothered are divided into two groups: those who are not bothered by the annoyance itself, but by the fact that there are so many bothered people bothering them; and those who are not bothered by anything at all, except for those who are not bothered by being bothered by so many bothers, which is known to cause them deep annoyance.&lt;/p>
+&lt;p>
+In the end, the only people who decided not to go to the party were those who were not bothered at all, which certainly bothered a lot of people. Or at least that is how it seemed until they realized they were not even invited.&lt;/p></content:encoded></item><item><title>For Street Cinema memories</title><link>https://eternodevir.com/blog/for-street-cinema-memories/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/for-street-cinema-memories/</guid><description>Cinearte Palace, Juiz de Fora, 2017
+Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. It was a place for art, experimentation, transformation, and freedom. Each director had their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.
+However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil.</description><content:encoded><![CDATA[<p>
+<figure><img src="/images/2019/image00.jpg"
+         alt="Cinearte Palace, Juiz de Fora, 2017"/><figcaption>
+            <p>Cinearte Palace, Juiz de Fora, 2017</p>
+        </figcaption>
 </figure>
 </p>
 <p>
-Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that wasn&#39;t purely commercial. It was a place for art, experimentation, transformation, and freedom. Each director had their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.</p>
+Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. It was a place for art, experimentation, transformation, and freedom. Each director had their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.</p>
 <p>
 However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil. The cinema experience was transformed, shifting to large shopping centers, and popular festivals and local productions were put in the background by blockbusters. Despite this, some places for encountering the unknown still resist.</p>
 <p>
-<figure >
-    
-        <img src="/images/2019/image01.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Cine Roxy, Rio de Janeiro, 2018</h5>
-        
-    </figcaption>
-    
+<figure><img src="/images/2019/image01.jpg"
+         alt="Cine Roxy, Rio de Janeiro, 2018"/><figcaption>
+            <p>Cine Roxy, Rio de Janeiro, 2018</p>
+        </figcaption>
 </figure>
 </p>
 <p>
-In my search for one of these places in Passau, a small town on the border of Germany and Austria, I was fortunate to find a street cinema showing the Brazilian film &#34;<a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a>&#34; by Marcelo Caetano. I watched it during one of the only two sessions that took place in Juiz de Fora. &#34;Corpo Elétrico&#34; reminded me of Glauber&#39;s genuine will to create something instigating that, more than understanding, dared to invite us to feel. In the darkness of the emptied rows of that German street cinema, I was reaffirmed of how surprising and fascinating these spaces are that still encourage diversity and experimentation. After having lived near the last street cinema in Juiz de Fora for seven years, I have never felt so close to home even when so far away.</p>
+In my search for one of these places in Passau, a small town on the border of Germany and Austria, I was fortunate to find a street cinema showing the Brazilian film <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em>—which I watched during one of the only two sessions that took place in Juiz de Fora. The feature, by Marcelo Caetano, reminds me of Glauber&#39;s genuine will to create something instigating that, more than understanding, dares to invite us to feel. In the darkness of the emptied rows of that German street cinema, I reaffirmed how surprising and fascinating these spaces are that still encourage diversity and experimentation. After having lived near the last street cinema in Juiz de Fora for seven years, I have never felt so close to home even when so far away.</p>
 <p>
-<figure >
-    
-        <img src="/images/2019/image02.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Metropolis, Passau, 2019</h5>
-        
-    </figcaption>
-    
+<figure><img src="/images/2019/image02.jpg"
+         alt="Metropolis, Passau, 2019"/><figcaption>
+            <p>Metropolis, Passau, 2019</p>
+        </figcaption>
 </figure>
 </p>
 <p>
-<figure >
-    
-        <img src="/images/2019/image03.jpg"  />
-    
-    
-    <figcaption>
-        <h5>ProLi, Passau, 2019</h5>
-        
-    </figcaption>
-    
+<figure><img src="/images/2019/image03.jpg"
+         alt="ProLi, Passau, 2019"/><figcaption>
+            <p>ProLi, Passau, 2019</p>
+        </figcaption>
 </figure>
 </p>
 <p>
-<figure >
-    
-        <img src="/images/2019/image04.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Regina, Regensburg, 2019</h5>
-        
-    </figcaption>
-    
+<figure><img src="/images/2019/image04.jpg"
+         alt="Regina, Regensburg, 2019"/><figcaption>
+            <p>Regina, Regensburg, 2019</p>
+        </figcaption>
 </figure>
 </p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>The Seventh</title>
-            <link>https://eternodevir.com/blog/the-seventh/</link>
-            <pubDate>Sun, 02 Dec 2018 22:07:49 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/blog/the-seventh/</guid>
-            <description>Cinearte Palace, Juiz de Fora, 2016 As of late, I have developed a habit of revisiting films for their soundtracks. Upon reflection, I have come to realize that many of my fondest cinematic memories are inextricably linked to the power of the audio-visual relationship, particularly in scenes that are closely tied to specific songs. The playlist that I have compiled is a tribute to these memories.
-Songs have the ability to become an integral part of the narrative in films when chosen carefully.</description>
-            <content type="html"><![CDATA[<p>
-<figure >
-    
-        <img src="/images/2018/image00.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Cinearte Palace, Juiz de Fora, 2016</h5>
-        
-    </figcaption>
-    
+]]></content:encoded></item><item><title>The Seventh</title><link>https://eternodevir.com/blog/the-seventh/</link><pubDate>Sun, 02 Dec 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/the-seventh/</guid><description>Cinearte Palace, Juiz de Fora, 2016
+As of late, I have developed a habit of revisiting films for their soundtracks. Upon reflection, I have come to realize that many of my fondest cinematic memories are inextricably linked to the power of the audio-visual relationship, particularly in scenes that are closely tied to specific songs. The playlist that I have compiled is a tribute to these memories.
+Songs have the ability to become an integral part of the narrative in films when chosen carefully.</description><content:encoded><![CDATA[<p>
+<figure><img src="/images/2018/image00.jpg"
+         alt="Cinearte Palace, Juiz de Fora, 2016"/><figcaption>
+            <p>Cinearte Palace, Juiz de Fora, 2016</p>
+        </figcaption>
 </figure>
 </p>
 <p>
 As of late, I have developed a habit of revisiting films for their soundtracks. Upon reflection, I have come to realize that many of my fondest cinematic memories are inextricably linked to the power of the audio-visual relationship, particularly in scenes that are closely tied to specific songs. The playlist that I have compiled is a tribute to these memories.</p>
 <p>
-Songs have the ability to become an integral part of the narrative in films when chosen carefully. These choices deserve the utmost recognition. At times, they strengthen my connection with a scene, a character, or even the film as a whole. The seventh art seems to have this anthropophagic ability to absorb its predecessors in its own way, resulting in unforgettable combinations.</p>
+Songs have the ability to become an integral part of the narrative in films when chosen carefully. These choices deserve the utmost recognition. At times, they strengthen the connection with a scene, a character, or even the film as a whole. The seventh art seems to have this anthropophagic ability to absorb its predecessors in its own way, resulting in unforgettable combinations.</p>
 <p>
 I dedicate this playlist and film list to Cinearte Palace, the last street cinema in Juiz de Fora. Tragically, it ended its activities in 2017. This movie theater was more than a special place; it was a cultural and cinematic bastion that resisted commercial doldrums. I have many fond memories there, some of which  I am sharing here.</p>
 <p>
@@ -495,8 +356,4 @@ I dedicate this playlist and film list to Cinearte Palace, the last street cinem
 <li>Apocalypse Now (1979), Francis Ford Coppola</li>
 <li>Blade Runner (1982), Ridley Scott</li>
 </ol>
-]]></content>
-        </item>
-        
-    </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

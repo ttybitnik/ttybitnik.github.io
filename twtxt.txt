@@ -1,0 +1,23 @@
+# | |___      _| |___  _| |_
+# | __\ \ /\ / / __\ \/ / __|
+# | |_ \ V  V /| |_ >  <| |_
+#  \__| \_/\_/  \__/_/\_\\__|
+#
+# Twtxt is an open, distributed
+# microblogging platform that
+# uses human-readable text files,
+# common transport protocols, and
+# free software.
+#
+# Learn more about twtxt at
+#   https://github.com/buckket/twtxt
+#
+# ------------------------------------------
+#
+#    nick = ttybitnik
+#    url = https://eternodevir.com/twtxt.txt
+#    lang = en
+2023-12-01T11:01:52-03:00	Ready. Set. Go! First twt here :-)
+2023-12-01T11:02:40-03:00	Does twtxt append new twts??
+2023-12-01T11:05:11-03:00	Yep, new twts are appended. They must reverse sort on the client to display them at the top.
+2023-12-01T11:08:24-03:00	Fun! Loved it. Certainly there's a M-x for twtxt as well. Gonna check later. https://xkcd.com/378 :-P

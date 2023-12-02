@@ -1,27 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Blog on Eterno Devir</title>
-        <link>https://eternodevir.com/pt-br/blog/</link>
-        <description>Recent content in Blog on Eterno Devir</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
-        <managingEditor>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</managingEditor>
-        <webMaster>Vinicius Moraes &lt;vinicius.moraes@eternodevir.com&gt;</webMaster>
-        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-SA 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 12 Mar 2023 19:16:33 -0300</lastBuildDate>
-        <atom:link href="https://eternodevir.com/pt-br/blog/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Rendez-vous 1408</title>
-            <link>https://eternodevir.com/pt-br/blog/rendez-vous-1408/</link>
-            <pubDate>Sun, 16 Oct 2022 11:01:24 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/pt-br/blog/rendez-vous-1408/</guid>
-            <description>Tenho boas lembranças das músicas que tocavam durante as noites de sarau, encontros casuais com amigos queridos e mergulhos noturnos na piscina durante meus tempos de faculdade no 1408. As melodias e letras que antes reverberavam no ar daquele apartamento agora refrescam minha memória com aqueles momentos inesquecíveis.</description>
-            <content type="html"><![CDATA[<p>
-Tenho boas lembranças das músicas que tocavam durante as noites de sarau, encontros casuais com amigos queridos e mergulhos noturnos na piscina durante meus tempos de faculdade no 1408. As melodias e letras que antes reverberavam no ar daquele apartamento agora refrescam minha memória com aqueles momentos inesquecíveis.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blog on Eterno Devir</title><link>https://eternodevir.com/pt-br/blog/</link><description>Recent content in Blog on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 12 Mar 2023 19:16:33 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Rendez-vous 1408</title><link>https://eternodevir.com/pt-br/blog/rendez-vous-1408/</link><pubDate>Sun, 16 Oct 2022 11:01:24 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/rendez-vous-1408/</guid><description>Tenho boas lembranças das músicas que tocavam durante as noites de sarau, os encontros casuais com amigos queridos e os mergulhos noturnos na piscina durante os tempos de faculdade no 1408. As melodias e letras que antes reverberavam no ar daquele apartamento agora refrescam minha memória daqueles momentos inesquecíveis.</description><content:encoded><![CDATA[<p>
+Tenho boas lembranças das músicas que tocavam durante as noites de sarau, os encontros casuais com amigos queridos e os mergulhos noturnos na piscina durante os tempos de faculdade no 1408. As melodias e letras que antes reverberavam no ar daquele apartamento agora refrescam minha memória daqueles momentos inesquecíveis.</p>
 <p>
  
  <div style="margin: 25px 0px">
@@ -35,18 +13,7 @@ Tenho boas lembranças das músicas que tocavam durante as noites de sarau, enco
  
  </div>
 </p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Psicopolítica</title>
-            <link>https://eternodevir.com/pt-br/blog/psicopol%C3%ADtica/</link>
-            <pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/pt-br/blog/psicopol%C3%ADtica/</guid>
-            <description>Byung-Chul Han, enquanto escritor e filósofo, tem uma qualidade admirável: escrever de maneira clara e objetiva sobre temas complexos. Ainda assim, foi um livro trabalhoso pela necessidade constante de separar o joio do trigo. Contudo, uma vez identificada a causa do problema, a leitura foi bastante proveitosa. A obra é dividida em treze seções/ensaios: (1) crise da liberdade; (2) poder inteligente; (3) a toupeira e a serpente; (4) biopolítica; (5) o dilema de Foucault; (6) a cura como assassinato; (7) choque; (8) o amável grande irmão; (9) o capitalismo da emoção; (10) gamificação; (11) big data; (12) para além do sujeito; e (13) idiotismo.</description>
-            <content type="html"><![CDATA[<p>
+]]></content:encoded></item><item><title>Psicopolítica</title><link>https://eternodevir.com/pt-br/blog/psicopol%C3%ADtica/</link><pubDate>Sat, 27 Jun 2020 10:52:51 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/psicopol%C3%ADtica/</guid><description>Byung-Chul Han, enquanto escritor e filósofo, tem uma qualidade admirável: escrever de maneira clara e objetiva sobre temas complexos. Ainda assim, foi um livro trabalhoso pela necessidade constante de separar o joio do trigo. Contudo, uma vez identificada a causa do problema, a leitura foi bastante proveitosa. A obra é dividida em treze seções/ensaios: (1) crise da liberdade; (2) poder inteligente; (3) a toupeira e a serpente; (4) biopolítica; (5) o dilema de Foucault; (6) a cura como assassinato; (7) choque; (8) o amável grande irmão; (9) o capitalismo da emoção; (10) gamificação; (11) big data; (12) para além do sujeito; e (13) idiotismo.</description><content:encoded><![CDATA[<p>
 Byung-Chul Han, enquanto escritor e filósofo, tem uma qualidade admirável: escrever de maneira clara e objetiva sobre temas complexos. Ainda assim, foi um livro trabalhoso pela necessidade constante de separar o joio do trigo. Contudo, uma vez identificada a causa do problema, a leitura foi bastante proveitosa. A obra é dividida em treze seções/ensaios: (1) crise da liberdade; (2) poder inteligente; (3) a toupeira e a serpente; (4) biopolítica; (5) o dilema de Foucault; (6) a cura como assassinato; (7) choque; (8) o amável grande irmão; (9) o capitalismo da emoção; (10) gamificação; (11) big data; (12) para além do sujeito; e (13) idiotismo.</p>
 <p>
 De maneira resumida, no desenvolvimento de algumas teses, Byung-Chul defende que o neoliberalismo opera a transição: da sociedade da biopolítica (controle do corpo) para a sociedade da psicopolítica (controle da mente); do poder disciplinar (negativo e violento) para o poder inteligente (positivo e internalizado); da produtividade pela exploração da racionalidade para a produtividade pela exploração da emoção (gamificação do trabalho e da vida, sistema de recompensas); do sujeito-trabalhador (classista, proletário) para o sujeito-projeto (empreendedor de si); da exploração do homem pelo homem (explorador e explorado) para a exploração do homem por si mesmo (“autoexploração”); do modo de produção material (objetos materiais) para o modo de produção imaterial (“capitalismo da emoção/like”, sociabilidade e comunicação são exploradas); da memória humana (esquecimento e narrativa) para a memória digital (não-esquecimento e quantificação); das forças repressivas contra a expressão (censura) para as forças sedutoras de expressão (redes sociais); da vigilância extrínseca (serviços secretos) para a vigilância intrínseca (autoexposição); do panóptico de Bentham (prisão e isolamento, controle óptico) para o panóptico digital (liberdade ilusória e comunicação, big data).</p>
@@ -95,18 +62,7 @@ Nota de pé de página para os amantes do audiovisual: não existe um episódio 
 <blockquote>
 <p>For instance, at a given stage of pregnancy, a woman may crave a particular product – yet this impulse marks a correlation of which she remains unaware. She buys the item, but she doesn’t know why. That’s how it is. Conceivably, this that’s-how-it-is (Es-ist-so) exists in psychic proximity to the Freudian id (Es), which escapes the ego and consciousness. In this light, Big Data is making the id into an ego to be exploited psychopolitically. If Big Data has access to the realm of our unconscious actions and inclinations, it is possible to construct a psychopolitics that would reach deep into our psyche to exploit it.  (pg. 48)</p>
 </blockquote>
-]]></content>
-        </item>
-        
-        <item>
-            <title>O homem unidimensional</title>
-            <link>https://eternodevir.com/pt-br/blog/o-homem-unidimensional/</link>
-            <pubDate>Tue, 02 Jun 2020 18:36:32 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/pt-br/blog/o-homem-unidimensional/</guid>
-            <description>Em uma tradução menos comercial, “O homem unidimensional: estudos sobre a ideologia da sociedade industrial desenvolvida”, publicado em 1964. Um livro com muitos pontos fortes. Marcuse é um pensador dialético por excelência. Se por um lado, ele demonstra como a tecnologia modifica os instrumentos de produção e promove avanços para a emancipação humana, por outro, ele avalia como a tecnologia é parte de uma nova forma de controle, impactando: (i) o trabalho; (ii) o universo político; (iii) a consciência; (iv) o universo de locução; (v) a cultura; e (vi) o pensamento.</description>
-            <content type="html"><![CDATA[<p>
+]]></content:encoded></item><item><title>O homem unidimensional</title><link>https://eternodevir.com/pt-br/blog/o-homem-unidimensional/</link><pubDate>Tue, 02 Jun 2020 18:36:32 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/o-homem-unidimensional/</guid><description>Em uma tradução menos comercial, “O homem unidimensional: estudos sobre a ideologia da sociedade industrial desenvolvida”, publicado em 1964. Um livro com muitos pontos fortes. Marcuse é um pensador dialético por excelência. Se por um lado, ele demonstra como a tecnologia modifica os instrumentos de produção e promove avanços para a emancipação humana, por outro, ele avalia como a tecnologia é parte de uma nova forma de controle, impactando: (i) o trabalho; (ii) o universo político; (iii) a consciência; (iv) o universo de locução; (v) a cultura; e (vi) o pensamento.</description><content:encoded><![CDATA[<p>
 Em uma tradução menos comercial, “O homem unidimensional: estudos sobre a ideologia da sociedade industrial desenvolvida”, publicado em 1964. Um livro com muitos pontos fortes. Marcuse é um pensador dialético por excelência. Se por um lado, ele demonstra como a tecnologia modifica os instrumentos de produção e promove avanços para a emancipação humana, por outro, ele avalia como a tecnologia é parte de uma nova forma de controle, impactando: (i) o trabalho; (ii) o universo político; (iii) a consciência; (iv) o universo de locução; (v) a cultura; e (vi) o pensamento.</p>
 <p>
 Nesse sentido, abreviadamente, essa nova forma de controle é a sociedade unidimensional e o pensamento unidimensional. É a ideologia da sociedade industrial desenvolvida – que é em uma de suas formas o “Estado de Bem-Estar Social”. Em outras palavras, uma sociedade e um pensamento que se reafirmam nas mais variadas esferas (particularidades) de maneira positiva, racionalizando o irracional e harmonizando/suprimindo o pensamento negativo (subversivo), afastando, assim, a potencialidade (concreta) de outras formas alternativas de sociedade (de transformação do real).</p>
@@ -127,30 +83,19 @@ Nur um der Hoffnungslosen willen ist uns die Hoffnung gegeben.</p>
 <p>
 Somente em nome dos desesperançados nos é dada esperança.</p>
 </blockquote>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Escrevo para descobrir o que penso</title>
-            <link>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</link>
-            <pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</guid>
-            <description>Outro dia, lembrei-me do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…
-Exercício de análise combinatória I Escrevo para descobrir o que penso.</description>
-            <content type="html"><![CDATA[
+]]></content:encoded></item><item><title>Escrevo para descobrir o que penso</title><link>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</guid><description>Outro dia me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…
+Exercício de análise combinatória I Escrevo para descobrir o que penso.</description><content:encoded><![CDATA[
 <p>
 <figure><img src="/images/2020/image03.jpg"/>
 </figure>
 </p>
 <p>
-Outro dia, lembrei-me do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…</p>
-<div id="outline-container-headline-1" class="outline-4">
-<h4 id="headline-1">
+Outro dia me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
 Exercício de análise combinatória I
-</h4>
-<div id="outline-text-headline-1" class="outline-text-4">
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
 <p>
 Escrevo para descobrir o que penso.<br>
 Penso para escrever o que descubro.<br>
@@ -160,31 +105,15 @@ Penso para descobrir o que escrevo.<br>
 Descubro para escrever o que penso.</p>
 </div>
 </div>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Até o glorioso fim</title>
-            <link>https://eternodevir.com/pt-br/blog/at%C3%A9-o-glorioso-fim/</link>
-            <pubDate>Thu, 19 Mar 2020 23:26:08 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/pt-br/blog/at%C3%A9-o-glorioso-fim/</guid>
-            <description>Caixa Cultural, São Paulo, 2015 Ensaio de Paulo Leminski, publicado em 1989 na Folha de Londrina, meses antes de sua morte.
+]]></content:encoded></item><item><title>Até o glorioso fim</title><link>https://eternodevir.com/pt-br/blog/at%C3%A9-o-glorioso-fim/</link><pubDate>Thu, 19 Mar 2020 23:26:08 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/at%C3%A9-o-glorioso-fim/</guid><description>Caixa Cultural, São Paulo, 2015
+Ensaio de Paulo Leminski, publicado em 1989 na Folha de Londrina, meses antes de sua morte.
 Corpo não mente Quando Francisco Xavier, o missionário jesuíta, aportou no Japão, na crista das navegações, sua catequese produziu milhares de conversões e o catolicismo começou a se espalhar pelo país.
-Nas cartas que escreveu para seus superiores em Roma, Xavier descreve com júbilo os progressos do apostolado na Terra do Sol Nascente.</description>
-            <content type="html"><![CDATA[
+Nas cartas que escreveu para seus superiores em Roma, Xavier descreve com júbilo os progressos do apostolado na Terra do Sol Nascente.</description><content:encoded><![CDATA[
 <p>
-<figure >
-    
-        <img src="/images/2020/image00.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Caixa Cultural, São Paulo, 2015</h5>
-        
-    </figcaption>
-    
+<figure><img src="/images/2020/image00.jpg"
+         alt="Caixa Cultural, São Paulo, 2015"/><figcaption>
+            <p>Caixa Cultural, São Paulo, 2015</p>
+        </figcaption>
 </figure>
 </p>
 <blockquote>
@@ -251,11 +180,11 @@ Para o zen, é na própria vida cotidiana que está o segredo. É preciso resgat
 Dá trabalho.</p>
 <p>
 Mas, para brilhar, as estrelas têm que arder, até o glorioso fim.</p>
-<div id="outline-container-headline-4" class="outline-4">
-<h4 id="headline-4">
+<div id="outline-container-headline-4" class="outline-3">
+<h3 id="headline-4">
 Rumo ao sumo
-</h4>
-<div id="outline-text-headline-4" class="outline-text-4">
+</h3>
+<div id="outline-text-headline-4" class="outline-text-3">
 <p>
 Disfarça, tem gente olhando.<br>
 Uns, olham pro alto,<br>
@@ -278,45 +207,17 @@ a alma, esse conto de fada.</p>
 </div>
 </div>
 </div>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Festa dos incomodados</title>
-            <link>https://eternodevir.com/pt-br/blog/festa-dos-incomodados/</link>
-            <pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/pt-br/blog/festa-dos-incomodados/</guid>
-            <description>Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.
-No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente.</description>
-            <content type="html"><![CDATA[<p>
-Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.</p>
-<p>
-No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente. Quer dizer, parecia ser assim… pelo menos até perceberem que sequer tinham sido convidados.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Por memórias de Cinema de Rua</title>
-            <link>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</link>
-            <pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</guid>
-            <description>Cinearte Palace, Juiz de Fora, 2017 Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Era um lugar de arte, experimentação, transformação e liberdade. Cada diretor tinha sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.
-No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil.</description>
-            <content type="html"><![CDATA[<p>
-<figure >
-    
-        <img src="/images/2019/image00.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Cinearte Palace, Juiz de Fora, 2017</h5>
-        
-    </figcaption>
-    
+]]></content:encoded></item><item><title>Festa dos incomodados</title><link>https://eternodevir.com/pt-br/blog/festa-dos-incomodados/</link><pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/festa-dos-incomodados/</guid><description>Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.
+No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente.</description><content:encoded>&lt;p>
+Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.&lt;/p>
+&lt;p>
+No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente. Quer dizer, parecia ser assim… pelo menos até perceberem que sequer tinham sido convidados.&lt;/p></content:encoded></item><item><title>Por memórias de Cinema de Rua</title><link>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</guid><description>Cinearte Palace, Juiz de Fora, 2017
+Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Era um lugar de arte, experimentação, transformação e liberdade. Cada diretor tinha sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.
+No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil.</description><content:encoded><![CDATA[<p>
+<figure><img src="/images/2019/image00.jpg"
+         alt="Cinearte Palace, Juiz de Fora, 2017"/><figcaption>
+            <p>Cinearte Palace, Juiz de Fora, 2017</p>
+        </figcaption>
 </figure>
 </p>
 <p>
@@ -324,88 +225,48 @@ Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema na
 <p>
 No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil. A experiência cinematográfica foi transformada, deslocando-se para os grandes centros comerciais, e os cinemas populares e as produções locais foram colocadas em segundo plano pelos blockbusters. Apesar disso, alguns locais de encontro com o desconhecido ainda resistem.</p>
 <p>
-<figure >
-    
-        <img src="/images/2019/image01.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Cine Roxy, Rio de Janeiro, 2018</h5>
-        
-    </figcaption>
-    
+<figure><img src="/images/2019/image01.jpg"
+         alt="Cine Roxy, Rio de Janeiro, 2018"/><figcaption>
+            <p>Cine Roxy, Rio de Janeiro, 2018</p>
+        </figcaption>
 </figure>
 </p>
 <p>
-Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entre Alemanha e Áustria, tive a sorte de encontrar um cinema de rua exibindo o filme brasileiro &#34;<a href="https://www.youtube.com/watch?v =GxCOCthjc7o">Corpo Elétrico</a>&#34; de Marcelo Caetano. Assisti esse filme durante uma das duas únicas sessões que aconteceram em Juiz de Fora. “Corpo Elétrico” me lembrou a vontade genuína de Glauber em criar algo instigante que, mais do que compreender, ousa nos convidar a sentir. Na escuridão das filas vazias daquele cinema de rua alemão, reafirmei o quão surpreendentes e fascinantes são estes espaços que ainda incentivam a diversidade e a experimentação. Depois de viver sete anos perto do último cinema de rua de Juiz de Fora, nunca me senti tão perto de casa mesmo estando tão longe.</p>
+Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entre Alemanha e Áustria, tive a sorte de encontrar um cinema de rua exibindo o filme brasileiro <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em> — que assisti durante uma das duas únicas sessões que aconteceram em Juiz de Fora. A obra, de Marcelo Caetano, me lembra a vontade genuína de Glauber em criar algo instigante que, mais do que compreender, ousa nos convidar a sentir. Na escuridão das fileiras vazias daquele cinema de rua alemão, reafirmei o quão surpreendentes e fascinantes são estes espaços que ainda incentivam a diversidade e a experimentação. Depois de viver sete anos perto do último cinema de rua de Juiz de Fora, nunca me senti tão perto de casa mesmo estando tão distante.</p>
 <p>
-<figure >
-    
-        <img src="/images/2019/image02.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Metropolis, Passau, 2019</h5>
-        
-    </figcaption>
-    
+<figure><img src="/images/2019/image02.jpg"
+         alt="Metropolis, Passau, 2019"/><figcaption>
+            <p>Metropolis, Passau, 2019</p>
+        </figcaption>
 </figure>
 </p>
 <p>
-<figure >
-    
-        <img src="/images/2019/image03.jpg"  />
-    
-    
-    <figcaption>
-        <h5>ProLi, Passau, 2019</h5>
-        
-    </figcaption>
-    
+<figure><img src="/images/2019/image03.jpg"
+         alt="ProLi, Passau, 2019"/><figcaption>
+            <p>ProLi, Passau, 2019</p>
+        </figcaption>
 </figure>
 </p>
 <p>
-<figure >
-    
-        <img src="/images/2019/image04.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Regina, Regensburg, 2019</h5>
-        
-    </figcaption>
-    
+<figure><img src="/images/2019/image04.jpg"
+         alt="Regina, Regensburg, 2019"/><figcaption>
+            <p>Regina, Regensburg, 2019</p>
+        </figcaption>
 </figure>
 </p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>A Sétima</title>
-            <link>https://eternodevir.com/pt-br/blog/a-s%C3%A9tima/</link>
-            <pubDate>Sun, 02 Dec 2018 22:07:49 -0300</pubDate>
-            <author><name>Vinicius Moraes</name>
-	    <email>vinicius.moraes@eternodevir.com</email></author>
-            <guid>https://eternodevir.com/pt-br/blog/a-s%C3%A9tima/</guid>
-            <description>Cinearte Palace, Juiz de Fora, 2016 De uns tempos para cá, desenvolvi o hábito revisitar filmes através da trilha sonora. Após refletir, percebi que muitas das minhas melhores memórias cinematográficas estão inextricavelmente ligadas ao poder da relação audiovisual, especialmente em cenas que estão intimamente ligadas a músicas específicas. A playlist que criei é uma homenagem a essas memórias.
-As músicas têm a capacidade de se tornar parte integrante da narrativa dos filmes quando escolhidas com cuidado.</description>
-            <content type="html"><![CDATA[<p>
-<figure >
-    
-        <img src="/images/2018/image00.jpg"  />
-    
-    
-    <figcaption>
-        <h5>Cinearte Palace, Juiz de Fora, 2016</h5>
-        
-    </figcaption>
-    
+]]></content:encoded></item><item><title>A Sétima</title><link>https://eternodevir.com/pt-br/blog/a-s%C3%A9tima/</link><pubDate>Sun, 02 Dec 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/a-s%C3%A9tima/</guid><description>Cinearte Palace, Juiz de Fora, 2016
+De uns tempos para cá, desenvolvi o hábito revisitar filmes através da trilha sonora. Após refletir, percebi que muitas das minhas melhores memórias cinematográficas estão inextricavelmente ligadas ao poder da relação audiovisual, especialmente em cenas que estão intimamente ligadas a músicas específicas. A playlist que criei é uma homenagem a essas memórias.
+As músicas têm a capacidade de se tornar parte integrante da narrativa dos filmes quando escolhidas com cuidado.</description><content:encoded><![CDATA[<p>
+<figure><img src="/images/2018/image00.jpg"
+         alt="Cinearte Palace, Juiz de Fora, 2016"/><figcaption>
+            <p>Cinearte Palace, Juiz de Fora, 2016</p>
+        </figcaption>
 </figure>
 </p>
 <p>
 De uns tempos para cá, desenvolvi o hábito revisitar filmes através da trilha sonora. Após refletir, percebi que muitas das minhas melhores memórias cinematográficas estão inextricavelmente ligadas ao poder da relação audiovisual, especialmente em cenas que estão intimamente ligadas a músicas específicas. A playlist que criei é uma homenagem a essas memórias.</p>
 <p>
-As músicas têm a capacidade de se tornar parte integrante da narrativa dos filmes quando escolhidas com cuidado. Estas escolhas merecem o maior reconhecimento. Às vezes, fortalecem minha conexão com uma cena, um personagem ou até mesmo com o filme como um todo. A sétima arte parece ter essa capacidade antropofágica de absorver à sua maneira as suas antecessoras, resultando em combinações inesquecíveis.</p>
+As músicas têm a capacidade de se tornar parte integrante da narrativa dos filmes quando escolhidas com cuidado. Estas escolhas merecem o maior reconhecimento. Às vezes, fortalecem a conexão com uma cena, com um personagem ou até mesmo com o filme como um todo. A sétima arte parece ter essa capacidade antropofágica de absorver à sua maneira as suas antecessoras, resultando em combinações inesquecíveis.</p>
 <p>
 Dedico esta playlist e lista de filmes ao Cinearte Palace, o último cinema de rua de Juiz de Fora que, tragicamente, encerrou suas atividades em 2017. Esse cinema era mais que um lugar especial; foi um bastião cultural e cinematográfico que resistiu à estagnação comercial. Tenho muitas boas lembranças de lá, algumas das quais compartilho aqui.</p>
 <p>
@@ -496,8 +357,4 @@ Dedico esta playlist e lista de filmes ao Cinearte Palace, o último cinema de r
 <li>Apocalypse Now (1979), Francis Ford Coppola</li>
 <li>Blade Runner (1982), Ridley Scott</li>
 </ol>
-]]></content>
-        </item>
-        
-    </channel>
-</rss>
+]]></content:encoded></item></channel></rss>
