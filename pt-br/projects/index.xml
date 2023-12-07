@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projetos on Eterno Devir</title><link>https://eternodevir.com/pt-br/projects/</link><description>Recent content in Projetos on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Thu, 31 May 2018 00:09:00 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Homelab</title><link>https://eternodevir.com/pt-br/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/homelab/</guid><description>Área: auto-hospedagem Data: 2022-presente
+Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
+Sistema
+QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede</description><content:encoded><![CDATA[<p>
+<strong>Área</strong>: auto-hospedagem <br>
+<strong>Data</strong>: 2022-presente</p>
+<p>
+Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.</p>
+<p>
+<div class="double-list">
+  <ul>
+    <li>
+      <p>Sistema</p>
+      <ul>
+        <li>QEMU/KVM</li>
+        <li>Ansible</li>
+        <li>Debian, RHEL</li>
+        <li>Docker, Podman</li>
+      </ul>
+      </li>
+    <li>
+        <p>Rede</p>
+        <ul>
+          <li>Nginx Reverse Proxy</li>
+          <li>Unbound DNS</li>
+          <li>Pihole</li>
+          <li>VPN</li>
+          <li>SSH</li>
+          <li>iptables</li>
+        </ul>
+    </li>
+    </ul>
+  <ul>
+      <li>
+        <p>Serviços</p>
+        <ul>
+          <li>Home Assistant</li>
+          <li>Jellyfin</li>
+          <li>Hugo</li>
+          <li>Gotify</li>
+        </ul>
+      </li>
+      <li>
+        <p>Gerenciamento</p>
+        <ul>
+          <li>Portainer</li>
+          <li>Grafana</li>
+          <li>Prometheus</li>
+          <li>Node Exporter</li>
+          <li>cAdvisor</li>
+          <li>Watchtower</li>
+        </ul>
+      </li>
+    </ul>
+</div>
+</p>
+]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/pt-br/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/aws-cloud/</guid><description> Área: hospedagem-nuvem Data: 2018-2022
+Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciamento de rede, DNS, snapshots e atualização de sistema em instâncias Ubuntu Server. Para isso, utilizei uma combinação de recursos da AWS, como Route 53 e Lightsail, juntamente com ferramentas remotas e de segurança. Durante a operação, também lidei com tarefas de gerenciamento de WordPress, criação de conteúdo e design e personalização de sites.
+Ubuntu Server Route 53 Lightsail CloudWatch Bitnami Wordpress Multisite</description><content:encoded><![CDATA[<p>
+<strong>Área</strong>: hospedagem-nuvem <br>
+<strong>Data</strong>: 2018-2022</p>
+<p>
+Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciamento de rede, DNS, snapshots e atualização de sistema em instâncias Ubuntu Server. Para isso, utilizei uma combinação de recursos da AWS, como Route 53 e Lightsail, juntamente com ferramentas remotas e de segurança. Durante a operação, também lidei com tarefas de gerenciamento de WordPress, criação de conteúdo e design e personalização de sites.</p>
+<ul>
+<li>Ubuntu Server</li>
+<li>Route 53</li>
+<li>Lightsail</li>
+<li>CloudWatch</li>
+<li>Bitnami</li>
+<li>Wordpress Multisite</li>
+</ul>
+]]></content:encoded></item></channel></rss>

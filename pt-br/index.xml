@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Eterno Devir</title><link>https://eternodevir.com/pt-br/</link><description>Recent content on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 12 Mar 2023 19:16:33 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/index.xml" rel="self" type="application/rss+xml"/><item><title>Avisos</title><link>https://eternodevir.com/pt-br/notices/</link><pubDate>Fri, 31 Mar 2023 00:09:00 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/notices/</guid><description>Este site, eternodevir.com, é obra de (C) Vinícius Moraes.
 Licença Textos originais, como postagens do blog e páginas, estão disponíveis sob os termos da licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional.
 Códigos originais, bem como qualquer documentação embutida, estão disponíveis sob os termos da licença Licença Pública Geral GNU Versão 3.
-Exceções podem ser aplicadas no contexto. Conteúdos de terceiros podem ser regidos por licenças diferentes.
-Privacidade Este site é hospedado no GitHub utilizando Cloudflare como provedor de DNS.</description><content:encoded><![CDATA[
+Conteúdos visuais originais, como fotos e vídeos, estão disponíveis sob os termos da licença Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional.</description><content:encoded><![CDATA[
 <p>
 Este site, eternodevir.com, é obra de (C) Vinícius Moraes.</p>
 <div id="outline-container-headline-1" class="outline-2">
@@ -14,6 +13,8 @@ Licença
 Textos originais, como postagens do blog e páginas, estão disponíveis sob os termos da licença <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br">Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional</a>.</p>
 <p>
 Códigos originais, bem como qualquer documentação embutida, estão disponíveis sob os termos da licença <a href="https://www.gnu.org/licenses/quick-guide-gplv3.pt-br.html">Licença Pública Geral GNU Versão 3</a>.</p>
+<p>
+Conteúdos visuais originais, como fotos e vídeos, estão disponíveis sob os termos da licença <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br">Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</a>.</p>
 <p>
 Exceções podem ser aplicadas no contexto. Conteúdos de terceiros podem ser regidos por licenças diferentes.</p>
 </div>
@@ -30,8 +31,7 @@ Este site é hospedado no GitHub utilizando Cloudflare como provedor de DNS. Alg
 ]]></content:encoded></item><item><title>Notices</title><link>https://eternodevir.com/notices/</link><pubDate>Fri, 31 Mar 2023 00:09:00 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/notices/</guid><description>This website, eternodevir.com, is the work of (C) Vinicius Moraes.
 License Original text, such as blog posts and pages, is available under the terms of the Creative Commons Attribution-ShareAlike 4.0 International.
 Original code, as well as any inline documentation, is available under the terms of the GNU General Public License Version 3.
-Exceptions may apply in context. Third-party content may be governed by different licenses.
-Privacy This website runs on GitHub utilizing Cloudflare as its DNS provider.</description><content:encoded><![CDATA[
+Original visual content, such as photos and videos, is available under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.</description><content:encoded><![CDATA[
 <p>
 This website, eternodevir.com, is the work of (C) Vinicius Moraes.</p>
 <div id="outline-container-headline-1" class="outline-2">
@@ -44,6 +44,8 @@ Original text, such as blog posts and pages, is available under the terms of the
 <p>
 Original code, as well as any inline documentation, is available under the terms of the <a href="https://www.gnu.org/licenses/quick-guide-gplv3.html">GNU General Public License Version 3</a>.</p>
 <p>
+Original visual content, such as photos and videos, is available under the terms of the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>.</p>
+<p>
 Exceptions may apply in context. Third-party content may be governed by different licenses.</p>
 </div>
 </div>
@@ -54,298 +56,6 @@ Privacy
 <div id="outline-text-headline-2" class="outline-text-2">
 <p>
  This website runs on GitHub utilizing Cloudflare as its DNS provider. Some of the logs may include the IP address and the user agent of the visitor, time and date of the visit, and the exact pages visited. The user agent may include operating system, browser, browser engine and their respective versions. Please review GitHub&#39;s and Cloudflare&#39;s privacy policies for additional information.</p>
-</div>
-</div>
-]]></content:encoded></item><item><title>Projects</title><link>https://eternodevir.com/projects/</link><pubDate>Fri, 31 Mar 2023 00:09:00 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/</guid><description>In progress Homelab (2022-current) This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.
-System
-QEMU/KVM Ansible Debian, RHEL Docker, Podman Network</description><content:encoded><![CDATA[
-<div id="outline-container-headline-1" class="outline-2">
-<h2 id="headline-1">
-In progress
-</h2>
-<div id="outline-text-headline-1" class="outline-text-2">
-<div id="outline-container-headline-2" class="outline-3">
-<h3 id="headline-2">
-Homelab (2022-current)
-</h3>
-<div id="outline-text-headline-2" class="outline-text-3">
-<p>
-This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.</p>
-<p>
-<div class="double-list">
-  <ul>
-    <li>
-      <p>System</p>
-      <ul>
-        <li>QEMU/KVM</li>
-        <li>Ansible</li>
-        <li>Debian, RHEL</li>
-        <li>Docker, Podman</li>
-      </ul>
-      </li>
-    <li>
-        <p>Network</p>
-        <ul>
-          <li>Nginx Reverse Proxy</li>
-          <li>Unbound DNS</li>
-          <li>Pihole</li>
-          <li>VPN</li>
-          <li>SSH</li>
-          <li>iptables</li>
-        </ul>
-    </li>
-    </ul>
-  <ul>
-      <li>
-        <p>Services</p>
-        <ul>
-          <li>Home Assistant</li>
-          <li>Jellyfin</li>
-          <li>Hugo</li>
-          <li>Gotify</li>
-        </ul>
-      </li>
-      <li>
-        <p>Management</p>
-        <ul>
-          <li>Portainer</li>
-          <li>Grafana</li>
-          <li>Prometheus</li>
-          <li>Node Exporter</li>
-          <li>cAdvisor</li>
-          <li>Watchtower</li>
-        </ul>
-      </li>
-    </ul>
-</div>
-</p>
-</div>
-</div>
-</div>
-</div>
-<div id="outline-container-headline-3" class="outline-2">
-<h2 id="headline-3">
-FOSS/Open Source
-</h2>
-<div id="outline-text-headline-3" class="outline-text-2">
-<table class="projects-table">
-  <tr>
-    <td colspan="3" class="projects-table-sections">Software</td>
-  </tr>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/masasam/emacs-easy-hugo">easy‑hugo</a></td>
-      <td>Contributor</td>
-      <td>GNU Emacs major mode designed for writing Hugo-powered blogs using various markup formats.</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td colspan="3" class="projects-table-sections">Configuration</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/ttybitnik/dotfiles">dotfiles</a></td>
-      <td>Author</td>
-      <td>UNIX/Linux environment setup, including my automation scripts and configuration files for a variety of tools.</td>
-    </tr>
-
-    <tr>
-      <td><a href="https://github.com/ttybitnik/emacs.d">emacs.d</a></td>
-      <td>Author</td>
-      <td>GNU Emacs configuration along with an in-depth chronicle of my crafting and managing processes.</td>
-    </tr>
-
-    <tr>
-      <td><a href="https://github.com/ttybitnik/suckless">suckless</a></td>
-      <td>Author</td>
-      <td>Source code and configuration files for my  suckless builds of dwm, dmenu, dwmblocks, st, and slock.</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td colspan="3" class="projects-table-sections">Laboratory</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/ttybitnik/lab.99-problems">99‑problems</a></td>
-      <td>Author</td>
-      <td>Programming practice in different languages of the classic <i>Ninety-Nine Prolog Problems</i> crafted by Werner Hett.</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-</div>
-<div id="outline-container-headline-4" class="outline-2">
-<h2 id="headline-4">
-Archived
-</h2>
-<div id="outline-text-headline-4" class="outline-text-2">
-<div id="outline-container-headline-5" class="outline-3">
-<h3 id="headline-5">
-AWS Cloud (2018-2022)
-</h3>
-<div id="outline-text-headline-5" class="outline-text-3">
-<p>
-This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.</p>
-<ul>
-<li>Ubuntu Server</li>
-<li>Route 53</li>
-<li>Lightsail</li>
-<li>CloudWatch</li>
-<li>Bitnami</li>
-<li>Wordpress Multisite</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-]]></content:encoded></item><item><title>Projetos</title><link>https://eternodevir.com/pt-br/projects/</link><pubDate>Fri, 31 Mar 2023 00:09:00 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/</guid><description>Em progresso Homelab (2022-presente) Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
-Sistema
-QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede</description><content:encoded><![CDATA[
-<div id="outline-container-headline-1" class="outline-2">
-<h2 id="headline-1">
-Em progresso
-</h2>
-<div id="outline-text-headline-1" class="outline-text-2">
-<div id="outline-container-headline-2" class="outline-3">
-<h3 id="headline-2">
-Homelab (2022-presente)
-</h3>
-<div id="outline-text-headline-2" class="outline-text-3">
-<p>
-Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.</p>
-<p>
-<div class="double-list">
-  <ul>
-    <li>
-      <p>Sistema</p>
-      <ul>
-        <li>QEMU/KVM</li>
-        <li>Ansible</li>
-        <li>Debian, RHEL</li>
-        <li>Docker, Podman</li>
-      </ul>
-      </li>
-    <li>
-        <p>Rede</p>
-        <ul>
-          <li>Nginx Reverse Proxy</li>
-          <li>Unbound DNS</li>
-          <li>Pihole</li>
-          <li>VPN</li>
-          <li>SSH</li>
-          <li>iptables</li>
-        </ul>
-    </li>
-    </ul>
-  <ul>
-      <li>
-        <p>Serviços</p>
-        <ul>
-          <li>Home Assistant</li>
-          <li>Jellyfin</li>
-          <li>Hugo</li>
-          <li>Gotify</li>
-        </ul>
-      </li>
-      <li>
-        <p>Gerenciamento</p>
-        <ul>
-          <li>Portainer</li>
-          <li>Grafana</li>
-          <li>Prometheus</li>
-          <li>Node Exporter</li>
-          <li>cAdvisor</li>
-          <li>Watchtower</li>
-        </ul>
-      </li>
-    </ul>
-</div>
-</p>
-</div>
-</div>
-</div>
-</div>
-<div id="outline-container-headline-3" class="outline-2">
-<h2 id="headline-3">
-FOSS/Open Source
-</h2>
-<div id="outline-text-headline-3" class="outline-text-2">
-<table class="projects-table">
-  <tr>
-    <td colspan="3" class="projects-table-sections">Programa</td>
-  </tr>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/masasam/emacs-easy-hugo">easy‑hugo</a></td>
-      <td>Contribuidor</td>
-      <td>Major mode do GNU Emacs projetado para escrever blogs Hugo usando várias linguagens de marcação.</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td colspan="3" class="projects-table-sections">Configuração</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/ttybitnik/dotfiles">dotfiles</a></td>
-      <td>Autor</td>
-      <td>Preparação de ambientes UNIX/Linux, incluindo meus scripts de automação e arquivos de configuração para diversas ferramentas.</td>
-    </tr>
-
-    <tr>
-      <td><a href="https://github.com/ttybitnik/emacs.d">emacs.d</a></td>
-      <td>Autor</td>
-      <td>Configuração do GNU Emacs junto com uma crônica detalhada do meu processo de produção e gerenciamento.</td>
-    </tr>
-
-    <tr>
-      <td><a href="https://github.com/ttybitnik/suckless">suckless</a></td>
-      <td>Autor</td>
-      <td>Código-fonte e arquivos de configuração para minhas compilações do suckless dwm, dmenu, dwmblocks, st e slock.</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td colspan="3" class="projects-table-sections">Laboratório</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/ttybitnik/lab.99-problems">99‑problems</a></td>
-      <td>Autor</td>
-      <td>Prática de programação em diferentes linguagens do clássico <i>Noventa e Nove Problemas em Prolog</i> elaborado por Werner Hett.</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-</div>
-<div id="outline-container-headline-4" class="outline-2">
-<h2 id="headline-4">
-Arquivado
-</h2>
-<div id="outline-text-headline-4" class="outline-text-2">
-<div id="outline-container-headline-5" class="outline-3">
-<h3 id="headline-5">
-AWS Cloud (2018-2022)
-</h3>
-<div id="outline-text-headline-5" class="outline-text-3">
-<p>
-Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciamento de rede, DNS, snapshots e atualização de sistema em instâncias Ubuntu Server. Para isso, utilizei uma combinação de recursos da AWS, como Route 53 e Lightsail, juntamente com ferramentas remotas e de segurança. Durante a operação, também lidei com tarefas de gerenciamento de WordPress, criação de conteúdo e design e personalização de sites.</p>
-<ul>
-<li>Ubuntu Server</li>
-<li>Route 53</li>
-<li>Lightsail</li>
-<li>CloudWatch</li>
-<li>Bitnami</li>
-<li>Wordpress Multisite</li>
-</ul>
-</div>
-</div>
 </div>
 </div>
 ]]></content:encoded></item><item><title>Publicações</title><link>https://eternodevir.com/pt-br/publications/</link><pubDate>Wed, 08 Mar 2023 00:40:43 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/publications/</guid><description>Artigo Metamorfoses: a transformação dos mitos e o ato de (re)contar histórias. Rónai – Revista de Estudos Clássicos e Tradutórios, vol. 4, no. 2, 2016, pp. 71-78. Monografia O abismo do original: a bitradução simultânea de Malone Morre, de Samuel Beckett, por Paulo Leminski. Trabalho de Conclusão de Curso, UFJF, Juiz de Fora, 2021. Apresentação Ekphrasis and Other Forms of Text-Image Relations: Open City by Teju Cole. Presentation, Universität Passau, Passau, 2018.</description><content:encoded><![CDATA[
@@ -548,7 +258,7 @@ Listening: <a href="https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5?si=8cx
 Watching: <a href="https://letterboxd.com/film/mars-one/">Mars One (2022)</a>
 <span class="post-info">
   <br>
-  <i>Last update on Dec 04, 2023 12:11 AM</i>
+  <i>Last update on Dec 07, 2023 7:17 AM</i>
 </span>
 </div>
 </div>
@@ -840,7 +550,7 @@ Ouvindo: <a href="https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5?si=8cxKE
 Assistindo: <a href="https://letterboxd.com/film/mars-one/">Mars One (2022)</a>
 <span class="post-info">
   <br>
-  <i>Última atualização em dez. 04, 2023 12:11 AM</i>
+  <i>Última atualização em dez. 07, 2023 7:17 AM</i>
 </span>
 </div>
 </div>
@@ -862,6 +572,118 @@ Site
 Este site é inteiramente escrito e gerenciado utilizando <a href="https://github.com/ttybitnik/emacs.d">GNU Emacs</a> e <a href="https://orgmode.org/">org-mode</a>. Todos os arquivos org são então implementados utilizando <a href="https://gohugo.io/">Hugo</a>.</p>
 </div>
 </div>
+]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/homelab/</guid><description>Area: self-hosting Date: 2022-current
+This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.
+System
+QEMU/KVM Ansible Debian, RHEL Docker, Podman Network</description><content:encoded><![CDATA[<p>
+<strong>Area</strong>: self-hosting <br>
+<strong>Date</strong>: 2022-current</p>
+<p>
+This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.</p>
+<p>
+<div class="double-list">
+  <ul>
+    <li>
+      <p>System</p>
+      <ul>
+        <li>QEMU/KVM</li>
+        <li>Ansible</li>
+        <li>Debian, RHEL</li>
+        <li>Docker, Podman</li>
+      </ul>
+      </li>
+    <li>
+        <p>Network</p>
+        <ul>
+          <li>Nginx Reverse Proxy</li>
+          <li>Unbound DNS</li>
+          <li>Pihole</li>
+          <li>VPN</li>
+          <li>SSH</li>
+          <li>iptables</li>
+        </ul>
+    </li>
+    </ul>
+  <ul>
+      <li>
+        <p>Services</p>
+        <ul>
+          <li>Home Assistant</li>
+          <li>Jellyfin</li>
+          <li>Hugo</li>
+          <li>Gotify</li>
+        </ul>
+      </li>
+      <li>
+        <p>Management</p>
+        <ul>
+          <li>Portainer</li>
+          <li>Grafana</li>
+          <li>Prometheus</li>
+          <li>Node Exporter</li>
+          <li>cAdvisor</li>
+          <li>Watchtower</li>
+        </ul>
+      </li>
+    </ul>
+</div>
+</p>
+]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/pt-br/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/homelab/</guid><description>Área: auto-hospedagem Data: 2022-presente
+Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
+Sistema
+QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede</description><content:encoded><![CDATA[<p>
+<strong>Área</strong>: auto-hospedagem <br>
+<strong>Data</strong>: 2022-presente</p>
+<p>
+Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.</p>
+<p>
+<div class="double-list">
+  <ul>
+    <li>
+      <p>Sistema</p>
+      <ul>
+        <li>QEMU/KVM</li>
+        <li>Ansible</li>
+        <li>Debian, RHEL</li>
+        <li>Docker, Podman</li>
+      </ul>
+      </li>
+    <li>
+        <p>Rede</p>
+        <ul>
+          <li>Nginx Reverse Proxy</li>
+          <li>Unbound DNS</li>
+          <li>Pihole</li>
+          <li>VPN</li>
+          <li>SSH</li>
+          <li>iptables</li>
+        </ul>
+    </li>
+    </ul>
+  <ul>
+      <li>
+        <p>Serviços</p>
+        <ul>
+          <li>Home Assistant</li>
+          <li>Jellyfin</li>
+          <li>Hugo</li>
+          <li>Gotify</li>
+        </ul>
+      </li>
+      <li>
+        <p>Gerenciamento</p>
+        <ul>
+          <li>Portainer</li>
+          <li>Grafana</li>
+          <li>Prometheus</li>
+          <li>Node Exporter</li>
+          <li>cAdvisor</li>
+          <li>Watchtower</li>
+        </ul>
+      </li>
+    </ul>
+</div>
+</p>
 ]]></content:encoded></item><item><title>Rendez-vous 1408</title><link>https://eternodevir.com/blog/rendez-vous-1408/</link><pubDate>Sun, 16 Oct 2022 11:01:24 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/rendez-vous-1408/</guid><description>I have fond memories of the songs that would play during the soirée nights, the casual gatherings with dear friends, and the late-night pool dips during my college days at 1408. The melodic tunes and lyrics that once filled the air of that apartment now refresh my memory of those unforgettable times.</description><content:encoded><![CDATA[<p>
 I have fond memories of the songs that would play during the soirée nights, the casual gatherings with dear friends, and the late-night pool dips during my college days at 1408. The melodic tunes and lyrics that once filled the air of that apartment now refresh my memory of those unforgettable times.</p>
 <p>
@@ -1035,7 +857,7 @@ Only on behalf of the hopeless are we given hope.</p>
 ]]></content:encoded></item><item><title>Escrevo para descobrir o que penso</title><link>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</guid><description>Outro dia me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…
 Exercício de análise combinatória I Escrevo para descobrir o que penso.</description><content:encoded><![CDATA[
 <p>
-<figure><img src="/images/2020/image03.jpg"/>
+<figure><img src="/images/blog/2020/image03.jpg"/>
 </figure>
 </p>
 <p>
@@ -1057,7 +879,7 @@ Descubro para escrever o que penso.</p>
 ]]></content:encoded></item><item><title>I write to find out what I think</title><link>https://eternodevir.com/blog/i-write-to-find-out-what-i-think/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/i-write-to-find-out-what-i-think/</guid><description>The other day, I was reminded of my high school math teacher and how combinatorics was one of the few topics that interested me. The ability to envision an universe of possibilities within a given scenario was delightful. This morning, I combined that memory with an idea that has been occupying my mind lately—writing as an exercise of reflection and discovery. The lessons never end…
 Combinatorial analysis exercise I I write to discover what I think.</description><content:encoded><![CDATA[
 <p>
-<figure><img src="/images/2020/image03.jpg"/>
+<figure><img src="/images/blog/2020/image03.jpg"/>
 </figure>
 </p>
 <p>
@@ -1081,7 +903,7 @@ Ensaio de Paulo Leminski, publicado em 1989 na Folha de Londrina, meses antes de
 Corpo não mente Quando Francisco Xavier, o missionário jesuíta, aportou no Japão, na crista das navegações, sua catequese produziu milhares de conversões e o catolicismo começou a se espalhar pelo país.
 Nas cartas que escreveu para seus superiores em Roma, Xavier descreve com júbilo os progressos do apostolado na Terra do Sol Nascente.</description><content:encoded><![CDATA[
 <p>
-<figure><img src="/images/2020/image00.jpg"
+<figure><img src="/images/blog/2020/image00.jpg"
          alt="Caixa Cultural, São Paulo, 2015"/><figcaption>
             <p>Caixa Cultural, São Paulo, 2015</p>
         </figcaption>
@@ -1183,7 +1005,7 @@ Essay by Paulo Leminski, published in 1989 in Folha de Londrina, months before h
 Body not mind When Francis Xavier, the Jesuit missionary, landed in Japan, at the height of navigation, his catechesis produced thousands of conversions and Catholicism began to spread across the country.
 In the letters he wrote to his superiors in Rome, Xavier describes with joy the progress of the apostolate in the Land of the Rising Sun.</description><content:encoded><![CDATA[
 <p>
-<figure><img src="/images/2020/image00.jpg"
+<figure><img src="/images/blog/2020/image00.jpg"
          alt="Caixa Cultural, São Paulo, 2015"/><figcaption>
             <p>Caixa Cultural, São Paulo, 2015</p>
         </figcaption>
@@ -1290,7 +1112,7 @@ A person who is bothered talks about something that is annoying them. Some peopl
 In the end, the only people who decided not to go to the party were those who were not bothered at all, which certainly bothered a lot of people. Or at least that is how it seemed until they realized they were not even invited.&lt;/p></content:encoded></item><item><title>For Street Cinema memories</title><link>https://eternodevir.com/blog/for-street-cinema-memories/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/for-street-cinema-memories/</guid><description>Cinearte Palace, Juiz de Fora, 2017
 Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. It was a place for art, experimentation, transformation, and freedom. Each director had their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.
 However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil.</description><content:encoded><![CDATA[<p>
-<figure><img src="/images/2019/image00.jpg"
+<figure><img src="/images/blog/2019/image00.jpg"
          alt="Cinearte Palace, Juiz de Fora, 2017"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2017</p>
         </figcaption>
@@ -1301,7 +1123,7 @@ Glauber Rocha taught me that Cinema Novo had the potential to be a national cine
 <p>
 However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil. The cinema experience was transformed, shifting to large shopping centers, and popular festivals and local productions were put in the background by blockbusters. Despite this, some places for encountering the unknown still resist.</p>
 <p>
-<figure><img src="/images/2019/image01.jpg"
+<figure><img src="/images/blog/2019/image01.jpg"
          alt="Cine Roxy, Rio de Janeiro, 2018"/><figcaption>
             <p>Cine Roxy, Rio de Janeiro, 2018</p>
         </figcaption>
@@ -1310,21 +1132,21 @@ However, it became increasingly difficult to find similar expressions of will, e
 <p>
 In my search for one of these places in Passau, a small town on the border of Germany and Austria, I was fortunate to find a street cinema showing the Brazilian film <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em>—which I watched during one of the only two sessions that took place in Juiz de Fora. The feature, by Marcelo Caetano, reminds me of Glauber&#39;s genuine will to create something instigating that, more than understanding, dares to invite us to feel. In the darkness of the emptied rows of that German street cinema, I reaffirmed how surprising and fascinating these spaces are that still encourage diversity and experimentation. After having lived near the last street cinema in Juiz de Fora for seven years, I have never felt so close to home even when so far away.</p>
 <p>
-<figure><img src="/images/2019/image02.jpg"
+<figure><img src="/images/blog/2019/image02.jpg"
          alt="Metropolis, Passau, 2019"/><figcaption>
             <p>Metropolis, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/2019/image03.jpg"
+<figure><img src="/images/blog/2019/image03.jpg"
          alt="ProLi, Passau, 2019"/><figcaption>
             <p>ProLi, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/2019/image04.jpg"
+<figure><img src="/images/blog/2019/image04.jpg"
          alt="Regina, Regensburg, 2019"/><figcaption>
             <p>Regina, Regensburg, 2019</p>
         </figcaption>
@@ -1333,7 +1155,7 @@ In my search for one of these places in Passau, a small town on the border of Ge
 ]]></content:encoded></item><item><title>Por memórias de Cinema de Rua</title><link>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</guid><description>Cinearte Palace, Juiz de Fora, 2017
 Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Era um lugar de arte, experimentação, transformação e liberdade. Cada diretor tinha sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.
 No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil.</description><content:encoded><![CDATA[<p>
-<figure><img src="/images/2019/image00.jpg"
+<figure><img src="/images/blog/2019/image00.jpg"
          alt="Cinearte Palace, Juiz de Fora, 2017"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2017</p>
         </figcaption>
@@ -1344,7 +1166,7 @@ Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema na
 <p>
 No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil. A experiência cinematográfica foi transformada, deslocando-se para os grandes centros comerciais, e os cinemas populares e as produções locais foram colocadas em segundo plano pelos blockbusters. Apesar disso, alguns locais de encontro com o desconhecido ainda resistem.</p>
 <p>
-<figure><img src="/images/2019/image01.jpg"
+<figure><img src="/images/blog/2019/image01.jpg"
          alt="Cine Roxy, Rio de Janeiro, 2018"/><figcaption>
             <p>Cine Roxy, Rio de Janeiro, 2018</p>
         </figcaption>
@@ -1353,21 +1175,21 @@ No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade se
 <p>
 Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entre Alemanha e Áustria, tive a sorte de encontrar um cinema de rua exibindo o filme brasileiro <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em> — que assisti durante uma das duas únicas sessões que aconteceram em Juiz de Fora. A obra, de Marcelo Caetano, me lembra a vontade genuína de Glauber em criar algo instigante que, mais do que compreender, ousa nos convidar a sentir. Na escuridão das fileiras vazias daquele cinema de rua alemão, reafirmei o quão surpreendentes e fascinantes são estes espaços que ainda incentivam a diversidade e a experimentação. Depois de viver sete anos perto do último cinema de rua de Juiz de Fora, nunca me senti tão perto de casa mesmo estando tão distante.</p>
 <p>
-<figure><img src="/images/2019/image02.jpg"
+<figure><img src="/images/blog/2019/image02.jpg"
          alt="Metropolis, Passau, 2019"/><figcaption>
             <p>Metropolis, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/2019/image03.jpg"
+<figure><img src="/images/blog/2019/image03.jpg"
          alt="ProLi, Passau, 2019"/><figcaption>
             <p>ProLi, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/2019/image04.jpg"
+<figure><img src="/images/blog/2019/image04.jpg"
          alt="Regina, Regensburg, 2019"/><figcaption>
             <p>Regina, Regensburg, 2019</p>
         </figcaption>
@@ -1376,7 +1198,7 @@ Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entr
 ]]></content:encoded></item><item><title>A Sétima</title><link>https://eternodevir.com/pt-br/blog/a-s%C3%A9tima/</link><pubDate>Sun, 02 Dec 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/a-s%C3%A9tima/</guid><description>Cinearte Palace, Juiz de Fora, 2016
 De uns tempos para cá, desenvolvi o hábito revisitar filmes através da trilha sonora. Percebi que muitas das minhas melhores memórias cinematográficas estão inextricavelmente ligadas ao poder da relação audiovisual, especialmente em cenas que estão intimamente ligadas a músicas específicas. A playlist que criei é uma homenagem a essas memórias.
 As músicas têm a capacidade de se tornar parte integrante da narrativa dos filmes quando escolhidas com cuidado.</description><content:encoded><![CDATA[<p>
-<figure><img src="/images/2018/image00.jpg"
+<figure><img src="/images/blog/2018/image00.jpg"
          alt="Cinearte Palace, Juiz de Fora, 2016"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2016</p>
         </figcaption>
@@ -1479,7 +1301,7 @@ Dedico esta playlist e lista de filmes ao Cinearte Palace, o último cinema de r
 ]]></content:encoded></item><item><title>The Seventh</title><link>https://eternodevir.com/blog/the-seventh/</link><pubDate>Sun, 02 Dec 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/the-seventh/</guid><description>Cinearte Palace, Juiz de Fora, 2016
 As of late, I have developed a habit of revisiting films for their soundtracks. I have come to realize that many of my fondest cinematic memories are inextricably linked to the power of the audio-visual relationship, particularly in scenes that are closely tied to specific songs. The playlist that I have compiled is a tribute to these memories.
 Songs have the ability to become an integral part of the narrative in films when chosen carefully.</description><content:encoded><![CDATA[<p>
-<figure><img src="/images/2018/image00.jpg"
+<figure><img src="/images/blog/2018/image00.jpg"
          alt="Cinearte Palace, Juiz de Fora, 2016"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2016</p>
         </figcaption>
@@ -1579,4 +1401,34 @@ I dedicate this playlist and film list to Cinearte Palace, the last street cinem
 <li>Apocalypse Now (1979), Francis Ford Coppola</li>
 <li>Blade Runner (1982), Ridley Scott</li>
 </ol>
+]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/aws-cloud/</guid><description> Area: cloud‑hosting Date: 2018-2022
+This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.
+Ubuntu Server Route 53 Lightsail CloudWatch Bitnami Wordpress Multisite</description><content:encoded><![CDATA[<p>
+<strong>Area</strong>: cloud‑hosting <br>
+<strong>Date</strong>: 2018-2022</p>
+<p>
+This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.</p>
+<ul>
+<li>Ubuntu Server</li>
+<li>Route 53</li>
+<li>Lightsail</li>
+<li>CloudWatch</li>
+<li>Bitnami</li>
+<li>Wordpress Multisite</li>
+</ul>
+]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/pt-br/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/aws-cloud/</guid><description> Área: hospedagem-nuvem Data: 2018-2022
+Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciamento de rede, DNS, snapshots e atualização de sistema em instâncias Ubuntu Server. Para isso, utilizei uma combinação de recursos da AWS, como Route 53 e Lightsail, juntamente com ferramentas remotas e de segurança. Durante a operação, também lidei com tarefas de gerenciamento de WordPress, criação de conteúdo e design e personalização de sites.
+Ubuntu Server Route 53 Lightsail CloudWatch Bitnami Wordpress Multisite</description><content:encoded><![CDATA[<p>
+<strong>Área</strong>: hospedagem-nuvem <br>
+<strong>Data</strong>: 2018-2022</p>
+<p>
+Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciamento de rede, DNS, snapshots e atualização de sistema em instâncias Ubuntu Server. Para isso, utilizei uma combinação de recursos da AWS, como Route 53 e Lightsail, juntamente com ferramentas remotas e de segurança. Durante a operação, também lidei com tarefas de gerenciamento de WordPress, criação de conteúdo e design e personalização de sites.</p>
+<ul>
+<li>Ubuntu Server</li>
+<li>Route 53</li>
+<li>Lightsail</li>
+<li>CloudWatch</li>
+<li>Bitnami</li>
+<li>Wordpress Multisite</li>
+</ul>
 ]]></content:encoded></item></channel></rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on Eterno Devir</title><link>https://eternodevir.com/projects/</link><description>Recent content in Projects on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Thu, 31 May 2018 00:09:00 -0300</lastBuildDate><atom:link href="https://eternodevir.com/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Homelab</title><link>https://eternodevir.com/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/homelab/</guid><description>Area: self-hosting Date: 2022-current
+This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.
+System
+QEMU/KVM Ansible Debian, RHEL Docker, Podman Network</description><content:encoded><![CDATA[<p>
+<strong>Area</strong>: self-hosting <br>
+<strong>Date</strong>: 2022-current</p>
+<p>
+This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.</p>
+<p>
+<div class="double-list">
+  <ul>
+    <li>
+      <p>System</p>
+      <ul>
+        <li>QEMU/KVM</li>
+        <li>Ansible</li>
+        <li>Debian, RHEL</li>
+        <li>Docker, Podman</li>
+      </ul>
+      </li>
+    <li>
+        <p>Network</p>
+        <ul>
+          <li>Nginx Reverse Proxy</li>
+          <li>Unbound DNS</li>
+          <li>Pihole</li>
+          <li>VPN</li>
+          <li>SSH</li>
+          <li>iptables</li>
+        </ul>
+    </li>
+    </ul>
+  <ul>
+      <li>
+        <p>Services</p>
+        <ul>
+          <li>Home Assistant</li>
+          <li>Jellyfin</li>
+          <li>Hugo</li>
+          <li>Gotify</li>
+        </ul>
+      </li>
+      <li>
+        <p>Management</p>
+        <ul>
+          <li>Portainer</li>
+          <li>Grafana</li>
+          <li>Prometheus</li>
+          <li>Node Exporter</li>
+          <li>cAdvisor</li>
+          <li>Watchtower</li>
+        </ul>
+      </li>
+    </ul>
+</div>
+</p>
+]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/aws-cloud/</guid><description> Area: cloud‑hosting Date: 2018-2022
+This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.
+Ubuntu Server Route 53 Lightsail CloudWatch Bitnami Wordpress Multisite</description><content:encoded><![CDATA[<p>
+<strong>Area</strong>: cloud‑hosting <br>
+<strong>Date</strong>: 2018-2022</p>
+<p>
+This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.</p>
+<ul>
+<li>Ubuntu Server</li>
+<li>Route 53</li>
+<li>Lightsail</li>
+<li>CloudWatch</li>
+<li>Bitnami</li>
+<li>Wordpress Multisite</li>
+</ul>
+]]></content:encoded></item></channel></rss>
