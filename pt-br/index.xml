@@ -5199,13 +5199,12 @@ What I&#39;m doing now
 <div id="outline-text-headline-4" class="outline-text-2">
 Reading: <a href="https://www.goodreads.com/book/show/27015358-introducing-go">Introducing Go, Caleb Doxsey (2016)</a>
 <br>
-Listening: <a href="https://open.spotify.com/track/4sRViZnfTx1WYQtYEV2ad7">The Reno Poem, Bigott (2012)</a>
-
+Listening: <a href="https://open.spotify.com/track/0m8y84pDApNyiavjdSSlBh">White Wine in the Sun, Tim Minchin (2012)</a>
 <br>
-Watching: <a href="https://letterboxd.com/film/mars-one/">Mars One (2022)</a>
+Watching: <a href="https://letterboxd.com/film/as-tears-go-by/">As Tears Go By (1988)</a>
 <span class="post-info">
   <br>
-  <i>Last update on Dec 21, 2023 11:36 PM</i>
+  <i>Last update on Dec 24, 2023 10:02 AM</i>
 </span>
 </div>
 </div>
@@ -5237,7 +5236,7 @@ This website is entirely written and managed using <a href="https://github.com/t
 </div>
 </div>
 ]]></content:encoded></item><item><title>Contact</title><link>https://eternodevir.com/contact/</link><pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/contact/</guid><description>Email: vinicius.moraes@eternodevir.com Feel free to email me regarding any content on this website, whether you have got a suggestion, some feedback, or just want to engage about a shared interest. Typically I respond within a week at most, often even sooner. If you have not heard back from me after that, please check your spam folder, as my response may have been filtered there.
-PGP encryption for emails (optional) 1 curl eternodevir.</description><content:encoded><![CDATA[
+PGP encryption for emails (optional) 1 curl https://eternodevir.</description><content:encoded><![CDATA[
 <ul>
 <li>Email: <a href="mailto:vinicius.moraes@eternodevir.com">vinicius.moraes@eternodevir.com</a></li>
 </ul>
@@ -5249,7 +5248,7 @@ PGP encryption for emails (optional)
 <div id="outline-text-headline-1" class="outline-text-2">
 <span id="pgp"></span>
 <div class="src src-shell">
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl">  curl eternodevir.com/publickey.asc</span></span></code></pre></div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl">  curl https://eternodevir.com/publickey.asc</span></span></code></pre></div>
 </div>
 <pre class="example">
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -5346,7 +5345,7 @@ I recommend learning about encryption to communicate with your trusted contacts 
 </div>
 </div>
 ]]></content:encoded></item><item><title>Contato</title><link>https://eternodevir.com/pt-br/contact/</link><pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/contact/</guid><description>Email: vinicius.moraes@eternodevir.com Sinta-se à vontade para me enviar um e-mail sobre qualquer conteúdo deste site, quer tenha uma sugestão, algum comentário ou apenas queira conversar sobre um interesse comum. Normalmente, respondo dentro de uma semana no máximo, muitas vezes bem antes. Se você não tiver recebido uma resposta minha após esse período, verifique sua pasta de spam, pois a mensagem pode ter sido filtrada por lá.
-Criptografia PGP para e-mails (opcional) 1 curl eternodevir.</description><content:encoded><![CDATA[
+Criptografia PGP para e-mails (opcional) 1 curl https://eternodevir.</description><content:encoded><![CDATA[
 <ul>
 <li>Email: <a href="mailto:vinicius.moraes@eternodevir.com">vinicius.moraes@eternodevir.com</a></li>
 </ul>
@@ -5358,7 +5357,7 @@ Criptografia PGP para e-mails (opcional)
 <div id="outline-text-headline-1" class="outline-text-2">
 <span id="pgp"></span>
 <div class="src src-shell">
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl">  curl eternodevir.com/publickey.asc</span></span></code></pre></div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl">  curl https://eternodevir.com/publickey.asc</span></span></code></pre></div>
 </div>
 <pre class="example">
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -5501,13 +5500,12 @@ O que estou fazendo agora
 <div id="outline-text-headline-4" class="outline-text-2">
 Lendo: <a href="https://www.goodreads.com/book/show/27015358-introducing-go">Introducing Go, Caleb Doxsey (2016)</a>
 <br>
-Ouvindo: <a href="https://open.spotify.com/track/4sRViZnfTx1WYQtYEV2ad7">The Reno Poem, Bigott (2012)</a>
-
+Ouvindo: <a href="https://open.spotify.com/track/0m8y84pDApNyiavjdSSlBh">White Wine in the Sun, Tim Minchin (2012)</a>
 <br>
-Assistindo: <a href="https://letterboxd.com/film/mars-one/">Mars One (2022)</a>
+Assistindo: <a href="https://letterboxd.com/film/as-tears-go-by/">As Tears Go By (1988)</a>
 <span class="post-info">
   <br>
-  <i>Última atualização em dez. 21, 2023 11:36 PM</i>
+  <i>Última atualização em dez. 24, 2023 10:02 AM</i>
 </span>
 </div>
 </div>
