@@ -22,3 +22,4 @@
 2023-12-01T11:05:11-03:00	Yep, new twts are appended. They must reverse sort on the client to display them at the top.
 2023-12-01T11:08:24-03:00	Fun! Loved it. Certainly there's a M-x for twtxt as well. Gonna check later. https://xkcd.com/378 :-P
 2023-12-20T21:12:50-03:00	Today I finally finished the 'what im doing now' automation. I used only curl, grep, awk, and sed. No JavaScript needed. Good.
+2023-12-24T10:37:49-03:00	There's no stronger Xmas ritual for me than listening to Tim Minchin's 'Ready for This?' album. It puts me perfectly into the right mood.
