@@ -54,6 +54,43 @@ This project is a custom home server that involves a wide range of areas, includ
     </ul>
 </div>
 </p>
+]]></content:encoded></item><item><title>How my GNU/Linux journey began</title><link>https://eternodevir.com/blog/how-my-gnu/linux-journey-began/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/how-my-gnu/linux-journey-began/</guid><description>It all began with my first laptop, an old Samsung RV415, hostname Vertov. It stopped working for basic tasks, and while most people would just buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together.</description><content:encoded><![CDATA[<p>
+It all began with my first laptop, an old Samsung RV415, hostname Vertov. It stopped working for basic tasks, and while most people would just buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together. Vertov had too much history to be just another tragedy of planned obsolescence.</p>
+<p>
+The first idea that occurred to me was to make as many hardware improvements as possible. After an extensive research, I found some interesting components. I replaced the HHD with an SSD and doubled the amount of RAM with a new stick. However, opening the laptop completely to do a deep cleaning was somewhat challenging, and I had to struggle a bit with the plastic clips on the case. Nevertheless, everything went well, and I managed to change the thermal paste on the CPU as well. Even though I am used to doing this on my desktop computer, this adventure taught me a lot about the specifics of laptops.</p>
+<p>
+<figure><img src="/images/blog/2022/image00.jpg"/>
+</figure>
+</p>
+<p>
+In the midst of Vertov&#39;s resuscitation procedure, I began to understand that the slowness he was experiencing was a much broader issue than it initially seemed. After all, why had he started to get slow? It might not necessarily be a hardware issue. Also, why was his processor soldered to the motherboard? This made any modification practically impossible. Even after the hardware improvements, Vertov still had some difficulty performing simultaneous tasks. It became evident to me that, in addition to the hardware, part of the slowness was due to the programs themselves, which were becoming increasingly heavier with features that were not even necessary for my use.</p>
+<p>
+Coincidentally, in a conversation during this same period, a friend ended up mentioning that he used <code class="verbatim">Debian</code> on his main computer—he had recently bought a desktop computer with the same specifications as mine. This mention brought back memories from high school when I and another friend installed <code class="verbatim">Slackware</code>. At the time, I had no idea all that it represented. Ultimately, I convinced myself to install &#34;Linux&#34; on Vertov, hoping to continue using it. The first choice, as a remembrance, was <code class="verbatim">Slackware</code>.</p>
+<p>
+<figure><img src="/images/blog/2022/image01.jpg"/>
+</figure>
+</p>
+<p>
+After installing <code class="verbatim">Slackware</code>, Vertov gained a new lease of life, and I was able to learn and discover countless things. Windows had been weighing him down, as its requirements grew over time, demanding stronger components. Since Windows seemed to be the only operating system existing option, Vertov would eventually have become obsolete. I soon realized that being restricted to this closed operating system would always force me to dispose of my hardware, even though I was satisfied with its features. At that point, I began an intense learning process about the <code class="verbatim">FOSS movement</code>, <code class="verbatim">GNU/Linux</code>, and its entire philosophy, which gave me the freedom to have a free operating system. This was the start of my journey from being a regular user to becoming an advanced one.</p>
+<p>
+From that moment on, I began to actually control my computer and its programs and not the other way around. I started using <code class="verbatim">Window Managers</code> and even <code class="verbatim">TTY</code> as writing environments, which were noticeably lighter and free from distractions for my use. I discovered <code class="verbatim">GNU Emacs</code> and its incredible <code class="verbatim">org-mode</code>, which completely transformed the way I interact with computers and texts. I also started using <code class="verbatim">RSS</code> to organize and consume content instead of subjecting myself to arbitrary algorithms. Over time, I deepened my practical knowledge of <code class="verbatim">UNIX/Linux</code>, to the point where I started my own <code class="verbatim">homelab</code>. Now I was taking more than control over my hardware or software itself, I was starting to take control over my digital life as a whole.</p>
+<p>
+<div id="freedom-iframe-container" style="position: relative; padding-top: calc(60% + 100px); width: 100%;">
+<iframe src="https://www.fsf.org/videos/escape-to-freedom/" scrolling="no" style="overflow: hidden; margin: 0; border: 0 none; display: block; position: absolute; width: 100%; height: 100%; top: 0;"></iframe>
+</div>
+<script>
+
+window.onmessage = function (e) { if (e.data.hasOwnProperty("freedom-iframe-height")) { document.getElementById('freedom-iframe-container').style.height=`${e.data["freedom-iframe-height"]}px`;  document.getElementById('freedom-iframe-container').style["padding-top"]="unset";} };
+
+</script>
+
+
+
+
+
+</p>
+<p>
+All of this happened because, at a certain point, I refused to give up Vertov due to planned obsolescence. Not to mention the reuse of a perfectly functional equipment that would become e-waste. There is life beyond the <em>windows</em>.</p>
 ]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/aws-cloud/</guid><description> Area: cloud‑hosting Date: 2018-2022
 This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.
 Ubuntu Server Route 53 Lightsail CloudWatch Bitnami Wordpress Multisite</description><content:encoded><![CDATA[<p>
