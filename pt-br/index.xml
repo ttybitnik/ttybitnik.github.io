@@ -1,369 +1,491 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Eterno Devir</title><link>https://eternodevir.com/pt-br/</link><description>Recent content on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 12 Mar 2023 19:16:33 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/index.xml" rel="self" type="application/rss+xml"/><item><title>Punctum</title><link>https://eternodevir.com/collections/punctum/</link><pubDate>Thu, 07 Dec 2023 11:48:48 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/collections/punctum/</guid><description/><content:encoded><![CDATA[<p>
-<figure><img src="/images/collections/punctum/00.jpg"/>
+<figure><img src="/images/collections/punctum/00.jpg"
+         alt="00"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/01.jpg"/>
+<figure><img src="/images/collections/punctum/01.jpg"
+         alt="01"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/02.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/02.jpg"
+         alt="02"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/03.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/03.jpg"
+         alt="03"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/04.jpg"/>
+<figure><img src="/images/collections/punctum/04.jpg"
+         alt="04"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/05.jpg"/>
+<figure><img src="/images/collections/punctum/05.jpg"
+         alt="05"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/06.jpg"/>
+<figure><img src="/images/collections/punctum/06.jpg"
+         alt="06"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/07.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/07.jpg"
+         alt="07"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/08.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/08.jpg"
+         alt="08"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/09.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/09.jpg"
+         alt="09"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/10.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/10.jpg"
+         alt="10"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/11.jpg"/>
+<figure><img src="/images/collections/punctum/11.jpg"
+         alt="11"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/12.jpg"/>
+<figure><img src="/images/collections/punctum/12.jpg"
+         alt="12"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/13.jpg"/>
+<figure><img src="/images/collections/punctum/13.jpg"
+         alt="13"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/14.jpg"/>
+<figure><img src="/images/collections/punctum/14.jpg"
+         alt="14"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/15.jpg"/>
+<figure><img src="/images/collections/punctum/15.jpg"
+         alt="15"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/16.jpg"/>
+<figure><img src="/images/collections/punctum/16.jpg"
+         alt="16"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/17.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/17.jpg"
+         alt="17"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/18.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/18.jpg"
+         alt="18"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/19.jpg"/>
+<figure><img src="/images/collections/punctum/19.jpg"
+         alt="19"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/20.jpg"/>
+<figure><img src="/images/collections/punctum/20.jpg"
+         alt="20"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/21.jpg"/>
+<figure><img src="/images/collections/punctum/21.jpg"
+         alt="21"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/22.jpg"/>
+<figure><img src="/images/collections/punctum/22.jpg"
+         alt="22"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/23.jpg"/>
+<figure><img src="/images/collections/punctum/23.jpg"
+         alt="23"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/24.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/24.jpg"
+         alt="24"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/25.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/25.jpg"
+         alt="25"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/26.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/26.jpg"
+         alt="26"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/27.jpg"/>
+<figure><img src="/images/collections/punctum/27.jpg"
+         alt="27"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/28.jpg"/>
+<figure><img src="/images/collections/punctum/28.jpg"
+         alt="28"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/29.jpg"/>
+<figure><img src="/images/collections/punctum/29.jpg"
+         alt="29"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/30.jpg"/>
+<figure><img src="/images/collections/punctum/30.jpg"
+         alt="30"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/31.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/31.jpg"
+         alt="31"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/32.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/32.jpg"
+         alt="32"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/33.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/33.jpg"
+         alt="33"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/34.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/34.jpg"
+         alt="34"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/35.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/35.jpg"
+         alt="35"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/36.jpg"/>
+<figure><img src="/images/collections/punctum/36.jpg"
+         alt="36"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/37.jpg"/>
+<figure><img src="/images/collections/punctum/37.jpg"
+         alt="37"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/38.jpg"/>
+<figure><img src="/images/collections/punctum/38.jpg"
+         alt="38"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/39.jpg"/>
+<figure><img src="/images/collections/punctum/39.jpg"
+         alt="39"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/40.jpg"/>
+<figure><img src="/images/collections/punctum/40.jpg"
+         alt="40"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/41.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/41.jpg"
+         alt="41"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/42.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/42.jpg"
+         alt="42"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/43.jpg"/>
+<figure><img src="/images/collections/punctum/43.jpg"
+         alt="43"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/44.jpg"/>
+<figure><img src="/images/collections/punctum/44.jpg"
+         alt="44"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/45.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/45.jpg"
+         alt="45"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/46.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/46.jpg"
+         alt="46"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/47.jpg"/>
+<figure><img src="/images/collections/punctum/47.jpg"
+         alt="47"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/48.jpg"/>
+<figure><img src="/images/collections/punctum/48.jpg"
+         alt="48"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/49.jpg"/>
+<figure><img src="/images/collections/punctum/49.jpg"
+         alt="49"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/50.jpg"/>
+<figure><img src="/images/collections/punctum/50.jpg"
+         alt="50"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/51.jpg"/>
+<figure><img src="/images/collections/punctum/51.jpg"
+         alt="51"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/52.jpg"/>
+<figure><img src="/images/collections/punctum/52.jpg"
+         alt="52"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/53.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/53.jpg"
+         alt="53"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/54.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/54.jpg"
+         alt="54"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/55.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/55.jpg"
+         alt="55"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/56.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/56.jpg"
+         alt="56"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/57.jpg"/>
+<figure><img src="/images/collections/punctum/57.jpg"
+         alt="57"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/58.jpg"/>
+<figure><img src="/images/collections/punctum/58.jpg"
+         alt="58"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/59.jpg"/>
+<figure><img src="/images/collections/punctum/59.jpg"
+         alt="59"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/60.jpg"/>
+<figure><img src="/images/collections/punctum/60.jpg"
+         alt="60"/>
 </figure>
 </p>
 ]]></content:encoded></item><item><title>Punctum</title><link>https://eternodevir.com/pt-br/collections/punctum/</link><pubDate>Thu, 07 Dec 2023 11:48:48 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/collections/punctum/</guid><description/><content:encoded><![CDATA[<p>
-<figure><img src="/images/collections/punctum/00.jpg"/>
+<figure><img src="/images/collections/punctum/00.jpg"
+         alt="00"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/01.jpg"/>
+<figure><img src="/images/collections/punctum/01.jpg"
+         alt="01"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/02.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/02.jpg"
+         alt="02"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/03.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/03.jpg"
+         alt="03"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/04.jpg"/>
+<figure><img src="/images/collections/punctum/04.jpg"
+         alt="04"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/05.jpg"/>
+<figure><img src="/images/collections/punctum/05.jpg"
+         alt="05"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/06.jpg"/>
+<figure><img src="/images/collections/punctum/06.jpg"
+         alt="06"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/07.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/07.jpg"
+         alt="07"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/08.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/08.jpg"
+         alt="08"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/09.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/09.jpg"
+         alt="09"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/10.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/10.jpg"
+         alt="10"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/11.jpg"/>
+<figure><img src="/images/collections/punctum/11.jpg"
+         alt="11"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/12.jpg"/>
+<figure><img src="/images/collections/punctum/12.jpg"
+         alt="12"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/13.jpg"/>
+<figure><img src="/images/collections/punctum/13.jpg"
+         alt="13"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/14.jpg"/>
+<figure><img src="/images/collections/punctum/14.jpg"
+         alt="14"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/15.jpg"/>
+<figure><img src="/images/collections/punctum/15.jpg"
+         alt="15"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/16.jpg"/>
+<figure><img src="/images/collections/punctum/16.jpg"
+         alt="16"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/17.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/17.jpg"
+         alt="17"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/18.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/18.jpg"
+         alt="18"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/19.jpg"/>
+<figure><img src="/images/collections/punctum/19.jpg"
+         alt="19"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/20.jpg"/>
+<figure><img src="/images/collections/punctum/20.jpg"
+         alt="20"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/21.jpg"/>
+<figure><img src="/images/collections/punctum/21.jpg"
+         alt="21"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/22.jpg"/>
+<figure><img src="/images/collections/punctum/22.jpg"
+         alt="22"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/23.jpg"/>
+<figure><img src="/images/collections/punctum/23.jpg"
+         alt="23"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/24.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/24.jpg"
+         alt="24"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/25.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/25.jpg"
+         alt="25"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/26.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/26.jpg"
+         alt="26"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/27.jpg"/>
+<figure><img src="/images/collections/punctum/27.jpg"
+         alt="27"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/28.jpg"/>
+<figure><img src="/images/collections/punctum/28.jpg"
+         alt="28"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/29.jpg"/>
+<figure><img src="/images/collections/punctum/29.jpg"
+         alt="29"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/30.jpg"/>
+<figure><img src="/images/collections/punctum/30.jpg"
+         alt="30"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/31.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/31.jpg"
+         alt="31"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/32.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/32.jpg"
+         alt="32"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/33.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/33.jpg"
+         alt="33"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/34.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/34.jpg"
+         alt="34"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/35.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/35.jpg"
+         alt="35"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/36.jpg"/>
+<figure><img src="/images/collections/punctum/36.jpg"
+         alt="36"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/37.jpg"/>
+<figure><img src="/images/collections/punctum/37.jpg"
+         alt="37"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/38.jpg"/>
+<figure><img src="/images/collections/punctum/38.jpg"
+         alt="38"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/39.jpg"/>
+<figure><img src="/images/collections/punctum/39.jpg"
+         alt="39"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/40.jpg"/>
+<figure><img src="/images/collections/punctum/40.jpg"
+         alt="40"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/41.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/41.jpg"
+         alt="41"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/42.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/42.jpg"
+         alt="42"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/43.jpg"/>
+<figure><img src="/images/collections/punctum/43.jpg"
+         alt="43"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/44.jpg"/>
+<figure><img src="/images/collections/punctum/44.jpg"
+         alt="44"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/45.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/45.jpg"
+         alt="45"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/46.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/46.jpg"
+         alt="46"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/47.jpg"/>
+<figure><img src="/images/collections/punctum/47.jpg"
+         alt="47"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/48.jpg"/>
+<figure><img src="/images/collections/punctum/48.jpg"
+         alt="48"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/49.jpg"/>
+<figure><img src="/images/collections/punctum/49.jpg"
+         alt="49"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/50.jpg"/>
+<figure><img src="/images/collections/punctum/50.jpg"
+         alt="50"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/51.jpg"/>
+<figure><img src="/images/collections/punctum/51.jpg"
+         alt="51"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/52.jpg"/>
+<figure><img src="/images/collections/punctum/52.jpg"
+         alt="52"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/53.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/53.jpg"
+         alt="53"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/54.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/54.jpg"
+         alt="54"/>
 </figure>
 
-<figure class="figure_yr"><img src="/images/collections/punctum/55.jpg"/>
+<figure class="figure_yr"><img src="/images/collections/punctum/55.jpg"
+         alt="55"/>
 </figure>
 
-<figure class="figure_yl"><img src="/images/collections/punctum/56.jpg"/>
+<figure class="figure_yl"><img src="/images/collections/punctum/56.jpg"
+         alt="56"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/57.jpg"/>
+<figure><img src="/images/collections/punctum/57.jpg"
+         alt="57"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/58.jpg"/>
+<figure><img src="/images/collections/punctum/58.jpg"
+         alt="58"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/59.jpg"/>
+<figure><img src="/images/collections/punctum/59.jpg"
+         alt="59"/>
 </figure>
 
-<figure><img src="/images/collections/punctum/60.jpg"/>
+<figure><img src="/images/collections/punctum/60.jpg"
+         alt="60"/>
 </figure>
 </p>
 ]]></content:encoded></item><item><title>Lugares</title><link>https://eternodevir.com/pt-br/collections/lugares/</link><pubDate>Thu, 02 Nov 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/collections/lugares/</guid><description>Brasília
@@ -393,182 +515,157 @@ Renchen
 Wernstein
 Schärding</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/collections/places/brasilia.jpg"
-         alt="Brasília"/><figcaption>
+         alt="brasilia"/><figcaption>
             <p>Brasília</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/ouro_preto.jpg"
-         alt="Ouro Preto"/><figcaption>
+         alt="ouro_preto"/><figcaption>
             <p>Ouro Preto</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/mariana.jpg"
-         alt="Mariana"/><figcaption>
+         alt="mariana"/><figcaption>
             <p>Mariana</p>
         </figcaption>
 </figure>
-</p>
-<p>
-<figure><img src="/images/collections/places/juiz_de_fora2.jpg"
-         alt="Juiz de Fora"/><figcaption>
+
+<figure><img src="/images/collections/places/juiz_de_fora.jpg"
+         alt="juiz_de_fora"/><figcaption>
             <p>Juiz de Fora</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/sao_paulo.jpg"
-         alt="São Paulo"/><figcaption>
+         alt="sao_paulo"/><figcaption>
             <p>São Paulo</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/rio_de_janeiro.jpg"
-         alt="Rio de Janeiro"/><figcaption>
+         alt="rio_de_janeiro"/><figcaption>
             <p>Rio de Janeiro</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/vitoria.jpg"
-         alt="Vitória"/><figcaption>
+         alt="vitoria"/><figcaption>
             <p>Vitória</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/berlin.jpg"
-         alt="Berlin"/><figcaption>
+         alt="berlin"/><figcaption>
             <p>Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/frankfurt.jpg"
-         alt="Frankfurt"/><figcaption>
+         alt="frankfurt"/><figcaption>
             <p>Frankfurt</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/munchen.jpg"
-         alt="München"/><figcaption>
+         alt="munchen"/><figcaption>
             <p>München</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/passau.jpg"
-         alt="Passau"/><figcaption>
+         alt="passau"/><figcaption>
             <p>Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/regensburg.jpg"
-         alt="Regensburg"/><figcaption>
+         alt="regensburg"/><figcaption>
             <p>Regensburg</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/trier.jpg"
-         alt="Trier"/><figcaption>
+         alt="trier"/><figcaption>
             <p>Trier</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/salzburg.jpg"
-         alt="Salzburg"/><figcaption>
+         alt="salzburg"/><figcaption>
             <p>Salzburg</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/strasbourg.jpg"
-         alt="Strasbourg"/><figcaption>
+         alt="strasbourg"/><figcaption>
             <p>Strasbourg</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/oberkirch.jpg"
-         alt="Oberkirch"/><figcaption>
+         alt="oberkirch"/><figcaption>
             <p>Oberkirch</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/oppenau.jpg"
-         alt="Oppenau"/><figcaption>
+         alt="oppenau"/><figcaption>
             <p>Oppenau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/gutach.jpg"
-         alt="Gutach"/><figcaption>
+         alt="gutach"/><figcaption>
             <p>Gutach</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/sasbach.jpg"
-         alt="Sasbach"/><figcaption>
+         alt="sasbach"/><figcaption>
             <p>Sasbach</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/sasbachwalden.jpg"
-         alt="Sasbachwalden"/><figcaption>
+         alt="sasbachwalden"/><figcaption>
             <p>Sasbachwalden</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/donaustauf.jpg"
-         alt="Donaustauf"/><figcaption>
+         alt="donaustauf"/><figcaption>
             <p>Donaustauf</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/neuschonau.jpg"
-         alt="Neuschönau"/><figcaption>
+         alt="neuschonau"/><figcaption>
             <p>Neuschönau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/seebach.jpg"
-         alt="Seebach"/><figcaption>
+         alt="seebach"/><figcaption>
             <p>Seebach</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/renchen.jpg"
-         alt="Renchen"/><figcaption>
+         alt="renchen"/><figcaption>
             <p>Renchen</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/wernstein.jpg"
-         alt="Wernstein"/><figcaption>
+         alt="wernstein"/><figcaption>
             <p>Wernstein</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/scharding.jpg"
-         alt="Schärding"/><figcaption>
+         alt="scharding"/><figcaption>
             <p>Schärding</p>
         </figcaption>
 </figure>
@@ -600,182 +697,157 @@ Renchen
 Wernstein
 Schärding</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/collections/places/brasilia.jpg"
-         alt="Brasília"/><figcaption>
+         alt="brasilia"/><figcaption>
             <p>Brasília</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/ouro_preto.jpg"
-         alt="Ouro Preto"/><figcaption>
+         alt="ouro_preto"/><figcaption>
             <p>Ouro Preto</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/mariana.jpg"
-         alt="Mariana"/><figcaption>
+         alt="mariana"/><figcaption>
             <p>Mariana</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/juiz_de_fora.jpg"
-         alt="Juiz de Fora"/><figcaption>
+         alt="juiz_de_fora"/><figcaption>
             <p>Juiz de Fora</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/sao_paulo.jpg"
-         alt="São Paulo"/><figcaption>
+         alt="sao_paulo"/><figcaption>
             <p>São Paulo</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/rio_de_janeiro.jpg"
-         alt="Rio de Janeiro"/><figcaption>
+         alt="rio_de_janeiro"/><figcaption>
             <p>Rio de Janeiro</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/vitoria.jpg"
-         alt="Vitória"/><figcaption>
+         alt="vitoria"/><figcaption>
             <p>Vitória</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/berlin.jpg"
-         alt="Berlin"/><figcaption>
+         alt="berlin"/><figcaption>
             <p>Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/frankfurt.jpg"
-         alt="Frankfurt"/><figcaption>
+         alt="frankfurt"/><figcaption>
             <p>Frankfurt</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/munchen.jpg"
-         alt="München"/><figcaption>
+         alt="munchen"/><figcaption>
             <p>München</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/passau.jpg"
-         alt="Passau"/><figcaption>
+         alt="passau"/><figcaption>
             <p>Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/regensburg.jpg"
-         alt="Regensburg"/><figcaption>
+         alt="regensburg"/><figcaption>
             <p>Regensburg</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/trier.jpg"
-         alt="Trier"/><figcaption>
+         alt="trier"/><figcaption>
             <p>Trier</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/salzburg.jpg"
-         alt="Salzburg"/><figcaption>
+         alt="salzburg"/><figcaption>
             <p>Salzburg</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/strasbourg.jpg"
-         alt="Strasbourg"/><figcaption>
+         alt="strasbourg"/><figcaption>
             <p>Strasbourg</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/oberkirch.jpg"
-         alt="Oberkirch"/><figcaption>
+         alt="oberkirch"/><figcaption>
             <p>Oberkirch</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/oppenau.jpg"
-         alt="Oppenau"/><figcaption>
+         alt="oppenau"/><figcaption>
             <p>Oppenau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/gutach.jpg"
-         alt="Gutach"/><figcaption>
+         alt="gutach"/><figcaption>
             <p>Gutach</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/sasbach.jpg"
-         alt="Sasbach"/><figcaption>
+         alt="sasbach"/><figcaption>
             <p>Sasbach</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/sasbachwalden.jpg"
-         alt="Sasbachwalden"/><figcaption>
+         alt="sasbachwalden"/><figcaption>
             <p>Sasbachwalden</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/donaustauf.jpg"
-         alt="Donaustauf"/><figcaption>
+         alt="donaustauf"/><figcaption>
             <p>Donaustauf</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/neuschonau.jpg"
-         alt="Neuschönau"/><figcaption>
+         alt="neuschonau"/><figcaption>
             <p>Neuschönau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/seebach.jpg"
-         alt="Seebach"/><figcaption>
+         alt="seebach"/><figcaption>
             <p>Seebach</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/renchen.jpg"
-         alt="Renchen"/><figcaption>
+         alt="renchen"/><figcaption>
             <p>Renchen</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/wernstein.jpg"
-         alt="Wernstein"/><figcaption>
+         alt="wernstein"/><figcaption>
             <p>Wernstein</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/places/scharding.jpg"
-         alt="Schärding"/><figcaption>
+         alt="scharding"/><figcaption>
             <p>Schärding</p>
         </figcaption>
 </figure>
@@ -1224,28 +1296,32 @@ Featuring list
 <table class="table-no-border-img">
 <tbody>
 <tr>
-<td><figure><a href="https://open.spotify.com/album/4NIGwEvudtT3KZrYPymOmz?si=mkKS9XQiS6mR7dIXhHHJpw"><img src="/images/collections/albums/transa.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/4NIGwEvudtT3KZrYPymOmz?si=mkKS9XQiS6mR7dIXhHHJpw"><img src="/images/collections/albums/transa.jpg"
+         alt="Transa" width="200"/></a>
 </figure>
 </td>
-<td><figure><a href="https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5?si=uddHowYYSfSusJXeEMOuag"><img src="/images/collections/albums/construcao.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5?si=uddHowYYSfSusJXeEMOuag"><img src="/images/collections/albums/construcao.jpg"
+         alt="Construção" width="200"/></a>
 </figure>
 </td>
-<td><figure><a href="https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=NBGFqC34Rpi_2ubH4DstXA"><img src="/images/collections/albums/buena_vista_social_club.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=NBGFqC34Rpi_2ubH4DstXA"><img src="/images/collections/albums/buena_vista_social_club.jpg"
+         alt="Buena Vista Social Club" width="200"/></a>
 </figure>
 </td>
-<td class="align-right"></td>
 </tr>
 <tr>
-<td><figure><a href="https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW?si=732143c2bcdf47bc"><img src="/images/collections/albums/blade_runner_soundtrack.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW?si=732143c2bcdf47bc"><img src="/images/collections/albums/blade_runner_soundtrack.jpg"
+         alt="Blade Runner Soundtrack" width="200"/></a>
 </figure>
 </td>
-<td><figure><a href="https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT?si=IJ47ZKJpQkyFbO2U8kMljQ"><img src="/images/collections/albums/the_singles_86-98.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT?si=IJ47ZKJpQkyFbO2U8kMljQ"><img src="/images/collections/albums/the_singles_86-98.jpg"
+         alt="The Singles 86-98" width="200"/></a>
 </figure>
 </td>
-<td><figure><a href="https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp?si=bX-2yOf5TT-OPfvgjJMlLQ"><img src="/images/collections/albums/psycho_tropical_berlin.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp?si=bX-2yOf5TT-OPfvgjJMlLQ"><img src="/images/collections/albums/psycho_tropical_berlin.jpg"
+         alt="Psycho Tropical Berlin" width="200"/></a>
 </figure>
 </td>
-<td class="align-right"></td>
 </tr>
 </tbody>
 </table>
@@ -1785,28 +1861,32 @@ Destaques
 <table class="table-no-border-img">
 <tbody>
 <tr>
-<td><figure><a href="https://open.spotify.com/album/4NIGwEvudtT3KZrYPymOmz?si=mkKS9XQiS6mR7dIXhHHJpw"><img src="/images/collections/albums/transa.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/4NIGwEvudtT3KZrYPymOmz?si=mkKS9XQiS6mR7dIXhHHJpw"><img src="/images/collections/albums/transa.jpg"
+         alt="Transa" width="200"/></a>
 </figure>
 </td>
-<td><figure><a href="https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5?si=uddHowYYSfSusJXeEMOuag"><img src="/images/collections/albums/construcao.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5?si=uddHowYYSfSusJXeEMOuag"><img src="/images/collections/albums/construcao.jpg"
+         alt="Construção" width="200"/></a>
 </figure>
 </td>
-<td><figure><a href="https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=NBGFqC34Rpi_2ubH4DstXA"><img src="/images/collections/albums/buena_vista_social_club.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=NBGFqC34Rpi_2ubH4DstXA"><img src="/images/collections/albums/buena_vista_social_club.jpg"
+         alt="Buena Vista Social Club" width="200"/></a>
 </figure>
 </td>
-<td class="align-right"></td>
 </tr>
 <tr>
-<td><figure><a href="https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW?si=732143c2bcdf47bc"><img src="/images/collections/albums/blade_runner_soundtrack.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW?si=732143c2bcdf47bc"><img src="/images/collections/albums/blade_runner_soundtrack.jpg"
+         alt="Blade Runner Soundtrack" width="200"/></a>
 </figure>
 </td>
-<td><figure><a href="https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT?si=IJ47ZKJpQkyFbO2U8kMljQ"><img src="/images/collections/albums/the_singles_86-98.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT?si=IJ47ZKJpQkyFbO2U8kMljQ"><img src="/images/collections/albums/the_singles_86-98.jpg"
+         alt="The Singles 86-98" width="200"/></a>
 </figure>
 </td>
-<td><figure><a href="https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp?si=bX-2yOf5TT-OPfvgjJMlLQ"><img src="/images/collections/albums/psycho_tropical_berlin.jpg" width="200"/></a>
+<td><figure><a href="https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp?si=bX-2yOf5TT-OPfvgjJMlLQ"><img src="/images/collections/albums/psycho_tropical_berlin.jpg"
+         alt="Psycho Tropical Berlin" width="200"/></a>
 </figure>
 </td>
-<td class="align-right"></td>
 </tr>
 </tbody>
 </table>
@@ -2353,105 +2433,91 @@ Zoo Palast, Berlin</description><content:encoded><![CDATA[<p>
 Photographic memoir of cinemas that I hold dear.</p>
 <p>
 <figure><img src="/images/collections/cinemas/palace.jpg"
-         alt="Palace, Juiz de Fora"/><figcaption>
+         alt="palace"/><figcaption>
             <p>Palace, Juiz de Fora</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/roxy.jpg"
-         alt="Roxy, Rio de Janeiro"/><figcaption>
+         alt="roxy"/><figcaption>
             <p>Roxy, Rio de Janeiro</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/metropolis.jpg"
-         alt="Metropolis, Passau"/><figcaption>
+         alt="metropolis"/><figcaption>
             <p>Metropolis, Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/proli.jpg"
-         alt="Proli, Passau"/><figcaption>
+         alt="proli"/><figcaption>
             <p>Proli, Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/cineplex_passau.jpg"
-         alt="Cineplex, Passau"/><figcaption>
+         alt="cineplex_passau"/><figcaption>
             <p>Cineplex, Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/regina.jpg"
-         alt="Regina, Regensburg"/><figcaption>
+         alt="regina"/><figcaption>
             <p>Regina, Regensburg</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/acud.jpg"
-         alt="Acud, Berlin"/><figcaption>
+         alt="acud"/><figcaption>
             <p>Acud, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/astor.jpg"
-         alt="Astor, Berlin"/><figcaption>
+         alt="astor"/><figcaption>
             <p>Astor, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/babylon.jpg"
-         alt="Babylon, Berlin"/><figcaption>
+         alt="babylon"/><figcaption>
             <p>Babylon, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/cinestar_berlin.jpg"
-         alt="CineStar, Berlin"/><figcaption>
+         alt="cinestar_berlin"/><figcaption>
             <p>CineStar, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/delphi_filmpalast.jpg"
-         alt="Delphi Filmpalast, Berlin"/><figcaption>
+         alt="delphi_filmpalast"/><figcaption>
             <p>Delphi Filmpalast, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/lichtblick.jpg"
-         alt="Lichtblick, Berlin"/><figcaption>
+         alt="lichtblick"/><figcaption>
             <p>Lichtblick, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/odeon.jpg"
-         alt="Odeon, Berlin"/><figcaption>
+         alt="odeon"/><figcaption>
             <p>Odeon, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/sputnik.jpg"
-         alt="Sputnik, Berlin"/><figcaption>
+         alt="sputnik"/><figcaption>
             <p>Sputnik, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/zoo_palast.jpg"
-         alt="Zoo Palast, Berlin"/><figcaption>
+         alt="zoo_palast"/><figcaption>
             <p>Zoo Palast, Berlin</p>
         </figcaption>
 </figure>
@@ -2475,105 +2541,91 @@ Zoo Palast, Berlin</description><content:encoded><![CDATA[<p>
 Memórias fotográficas de cinemas que tenho apreço.</p>
 <p>
 <figure><img src="/images/collections/cinemas/palace.jpg"
-         alt="Palace, Juiz de Fora"/><figcaption>
+         alt="palace"/><figcaption>
             <p>Palace, Juiz de Fora</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/roxy.jpg"
-         alt="Roxy, Rio de Janeiro"/><figcaption>
+         alt="roxy"/><figcaption>
             <p>Roxy, Rio de Janeiro</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/metropolis.jpg"
-         alt="Metropolis, Passau"/><figcaption>
+         alt="metropolis"/><figcaption>
             <p>Metropolis, Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/proli.jpg"
-         alt="Proli, Passau"/><figcaption>
+         alt="proli"/><figcaption>
             <p>Proli, Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/cineplex_passau.jpg"
-         alt="Cineplex, Passau"/><figcaption>
+         alt="cineplex_passau"/><figcaption>
             <p>Cineplex, Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/regina.jpg"
-         alt="Regina, Regensburg"/><figcaption>
+         alt="regina"/><figcaption>
             <p>Regina, Regensburg</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/acud.jpg"
-         alt="Acud, Berlin"/><figcaption>
+         alt="acud"/><figcaption>
             <p>Acud, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/astor.jpg"
-         alt="Astor, Berlin"/><figcaption>
+         alt="astor"/><figcaption>
             <p>Astor, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/babylon.jpg"
-         alt="Babylon, Berlin"/><figcaption>
+         alt="babylon"/><figcaption>
             <p>Babylon, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/cinestar_berlin.jpg"
-         alt="CineStar, Berlin"/><figcaption>
+         alt="cinestar_berlin"/><figcaption>
             <p>CineStar, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/delphi_filmpalast.jpg"
-         alt="Delphi Filmpalast, Berlin"/><figcaption>
+         alt="delphi_filmpalast"/><figcaption>
             <p>Delphi Filmpalast, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/lichtblick.jpg"
-         alt="Lichtblick, Berlin"/><figcaption>
+         alt="lichtblick"/><figcaption>
             <p>Lichtblick, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/odeon.jpg"
-         alt="Odeon, Berlin"/><figcaption>
+         alt="odeon"/><figcaption>
             <p>Odeon, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/sputnik.jpg"
-         alt="Sputnik, Berlin"/><figcaption>
+         alt="sputnik"/><figcaption>
             <p>Sputnik, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/zoo_palast.jpg"
-         alt="Zoo Palast, Berlin"/><figcaption>
+         alt="zoo_palast"/><figcaption>
             <p>Zoo Palast, Berlin</p>
         </figcaption>
 </figure>
@@ -2590,19 +2642,22 @@ Featuring list
 <table class="table-no-border-img-txt">
 <tbody>
 <tr>
-<td><figure><img src="/images/collections/directors/wong-kar-wai.jpg" width="93"/>
+<td><figure><img src="/images/collections/directors/wong-kar-wai.jpg"
+         alt="Wong Kar-Wai" width="93"/>
 </figure>
 </td>
 <td><strong>Wong Kar-Wai</strong> is a Hong Kong Second Wave filmmaker, internationally renowned as an auteur for his visually unique, highly stylized films. Wong&#39;s films frequently feature protagonists who yearn for romance in the midst of a knowingly brief life and scenes that can often be described as sketchy, digressive, exhilarating, and containing vivid imagery. <a href="https://www.themoviedb.org/person/12453-wong-kar-wai">↪</a></td>
 </tr>
 <tr>
-<td><figure><img src="/images/collections/directors/michelangelo-antonioni.jpg" width="93"/>
+<td><figure><img src="/images/collections/directors/michelangelo-antonioni.jpg"
+         alt="Michelangelo Antonioni" width="93"/>
 </figure>
 </td>
 <td><strong>Michelangelo Antonioni</strong> was an Italian modernist film director, screenwriter, editor, and short story writer. Antonioni redefined the concept of narrative cinema and challenged traditional approaches to storytelling, realism, drama, and the world at large. He produced enigmatic and intricate mood pieces and rejected action in favor of contemplation, focusing on image and design. <a href="https://www.themoviedb.org/person/15189-michelangelo-antonioni">↪</a></td>
 </tr>
 <tr>
-<td><figure><img src="/images/collections/directors/pedro-almodovar.jpg" width="93"/>
+<td><figure><img src="/images/collections/directors/pedro-almodovar.jpg"
+         alt="Pedro Almodóvar" width="93"/>
 </figure>
 </td>
 <td><strong>Pedro Almodóvar</strong> is a Spanish film director, arguably the most internationally known of his generation. Almodóvar&#39;s films employ the codes of melodrama and are marked by complex narratives, irreverent humor, strong colors, glossy décor, and references to pop culture and popular songs. Desire, passion, family and identity are among Almodóvar’s most prevalent themes. <a href="https://www.themoviedb.org/person/309-pedro-almod-var">↪</a></td>
@@ -2790,19 +2845,22 @@ Destaques
 <table class="table-no-border-img-txt">
 <tbody>
 <tr>
-<td><figure><img src="/images/collections/directors/wong-kar-wai.jpg" width="93"/>
+<td><figure><img src="/images/collections/directors/wong-kar-wai.jpg"
+         alt="Wong Kar-Wai" width="93"/>
 </figure>
 </td>
 <td><strong>Wong Kar-Wai</strong> é um cineasta da Segunda Onda de Hong Kong, reconhecido internacionalmente como auteur por seus filmes visualmente únicos e altamente estilizados. Seus filmes frequentemente apresentam protagonistas que anseiam por romance no meio de uma vida conscientemente breve, com cenas que amíude podem ser descritas como esboçadas, digressivas, eletrizantes e contendo imagens vívidas. <a href="https://www.themoviedb.org/person/12453-wong-kar-wai">↪</a></td>
 </tr>
 <tr>
-<td><figure><img src="/images/collections/directors/michelangelo-antonioni.jpg" width="93"/>
+<td><figure><img src="/images/collections/directors/michelangelo-antonioni.jpg"
+         alt="Michelangelo Antonioni" width="93"/>
 </figure>
 </td>
 <td><strong>Michelangelo Antonioni</strong> foi um diretor de cinema modernista italiano, roteirista, editor e contista. Antonioni redefiniu o conceito de cinema narrativo e desafiou as abordagens tradicionais da narrativa, do realismo, do drama e do mundo em geral. Ele produziu obras de atmosfera enigmática e intrincada, rejeitando a ação em favor da contemplação, focando na imagem e no design. <a href="https://www.themoviedb.org/person/15189-michelangelo-antonioni">↪</a></td>
 </tr>
 <tr>
-<td><figure><img src="/images/collections/directors/pedro-almodovar.jpg" width="93"/>
+<td><figure><img src="/images/collections/directors/pedro-almodovar.jpg"
+         alt="Pedro Almodóvar" width="93"/>
 </figure>
 </td>
 <td><strong>Pedro Almodóvar</strong> é um diretor de cinema espanhol, talvez o mais conhecido internacionalmente de sua geração. Seus filmes empregam os símbolos do melodrama e são marcados por narrativas complexas, humor irreverente, cores fortes, decoração brilhante e referências à cultura pop e canções populares. Desejo, paixão, família e identidade estão entre os temas mais prevalentes de Almodóvar. <a href="https://www.themoviedb.org/person/309-pedro-almod-var">↪</a></td>
@@ -5723,7 +5781,8 @@ Tudo começou com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov.
 <p>
 A primeira ideia que me ocorreu foi fazer o máximo possível de melhorias de hardware. Após uma extensa pesquisa, encontrei alguns componentes interessantes. Troquei o HHD por um SSD e dobrei a quantidade de RAM com um novo cartucho. No entanto, abrir o laptop inteiro para fazer uma limpeza profunda foi um tanto desafiador, tive que brigar um pouco com os clipes de plástico da carcaça. Mesmo assim, deu tudo certo e consegui trocar a pasta térmica da CPU também. Embora esteja acostumado a fazer isso no meu computador de mesa, essa aventura me ensinou bastante sobre as especificidades dos laptops.</p>
 <p>
-<figure><img src="/images/blog/2022/image00.jpg"/>
+<figure><img src="/images/blog/2022/image00.jpg"
+         alt="Vertov"/>
 </figure>
 </p>
 <p>
@@ -5731,7 +5790,8 @@ Em meio ao procedimento de reanimação do Vertov, comecei a entender que a lent
 <p>
 Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou mencionando que rodava Debian no seu computador principal — recentemente ele havia comprado um computador de mesa com as mesmas especificações que o meu. Essa menção me trouxe lembranças do ensino médio, quando eu e um outro amigo instalamos o Slackware. Na época, não tínhamos ideia de tudo o que aquilo representava. No fim das contas, me convenci a instalar &#34;Linux&#34; no Vertov, na esperança de continuar o utilizando. A primeira escolha, como uma forma de lembrança, foi o Slackware.</p>
 <p>
-<figure><img src="/images/blog/2022/image01.jpg"/>
+<figure><img src="/images/blog/2022/image01.jpg"
+         alt="Slackware"/>
 </figure>
 </p>
 <p>
@@ -5760,7 +5820,8 @@ It all began with my first laptop, an old Samsung RV415, hostname Vertov. It sto
 <p>
 The first idea that occurred to me was to make as many hardware improvements as possible. After an extensive research, I found some interesting components. I replaced the HHD with an SSD and doubled the amount of RAM with a new stick. However, opening the laptop completely to do a deep cleaning was somewhat challenging, and I had to struggle a bit with the plastic clips on the case. Nevertheless, everything went well, and I managed to change the thermal paste on the CPU as well. Even though I am used to doing this on my desktop computer, this adventure taught me a lot about the specifics of laptops.</p>
 <p>
-<figure><img src="/images/blog/2022/image00.jpg"/>
+<figure><img src="/images/blog/2022/image00.jpg"
+         alt="Vertov"/>
 </figure>
 </p>
 <p>
@@ -5768,7 +5829,8 @@ In the midst of Vertov&#39;s resuscitation procedure, I began to understand that
 <p>
 Coincidentally, in a conversation during this same period, a friend ended up mentioning that he ran Debian on his main computer—he had recently bought a desktop computer with the same specifications as mine. This mention brought back memories from high school when I and another friend installed Slackware. At the time, we had no idea all that it represented. Ultimately, I convinced myself to install &#34;Linux&#34; on Vertov, hoping to continue using it. The first choice, as a remembrance, was Slackware.</p>
 <p>
-<figure><img src="/images/blog/2022/image01.jpg"/>
+<figure><img src="/images/blog/2022/image01.jpg"
+         alt="Slackware"/>
 </figure>
 </p>
 <p>
@@ -5969,7 +6031,8 @@ Only on behalf of the hopeless are we given hope.</p>
 ]]></content:encoded></item><item><title>Escrevo para descobrir o que penso</title><link>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</guid><description>Outro dia me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…
 Exercício de análise combinatória I Escrevo para descobrir o que penso.</description><content:encoded><![CDATA[
 <p>
-<figure><img src="/images/blog/2020/image03.jpg"/>
+<figure><img src="/images/blog/2020/image03.jpg"
+         alt="Exercício"/>
 </figure>
 </p>
 <p>
@@ -5991,7 +6054,8 @@ Descubro para escrever o que penso.</p>
 ]]></content:encoded></item><item><title>I write to find out what I think</title><link>https://eternodevir.com/blog/i-write-to-find-out-what-i-think/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/i-write-to-find-out-what-i-think/</guid><description>The other day, I was reminded of my high school math teacher and how combinatorics was one of the few topics that interested me. The ability to envision an universe of possibilities within a given scenario was delightful. This morning, I combined that memory with an idea that has been occupying my mind lately—writing as an exercise of reflection and discovery. The lessons never end…
 Combinatorial analysis exercise I I write to discover what I think.</description><content:encoded><![CDATA[
 <p>
-<figure><img src="/images/blog/2020/image03.jpg"/>
+<figure><img src="/images/blog/2020/image03.jpg"
+         alt="Exercise"/>
 </figure>
 </p>
 <p>
@@ -6016,7 +6080,7 @@ Corpo não mente Quando Francisco Xavier, o missionário jesuíta, aportou no Ja
 Nas cartas que escreveu para seus superiores em Roma, Xavier descreve com júbilo os progressos do apostolado na Terra do Sol Nascente.</description><content:encoded><![CDATA[
 <p>
 <figure><img src="/images/blog/2020/image00.jpg"
-         alt="Caixa Cultural, São Paulo, 2015"/><figcaption>
+         alt="Caixa Cultural"/><figcaption>
             <p>Caixa Cultural, São Paulo, 2015</p>
         </figcaption>
 </figure>
@@ -6093,7 +6157,7 @@ Body not mind1 When Francis Xavier, the Jesuit missionary, arrived in Japan duri
 In his letters to his superiors in Rome, Xavier expressed with joy the progress of the apostolate in the Land of the Rising Sun.</description><content:encoded><![CDATA[
 <p>
 <figure><img src="/images/blog/2020/image00.jpg"
-         alt="Caixa Cultural, São Paulo, 2015"/><figcaption>
+         alt="Caixa Cultural"/><figcaption>
             <p>Caixa Cultural, São Paulo, 2015</p>
         </figcaption>
 </figure>
@@ -6183,21 +6247,21 @@ No fim, só não estava incomodado de verdade quem decidiu não ir à festa — 
 A person who is bothered talks about something that is annoying them. Some people who are bothered agree with them, while others who are bothered disagree. At the party, those who are not bothered are divided into two groups: those who are not bothered by the annoyance itself, but by the fact that there are so many bothered people bothering them; and those who are not bothered by anything at all, except for those who are not bothered by being bothered by so many bothers, which is known to cause them deep annoyance.&lt;/p>
 &lt;p>
 In the end, the only people who decided not to go to the party were those who were not bothered at all, which certainly bothered a lot of people. Or at least that is how it seemed until they realized they were not even invited.&lt;/p></content:encoded></item><item><title>For Street Cinema memories</title><link>https://eternodevir.com/blog/for-street-cinema-memories/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/for-street-cinema-memories/</guid><description>Cinearte Palace, Juiz de Fora, 2017
-Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. It was a place for art, experimentation, transformation, and freedom. Each director had their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.
+Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. A place for art, experimentation, transformation, and freedom. Each director with their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.
 However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil.</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/blog/2019/image00.jpg"
-         alt="Cinearte Palace, Juiz de Fora, 2017"/><figcaption>
+         alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2017</p>
         </figcaption>
 </figure>
 </p>
 <p>
-Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. It was a place for art, experimentation, transformation, and freedom. Each director had their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.</p>
+Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. A place for art, experimentation, transformation, and freedom. Each director with their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.</p>
 <p>
 However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil. The cinema experience was transformed, shifting to large shopping centers, and popular festivals and local productions were put in the background by blockbusters. Despite this, some places for encountering the unknown still resist.</p>
 <p>
 <figure><img src="/images/blog/2019/image01.jpg"
-         alt="Cine Roxy, Rio de Janeiro, 2018"/><figcaption>
+         alt="Cine Roxy"/><figcaption>
             <p>Cine Roxy, Rio de Janeiro, 2018</p>
         </figcaption>
 </figure>
@@ -6206,41 +6270,41 @@ However, it became increasingly difficult to find similar expressions of will, e
 In my search for one of these places in Passau, a small town on the border of Germany and Austria, I was fortunate to find a street cinema showing the Brazilian film <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em>—which I watched during one of the only two sessions that took place in Juiz de Fora. The feature, by Marcelo Caetano, reminds me of Glauber&#39;s genuine will to create something instigating that, more than understanding, dares to invite us to feel. In the darkness of the emptied rows of that German street cinema, I reaffirmed how surprising and fascinating these spaces are that still encourage diversity and experimentation. After having lived near the last street cinema in Juiz de Fora for seven years, I have never felt so close to home even when so far away.</p>
 <p>
 <figure><img src="/images/blog/2019/image02.jpg"
-         alt="Metropolis, Passau, 2019"/><figcaption>
+         alt="Metropolis"/><figcaption>
             <p>Metropolis, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
 <figure><img src="/images/blog/2019/image03.jpg"
-         alt="ProLi, Passau, 2019"/><figcaption>
+         alt="ProLi"/><figcaption>
             <p>ProLi, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
 <figure><img src="/images/blog/2019/image04.jpg"
-         alt="Regina, Regensburg, 2019"/><figcaption>
+         alt="Regina"/><figcaption>
             <p>Regina, Regensburg, 2019</p>
         </figcaption>
 </figure>
 </p>
 ]]></content:encoded></item><item><title>Por memórias de Cinema de Rua</title><link>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</guid><description>Cinearte Palace, Juiz de Fora, 2017
-Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Era um lugar de arte, experimentação, transformação e liberdade. Cada diretor tinha sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.
+Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Um lugar de arte, experimentação, transformação e liberdade. Cada diretor com sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.
 No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil.</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/blog/2019/image00.jpg"
-         alt="Cinearte Palace, Juiz de Fora, 2017"/><figcaption>
+         alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2017</p>
         </figcaption>
 </figure>
 </p>
 <p>
-Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Era um lugar de arte, experimentação, transformação e liberdade. Cada diretor tinha sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.</p>
+Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Um lugar de arte, experimentação, transformação e liberdade. Cada diretor com sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.</p>
 <p>
 No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil. A experiência cinematográfica foi transformada, deslocando-se para os grandes centros comerciais, e os cinemas populares e as produções locais foram colocadas em segundo plano pelos blockbusters. Apesar disso, alguns locais de encontro com o desconhecido ainda resistem.</p>
 <p>
 <figure><img src="/images/blog/2019/image01.jpg"
-         alt="Cine Roxy, Rio de Janeiro, 2018"/><figcaption>
+         alt="Cine Roxy"/><figcaption>
             <p>Cine Roxy, Rio de Janeiro, 2018</p>
         </figcaption>
 </figure>
@@ -6249,21 +6313,21 @@ No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade se
 Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entre Alemanha e Áustria, tive a sorte de encontrar um cinema de rua exibindo o filme brasileiro <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em> — que assisti durante uma das duas únicas sessões que aconteceram em Juiz de Fora. A obra, de Marcelo Caetano, me lembra a vontade genuína de Glauber em criar algo instigante que, mais do que compreender, ousa nos convidar a sentir. Na escuridão das fileiras vazias daquele cinema de rua alemão, reafirmei o quão surpreendentes e fascinantes são estes espaços que ainda incentivam a diversidade e a experimentação. Depois de viver sete anos perto do último cinema de rua de Juiz de Fora, nunca me senti tão perto de casa mesmo estando tão distante.</p>
 <p>
 <figure><img src="/images/blog/2019/image02.jpg"
-         alt="Metropolis, Passau, 2019"/><figcaption>
+         alt="Metropolis"/><figcaption>
             <p>Metropolis, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
 <figure><img src="/images/blog/2019/image03.jpg"
-         alt="ProLi, Passau, 2019"/><figcaption>
+         alt="ProLi"/><figcaption>
             <p>ProLi, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
 <figure><img src="/images/blog/2019/image04.jpg"
-         alt="Regina, Regensburg, 2019"/><figcaption>
+         alt="Regina"/><figcaption>
             <p>Regina, Regensburg, 2019</p>
         </figcaption>
 </figure>
@@ -6272,7 +6336,7 @@ Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entr
 De uns tempos para cá, desenvolvi o hábito revisitar filmes através da trilha sonora. Percebi que muitas das minhas melhores memórias cinematográficas estão inextricavelmente ligadas ao poder da relação audiovisual, especialmente em cenas que estão intimamente ligadas a músicas específicas. A playlist que criei é uma homenagem a essas memórias.
 As músicas têm a capacidade de se tornar parte integrante da narrativa dos filmes quando escolhidas com cuidado.</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/blog/2018/image00.jpg"
-         alt="Cinearte Palace, Juiz de Fora, 2016"/><figcaption>
+         alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2016</p>
         </figcaption>
 </figure>
@@ -6375,7 +6439,7 @@ Dedico esta playlist e lista de filmes ao Cinearte Palace, o último cinema de r
 As of late, I have developed a habit of revisiting films for their soundtracks. I have come to realize that many of my fondest cinematic memories are inextricably linked to the power of the audio-visual relationship, particularly in scenes that are closely tied to specific songs. The playlist that I have compiled is a tribute to these memories.
 Songs have the ability to become an integral part of the narrative in films when chosen carefully.</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/blog/2018/image00.jpg"
-         alt="Cinearte Palace, Juiz de Fora, 2016"/><figcaption>
+         alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2016</p>
         </figcaption>
 </figure>

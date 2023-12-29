@@ -17,105 +17,91 @@ Zoo Palast, Berlin</description><content:encoded><![CDATA[<p>
 Memórias fotográficas de cinemas que tenho apreço.</p>
 <p>
 <figure><img src="/images/collections/cinemas/palace.jpg"
-         alt="Palace, Juiz de Fora"/><figcaption>
+         alt="palace"/><figcaption>
             <p>Palace, Juiz de Fora</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/roxy.jpg"
-         alt="Roxy, Rio de Janeiro"/><figcaption>
+         alt="roxy"/><figcaption>
             <p>Roxy, Rio de Janeiro</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/metropolis.jpg"
-         alt="Metropolis, Passau"/><figcaption>
+         alt="metropolis"/><figcaption>
             <p>Metropolis, Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/proli.jpg"
-         alt="Proli, Passau"/><figcaption>
+         alt="proli"/><figcaption>
             <p>Proli, Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/cineplex_passau.jpg"
-         alt="Cineplex, Passau"/><figcaption>
+         alt="cineplex_passau"/><figcaption>
             <p>Cineplex, Passau</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/regina.jpg"
-         alt="Regina, Regensburg"/><figcaption>
+         alt="regina"/><figcaption>
             <p>Regina, Regensburg</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/acud.jpg"
-         alt="Acud, Berlin"/><figcaption>
+         alt="acud"/><figcaption>
             <p>Acud, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/astor.jpg"
-         alt="Astor, Berlin"/><figcaption>
+         alt="astor"/><figcaption>
             <p>Astor, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/babylon.jpg"
-         alt="Babylon, Berlin"/><figcaption>
+         alt="babylon"/><figcaption>
             <p>Babylon, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/cinestar_berlin.jpg"
-         alt="CineStar, Berlin"/><figcaption>
+         alt="cinestar_berlin"/><figcaption>
             <p>CineStar, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/delphi_filmpalast.jpg"
-         alt="Delphi Filmpalast, Berlin"/><figcaption>
+         alt="delphi_filmpalast"/><figcaption>
             <p>Delphi Filmpalast, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/lichtblick.jpg"
-         alt="Lichtblick, Berlin"/><figcaption>
+         alt="lichtblick"/><figcaption>
             <p>Lichtblick, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/odeon.jpg"
-         alt="Odeon, Berlin"/><figcaption>
+         alt="odeon"/><figcaption>
             <p>Odeon, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/sputnik.jpg"
-         alt="Sputnik, Berlin"/><figcaption>
+         alt="sputnik"/><figcaption>
             <p>Sputnik, Berlin</p>
         </figcaption>
 </figure>
-</p>
-<p>
+
 <figure><img src="/images/collections/cinemas/zoo_palast.jpg"
-         alt="Zoo Palast, Berlin"/><figcaption>
+         alt="zoo_palast"/><figcaption>
             <p>Zoo Palast, Berlin</p>
         </figcaption>
 </figure>
@@ -132,19 +118,22 @@ Destaques
 <table class="table-no-border-img-txt">
 <tbody>
 <tr>
-<td><figure><img src="/images/collections/directors/wong-kar-wai.jpg" width="93"/>
+<td><figure><img src="/images/collections/directors/wong-kar-wai.jpg"
+         alt="Wong Kar-Wai" width="93"/>
 </figure>
 </td>
 <td><strong>Wong Kar-Wai</strong> é um cineasta da Segunda Onda de Hong Kong, reconhecido internacionalmente como auteur por seus filmes visualmente únicos e altamente estilizados. Seus filmes frequentemente apresentam protagonistas que anseiam por romance no meio de uma vida conscientemente breve, com cenas que amíude podem ser descritas como esboçadas, digressivas, eletrizantes e contendo imagens vívidas. <a href="https://www.themoviedb.org/person/12453-wong-kar-wai">↪</a></td>
 </tr>
 <tr>
-<td><figure><img src="/images/collections/directors/michelangelo-antonioni.jpg" width="93"/>
+<td><figure><img src="/images/collections/directors/michelangelo-antonioni.jpg"
+         alt="Michelangelo Antonioni" width="93"/>
 </figure>
 </td>
 <td><strong>Michelangelo Antonioni</strong> foi um diretor de cinema modernista italiano, roteirista, editor e contista. Antonioni redefiniu o conceito de cinema narrativo e desafiou as abordagens tradicionais da narrativa, do realismo, do drama e do mundo em geral. Ele produziu obras de atmosfera enigmática e intrincada, rejeitando a ação em favor da contemplação, focando na imagem e no design. <a href="https://www.themoviedb.org/person/15189-michelangelo-antonioni">↪</a></td>
 </tr>
 <tr>
-<td><figure><img src="/images/collections/directors/pedro-almodovar.jpg" width="93"/>
+<td><figure><img src="/images/collections/directors/pedro-almodovar.jpg"
+         alt="Pedro Almodóvar" width="93"/>
 </figure>
 </td>
 <td><strong>Pedro Almodóvar</strong> é um diretor de cinema espanhol, talvez o mais conhecido internacionalmente de sua geração. Seus filmes empregam os símbolos do melodrama e são marcados por narrativas complexas, humor irreverente, cores fortes, decoração brilhante e referências à cultura pop e canções populares. Desejo, paixão, família e identidade estão entre os temas mais prevalentes de Almodóvar. <a href="https://www.themoviedb.org/person/309-pedro-almod-var">↪</a></td>
@@ -321,21 +310,21 @@ Lista em ordem alfabética
 </div>
 </div>
 ]]></content:encoded></item><item><title>Por memórias de Cinema de Rua</title><link>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</guid><description>Cinearte Palace, Juiz de Fora, 2017
-Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Era um lugar de arte, experimentação, transformação e liberdade. Cada diretor tinha sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.
+Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Um lugar de arte, experimentação, transformação e liberdade. Cada diretor com sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.
 No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil.</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/blog/2019/image00.jpg"
-         alt="Cinearte Palace, Juiz de Fora, 2017"/><figcaption>
+         alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2017</p>
         </figcaption>
 </figure>
 </p>
 <p>
-Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Era um lugar de arte, experimentação, transformação e liberdade. Cada diretor tinha sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.</p>
+Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Um lugar de arte, experimentação, transformação e liberdade. Cada diretor com sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.</p>
 <p>
 No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil. A experiência cinematográfica foi transformada, deslocando-se para os grandes centros comerciais, e os cinemas populares e as produções locais foram colocadas em segundo plano pelos blockbusters. Apesar disso, alguns locais de encontro com o desconhecido ainda resistem.</p>
 <p>
 <figure><img src="/images/blog/2019/image01.jpg"
-         alt="Cine Roxy, Rio de Janeiro, 2018"/><figcaption>
+         alt="Cine Roxy"/><figcaption>
             <p>Cine Roxy, Rio de Janeiro, 2018</p>
         </figcaption>
 </figure>
@@ -344,21 +333,21 @@ No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade se
 Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entre Alemanha e Áustria, tive a sorte de encontrar um cinema de rua exibindo o filme brasileiro <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em> — que assisti durante uma das duas únicas sessões que aconteceram em Juiz de Fora. A obra, de Marcelo Caetano, me lembra a vontade genuína de Glauber em criar algo instigante que, mais do que compreender, ousa nos convidar a sentir. Na escuridão das fileiras vazias daquele cinema de rua alemão, reafirmei o quão surpreendentes e fascinantes são estes espaços que ainda incentivam a diversidade e a experimentação. Depois de viver sete anos perto do último cinema de rua de Juiz de Fora, nunca me senti tão perto de casa mesmo estando tão distante.</p>
 <p>
 <figure><img src="/images/blog/2019/image02.jpg"
-         alt="Metropolis, Passau, 2019"/><figcaption>
+         alt="Metropolis"/><figcaption>
             <p>Metropolis, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
 <figure><img src="/images/blog/2019/image03.jpg"
-         alt="ProLi, Passau, 2019"/><figcaption>
+         alt="ProLi"/><figcaption>
             <p>ProLi, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
 <figure><img src="/images/blog/2019/image04.jpg"
-         alt="Regina, Regensburg, 2019"/><figcaption>
+         alt="Regina"/><figcaption>
             <p>Regina, Regensburg, 2019</p>
         </figcaption>
 </figure>
@@ -367,7 +356,7 @@ Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entr
 De uns tempos para cá, desenvolvi o hábito revisitar filmes através da trilha sonora. Percebi que muitas das minhas melhores memórias cinematográficas estão inextricavelmente ligadas ao poder da relação audiovisual, especialmente em cenas que estão intimamente ligadas a músicas específicas. A playlist que criei é uma homenagem a essas memórias.
 As músicas têm a capacidade de se tornar parte integrante da narrativa dos filmes quando escolhidas com cuidado.</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/blog/2018/image00.jpg"
-         alt="Cinearte Palace, Juiz de Fora, 2016"/><figcaption>
+         alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2016</p>
         </figcaption>
 </figure>

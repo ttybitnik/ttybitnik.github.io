@@ -3,7 +3,8 @@ It all began with my first laptop, an old Samsung RV415, hostname Vertov. It sto
 <p>
 The first idea that occurred to me was to make as many hardware improvements as possible. After an extensive research, I found some interesting components. I replaced the HHD with an SSD and doubled the amount of RAM with a new stick. However, opening the laptop completely to do a deep cleaning was somewhat challenging, and I had to struggle a bit with the plastic clips on the case. Nevertheless, everything went well, and I managed to change the thermal paste on the CPU as well. Even though I am used to doing this on my desktop computer, this adventure taught me a lot about the specifics of laptops.</p>
 <p>
-<figure><img src="/images/blog/2022/image00.jpg"/>
+<figure><img src="/images/blog/2022/image00.jpg"
+         alt="Vertov"/>
 </figure>
 </p>
 <p>
@@ -11,7 +12,8 @@ In the midst of Vertov&#39;s resuscitation procedure, I began to understand that
 <p>
 Coincidentally, in a conversation during this same period, a friend ended up mentioning that he ran Debian on his main computer—he had recently bought a desktop computer with the same specifications as mine. This mention brought back memories from high school when I and another friend installed Slackware. At the time, we had no idea all that it represented. Ultimately, I convinced myself to install &#34;Linux&#34; on Vertov, hoping to continue using it. The first choice, as a remembrance, was Slackware.</p>
 <p>
-<figure><img src="/images/blog/2022/image01.jpg"/>
+<figure><img src="/images/blog/2022/image01.jpg"
+         alt="Slackware"/>
 </figure>
 </p>
 <p>
@@ -41,7 +43,7 @@ Body not mind1 When Francis Xavier, the Jesuit missionary, arrived in Japan duri
 In his letters to his superiors in Rome, Xavier expressed with joy the progress of the apostolate in the Land of the Rising Sun.</description><content:encoded><![CDATA[
 <p>
 <figure><img src="/images/blog/2020/image00.jpg"
-         alt="Caixa Cultural, São Paulo, 2015"/><figcaption>
+         alt="Caixa Cultural"/><figcaption>
             <p>Caixa Cultural, São Paulo, 2015</p>
         </figcaption>
 </figure>
@@ -124,21 +126,21 @@ But to shine, the stars must burn, until the glorious end.</p>
 </div>
 </div>
 ]]></content:encoded></item><item><title>For Street Cinema memories</title><link>https://eternodevir.com/blog/for-street-cinema-memories/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/for-street-cinema-memories/</guid><description>Cinearte Palace, Juiz de Fora, 2017
-Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. It was a place for art, experimentation, transformation, and freedom. Each director had their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.
+Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. A place for art, experimentation, transformation, and freedom. Each director with their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.
 However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil.</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/blog/2019/image00.jpg"
-         alt="Cinearte Palace, Juiz de Fora, 2017"/><figcaption>
+         alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2017</p>
         </figcaption>
 </figure>
 </p>
 <p>
-Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. It was a place for art, experimentation, transformation, and freedom. Each director had their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.</p>
+Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. A place for art, experimentation, transformation, and freedom. Each director with their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.</p>
 <p>
 However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil. The cinema experience was transformed, shifting to large shopping centers, and popular festivals and local productions were put in the background by blockbusters. Despite this, some places for encountering the unknown still resist.</p>
 <p>
 <figure><img src="/images/blog/2019/image01.jpg"
-         alt="Cine Roxy, Rio de Janeiro, 2018"/><figcaption>
+         alt="Cine Roxy"/><figcaption>
             <p>Cine Roxy, Rio de Janeiro, 2018</p>
         </figcaption>
 </figure>
@@ -147,21 +149,21 @@ However, it became increasingly difficult to find similar expressions of will, e
 In my search for one of these places in Passau, a small town on the border of Germany and Austria, I was fortunate to find a street cinema showing the Brazilian film <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em>—which I watched during one of the only two sessions that took place in Juiz de Fora. The feature, by Marcelo Caetano, reminds me of Glauber&#39;s genuine will to create something instigating that, more than understanding, dares to invite us to feel. In the darkness of the emptied rows of that German street cinema, I reaffirmed how surprising and fascinating these spaces are that still encourage diversity and experimentation. After having lived near the last street cinema in Juiz de Fora for seven years, I have never felt so close to home even when so far away.</p>
 <p>
 <figure><img src="/images/blog/2019/image02.jpg"
-         alt="Metropolis, Passau, 2019"/><figcaption>
+         alt="Metropolis"/><figcaption>
             <p>Metropolis, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
 <figure><img src="/images/blog/2019/image03.jpg"
-         alt="ProLi, Passau, 2019"/><figcaption>
+         alt="ProLi"/><figcaption>
             <p>ProLi, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
 <figure><img src="/images/blog/2019/image04.jpg"
-         alt="Regina, Regensburg, 2019"/><figcaption>
+         alt="Regina"/><figcaption>
             <p>Regina, Regensburg, 2019</p>
         </figcaption>
 </figure>

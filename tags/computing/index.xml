@@ -59,7 +59,8 @@ It all began with my first laptop, an old Samsung RV415, hostname Vertov. It sto
 <p>
 The first idea that occurred to me was to make as many hardware improvements as possible. After an extensive research, I found some interesting components. I replaced the HHD with an SSD and doubled the amount of RAM with a new stick. However, opening the laptop completely to do a deep cleaning was somewhat challenging, and I had to struggle a bit with the plastic clips on the case. Nevertheless, everything went well, and I managed to change the thermal paste on the CPU as well. Even though I am used to doing this on my desktop computer, this adventure taught me a lot about the specifics of laptops.</p>
 <p>
-<figure><img src="/images/blog/2022/image00.jpg"/>
+<figure><img src="/images/blog/2022/image00.jpg"
+         alt="Vertov"/>
 </figure>
 </p>
 <p>
@@ -67,7 +68,8 @@ In the midst of Vertov&#39;s resuscitation procedure, I began to understand that
 <p>
 Coincidentally, in a conversation during this same period, a friend ended up mentioning that he ran Debian on his main computer—he had recently bought a desktop computer with the same specifications as mine. This mention brought back memories from high school when I and another friend installed Slackware. At the time, we had no idea all that it represented. Ultimately, I convinced myself to install &#34;Linux&#34; on Vertov, hoping to continue using it. The first choice, as a remembrance, was Slackware.</p>
 <p>
-<figure><img src="/images/blog/2022/image01.jpg"/>
+<figure><img src="/images/blog/2022/image01.jpg"
+         alt="Slackware"/>
 </figure>
 </p>
 <p>

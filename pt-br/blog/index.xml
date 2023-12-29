@@ -3,7 +3,8 @@ Tudo começou com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov.
 <p>
 A primeira ideia que me ocorreu foi fazer o máximo possível de melhorias de hardware. Após uma extensa pesquisa, encontrei alguns componentes interessantes. Troquei o HHD por um SSD e dobrei a quantidade de RAM com um novo cartucho. No entanto, abrir o laptop inteiro para fazer uma limpeza profunda foi um tanto desafiador, tive que brigar um pouco com os clipes de plástico da carcaça. Mesmo assim, deu tudo certo e consegui trocar a pasta térmica da CPU também. Embora esteja acostumado a fazer isso no meu computador de mesa, essa aventura me ensinou bastante sobre as especificidades dos laptops.</p>
 <p>
-<figure><img src="/images/blog/2022/image00.jpg"/>
+<figure><img src="/images/blog/2022/image00.jpg"
+         alt="Vertov"/>
 </figure>
 </p>
 <p>
@@ -11,7 +12,8 @@ Em meio ao procedimento de reanimação do Vertov, comecei a entender que a lent
 <p>
 Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou mencionando que rodava Debian no seu computador principal — recentemente ele havia comprado um computador de mesa com as mesmas especificações que o meu. Essa menção me trouxe lembranças do ensino médio, quando eu e um outro amigo instalamos o Slackware. Na época, não tínhamos ideia de tudo o que aquilo representava. No fim das contas, me convenci a instalar &#34;Linux&#34; no Vertov, na esperança de continuar o utilizando. A primeira escolha, como uma forma de lembrança, foi o Slackware.</p>
 <p>
-<figure><img src="/images/blog/2022/image01.jpg"/>
+<figure><img src="/images/blog/2022/image01.jpg"
+         alt="Slackware"/>
 </figure>
 </p>
 <p>
@@ -125,7 +127,8 @@ Somente em nome dos desesperançados nos é dada esperança.</p>
 ]]></content:encoded></item><item><title>Escrevo para descobrir o que penso</title><link>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</guid><description>Outro dia me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…
 Exercício de análise combinatória I Escrevo para descobrir o que penso.</description><content:encoded><![CDATA[
 <p>
-<figure><img src="/images/blog/2020/image03.jpg"/>
+<figure><img src="/images/blog/2020/image03.jpg"
+         alt="Exercício"/>
 </figure>
 </p>
 <p>
@@ -150,7 +153,7 @@ Corpo não mente Quando Francisco Xavier, o missionário jesuíta, aportou no Ja
 Nas cartas que escreveu para seus superiores em Roma, Xavier descreve com júbilo os progressos do apostolado na Terra do Sol Nascente.</description><content:encoded><![CDATA[
 <p>
 <figure><img src="/images/blog/2020/image00.jpg"
-         alt="Caixa Cultural, São Paulo, 2015"/><figcaption>
+         alt="Caixa Cultural"/><figcaption>
             <p>Caixa Cultural, São Paulo, 2015</p>
         </figcaption>
 </figure>
@@ -226,21 +229,21 @@ No fim, só não estava incomodado de verdade quem decidiu não ir à festa — 
 Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.&lt;/p>
 &lt;p>
 No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente. Quer dizer, parecia ser assim… pelo menos até perceberem que sequer tinham sido convidados.&lt;/p></content:encoded></item><item><title>Por memórias de Cinema de Rua</title><link>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</guid><description>Cinearte Palace, Juiz de Fora, 2017
-Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Era um lugar de arte, experimentação, transformação e liberdade. Cada diretor tinha sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.
+Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Um lugar de arte, experimentação, transformação e liberdade. Cada diretor com sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.
 No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil.</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/blog/2019/image00.jpg"
-         alt="Cinearte Palace, Juiz de Fora, 2017"/><figcaption>
+         alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2017</p>
         </figcaption>
 </figure>
 </p>
 <p>
-Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Era um lugar de arte, experimentação, transformação e liberdade. Cada diretor tinha sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.</p>
+Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Um lugar de arte, experimentação, transformação e liberdade. Cada diretor com sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.</p>
 <p>
 No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil. A experiência cinematográfica foi transformada, deslocando-se para os grandes centros comerciais, e os cinemas populares e as produções locais foram colocadas em segundo plano pelos blockbusters. Apesar disso, alguns locais de encontro com o desconhecido ainda resistem.</p>
 <p>
 <figure><img src="/images/blog/2019/image01.jpg"
-         alt="Cine Roxy, Rio de Janeiro, 2018"/><figcaption>
+         alt="Cine Roxy"/><figcaption>
             <p>Cine Roxy, Rio de Janeiro, 2018</p>
         </figcaption>
 </figure>
@@ -249,21 +252,21 @@ No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade se
 Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entre Alemanha e Áustria, tive a sorte de encontrar um cinema de rua exibindo o filme brasileiro <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em> — que assisti durante uma das duas únicas sessões que aconteceram em Juiz de Fora. A obra, de Marcelo Caetano, me lembra a vontade genuína de Glauber em criar algo instigante que, mais do que compreender, ousa nos convidar a sentir. Na escuridão das fileiras vazias daquele cinema de rua alemão, reafirmei o quão surpreendentes e fascinantes são estes espaços que ainda incentivam a diversidade e a experimentação. Depois de viver sete anos perto do último cinema de rua de Juiz de Fora, nunca me senti tão perto de casa mesmo estando tão distante.</p>
 <p>
 <figure><img src="/images/blog/2019/image02.jpg"
-         alt="Metropolis, Passau, 2019"/><figcaption>
+         alt="Metropolis"/><figcaption>
             <p>Metropolis, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
 <figure><img src="/images/blog/2019/image03.jpg"
-         alt="ProLi, Passau, 2019"/><figcaption>
+         alt="ProLi"/><figcaption>
             <p>ProLi, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
 <figure><img src="/images/blog/2019/image04.jpg"
-         alt="Regina, Regensburg, 2019"/><figcaption>
+         alt="Regina"/><figcaption>
             <p>Regina, Regensburg, 2019</p>
         </figcaption>
 </figure>
@@ -272,7 +275,7 @@ Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entr
 De uns tempos para cá, desenvolvi o hábito revisitar filmes através da trilha sonora. Percebi que muitas das minhas melhores memórias cinematográficas estão inextricavelmente ligadas ao poder da relação audiovisual, especialmente em cenas que estão intimamente ligadas a músicas específicas. A playlist que criei é uma homenagem a essas memórias.
 As músicas têm a capacidade de se tornar parte integrante da narrativa dos filmes quando escolhidas com cuidado.</description><content:encoded><![CDATA[<p>
 <figure><img src="/images/blog/2018/image00.jpg"
-         alt="Cinearte Palace, Juiz de Fora, 2016"/><figcaption>
+         alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2016</p>
         </figcaption>
 </figure>

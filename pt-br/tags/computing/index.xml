@@ -59,7 +59,8 @@ Tudo começou com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov.
 <p>
 A primeira ideia que me ocorreu foi fazer o máximo possível de melhorias de hardware. Após uma extensa pesquisa, encontrei alguns componentes interessantes. Troquei o HHD por um SSD e dobrei a quantidade de RAM com um novo cartucho. No entanto, abrir o laptop inteiro para fazer uma limpeza profunda foi um tanto desafiador, tive que brigar um pouco com os clipes de plástico da carcaça. Mesmo assim, deu tudo certo e consegui trocar a pasta térmica da CPU também. Embora esteja acostumado a fazer isso no meu computador de mesa, essa aventura me ensinou bastante sobre as especificidades dos laptops.</p>
 <p>
-<figure><img src="/images/blog/2022/image00.jpg"/>
+<figure><img src="/images/blog/2022/image00.jpg"
+         alt="Vertov"/>
 </figure>
 </p>
 <p>
@@ -67,7 +68,8 @@ Em meio ao procedimento de reanimação do Vertov, comecei a entender que a lent
 <p>
 Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou mencionando que rodava Debian no seu computador principal — recentemente ele havia comprado um computador de mesa com as mesmas especificações que o meu. Essa menção me trouxe lembranças do ensino médio, quando eu e um outro amigo instalamos o Slackware. Na época, não tínhamos ideia de tudo o que aquilo representava. No fim das contas, me convenci a instalar &#34;Linux&#34; no Vertov, na esperança de continuar o utilizando. A primeira escolha, como uma forma de lembrança, foi o Slackware.</p>
 <p>
-<figure><img src="/images/blog/2022/image01.jpg"/>
+<figure><img src="/images/blog/2022/image01.jpg"
+         alt="Slackware"/>
 </figure>
 </p>
 <p>
