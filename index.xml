@@ -5776,8 +5776,14 @@ Este projeto é um servidor doméstico customizado que envolve uma ampla gama de
     </ul>
 </div>
 </p>
-]]></content:encoded></item><item><title>Como começou minha jornada GNU/Linux</title><link>https://eternodevir.com/pt-br/blog/como-come%C3%A7ou-minha-jornada-gnu/linux/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/como-come%C3%A7ou-minha-jornada-gnu/linux/</guid><description>Tudo começou com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele parou de funcionar para tarefas básicas e, embora a maioria das pessoas simplesmente comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional e preparamos inúmeras receitas juntos.</description><content:encoded><![CDATA[<p>
+]]></content:encoded></item><item><title>Como começou minha jornada GNU/Linux</title><link>https://eternodevir.com/pt-br/blog/como-come%C3%A7ou-minha-jornada-gnu/linux/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/como-come%C3%A7ou-minha-jornada-gnu/linux/</guid><description>Tudo começou com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele parou de funcionar para tarefas básicas e, embora a maioria das pessoas simplesmente comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional e preparamos inúmeras receitas juntos.</description><content:encoded><![CDATA[
+<p>
 Tudo começou com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele parou de funcionar para tarefas básicas e, embora a maioria das pessoas simplesmente comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível  tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional e preparamos inúmeras receitas juntos. Vertov tinha história demais para ser apenas mais uma tragédia da obsolescência programada.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Renovando o hardware
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
 <p>
 A primeira ideia que me ocorreu foi fazer o máximo possível de melhorias de hardware. Após uma extensa pesquisa, encontrei alguns componentes interessantes. Troquei o HHD por um SSD e dobrei a quantidade de RAM com um novo cartucho. No entanto, abrir o laptop inteiro para fazer uma limpeza profunda foi um tanto desafiador, tive que brigar um pouco com os clipes de plástico da carcaça. Mesmo assim, deu tudo certo e consegui trocar a pasta térmica da CPU também. Embora esteja acostumado a fazer isso no meu computador de mesa, essa aventura me ensinou bastante sobre as especificidades dos laptops.</p>
 <p>
@@ -5786,9 +5792,16 @@ A primeira ideia que me ocorreu foi fazer o máximo possível de melhorias de ha
 </figure>
 </p>
 <p>
-Em meio ao procedimento de reanimação do Vertov, comecei a entender que a lentidão que ele apresentava era um problema muito mais amplo do que parecia inicialmente. Afinal, por que ele começou a ficar lento? Poderia não ser necessariamente um problema de hardware. Além disso, por que seu processador era soldado à placa-mãe? Isso tornava qualquer modificação praticamente impossível. Mesmo após as melhorias de hardware, Vertov ainda apresentava certa dificuldade em realizar tarefas simultâneas. Ficou evidente para mim que, além do hardware, parte da lentidão se devia aos próprios programas, que estavam cada vez mais pesados ​​com recursos que nem eram necessários para meu uso.</p>
+Em meio ao procedimento de renascimento do Vertov, comecei a entender que a lentidão que ele apresentava era um problema muito mais amplo do que parecia inicialmente. Afinal, por que ele começou a ficar lento? Poderia não ser necessariamente um problema de hardware. Além disso, por que seu processador era soldado à placa-mãe? Isso tornava qualquer modificação praticamente impossível. Mesmo após as melhorias de hardware, Vertov ainda apresentava certa dificuldade em realizar tarefas simultâneas. Ficou evidente para mim que, além do hardware, parte da lentidão se devia aos próprios programas, que estavam cada vez mais pesados ​​com recursos que nem eram necessários para meu uso.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Redescobrindo o GNU/Linux
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
 <p>
-Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou mencionando que rodava Debian no seu computador principal — recentemente ele havia comprado um computador de mesa com as mesmas especificações que o meu. Essa menção me trouxe lembranças do ensino médio, quando eu e um outro amigo instalamos o Slackware. Na época, não tínhamos ideia de tudo o que aquilo representava. No fim das contas, me convenci a instalar &#34;Linux&#34; no Vertov, na esperança de continuar o utilizando. A primeira escolha, como uma forma de lembrança, foi o Slackware.</p>
+Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou mencionando que rodava Debian no seu computador principal — recentemente ele havia comprado um computador de mesa com as mesmas especificações que o meu. Essa menção me trouxe memórias do ensino médio, quando eu e um outro amigo instalamos o Slackware. Na época, não tínhamos ideia de tudo o que aquilo representava. No fim das contas, me convenci a instalar &#34;Linux&#34; no Vertov, na esperança de continuar o utilizando. A primeira escolha, como uma forma de lembrança, foi o Slackware.</p>
 <p>
 <figure><img src="/images/blog/2022/image01.jpg"
          alt="Slackware"/>
@@ -5796,6 +5809,13 @@ Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou menciona
 </p>
 <p>
 Depois de instalar o Slackware, Vertov ganhou uma nova vida, e eu pude aprender e descobrir inúmeras coisas. O Windows que vinha o pesando, à medida que seus requisitos aumentavam com o tempo, exigindo componentes mais fortes. Como o Windows parecia ser a única opção existente de sistema operacional, Vertov haveria se tornando obsoleto. Logo percebi que ficar restrito a esse sistema operacional proprietário sempre me obrigaria a me desfazer do meu hardware, mesmo estando satisfeito com seus recursos. Nesse momento, iniciei um processo intenso de aprendizado sobre o movimento FOSS, GNU/Linux, e toda a sua filosofia, que me proporcionavam a liberdade de ter um sistema operacional livre. Era o início da minha jornada de usuário comum para usuário avançado.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Autonomia digital
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
 <p>
 A partir desse momento, comecei a, de fato, controlar meu computador e seus programas e não o contrário. Passei a utilizar Window Managers e até mesmo TTY como ambientes de escrita, que eram visivelmente mais leves e livres de distrações para meu uso. Descobri o GNU Emacs e seu incrível org-mode, que transformou completamente a maneira como interajo com computadores e textos. Também comecei a usar RSS para organizar e consumir conteúdo em vez de me submeter a algoritmos arbitrários. Com o tempo, aprofundei meu conhecimento prático de UNIX/Linux, ao ponto de começar meu próprio homelab. Agora, eu estava assumindo mais do que o controle sobre meu hardware ou software em si, estava começando a assumir o controle sobre minha vida digital como um todo.</p>
 <p>
@@ -5815,8 +5835,16 @@ window.onmessage = function (e) { if (e.data.hasOwnProperty("freedom-iframe-heig
 </p>
 <p>
 Tudo isso aconteceu porque, em determinado momento, me recusei a abrir mão do Vertov por conta da obsolescência programada. Isso sem mencionar o reaproveitamento de um equipamento perfeitamente funcional que se tornaria lixo eletrônico. Há vida além das <em>janelas</em>.</p>
-]]></content:encoded></item><item><title>How my GNU/Linux journey began</title><link>https://eternodevir.com/blog/how-my-gnu/linux-journey-began/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/how-my-gnu/linux-journey-began/</guid><description>It all began with my first laptop, an old Samsung RV415, hostname Vertov. It stopped working for basic tasks, and while most people would just buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together.</description><content:encoded><![CDATA[<p>
+</div>
+</div>
+]]></content:encoded></item><item><title>How my GNU/Linux journey began</title><link>https://eternodevir.com/blog/how-my-gnu/linux-journey-began/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/how-my-gnu/linux-journey-began/</guid><description>It all began with my first laptop, an old Samsung RV415, hostname Vertov. It stopped working for basic tasks, and while most people would just buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together.</description><content:encoded><![CDATA[
+<p>
 It all began with my first laptop, an old Samsung RV415, hostname Vertov. It stopped working for basic tasks, and while most people would just buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together. Vertov had too much history to be just another tragedy of planned obsolescence.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Hardware revival
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
 <p>
 The first idea that occurred to me was to make as many hardware improvements as possible. After an extensive research, I found some interesting components. I replaced the HHD with an SSD and doubled the amount of RAM with a new stick. However, opening the laptop completely to do a deep cleaning was somewhat challenging, and I had to struggle a bit with the plastic clips on the case. Nevertheless, everything went well, and I managed to change the thermal paste on the CPU as well. Even though I am used to doing this on my desktop computer, this adventure taught me a lot about the specifics of laptops.</p>
 <p>
@@ -5825,7 +5853,14 @@ The first idea that occurred to me was to make as many hardware improvements as 
 </figure>
 </p>
 <p>
-In the midst of Vertov&#39;s resuscitation procedure, I began to understand that the slowness he was experiencing was a much broader issue than it initially seemed. After all, why had he started to get slow? It might not necessarily be a hardware issue. Also, why was his processor soldered to the motherboard? This made any modification practically impossible. Even after the hardware improvements, Vertov still had some difficulty performing simultaneous tasks. It became evident to me that, in addition to the hardware, part of the slowness was due to the programs themselves, which were becoming increasingly heavier with features that were not even necessary for my use.</p>
+In the midst of Vertov&#39;s revival procedure, I began to understand that the slowness he was experiencing was a much broader issue than it initially seemed. After all, why had he started to get slow? It might not necessarily be a hardware issue. Also, why was his processor soldered to the motherboard? This made any modification practically impossible. Even after the hardware improvements, Vertov still had some difficulty performing simultaneous tasks. It became evident to me that, in addition to the hardware, part of the slowness was due to the programs themselves, which were becoming increasingly heavier with features that were not even necessary for my use.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+GNU/Linux rediscovery
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
 <p>
 Coincidentally, in a conversation during this same period, a friend ended up mentioning that he ran Debian on his main computer—he had recently bought a desktop computer with the same specifications as mine. This mention brought back memories from high school when I and another friend installed Slackware. At the time, we had no idea all that it represented. Ultimately, I convinced myself to install &#34;Linux&#34; on Vertov, hoping to continue using it. The first choice, as a remembrance, was Slackware.</p>
 <p>
@@ -5835,6 +5870,13 @@ Coincidentally, in a conversation during this same period, a friend ended up men
 </p>
 <p>
 After installing Slackware, Vertov gained a new lease of life, and I was able to learn and discover countless things. Windows had been weighing him down, as its requirements grew over time, demanding stronger components. Since Windows seemed to be the only existing operating system option, Vertov would have become obsolete. I soon realized that being restricted to this proprietary operating system would always force me to dispose of my hardware, even though I was satisfied with its features. At that point, I began an intense learning process about the FOSS movement, GNU/Linux, and its entire philosophy, which gave me the freedom to have a free operating system. This was the start of my journey from being a regular user to becoming an advanced one.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Digital autonomy
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
 <p>
 From that moment on, I began to actually control my computer and its programs and not the other way around. I started using Window Managers and even TTY as writing environments, which were noticeably lighter and free from distractions for my use. I discovered GNU Emacs and its incredible org-mode, which completely transformed the way I interact with computers and texts. I also started using RSS to organize and consume content instead of subjecting myself to arbitrary algorithms. Over time, I deepened my practical knowledge of UNIX/Linux, to the point where I started my own homelab. Now I was taking more than control over my hardware or software itself, I was starting to take control over my digital life as a whole.</p>
 <p>
@@ -5854,6 +5896,8 @@ window.onmessage = function (e) { if (e.data.hasOwnProperty("freedom-iframe-heig
 </p>
 <p>
 All of this happened because, at a certain point, I refused to give up Vertov due to planned obsolescence. Not to mention the reuse of a perfectly functional equipment that would become e-waste. There is life beyond the <em>windows</em>.</p>
+</div>
+</div>
 ]]></content:encoded></item><item><title>Rendez-vous 1408</title><link>https://eternodevir.com/blog/rendez-vous-1408/</link><pubDate>Sun, 16 Oct 2022 11:01:24 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/rendez-vous-1408/</guid><description>I have fond memories of the songs that would play during the soirée nights, the casual gatherings with dear friends, and the late-night pool dips during my college days at 1408. The melodic tunes and lyrics that once filled the air of that apartment now refresh my memory of those unforgettable times.</description><content:encoded><![CDATA[<p>
 I have fond memories of the songs that would play during the soirée nights, the casual gatherings with dear friends, and the late-night pool dips during my college days at 1408. The melodic tunes and lyrics that once filled the air of that apartment now refresh my memory of those unforgettable times.</p>
 <p>

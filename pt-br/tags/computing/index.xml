@@ -54,8 +54,14 @@ Este projeto é um servidor doméstico customizado que envolve uma ampla gama de
     </ul>
 </div>
 </p>
-]]></content:encoded></item><item><title>Como começou minha jornada GNU/Linux</title><link>https://eternodevir.com/pt-br/blog/como-come%C3%A7ou-minha-jornada-gnu/linux/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/como-come%C3%A7ou-minha-jornada-gnu/linux/</guid><description>Tudo começou com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele parou de funcionar para tarefas básicas e, embora a maioria das pessoas simplesmente comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional e preparamos inúmeras receitas juntos.</description><content:encoded><![CDATA[<p>
+]]></content:encoded></item><item><title>Como começou minha jornada GNU/Linux</title><link>https://eternodevir.com/pt-br/blog/como-come%C3%A7ou-minha-jornada-gnu/linux/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/como-come%C3%A7ou-minha-jornada-gnu/linux/</guid><description>Tudo começou com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele parou de funcionar para tarefas básicas e, embora a maioria das pessoas simplesmente comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional e preparamos inúmeras receitas juntos.</description><content:encoded><![CDATA[
+<p>
 Tudo começou com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele parou de funcionar para tarefas básicas e, embora a maioria das pessoas simplesmente comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível  tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional e preparamos inúmeras receitas juntos. Vertov tinha história demais para ser apenas mais uma tragédia da obsolescência programada.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Renovando o hardware
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
 <p>
 A primeira ideia que me ocorreu foi fazer o máximo possível de melhorias de hardware. Após uma extensa pesquisa, encontrei alguns componentes interessantes. Troquei o HHD por um SSD e dobrei a quantidade de RAM com um novo cartucho. No entanto, abrir o laptop inteiro para fazer uma limpeza profunda foi um tanto desafiador, tive que brigar um pouco com os clipes de plástico da carcaça. Mesmo assim, deu tudo certo e consegui trocar a pasta térmica da CPU também. Embora esteja acostumado a fazer isso no meu computador de mesa, essa aventura me ensinou bastante sobre as especificidades dos laptops.</p>
 <p>
@@ -64,9 +70,16 @@ A primeira ideia que me ocorreu foi fazer o máximo possível de melhorias de ha
 </figure>
 </p>
 <p>
-Em meio ao procedimento de reanimação do Vertov, comecei a entender que a lentidão que ele apresentava era um problema muito mais amplo do que parecia inicialmente. Afinal, por que ele começou a ficar lento? Poderia não ser necessariamente um problema de hardware. Além disso, por que seu processador era soldado à placa-mãe? Isso tornava qualquer modificação praticamente impossível. Mesmo após as melhorias de hardware, Vertov ainda apresentava certa dificuldade em realizar tarefas simultâneas. Ficou evidente para mim que, além do hardware, parte da lentidão se devia aos próprios programas, que estavam cada vez mais pesados ​​com recursos que nem eram necessários para meu uso.</p>
+Em meio ao procedimento de renascimento do Vertov, comecei a entender que a lentidão que ele apresentava era um problema muito mais amplo do que parecia inicialmente. Afinal, por que ele começou a ficar lento? Poderia não ser necessariamente um problema de hardware. Além disso, por que seu processador era soldado à placa-mãe? Isso tornava qualquer modificação praticamente impossível. Mesmo após as melhorias de hardware, Vertov ainda apresentava certa dificuldade em realizar tarefas simultâneas. Ficou evidente para mim que, além do hardware, parte da lentidão se devia aos próprios programas, que estavam cada vez mais pesados ​​com recursos que nem eram necessários para meu uso.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Redescobrindo o GNU/Linux
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
 <p>
-Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou mencionando que rodava Debian no seu computador principal — recentemente ele havia comprado um computador de mesa com as mesmas especificações que o meu. Essa menção me trouxe lembranças do ensino médio, quando eu e um outro amigo instalamos o Slackware. Na época, não tínhamos ideia de tudo o que aquilo representava. No fim das contas, me convenci a instalar &#34;Linux&#34; no Vertov, na esperança de continuar o utilizando. A primeira escolha, como uma forma de lembrança, foi o Slackware.</p>
+Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou mencionando que rodava Debian no seu computador principal — recentemente ele havia comprado um computador de mesa com as mesmas especificações que o meu. Essa menção me trouxe memórias do ensino médio, quando eu e um outro amigo instalamos o Slackware. Na época, não tínhamos ideia de tudo o que aquilo representava. No fim das contas, me convenci a instalar &#34;Linux&#34; no Vertov, na esperança de continuar o utilizando. A primeira escolha, como uma forma de lembrança, foi o Slackware.</p>
 <p>
 <figure><img src="/images/blog/2022/image01.jpg"
          alt="Slackware"/>
@@ -74,6 +87,13 @@ Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou menciona
 </p>
 <p>
 Depois de instalar o Slackware, Vertov ganhou uma nova vida, e eu pude aprender e descobrir inúmeras coisas. O Windows que vinha o pesando, à medida que seus requisitos aumentavam com o tempo, exigindo componentes mais fortes. Como o Windows parecia ser a única opção existente de sistema operacional, Vertov haveria se tornando obsoleto. Logo percebi que ficar restrito a esse sistema operacional proprietário sempre me obrigaria a me desfazer do meu hardware, mesmo estando satisfeito com seus recursos. Nesse momento, iniciei um processo intenso de aprendizado sobre o movimento FOSS, GNU/Linux, e toda a sua filosofia, que me proporcionavam a liberdade de ter um sistema operacional livre. Era o início da minha jornada de usuário comum para usuário avançado.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Autonomia digital
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
 <p>
 A partir desse momento, comecei a, de fato, controlar meu computador e seus programas e não o contrário. Passei a utilizar Window Managers e até mesmo TTY como ambientes de escrita, que eram visivelmente mais leves e livres de distrações para meu uso. Descobri o GNU Emacs e seu incrível org-mode, que transformou completamente a maneira como interajo com computadores e textos. Também comecei a usar RSS para organizar e consumir conteúdo em vez de me submeter a algoritmos arbitrários. Com o tempo, aprofundei meu conhecimento prático de UNIX/Linux, ao ponto de começar meu próprio homelab. Agora, eu estava assumindo mais do que o controle sobre meu hardware ou software em si, estava começando a assumir o controle sobre minha vida digital como um todo.</p>
 <p>
@@ -93,6 +113,8 @@ window.onmessage = function (e) { if (e.data.hasOwnProperty("freedom-iframe-heig
 </p>
 <p>
 Tudo isso aconteceu porque, em determinado momento, me recusei a abrir mão do Vertov por conta da obsolescência programada. Isso sem mencionar o reaproveitamento de um equipamento perfeitamente funcional que se tornaria lixo eletrônico. Há vida além das <em>janelas</em>.</p>
+</div>
+</div>
 ]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/pt-br/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/aws-cloud/</guid><description> Área: hospedagem-nuvem Data: 2018-2022
 Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciamento de rede, DNS, snapshots e atualização de sistema em instâncias Ubuntu Server. Para isso, utilizei uma combinação de recursos da AWS, como Route 53 e Lightsail, juntamente com ferramentas remotas e de segurança. Durante a operação, também lidei com tarefas de gerenciamento de WordPress, criação de conteúdo e design e personalização de sites.
 Ubuntu Server Route 53 Lightsail CloudWatch Bitnami Wordpress Multisite</description><content:encoded><![CDATA[<p>
