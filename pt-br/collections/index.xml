@@ -650,35 +650,35 @@ Coleção com meus álbuns favoritos.</p>
 Destaques
 </h2>
 <div id="outline-text-headline-1" class="outline-text-2">
-<table class="table-no-border-img">
+<table class="table-no-border-img table-no-border-img">
 <tbody>
 <tr>
-<td><figure><a href="https://open.spotify.com/album/4NIGwEvudtT3KZrYPymOmz?si=mkKS9XQiS6mR7dIXhHHJpw"><img src="/images/collections/albums/transa.jpg"
-         alt="Transa" width="200"/></a>
+<td><a title="Transa" href="https://open.spotify.com/album/4NIGwEvudtT3KZrYPymOmz?si=mkKS9XQiS6mR7dIXhHHJpw"><figure><img src="/images/collections/albums/transa.jpg"
+         alt="Transa" width="200"/>
 </figure>
-</td>
-<td><figure><a href="https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5?si=uddHowYYSfSusJXeEMOuag"><img src="/images/collections/albums/construcao.jpg"
-         alt="Construção" width="200"/></a>
+</a></td>
+<td><a title="Construção" href="https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5?si=uddHowYYSfSusJXeEMOuag"><figure><img src="/images/collections/albums/construcao.jpg"
+         alt="Construção" width="200"/>
 </figure>
-</td>
-<td><figure><a href="https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=NBGFqC34Rpi_2ubH4DstXA"><img src="/images/collections/albums/buena_vista_social_club.jpg"
-         alt="Buena Vista Social Club" width="200"/></a>
+</a></td>
+<td><a title="Buena Vista Social Club" href="https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=NBGFqC34Rpi_2ubH4DstXA"><figure><img src="/images/collections/albums/buena_vista_social_club.jpg"
+         alt="Buena Vista Social Club" width="200"/>
 </figure>
-</td>
+</a></td>
 </tr>
 <tr>
-<td><figure><a href="https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW?si=732143c2bcdf47bc"><img src="/images/collections/albums/blade_runner_soundtrack.jpg"
-         alt="Blade Runner Soundtrack" width="200"/></a>
+<td><a title="Blade Runner Soundtrack" href="https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW?si=732143c2bcdf47bc"><figure><img src="/images/collections/albums/blade_runner_soundtrack.jpg"
+         alt="Blade Runner Soundtrack" width="200"/>
 </figure>
-</td>
-<td><figure><a href="https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT?si=IJ47ZKJpQkyFbO2U8kMljQ"><img src="/images/collections/albums/the_singles_86-98.jpg"
-         alt="The Singles 86-98" width="200"/></a>
+</a></td>
+<td><a title="The Singles 86&gt;98" href="https://open.spotify.com/album/61h3VS8XDROIpvQznjTPTT?si=IJ47ZKJpQkyFbO2U8kMljQ"><figure><img src="/images/collections/albums/the_singles_86-98.jpg"
+         alt="The Singles 86&gt;98" width="200"/>
 </figure>
-</td>
-<td><figure><a href="https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp?si=bX-2yOf5TT-OPfvgjJMlLQ"><img src="/images/collections/albums/psycho_tropical_berlin.jpg"
-         alt="Psycho Tropical Berlin" width="200"/></a>
+</a></td>
+<td><a title="Psycho Tropical Berlin" href="https://open.spotify.com/album/7tzlVJedDBNAlH4BJHRKLp?si=bX-2yOf5TT-OPfvgjJMlLQ"><figure><img src="/images/collections/albums/psycho_tropical_berlin.jpg"
+         alt="Psycho Tropical Berlin" width="200"/>
 </figure>
-</td>
+</a></td>
 </tr>
 </tbody>
 </table>
