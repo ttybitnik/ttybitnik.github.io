@@ -214,7 +214,7 @@ Coleção com algumas das minhas citações favoritas. Novas entradas são organ
 <p>
 — <strong>Friedrich Hegel</strong>, filósofo</p>
 </blockquote>
-]]></content:encoded></item><item><title>Lendo</title><link>https://eternodevir.com/pt-br/collections/lendo/</link><pubDate>Tue, 04 Apr 2023 19:28:25 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/collections/lendo/</guid><description> Lendo agora Leituras recentes</description><content:encoded><![CDATA[
+]]></content:encoded></item><item><title>Lendo</title><link>https://eternodevir.com/pt-br/collections/lendo/</link><pubDate>Tue, 04 Apr 2023 19:28:25 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/collections/lendo/</guid><description> Lendo agora Lido recentemente</description><content:encoded><![CDATA[
 <div id="outline-container-headline-1" class="outline-2">
 <h2 id="headline-1">
 Lendo agora
@@ -227,11 +227,11 @@ Lendo agora
 </div>
 <div id="outline-container-headline-2" class="outline-2">
 <h2 id="headline-2">
-Leituras recentes
+Lido recentemente
 </h2>
 <div id="outline-text-headline-2" class="outline-text-2">
 <p>
-<script src="https://www.goodreads.com/review/grid_widget/172004246.Vin%C3%ADcius's%20bookshelf:%20read?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=d&shelf=read&sort=date_added&widget_id=1702864247" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/172004246.Vin%C3%ADcius's%20bookshelf:%20read?cover_size=medium&hide_link=true&hide_title=true&num_books=20&order=d&shelf=read&sort=date_read&widget_id=1704296522" type="text/javascript" charset="utf-8"></script>
 
 <script>
 var imgElements = document.querySelectorAll('.gr_grid_book_container img');
