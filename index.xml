@@ -1393,6 +1393,21 @@ Lista em ordem alfabética
       
       <tr>
 	<td>
+	  <strong>Pictures of Ghosts</strong>
+	</td>
+	<td>
+	  Kleber Mendonça Filho
+	</td>
+	<td>
+	  2023
+	</td>
+	<td>
+	  <a href="https://boxd.it/G55S">Letterboxd</a>
+	</td>
+      </tr>
+      
+      <tr>
+	<td>
 	  <strong>Pina</strong>
 	</td>
 	<td>
@@ -3596,6 +3611,21 @@ Alphabetical list
 	</td>
 	<td>
 	  <a href="https://boxd.it/28LW">Letterboxd</a>
+	</td>
+      </tr>
+      
+      <tr>
+	<td>
+	  <strong>Pictures of Ghosts</strong>
+	</td>
+	<td>
+	  Kleber Mendonça Filho
+	</td>
+	<td>
+	  2023
+	</td>
+	<td>
+	  <a href="https://boxd.it/G55S">Letterboxd</a>
 	</td>
       </tr>
       
@@ -16331,13 +16361,14 @@ What I&#39;m doing now
 <div id="outline-text-headline-4" class="outline-text-2">
 Reading: <a href="https://www.goodreads.com/book/show/26083308-the-devops-handbook">The DevOps Handbook, Gene Kim (2015)</a>
 <br>
-Listening: <a href="https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV">Ozone Scraper, DJ Shadow (2023)</a>
+Listening: <a href="https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj">Red Right Hand, Nick Cave & The Bad Seeds (1994)</a>
+
 <br>
-Watching: <a href="https://letterboxd.com/film/goodbye-dragon-inn/">Goodbye, Dragon Inn (2003)</a>
+Watching: <a href="https://letterboxd.com/film/pictures-of-ghosts/">Pictures of Ghosts (2023)</a>
 <span class="post-info">
   <br>
   
-  <i>Last update on Jan 23, 2024 10:29 AM</i>
+  <i>Last update on Jan 24, 2024 10:24 PM</i>
 </span>
 </div>
 </div>
@@ -16347,7 +16378,7 @@ Supporter
 </h2>
 <div id="outline-text-headline-5" class="outline-text-2">
 <p>
-<a href="https://www.gnu.org/philosophy/free-sw.html">Free Software</a>, <a href="https://indieweb.org/">IndieWeb</a>, <a href="http://slow-science.org/">Slow Science</a>, <a href="https://justinjackson.ca/words.html">Words</a></p>
+<a href="https://www.gnu.org/philosophy/free-sw.html">Free Software</a>, <a href="https://indieweb.org/">IndieWeb</a>, <a href="http://slow-science.org/">Slow Science</a>, <a href="https://justinjackson.ca/words.html">Words</a>, <a href="https://jeffhuang.com/designed_to_last/">Designed to Last</a></p>
 </div>
 </div>
 <div id="outline-container-headline-7" class="outline-2">
@@ -16365,7 +16396,7 @@ Website
 </h2>
 <div id="outline-text-headline-8" class="outline-text-2">
 <p>
-This website is entirely written and managed using <a href="https://github.com/ttybitnik/emacs.d">GNU Emacs</a> and <a href="https://orgmode.org/">org-mode</a>. All org files are then deployed using <a href="https://gohugo.io/">Hugo</a>.</p>
+This website is entirely written and managed using <a href="https://github.com/ttybitnik/emacs.d">GNU Emacs</a> and <a href="https://orgmode.org/">org-mode</a>. All org files are then deployed using <a href="https://gohugo.io/">Hugo</a>. All its pages are <a href="https://jeffhuang.com/designed_to_last/">designed to last</a>.</p>
 </div>
 </div>
 ]]></content:encoded></item><item><title>Contact</title><link>https://eternodevir.com/contact/</link><pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/contact/</guid><description>Email: vinicius.moraes@eternodevir.com Feel free to email me regarding any content on this website, whether you have got a suggestion, some feedback, or just want to engage about a shared interest. Typically I respond within a week at most, often even sooner. If you have not heard back from me after that, please check your spam folder, as my response may have been filtered there.
@@ -16633,13 +16664,14 @@ O que estou fazendo agora
 <div id="outline-text-headline-4" class="outline-text-2">
 Lendo: <a href="https://www.goodreads.com/book/show/26083308-the-devops-handbook">The DevOps Handbook, Gene Kim (2015)</a>
 <br>
-Ouvindo: <a href="https://open.spotify.com/track/0Q9R4VjA7LedOAoUBvT2fV">Ozone Scraper, DJ Shadow (2023)</a>
+Ouvindo: <a href="https://open.spotify.com/track/0qHeP8zt2WWef7EWCs1ECj">Red Right Hand, Nick Cave & The Bad Seeds (1994)</a>
+
 <br>
-Assistindo: <a href="https://letterboxd.com/film/goodbye-dragon-inn/">Goodbye, Dragon Inn (2003)</a>
+Assistindo: <a href="https://letterboxd.com/film/pictures-of-ghosts/">Pictures of Ghosts (2023)</a>
 <span class="post-info">
   <br>
   
-  <i>Última atualização em jan. 23, 2024 10:29 AM</i>
+  <i>Última atualização em jan. 24, 2024 10:24 PM</i>
 </span>
 </div>
 </div>
@@ -16649,7 +16681,7 @@ Apoiador
 </h2>
 <div id="outline-text-headline-5" class="outline-text-2">
 <p>
-<a href="https://www.gnu.org/philosophy/free-sw.pt-br.html">Free Software</a>, <a href="https://indieweb.org/Main_Page-pt">IndieWeb</a>, <a href="http://slow-science.org/">Slow Science</a>, <a href="https://justinjackson.ca/words_pt-BR.html">Words</a></p>
+<a href="https://www.gnu.org/philosophy/free-sw.pt-br.html">Free Software</a>, <a href="https://indieweb.org/Main_Page-pt">IndieWeb</a>, <a href="http://slow-science.org/">Slow Science</a>, <a href="https://justinjackson.ca/words_pt-BR.html">Words</a>, <a href="https://jeffhuang.com/designed_to_last/">Designed to Last</a></p>
 </div>
 </div>
 <div id="outline-container-headline-7" class="outline-2">
@@ -16667,7 +16699,7 @@ Site
 </h2>
 <div id="outline-text-headline-8" class="outline-text-2">
 <p>
-Este site é inteiramente escrito e gerenciado utilizando <a href="https://github.com/ttybitnik/emacs.d">GNU Emacs</a> e <a href="https://orgmode.org/">org-mode</a>. Todos os arquivos org são então implementados utilizando <a href="https://gohugo.io/">Hugo</a>.</p>
+Este site é inteiramente escrito e gerenciado utilizando <a href="https://github.com/ttybitnik/emacs.d">GNU Emacs</a> e <a href="https://orgmode.org/">org-mode</a>. Todos os arquivos org são então implementados utilizando <a href="https://gohugo.io/">Hugo</a>. Todas as páginas são <a href="https://jeffhuang.com/designed_to_last/">projetadas para durarem</a>.</p>
 </div>
 </div>
 ]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/homelab/</guid><description>Area: self-hosting Date: 2022-current
