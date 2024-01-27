@@ -1,4 +1,126 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>notes on Eterno Devir</title><link>https://eternodevir.com/pt-br/categories/notes/</link><description>Recent content in notes on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Thu, 21 May 2020 00:02:29 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/categories/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Escrevo para descobrir o que penso</title><link>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</guid><description>Outro dia me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>notes on Eterno Devir</title><link>https://eternodevir.com/pt-br/categories/notes/</link><description>Recent content in notes on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Mon, 10 Jul 2023 08:01:06 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/categories/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Um teclado mais sensato</title><link>https://eternodevir.com/pt-br/blog/um-teclado-mais-sensato/</link><pubDate>Mon, 10 Jul 2023 08:01:06 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/um-teclado-mais-sensato/</guid><description>Eu acho teclados dispositivos fascinantes, do ponto de vista do design, tecnológico e linguístico. Afinal, um teclado abrange as tarefas de (i) comunicação em linguagem escrita, (ii) operação e controle da máquina e (iii) programação em linguagem computacional.
+Pouco tempo após começar a utilizar o GNU Emacs, eu me peguei pensando bastante sobre a posição das teclas do meu teclado. Depois de pesquisar um pouco, a primeira informação que encontrei foi sobre os diferentes layouts, principalmente o qwerty e o dvorak.</description><content:encoded><![CDATA[<p>
+Eu acho teclados dispositivos fascinantes, do ponto de vista do design, tecnológico e linguístico. Afinal, um teclado abrange as tarefas de (i) comunicação em linguagem escrita, (ii) operação e controle da máquina e (iii) programação em linguagem computacional.</p>
+<p>
+Pouco tempo após começar a utilizar o GNU Emacs, eu me peguei pensando bastante sobre a posição das teclas do meu teclado. Depois de pesquisar um pouco, a primeira informação que encontrei foi sobre os diferentes layouts, principalmente o <code class="verbatim">qwerty</code> e o <code class="verbatim">dvorak</code>.</p>
+<p>
+<figure><img src="/images/blog/2023/image01.jpg"
+         alt="Qwerty Layout"/><figcaption>
+            <p>Qwerty Layout</p>
+        </figcaption>
+</figure>
+</p>
+<p>
+<figure><img src="/images/blog/2023/image02.jpg"
+         alt="Dvorak Layout"/><figcaption>
+            <p>Dvorak Layout</p>
+        </figcaption>
+</figure>
+</p>
+<p>
+A princípio, a proposta do <code class="verbatim">dvorak</code> de distribuir as teclas de acordo com a frequência das letras me pareceu sensata. Porém, em um contexto de escrita em línguas diferentes, a frequência e as posições teriam que mudar para cada idioma. Por esse único motivo, acabei decidindo continuar com o <code class="verbatim">qwerty</code> por enquanto.</p>
+<p>
+Embora o layout linguístico tenha tido impacto, eu estava mais preocupado com a posição das teclas operacionais. Por exemplo, para mim, não fazia sentido o <kbd>CAPS</kbd> ser uma tecla mais fácil de pressionar do que o <kbd>ESC</kbd>. Ao ler o livro <code class="verbatim">Mastering Emacs</code>, acabei descobrindo que os teclados na época da criação do GNU Emacs eram completamente diferentes em relação aos modificadores.</p>
+<blockquote>
+<p>A much older joke is that Emacs stands for “Escape Meta Alt Control Shift.” (…) Back then, most Emacs keys were bound to a larger range of physical keyboard modifiers but when the keyboard maker (and the business that made the machines the keyboards were plugged into) went bust, Emacs had to change with the times. Instead of undoing the cornerstone of Emacs, the developers shuffled the keys around and made them work on normal, boring PC keyboards.</p>
+<p>
+— Mickey Petersen, in Mastering Emacs (2015)</p>
+</blockquote>
+<p>
+Quando vi a foto de um Space Cadet usado nas primeiras máquinas Lisp, muitos atalhos tradicionais do GNU começaram a fazer ainda mais sentido, para além do seu aspecto mnemônico. Por exemplo, o fato de a atual tecla <kbd>Alt</kbd> ser chamada de <kbd>M</kbd> (Meta).</p>
+<figure>
+  <img src="/images/blog/2023/image03.jpg" alt="Space Cadet">
+  <figcaption>
+    <p>Space Cadet utilizado na LM-2<sup class="footnote-reference"><a id="footnote-reference-1" href="#footnote-1">1</a></sup></p>
+  </figcaption>
+</figure>
+<p>
+Até esse momento eu estava utilizando o formidável <a href="https://github.com/kmonad/kmonad">KMonad</a> para trocar a posição do <kbd>CAPS</kbd> com o  <kbd>ESC</kbd>. Também passei algum tempo personalizando diferentes camadas para ter um pouco mais de conforto, mesmo em um design de teclado tradicional. Um dos recursos mais poderosos do KMonad é a possibilidade de atribuir comandos diferentes à mesma tecla com base no tipo de pressionamento. Por exemplo, eu programei minha tecla <kbd>SPC</kbd> para agir como <kbd>s</kbd> (Super) quando pressionada por mais de 500ms, sem afetar sua funcionalidade padrão.</p>
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="ln"> 1</span><span class="cl">  #| -------------------------------------------------- --------------------
+</span></span><span class="line"><span class="ln"> 2</span><span class="cl">                     KMonad: BR abnt-2 100% template
+</span></span><span class="line"><span class="ln"> 3</span><span class="cl">  -------------------------------------------------- ---------------------- |#
+</span></span><span class="line"><span class="ln"> 4</span><span class="cl">
+</span></span><span class="line"><span class="ln"> 5</span><span class="cl">  (defsrc
+</span></span><span class="line"><span class="ln"> 6</span><span class="cl">    esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="ln"> 7</span><span class="cl">    grv 1 2 3 4 5 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="ln"> 8</span><span class="cl">    tab q w e r t y u i o p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="ln"> 9</span><span class="cl">    caps a s d f g h j k l ; &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="ln">10</span><span class="cl">    lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="ln">11</span><span class="cl">    lctl lmet lalt spc ralt cmp rctl left down rght kp0 kp.
+</span></span><span class="line"><span class="ln">12</span><span class="cl">  )
+</span></span><span class="line"><span class="ln">13</span><span class="cl">
+</span></span><span class="line"><span class="ln">14</span><span class="cl">  (deflayer base
+</span></span><span class="line"><span class="ln">15</span><span class="cl">    caps f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="ln">16</span><span class="cl">    grv 1 2 3 4 5 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="ln">17</span><span class="cl">    tab q w e r t y u i o p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="ln">18</span><span class="cl">    @ces a s d f g h j k l ; &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="ln">19</span><span class="cl">    lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="ln">20</span><span class="cl">    lctl lmet lalt @dwm ralt @swt rctl left down rght kp0 kp.
+</span></span><span class="line"><span class="ln">21</span><span class="cl">  )
+</span></span><span class="line"><span class="ln">22</span><span class="cl">
+</span></span><span class="line"><span class="ln">23</span><span class="cl">  (deflayer xfk
+</span></span><span class="line"><span class="ln">24</span><span class="cl">    esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="ln">25</span><span class="cl">    grv 1 2 3 4 del 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="ln">26</span><span class="cl">    tab q w @db @df t y @bw up @fw p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="ln">27</span><span class="cl">    caps a ret bspc f g home left down rght end &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="ln">28</span><span class="cl">    lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="ln">29</span><span class="cl">    lctl lmet lalt spc ralt @swt rctl left down rght kp0 kp.
+</span></span><span class="line"><span class="ln">30</span><span class="cl">  )
+</span></span><span class="line"><span class="ln">31</span><span class="cl">
+</span></span><span class="line"><span class="ln">32</span><span class="cl">  (deflayer switch
+</span></span><span class="line"><span class="ln">33</span><span class="cl">    _ @s1 @s2 _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="ln">34</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _nn
+</span></span><span class="line"><span class="ln">35</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="ln">36</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="ln">37</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="ln">38</span><span class="cl">    _ _ _ _ _ @swt _ _ _ _ _ _
+</span></span><span class="line"><span class="ln">39</span><span class="cl">
+</span></span><span class="line"><span class="ln">40</span><span class="cl">  )
+</span></span><span class="line"><span class="ln">41</span><span class="cl">
+</span></span><span class="line"><span class="ln">42</span><span class="cl">
+</span></span><span class="line"><span class="ln">43</span><span class="cl">  (defalias
+</span></span><span class="line"><span class="ln">44</span><span class="cl">    dwm (tap-hold 500 spc lmet)
+</span></span><span class="line"><span class="ln">45</span><span class="cl">    swt (layer-toggle switch)
+</span></span><span class="line"><span class="ln">46</span><span class="cl">    ces (tap-hold 500 esc lctl)
+</span></span><span class="line"><span class="ln">47</span><span class="cl">    s1 (layer-switch base)
+</span></span><span class="line"><span class="ln">48</span><span class="cl">    s2 (layer-switch xfk)
+</span></span><span class="line"><span class="ln">49</span><span class="cl">
+</span></span><span class="line"><span class="ln">50</span><span class="cl">    bw (around ctl left)
+</span></span><span class="line"><span class="ln">51</span><span class="cl">    fw (around ctl right)
+</span></span><span class="line"><span class="ln">52</span><span class="cl">    db (around ctl bspc)
+</span></span><span class="line"><span class="ln">53</span><span class="cl">    df (around ctl del)
+</span></span><span class="line"><span class="ln">54</span><span class="cl">  )</span></span></code></pre></div>
+</div>
+<p>
+Porém, mesmo após personalizar o meu teclado inteiro com o KMonad, eu ainda me incomodava com a posição física das teclas. Além disso, a ideia de executar um programa separado para modificá-las também não me agradava tanto. Foi então que descobri o teclado X-Bows.</p>
+<p>
+<figure><img src="/images/blog/2023/image00.jpg"
+         alt="X-Bows"/><figcaption>
+            <p>X-Bows</p>
+        </figcaption>
+</figure>
+</p>
+<p>
+O X-Bows possui teclas alternativas para a posição do polegar, que anteriormente era utilizado principalmente para pressionar a tecla <kbd>SPC</kbd>. Com essas novas teclas, consigo controlar os modificadores <kbd>C</kbd>, <kbd>M</kbd> e <kbd>S</kbd > apenas com esse dedo. Também possuo <kbd>DEL</kbd> e <kbd>RET</kbd> em fácil alcance. Em síntese, o teclado alivia combinações do dedo mais fraco, o mindinho, para dedos mais fortes próximos ao centro do teclado. Isso, junto com o espaçamento e a angulação, representa enormes ganhos em conforto e desempenho.</p>
+<p>
+Além dos benefícios ergonômicos, poder pressionar os modificadores com o polegar também é uma dádiva ao utilizar o GNU Emacs. Além disso, percebi que a adaptação ao teclado foi mais rápida do que imaginei. Vou escrever mais sobre isso em uma próxima publicação sobre <code class="verbatim">digitação por toque</code>.</p>
+<p>
+De antemão, estou utilizando o X-Bows há pouco mais de 3 meses, e a única desvantagem que notei até agora foi que me acostumei tanto com seu design que estranho digitar em outros teclados, principalmente em laptops. De certa forma, fiquei um pouco dependente dele, o que não é necessariamente ruim. Idealmente, seria ótimo se existissem laptops com o design <em>thumb cluster</em> um dia. Ou melhor, se esse design se tornasse um padrão difundido.</p>
+<p>
+Até lá, a opção mais viável tem sido carregar o X-bows sempre que necessário.</p>
+<div class="footnotes">
+  <hr class="footnotes-separatator">
+  <div class="footnote-definitions">
+    <div class="footnote-definition">
+      <sup id="footnote-1"><a href="#footnote-reference-1">1</a></sup>
+      <div class="footnote-body">
+        <p>Retro-Computing Society of Rhode Island, via <a href="https://en.wikipedia.org/wiki/Space-cadet_keyboard#/media/File:Space-cadet.jpg">Wikimedia Commons</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+]]></content:encoded></item><item><title>Escrevo para descobrir o que penso</title><link>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</guid><description>Outro dia me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…
 Exercício de análise combinatória I Escrevo para descobrir o que penso.</description><content:encoded><![CDATA[
 <p>
 <figure><img src="/images/blog/2020/image03.jpg"
