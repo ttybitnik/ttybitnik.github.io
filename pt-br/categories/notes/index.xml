@@ -37,9 +37,9 @@ Quando vi a foto de um Space Cadet usado nas primeiras máquinas Lisp, muitos at
 <p>
 Até esse momento eu estava utilizando o formidável <a href="https://github.com/kmonad/kmonad">KMonad</a> para trocar a posição do <kbd>CAPS</kbd> com o  <kbd>ESC</kbd>. Também passei algum tempo personalizando diferentes camadas para ter um pouco mais de conforto, mesmo em um design de teclado tradicional. Um dos recursos mais poderosos do KMonad é a possibilidade de atribuir comandos diferentes à mesma tecla com base no tipo de pressionamento. Por exemplo, eu programei minha tecla <kbd>SPC</kbd> para agir como <kbd>s</kbd> (Super) quando pressionada por mais de 500ms, sem afetar sua funcionalidade padrão.</p>
 <div class="src src-text">
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="ln"> 1</span><span class="cl">  #| -------------------------------------------------- --------------------
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="ln"> 1</span><span class="cl">  #| --------------------------------------------------------------------
 </span></span><span class="line"><span class="ln"> 2</span><span class="cl">                     KMonad: BR abnt-2 100% template
-</span></span><span class="line"><span class="ln"> 3</span><span class="cl">  -------------------------------------------------- ---------------------- |#
+</span></span><span class="line"><span class="ln"> 3</span><span class="cl">  -------------------------------------------------------------------- |#
 </span></span><span class="line"><span class="ln"> 4</span><span class="cl">
 </span></span><span class="line"><span class="ln"> 5</span><span class="cl">  (defsrc
 </span></span><span class="line"><span class="ln"> 6</span><span class="cl">    esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
@@ -70,7 +70,7 @@ Até esse momento eu estava utilizando o formidável <a href="https://github.com
 </span></span><span class="line"><span class="ln">31</span><span class="cl">
 </span></span><span class="line"><span class="ln">32</span><span class="cl">  (deflayer switch
 </span></span><span class="line"><span class="ln">33</span><span class="cl">    _ @s1 @s2 _ _ _ _ _ _ _ _ _ _ _ _ _
-</span></span><span class="line"><span class="ln">34</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _nn
+</span></span><span class="line"><span class="ln">34</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 </span></span><span class="line"><span class="ln">35</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 </span></span><span class="line"><span class="ln">36</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 </span></span><span class="line"><span class="ln">37</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
