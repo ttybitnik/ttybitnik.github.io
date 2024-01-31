@@ -10324,7 +10324,7 @@ Shortly after starting to use GNU Emacs, I found myself thinking extensively abo
 <p>
 At first, <code class="verbatim">dvorak</code>&#39;s proposal to distribute the keys according to letter frequency seemed sound to me. However, in a context of writing in different languages, the frequency and positions would have to change for each language. For that reason alone, I ended up deciding to stick with <code class="verbatim">qwerty</code> for now.</p>
 <p>
-Although the linguistic layout had an impact, I was more concerned with the position of the operational keys. For example, to me, it did not make sense for <kbd>CAPS</kbd> to be an easier-key-to-press than <kbd>ESC</kbd>. While reading the book <code class="verbatim">Mastering Emacs</code>,  I ended up discovering that the keyboards, at the time of GNU Emacs creation, were completely different in terms of modifiers.</p>
+Although the linguistic layout had an impact, I was more concerned with the position of the operational keys. For example, to me, it did not make sense for <kbd>CAPS</kbd> to be an easier-key-to-press than <kbd>ESC</kbd>. While reading the book <em>Mastering Emacs</em>,  I ended up discovering that the keyboards, at the time of GNU Emacs creation, were completely different in terms of modifiers.</p>
 <blockquote>
 <p>A much older joke is that Emacs stands for “Escape Meta Alt Control Shift.” (…) Back then, most Emacs keys were bound to a larger range of physical keyboard modifiers but when the keyboard maker (and the business that made the machines the keyboards were plugged into) went bust, Emacs had to change with the times. Instead of undoing the cornerstone of Emacs, the developers shuffled the keys around and made them work on normal, boring PC keyboards.</p>
 <p>
@@ -10419,7 +10419,7 @@ Until then, the most viable option has been carrying the X-Bows with me whenever
     <div class="footnote-definition">
       <sup id="footnote-1"><a href="#footnote-reference-1">1</a></sup>
       <div class="footnote-body">
-        <p>Retro-Computing Society of Rhode Island, via <a href="https://en.wikipedia.org/wiki/Space-cadet_keyboard#/media/File:Space-cadet.jpg">Wikimedia Commons</a></p>
+        <p>Retro-Computing Society of Rhode Island, via <a href="https://en.wikipedia.org/wiki/Space-cadet_keyboard#/media/File:Space-cadet.jpg">Wikimedia Commons</a>.</p>
       </div>
     </div>
   </div>
@@ -10446,7 +10446,7 @@ Pouco tempo após começar a utilizar o GNU Emacs, eu me peguei pensando bastant
 <p>
 A princípio, a proposta do <code class="verbatim">dvorak</code> de distribuir as teclas de acordo com a frequência das letras me pareceu sensata. Porém, em um contexto de escrita em línguas diferentes, a frequência e as posições teriam que mudar para cada idioma. Por esse único motivo, acabei decidindo continuar com o <code class="verbatim">qwerty</code> por enquanto.</p>
 <p>
-Embora o layout linguístico tenha tido impacto, eu estava mais preocupado com a posição das teclas operacionais. Por exemplo, para mim, não fazia sentido o <kbd>CAPS</kbd> ser uma tecla mais fácil de pressionar do que o <kbd>ESC</kbd>. Ao ler o livro <code class="verbatim">Mastering Emacs</code>, acabei descobrindo que os teclados, na época da criação do GNU Emacs, eram completamente diferentes em relação aos modificadores.</p>
+Embora o layout linguístico tenha tido impacto, eu estava mais preocupado com a posição das teclas operacionais. Por exemplo, para mim, não fazia sentido o <kbd>CAPS</kbd> ser uma tecla mais fácil de pressionar do que o <kbd>ESC</kbd>. Ao ler o livro <em>Mastering Emacs</em>, acabei descobrindo que os teclados, na época da criação do GNU Emacs, eram completamente diferentes em relação aos modificadores.</p>
 <blockquote>
 <p>A much older joke is that Emacs stands for “Escape Meta Alt Control Shift.” (…) Back then, most Emacs keys were bound to a larger range of physical keyboard modifiers but when the keyboard maker (and the business that made the machines the keyboards were plugged into) went bust, Emacs had to change with the times. Instead of undoing the cornerstone of Emacs, the developers shuffled the keys around and made them work on normal, boring PC keyboards.</p>
 <p>
@@ -10541,7 +10541,7 @@ Até lá, a opção mais viável tem sido carregar o X-Bows sempre que necessár
     <div class="footnote-definition">
       <sup id="footnote-1"><a href="#footnote-reference-1">1</a></sup>
       <div class="footnote-body">
-        <p>Retro-Computing Society of Rhode Island, via <a href="https://en.wikipedia.org/wiki/Space-cadet_keyboard#/media/File:Space-cadet.jpg">Wikimedia Commons</a></p>
+        <p>Retro-Computing Society of Rhode Island, via <a href="https://en.wikipedia.org/wiki/Space-cadet_keyboard#/media/File:Space-cadet.jpg">Wikimedia Commons</a>.</p>
       </div>
     </div>
   </div>
