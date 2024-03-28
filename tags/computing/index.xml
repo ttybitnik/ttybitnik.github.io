@@ -1,4 +1,193 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>computing on Eterno Devir</title><link>https://eternodevir.com/tags/computing/</link><description>Recent content in computing on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Tue, 11 Jul 2023 08:01:06 -0300</lastBuildDate><atom:link href="https://eternodevir.com/tags/computing/index.xml" rel="self" type="application/rss+xml"/><item><title>A saner keyboard</title><link>https://eternodevir.com/blog/a-saner-keyboard/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/a-saner-keyboard/</guid><description>I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>computing on eternodevir</title><link>https://eternodevir.com/tags/computing/</link><description>Recent content in computing on eternodevir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 28 Jan 2024 11:12:03 -0300</lastBuildDate><atom:link href="https://eternodevir.com/tags/computing/index.xml" rel="self" type="application/rss+xml"/><item><title>Bookmarks</title><link>https://eternodevir.com/digital-garden/bookmarks/</link><pubDate>Sun, 28 Jan 2024 11:12:03 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/digital-garden/bookmarks/</guid><description>Personal collection of links to other valuable digital realms.
+Websites kernel.org lua.org gnus.org ietf.org linuxfromscratch.org semver.org conventionalcommits.org Projects missing.csail.mit.edu penkesu.computer inkandswitch.com projecteuler.net nand2tetris.org Wikis/Archives savethesounds.info textfiles.com livingcomputers.org ethw.org cses.fi tedinski.com archive.org rfc-editor.org curlie.org wiby.me lieu.cblgh.org ottavianas-kitchen.com webtender.com Magazines/News phrack.org solar.lowtechmagazine.com notechmagazine.com news.ycombinator.com webzine.puffy.cafe Games/Fun englishsandwich.github.io wheels.org/spacewar wordsandbuttons.online unixgraybeard.com lichess.org xkcd.com Manifestos repair.org bauhausmanifesto.com useplaintext.email slow-science.org brutalist-web.design nospec.com permacomputing.net justforfunnoreally.dev Clubs rawtext.club tilde.club sdf.org neocities.org 250kb.club no-js.club darktheme.club Groups 5bits.one suckless.</description><content:encoded><![CDATA[
+<p>
+Personal collection of links to other valuable digital realms.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Websites
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<ul>
+<li><a href="https://kernel.org/">kernel.org</a></li>
+<li><a href="https://lua.org">lua.org</a></li>
+<li><a href="https://gnus.org">gnus.org</a></li>
+<li><a href="https://www.ietf.org/">ietf.org</a></li>
+<li><a href="https://www.linuxfromscratch.org/">linuxfromscratch.org</a></li>
+<li><a href="https://semver.org/">semver.org</a></li>
+<li><a href="https://www.conventionalcommits.org/en/v1.0.0/">conventionalcommits.org</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Projects
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<ul>
+<li><a href="https://missing.csail.mit.edu/">missing.csail.mit.edu</a></li>
+<li><a href="https://penkesu.computer/">penkesu.computer</a></li>
+<li><a href="https://www.inkandswitch.com/">inkandswitch.com</a></li>
+<li><a href="https://projecteuler.net/">projecteuler.net</a></li>
+<li><a href="https://www.nand2tetris.org/">nand2tetris.org</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Wikis/Archives
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<ul>
+<li><a href="http://savethesounds.info/">savethesounds.info</a></li>
+<li><a href="http://textfiles.com/">textfiles.com</a></li>
+<li><a href="https://livingcomputers.org/">livingcomputers.org</a></li>
+<li><a href="https://ethw.org/">ethw.org</a></li>
+<li><a href="https://cses.fi/problemset/">cses.fi</a></li>
+<li><a href="https://www.tedinski.com/archive/">tedinski.com</a></li>
+<li><a href="https://archive.org/">archive.org</a></li>
+<li><a href="https://www.rfc-editor.org/">rfc-editor.org</a></li>
+<li><a href="https://curlie.org/">curlie.org</a></li>
+<li><a href="https://wiby.me/">wiby.me</a></li>
+<li><a href="https://lieu.cblgh.org/">lieu.cblgh.org</a></li>
+<li><a href="https://ottavianas-kitchen.com/">ottavianas-kitchen.com</a></li>
+<li><a href="https://www.webtender.com">webtender.com</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Magazines/News
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<ul>
+<li><a href="http://phrack.org">phrack.org</a></li>
+<li><a href="https://solar.lowtechmagazine.com/">solar.lowtechmagazine.com</a></li>
+<li><a href="https://www.notechmagazine.com/">notechmagazine.com</a></li>
+<li><a href="https://news.ycombinator.com/">news.ycombinator.com</a></li>
+<li><a href="https://webzine.puffy.cafe/">webzine.puffy.cafe</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-2">
+<h2 id="headline-5">
+Games/Fun
+</h2>
+<div id="outline-text-headline-5" class="outline-text-2">
+<ul>
+<li><a href="https://englishsandwich.github.io/">englishsandwich.github.io</a></li>
+<li><a href="https://wheels.org/spacewar/index.html">wheels.org/spacewar</a></li>
+<li><a href="https://wordsandbuttons.online/">wordsandbuttons.online</a></li>
+<li><a href="https://unixgraybeard.com/">unixgraybeard.com</a></li>
+<li><a href="https://lichess.org/">lichess.org</a></li>
+<li><a href="https://xkcd.com/">xkcd.com</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-2">
+<h2 id="headline-6">
+Manifestos
+</h2>
+<div id="outline-text-headline-6" class="outline-text-2">
+<ul>
+<li><a href="https://www.repair.org/">repair.org</a></li>
+<li><a href="https://bauhausmanifesto.com/">bauhausmanifesto.com</a></li>
+<li><a href="https://useplaintext.email/">useplaintext.email</a></li>
+<li><a href="http://slow-science.org/">slow-science.org</a></li>
+<li><a href="https://brutalist-web.design/">brutalist-web.design</a></li>
+<li><a href="https://www.nospec.com/">nospec.com</a></li>
+<li><a href="https://permacomputing.net/">permacomputing.net</a></li>
+<li><a href="https://justforfunnoreally.dev/">justforfunnoreally.dev</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+Clubs
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<ul>
+<li><a href="https://rawtext.club/">rawtext.club</a></li>
+<li><a href="https://tilde.club/">tilde.club</a></li>
+<li><a href="https://sdf.org/">sdf.org</a></li>
+<li><a href="https://neocities.org/">neocities.org</a></li>
+<li><a href="https://250kb.club/">250kb.club</a></li>
+<li><a href="https://no-js.club/">no-js.club</a></li>
+<li><a href="https://darktheme.club/">darktheme.club</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-8" class="outline-2">
+<h2 id="headline-8">
+Groups
+</h2>
+<div id="outline-text-headline-8" class="outline-text-2">
+<ul>
+<li><a href="https://5bits.one/">5bits.one</a></li>
+<li><a href="https://suckless.org/">suckless.org</a></li>
+<li><a href="https://indieweb.org/">indieweb.org</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-9" class="outline-2">
+<h2 id="headline-9">
+People
+</h2>
+<div id="outline-text-headline-9" class="outline-text-2">
+<ul>
+<li><a href="https://anhvn.com/">anhvn.com</a></li>
+<li><a href="https://atlasminor.com">atlasminor.com</a></li>
+<li><a href="http://catb.org">catb.org</a></li>
+<li><a href="https://cblgh.org/">cblgh.org</a></li>
+<li><a href="https://datagubbe.se/">datagubbe.se</a></li>
+<li><a href="https://dwheeler.com/">dwheeler.com</a></li>
+<li><a href="https://eater.net">eater.net</a></li>
+<li><a href="https://emile.space/">emile.space</a></li>
+<li><a href="https://gluer.org/">gluer.org</a></li>
+<li><a href="https://helveticablanc.com">helveticablanc.com</a></li>
+<li><a href="https://heracl.es">heracl.es</a></li>
+<li><a href="https://howardism.org/">howardism.org</a></li>
+<li><a href="https://koehr.ing/">koehr.ing</a></li>
+<li><a href="https://kokorobot.ca/">kokorobot.ca</a></li>
+<li><a href="https://neustadt.fr/">neustadt.fr</a></li>
+<li><a href="http://parenteses.org">parenteses.org</a></li>
+<li><a href="https://protesilaos.com/">protesilaos.com</a></li>
+<li><a href="https://ratfactor.com/">ratfactor.com</a></li>
+<li><a href="https://robinrendle.com/">robinrendle.com</a></li>
+<li><a href="https://sachachua.com/">sachachua.com</a></li>
+<li><a href="https://susam.net/">susam.net</a></li>
+<li><a href="https://www.paritybit.ca">paritybit.ca</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-10" class="outline-2">
+<h2 id="headline-10">
+Articles
+</h2>
+<div id="outline-text-headline-10" class="outline-text-2">
+<ul>
+<li><a href="https://antonz.org/writing-package-manager/">antonz.org/writing-package-manager</a></li>
+<li><a href="https://austinhenley.com/blog/challengingprojects.html">austinhenley.com/blog/challengingprojects.html</a></li>
+<li><a href="https://backspace.com/notes/2009/07/design-manifestos.php">backspace.com/notes/2009/07/design-manifestos.php</a></li>
+<li><a href="https://www.bell-labs.com/usr/dmr/www/chist.html">bell-labs.com/usr/dmr/www/chist.html</a></li>
+<li><a href="https://blog.sanctum.geek.nz/vim-anti-patterns/">blog.sanctum.geek.nz/vim-anti-patterns</a></li>
+<li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">catb.org/~esr/faqs/smart-questions.html</a></li>
+<li><a href="https://datatracker.ietf.org/doc/html/rfc791">datatracker.ietf.org/doc/html/rfc791</a></li>
+<li><a href="https://datatracker.ietf.org/doc/html/rfc2616">datatracker.ietf.org/doc/html/rfc2616</a></li>
+<li><a href="https://dwheeler.com/secure-programs/">dwheeler.com/secure-programs</a></li>
+<li><a href="https://ethw.org/Ancient_Computers">ethw.org/ancient_computers</a></li>
+<li><a href="https://www.gnu.org/philosophy/free-sw.html">gnu.org/philosophy/free-sw.html</a></li>
+<li><a href="https://home.cern/science/computing/birth-web/short-history-web">home.cern/science/computing/birth-web/short-history-web</a></li>
+<li><a href="https://www.inkandswitch.com/local-first/">inkandswitch.com/local-first</a></li>
+<li><a href="https://www.inkandswitch.com/slow-software/">inkandswitch.com/slow-software</a></li>
+<li><a href="https://jeffhuang.com/designed_to_last/">jeffhuang.com/designed_to_last</a></li>
+<li><a href="https://justinjackson.ca/words.html">justinjackson.ca/words.html</a></li>
+<li><a href="https://neustadt.fr/essays/the-small-web/">neustadt.fr/essays/the-small-web</a></li>
+<li><a href="https://tomasp.net/commodore64/">tomasp.net/commodore64</a></li>
+<li><a href="https://wheels.org/spacewar/stone/rolling_stone.html">wheels.org/spacewar/stone/rolling_stone.html</a></li>
+</ul>
+</div>
+</div>
+]]></content:encoded></item><item><title>A saner keyboard</title><link>https://eternodevir.com/blog/a-saner-keyboard/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/a-saner-keyboard/</guid><description>I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.
 Shortly after starting to use GNU Emacs, I found myself thinking extensively about the position of the keys on my keyboard. After researching a bit, the first information I found was about the different layouts, particularly qwerty and dvorak.</description><content:encoded><![CDATA[<p>
 I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.</p>
 <p>
