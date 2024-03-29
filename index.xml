@@ -1740,6 +1740,7 @@ Articles
 <li><a href="https://antonz.org/writing-package-manager/">antonz.org/writing-package-manager</a></li>
 <li><a href="https://austinhenley.com/blog/challengingprojects.html">austinhenley.com/blog/challengingprojects.html</a></li>
 <li><a href="https://backspace.com/notes/2009/07/design-manifestos.php">backspace.com/notes/2009/07/design-manifestos.php</a></li>
+<li><a href="https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/">badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking</a></li>
 <li><a href="https://www.bell-labs.com/usr/dmr/www/chist.html">bell-labs.com/usr/dmr/www/chist.html</a></li>
 <li><a href="https://blog.sanctum.geek.nz/vim-anti-patterns/">blog.sanctum.geek.nz/vim-anti-patterns</a></li>
 <li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">catb.org/~esr/faqs/smart-questions.html</a></li>
@@ -1929,6 +1930,7 @@ Artigos
 <li><a href="https://antonz.org/writing-package-manager/">antonz.org/writing-package-manager</a></li>
 <li><a href="https://austinhenley.com/blog/challengingprojects.html">austinhenley.com/blog/challengingprojects.html</a></li>
 <li><a href="https://backspace.com/notes/2009/07/design-manifestos.php">backspace.com/notes/2009/07/design-manifestos.php</a></li>
+<li><a href="https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/">badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking</a></li>
 <li><a href="https://www.bell-labs.com/usr/dmr/www/chist.html">bell-labs.com/usr/dmr/www/chist.html</a></li>
 <li><a href="https://blog.sanctum.geek.nz/vim-anti-patterns/">blog.sanctum.geek.nz/vim-anti-patterns</a></li>
 <li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">catb.org/~esr/faqs/smart-questions.html</a></li>
@@ -12458,15 +12460,13 @@ Until this moment I was using the formidable <a href="https://github.com/kmonad/
 However, even after customizing my entire keyboard using KMonad, I was still bothered by the physical position of the keys. Furthermore, the idea of ​​running a separate program to modify them did not appeal to me that much either. It was then that I discovered the X-Bows keyboard.</p>
 <p>
 <figure><img src="/images/blog/2023/image00.jpg"
-         alt="X-Bows"/><figcaption>
-            <p>X-Bows</p>
-        </figcaption>
+         alt="X-Bows"/>
 </figure>
 </p>
 <p>
 The X-Bows has alternative keys for the thumb position, which was previously used primarily to press <kbd>SPC</kbd>. With these new keys, I can control the <kbd>C</kbd>, <kbd>M</kbd> and <kbd>S</kbd> modifiers only with that finger. I also have <kbd>DEL</kbd> and <kbd>RET</kbd> within easy reach. In short, the keyboard relieves combinations from the weakest finger, the little finger, to stronger fingers near the keyboard&#39;s center. That, along with the spacing and angulation, represents huge gains in comfort and performance.</p>
 <p>
-Aside from the ergonomic benefits, the ability to use thumb modifiers is also a boon when using GNU Emacs. Additionally, I found adapting to the keyboard to be quicker than expected. I will write more about that in an upcoming post on <code class="verbatim">touch typing</code>.</p>
+Aside from the ergonomic benefits, the ability to use thumb modifiers is also a boon when using GNU Emacs. Additionally, I found adapting to the keyboard to be quicker than expected. I will write more about that in an upcoming post on <strong>touch typing</strong>.</p>
 <p>
 In advance, I have been using the X-Bows for just over 3 months now. The only disadvantage I have noticed so far is that I have become so used to its design that it feels odd typing on other keyboards, especially on laptops. I have become somewhat dependent on it, which is not necessarily a bad thing. Ideally, it would be great to have laptops with the thumb cluster design one day. Or rather, if this design became a widespread standard.</p>
 <p>
@@ -12580,15 +12580,13 @@ Até esse momento eu estava utilizando o formidável <a href="https://github.com
 Porém, mesmo após personalizar o meu teclado inteiro com o KMonad, eu ainda me incomodava com a posição física das teclas. Além disso, a ideia de executar um programa separado para modificá-las também não me agradava tanto. Foi então que descobri o teclado X-Bows.</p>
 <p>
 <figure><img src="/images/blog/2023/image00.jpg"
-         alt="X-Bows"/><figcaption>
-            <p>X-Bows</p>
-        </figcaption>
+         alt="X-Bows"/>
 </figure>
 </p>
 <p>
 O X-Bows possui teclas alternativas para a posição do polegar, que anteriormente era utilizado principalmente para pressionar a tecla <kbd>SPC</kbd>. Com essas novas teclas, consigo controlar os modificadores <kbd>C</kbd>, <kbd>M</kbd> e <kbd>S</kbd > apenas com esse dedo. Também possuo <kbd>DEL</kbd> e <kbd>RET</kbd> em fácil alcance. Em síntese, o teclado alivia combinações do dedo mais fraco, o mindinho, para dedos mais fortes próximos ao centro do teclado. Isso, junto com o espaçamento e a angulação, representa enormes ganhos em conforto e desempenho.</p>
 <p>
-Além dos benefícios ergonômicos, poder pressionar os modificadores com o polegar também é uma dádiva ao utilizar o GNU Emacs. Além disso, percebi que a adaptação ao teclado foi mais rápida do que imaginei. Vou escrever mais sobre isso em uma próxima publicação sobre <code class="verbatim">digitação por toque</code>.</p>
+Além dos benefícios ergonômicos, poder pressionar os modificadores com o polegar também é uma dádiva ao utilizar o GNU Emacs. Além disso, percebi que a adaptação ao teclado foi mais rápida do que imaginei. Vou escrever mais sobre isso em uma próxima publicação sobre <strong>digitação por toque</strong>.</p>
 <p>
 De antemão, estou utilizando o X-Bows há pouco mais de 3 meses. A única desvantagem que notei até agora foi que me acostumei tanto com seu design que estranho digitar em outros teclados, principalmente em laptops. De certa forma, fiquei um pouco dependente dele, o que não é necessariamente ruim. Idealmente, seria ótimo se existissem laptops com o design <em>thumb cluster</em> um dia. Ou melhor, se esse design se tornasse um padrão difundido.</p>
 <p>
@@ -18679,7 +18677,7 @@ Supporter
 </h2>
 <div id="outline-text-headline-5" class="outline-text-2">
 <p>
-<a href="https://www.gnu.org/philosophy/free-sw.html">Free Software</a>, <a href="https://www.repair.org/">Repair</a>, <a href="https://indieweb.org/">IndieWeb</a>, <a href="https://justinjackson.ca/words.html">Words</a>, <a href="https://neustadt.fr/essays/the-small-web/">Small Web</a>, <a href="http://slow-science.org/">Slow Science</a></p>
+<a href="https://www.gnu.org/philosophy/free-sw.html">Free Software</a>, <a href="https://www.repair.org/">Right to Repair</a>, <a href="https://indieweb.org/">IndieWeb</a>, <a href="https://neustadt.fr/essays/the-small-web/">Small Web</a>, <a href="http://slow-science.org/">Slow Science</a>, <a href="https://justinjackson.ca/words.html">Words</a></p>
 </div>
 </div>
 <div id="outline-container-headline-7" class="outline-2">
@@ -18697,7 +18695,7 @@ Website
 </h2>
 <div id="outline-text-headline-8" class="outline-text-2">
 <p>
-This website is entirely written and managed using <a href="https://github.com/ttybitnik/emacs.d">GNU Emacs</a> and <a href="https://orgmode.org/">org-mode</a>. All org files are then deployed using <a href="https://gohugo.io/">Hugo</a>. Recognized by <a href="https://250kb.club/">250kb.club</a>, <a href="https://no-js.club/">no‑js.club</a>, <a href="https://darktheme.club/">darktheme.club</a>.</p>
+This website is entirely written and managed using <a href="https://github.com/ttybitnik/emacs.d">GNU Emacs</a> and <a href="https://orgmode.org/">org-mode</a>. All org files are then deployed using <a href="https://gohugo.io/">Hugo</a>. The content is raw as possible following the <a href="https://brutalist-web.design/">Brutalist Web Design</a>. Recognized by <a href="https://250kb.club/">250kb.club</a>, <a href="https://no-js.club/">no‑js.club</a>, <a href="https://darktheme.club/">darktheme.club</a>.</p>
 </div>
 </div>
 ]]></content:encoded></item><item><title>Contact</title><link>https://eternodevir.com/contact/</link><pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/contact/</guid><description>Email: vinicius.moraes@eternodevir.com Feel free to email me regarding any content on this website, whether you have got a suggestion, some feedback, or just want to engage about a shared interest. Typically I respond within a week at most, often even sooner. If you have not heard back from me after that, please check your spam folder, as my response may have been filtered there.
@@ -18981,7 +18979,7 @@ Apoiador
 </h2>
 <div id="outline-text-headline-5" class="outline-text-2">
 <p>
-<a href="https://www.gnu.org/philosophy/free-sw.pt-br.html">Free Software</a>, <a href="https://www.repair.org/">Repair</a>, <a href="https://indieweb.org/Main_Page-pt">IndieWeb</a>, <a href="https://justinjackson.ca/words_pt-BR.html">Words</a>, <a href="https://neustadt.fr/essays/the-small-web/">Small Web</a>, <a href="http://slow-science.org/">Slow Science</a></p>
+<a href="https://www.gnu.org/philosophy/free-sw.pt-br.html">Free Software</a>, <a href="https://www.repair.org/">Right to Repair</a>, <a href="https://indieweb.org/Main_Page-pt">IndieWeb</a>, <a href="https://neustadt.fr/essays/the-small-web/">Small Web</a>, <a href="http://slow-science.org/">Slow Science</a>, <a href="https://justinjackson.ca/words_pt-BR.html">Words</a></p>
 </div>
 </div>
 <div id="outline-container-headline-7" class="outline-2">
@@ -18999,121 +18997,93 @@ Site
 </h2>
 <div id="outline-text-headline-8" class="outline-text-2">
 <p>
-Este site é inteiramente escrito e gerenciado utilizando <a href="https://github.com/ttybitnik/emacs.d">GNU Emacs</a> e <a href="https://orgmode.org/">org-mode</a>. Todos os arquivos org são então implementados utilizando <a href="https://gohugo.io/">Hugo</a>. Reconhecido por <a href="https://250kb.club/">250kb.club</a>, <a href="https://no‑js.club/">no-js.club</a>, <a href="https://darktheme.club/">darktheme.club</a>.</p>
+Este site é inteiramente escrito e gerenciado utilizando <a href="https://github.com/ttybitnik/emacs.d">GNU Emacs</a> e <a href="https://orgmode.org/">org-mode</a>. Todos os arquivos org são então implementados utilizando <a href="https://gohugo.io/">Hugo</a>. O conteúdo é o mais cru possível seguindo o <a href="https://brutalist-web.design/">Web Design Brutalista</a>. Reconhecido por <a href="https://250kb.club/">250kb.club</a>, <a href="https://no‑js.club/">no-js.club</a>, <a href="https://darktheme.club/">darktheme.club</a>.</p>
 </div>
 </div>
 ]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/homelab/</guid><description>Area: self-hosting Date: 2022-current
 This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.
-System
-QEMU/KVM Ansible Debian, RHEL Docker, Podman Network</description><content:encoded><![CDATA[<p>
+System:
+QEMU/KVM Ansible Debian,RHEL Docker, Podman Network:
+Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Services:</description><content:encoded><![CDATA[<p>
 <strong>Area</strong>: self-hosting <br>
 <strong>Date</strong>: 2022-current</p>
 <p>
 This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.</p>
 <p>
-<div class="double-list">
-  <ul>
-    <li>
-      <p>System</p>
-      <ul>
-        <li>QEMU/KVM</li>
-        <li>Ansible</li>
-        <li>Debian, RHEL</li>
-        <li>Docker, Podman</li>
-      </ul>
-      </li>
-    <li>
-        <p>Network</p>
-        <ul>
-          <li>Nginx Reverse Proxy</li>
-          <li>Unbound DNS</li>
-          <li>Pihole</li>
-          <li>VPN</li>
-          <li>SSH</li>
-          <li>iptables</li>
-        </ul>
-    </li>
-    </ul>
-  <ul>
-      <li>
-        <p>Services</p>
-        <ul>
-          <li>Home Assistant</li>
-          <li>Jellyfin</li>
-          <li>Hugo</li>
-          <li>Gotify</li>
-        </ul>
-      </li>
-      <li>
-        <p>Management</p>
-        <ul>
-          <li>Portainer</li>
-          <li>Grafana</li>
-          <li>Prometheus</li>
-          <li>Node Exporter</li>
-          <li>cAdvisor</li>
-          <li>Watchtower</li>
-        </ul>
-      </li>
-    </ul>
-</div>
-</p>
+System:</p>
+<ul>
+<li>QEMU/KVM</li>
+<li>Ansible</li>
+<li>Debian,RHEL</li>
+<li>Docker, Podman</li>
+</ul>
+<p>Network:</p>
+<ul>
+<li>Nginx Reverse Proxy</li>
+<li>Unbound DNS</li>
+<li>Pihole</li>
+<li>VPN</li>
+<li>SSH</li>
+<li>iptables</li>
+</ul>
+<p>Services:</p>
+<ul>
+<li>Home Assistant</li>
+<li>Jellyfin</li>
+<li>Hugo</li>
+<li>Gotify</li>
+</ul>
+<p>Management:</p>
+<ul>
+<li>Portainer</li>
+<li>Grafana</li>
+<li>Prometheus</li>
+<li>Node Exporter</li>
+<li>cAdvisor</li>
+<li>Watchtower</li>
+</ul>
 ]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/pt-br/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/homelab/</guid><description>Área: auto-hospedagem Data: 2022-presente
 Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
-Sistema
-QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede</description><content:encoded><![CDATA[<p>
+Sistema:
+QEMU/KVM Ansible Debian,RHEL Docker, Podman Rede:
+Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Serviços:</description><content:encoded><![CDATA[<p>
 <strong>Área</strong>: auto-hospedagem <br>
 <strong>Data</strong>: 2022-presente</p>
 <p>
 Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.</p>
 <p>
-<div class="double-list">
-  <ul>
-    <li>
-      <p>Sistema</p>
-      <ul>
-        <li>QEMU/KVM</li>
-        <li>Ansible</li>
-        <li>Debian, RHEL</li>
-        <li>Docker, Podman</li>
-      </ul>
-      </li>
-    <li>
-        <p>Rede</p>
-        <ul>
-          <li>Nginx Reverse Proxy</li>
-          <li>Unbound DNS</li>
-          <li>Pihole</li>
-          <li>VPN</li>
-          <li>SSH</li>
-          <li>iptables</li>
-        </ul>
-    </li>
-    </ul>
-  <ul>
-      <li>
-        <p>Serviços</p>
-        <ul>
-          <li>Home Assistant</li>
-          <li>Jellyfin</li>
-          <li>Hugo</li>
-          <li>Gotify</li>
-        </ul>
-      </li>
-      <li>
-        <p>Gerenciamento</p>
-        <ul>
-          <li>Portainer</li>
-          <li>Grafana</li>
-          <li>Prometheus</li>
-          <li>Node Exporter</li>
-          <li>cAdvisor</li>
-          <li>Watchtower</li>
-        </ul>
-      </li>
-    </ul>
-</div>
-</p>
+Sistema:</p>
+<ul>
+<li>QEMU/KVM</li>
+<li>Ansible</li>
+<li>Debian,RHEL</li>
+<li>Docker, Podman</li>
+</ul>
+<p>Rede:</p>
+<ul>
+<li>Nginx Reverse Proxy</li>
+<li>Unbound DNS</li>
+<li>Pihole</li>
+<li>VPN</li>
+<li>SSH</li>
+<li>iptables</li>
+</ul>
+<p>Serviços:</p>
+<ul>
+<li>Home Assistant</li>
+<li>Jellyfin</li>
+<li>Hugo</li>
+<li>Gotify</li>
+</ul>
+<p>Gerenciamento:</p>
+<ul>
+<li>Portainer</li>
+<li>Grafana</li>
+<li>Prometheus</li>
+<li>Node Exporter</li>
+<li>cAdvisor</li>
+<li>Watchtower</li>
+</ul>
 ]]></content:encoded></item><item><title>Como minha jornada de autonomia digital começou</title><link>https://eternodevir.com/pt-br/blog/como-minha-jornada-de-autonomia-digital-come%C3%A7ou/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/como-minha-jornada-de-autonomia-digital-come%C3%A7ou/</guid><description>Tudo teve início com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele havia parado de funcionar para tarefas básicas e, embora a maioria das pessoas apenas comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional, e preparamos inúmeras receitas juntos.</description><content:encoded><![CDATA[
 <p>
 Tudo teve início com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele havia parado de funcionar para tarefas básicas e, embora a maioria das pessoas apenas comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível  tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional, e preparamos inúmeras receitas juntos. Vertov tinha história demais para ser apenas mais uma tragédia da obsolescência programada.</p>

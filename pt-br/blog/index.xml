@@ -96,15 +96,13 @@ Até esse momento eu estava utilizando o formidável <a href="https://github.com
 Porém, mesmo após personalizar o meu teclado inteiro com o KMonad, eu ainda me incomodava com a posição física das teclas. Além disso, a ideia de executar um programa separado para modificá-las também não me agradava tanto. Foi então que descobri o teclado X-Bows.</p>
 <p>
 <figure><img src="/images/blog/2023/image00.jpg"
-         alt="X-Bows"/><figcaption>
-            <p>X-Bows</p>
-        </figcaption>
+         alt="X-Bows"/>
 </figure>
 </p>
 <p>
 O X-Bows possui teclas alternativas para a posição do polegar, que anteriormente era utilizado principalmente para pressionar a tecla <kbd>SPC</kbd>. Com essas novas teclas, consigo controlar os modificadores <kbd>C</kbd>, <kbd>M</kbd> e <kbd>S</kbd > apenas com esse dedo. Também possuo <kbd>DEL</kbd> e <kbd>RET</kbd> em fácil alcance. Em síntese, o teclado alivia combinações do dedo mais fraco, o mindinho, para dedos mais fortes próximos ao centro do teclado. Isso, junto com o espaçamento e a angulação, representa enormes ganhos em conforto e desempenho.</p>
 <p>
-Além dos benefícios ergonômicos, poder pressionar os modificadores com o polegar também é uma dádiva ao utilizar o GNU Emacs. Além disso, percebi que a adaptação ao teclado foi mais rápida do que imaginei. Vou escrever mais sobre isso em uma próxima publicação sobre <code class="verbatim">digitação por toque</code>.</p>
+Além dos benefícios ergonômicos, poder pressionar os modificadores com o polegar também é uma dádiva ao utilizar o GNU Emacs. Além disso, percebi que a adaptação ao teclado foi mais rápida do que imaginei. Vou escrever mais sobre isso em uma próxima publicação sobre <strong>digitação por toque</strong>.</p>
 <p>
 De antemão, estou utilizando o X-Bows há pouco mais de 3 meses. A única desvantagem que notei até agora foi que me acostumei tanto com seu design que estranho digitar em outros teclados, principalmente em laptops. De certa forma, fiquei um pouco dependente dele, o que não é necessariamente ruim. Idealmente, seria ótimo se existissem laptops com o design <em>thumb cluster</em> um dia. Ou melhor, se esse design se tornasse um padrão difundido.</p>
 <p>

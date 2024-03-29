@@ -168,6 +168,7 @@ Artigos
 <li><a href="https://antonz.org/writing-package-manager/">antonz.org/writing-package-manager</a></li>
 <li><a href="https://austinhenley.com/blog/challengingprojects.html">austinhenley.com/blog/challengingprojects.html</a></li>
 <li><a href="https://backspace.com/notes/2009/07/design-manifestos.php">backspace.com/notes/2009/07/design-manifestos.php</a></li>
+<li><a href="https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/">badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking</a></li>
 <li><a href="https://www.bell-labs.com/usr/dmr/www/chist.html">bell-labs.com/usr/dmr/www/chist.html</a></li>
 <li><a href="https://blog.sanctum.geek.nz/vim-anti-patterns/">blog.sanctum.geek.nz/vim-anti-patterns</a></li>
 <li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">catb.org/~esr/faqs/smart-questions.html</a></li>
@@ -285,15 +286,13 @@ Até esse momento eu estava utilizando o formidável <a href="https://github.com
 Porém, mesmo após personalizar o meu teclado inteiro com o KMonad, eu ainda me incomodava com a posição física das teclas. Além disso, a ideia de executar um programa separado para modificá-las também não me agradava tanto. Foi então que descobri o teclado X-Bows.</p>
 <p>
 <figure><img src="/images/blog/2023/image00.jpg"
-         alt="X-Bows"/><figcaption>
-            <p>X-Bows</p>
-        </figcaption>
+         alt="X-Bows"/>
 </figure>
 </p>
 <p>
 O X-Bows possui teclas alternativas para a posição do polegar, que anteriormente era utilizado principalmente para pressionar a tecla <kbd>SPC</kbd>. Com essas novas teclas, consigo controlar os modificadores <kbd>C</kbd>, <kbd>M</kbd> e <kbd>S</kbd > apenas com esse dedo. Também possuo <kbd>DEL</kbd> e <kbd>RET</kbd> em fácil alcance. Em síntese, o teclado alivia combinações do dedo mais fraco, o mindinho, para dedos mais fortes próximos ao centro do teclado. Isso, junto com o espaçamento e a angulação, representa enormes ganhos em conforto e desempenho.</p>
 <p>
-Além dos benefícios ergonômicos, poder pressionar os modificadores com o polegar também é uma dádiva ao utilizar o GNU Emacs. Além disso, percebi que a adaptação ao teclado foi mais rápida do que imaginei. Vou escrever mais sobre isso em uma próxima publicação sobre <code class="verbatim">digitação por toque</code>.</p>
+Além dos benefícios ergonômicos, poder pressionar os modificadores com o polegar também é uma dádiva ao utilizar o GNU Emacs. Além disso, percebi que a adaptação ao teclado foi mais rápida do que imaginei. Vou escrever mais sobre isso em uma próxima publicação sobre <strong>digitação por toque</strong>.</p>
 <p>
 De antemão, estou utilizando o X-Bows há pouco mais de 3 meses. A única desvantagem que notei até agora foi que me acostumei tanto com seu design que estranho digitar em outros teclados, principalmente em laptops. De certa forma, fiquei um pouco dependente dele, o que não é necessariamente ruim. Idealmente, seria ótimo se existissem laptops com o design <em>thumb cluster</em> um dia. Ou melhor, se esse design se tornasse um padrão difundido.</p>
 <p>
@@ -311,60 +310,46 @@ Até lá, a opção mais viável tem sido carregar o X-Bows sempre que necessár
 </div>
 ]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/pt-br/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/homelab/</guid><description>Área: auto-hospedagem Data: 2022-presente
 Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
-Sistema
-QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede</description><content:encoded><![CDATA[<p>
+Sistema:
+QEMU/KVM Ansible Debian,RHEL Docker, Podman Rede:
+Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Serviços:</description><content:encoded><![CDATA[<p>
 <strong>Área</strong>: auto-hospedagem <br>
 <strong>Data</strong>: 2022-presente</p>
 <p>
 Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.</p>
 <p>
-<div class="double-list">
-  <ul>
-    <li>
-      <p>Sistema</p>
-      <ul>
-        <li>QEMU/KVM</li>
-        <li>Ansible</li>
-        <li>Debian, RHEL</li>
-        <li>Docker, Podman</li>
-      </ul>
-      </li>
-    <li>
-        <p>Rede</p>
-        <ul>
-          <li>Nginx Reverse Proxy</li>
-          <li>Unbound DNS</li>
-          <li>Pihole</li>
-          <li>VPN</li>
-          <li>SSH</li>
-          <li>iptables</li>
-        </ul>
-    </li>
-    </ul>
-  <ul>
-      <li>
-        <p>Serviços</p>
-        <ul>
-          <li>Home Assistant</li>
-          <li>Jellyfin</li>
-          <li>Hugo</li>
-          <li>Gotify</li>
-        </ul>
-      </li>
-      <li>
-        <p>Gerenciamento</p>
-        <ul>
-          <li>Portainer</li>
-          <li>Grafana</li>
-          <li>Prometheus</li>
-          <li>Node Exporter</li>
-          <li>cAdvisor</li>
-          <li>Watchtower</li>
-        </ul>
-      </li>
-    </ul>
-</div>
-</p>
+Sistema:</p>
+<ul>
+<li>QEMU/KVM</li>
+<li>Ansible</li>
+<li>Debian,RHEL</li>
+<li>Docker, Podman</li>
+</ul>
+<p>Rede:</p>
+<ul>
+<li>Nginx Reverse Proxy</li>
+<li>Unbound DNS</li>
+<li>Pihole</li>
+<li>VPN</li>
+<li>SSH</li>
+<li>iptables</li>
+</ul>
+<p>Serviços:</p>
+<ul>
+<li>Home Assistant</li>
+<li>Jellyfin</li>
+<li>Hugo</li>
+<li>Gotify</li>
+</ul>
+<p>Gerenciamento:</p>
+<ul>
+<li>Portainer</li>
+<li>Grafana</li>
+<li>Prometheus</li>
+<li>Node Exporter</li>
+<li>cAdvisor</li>
+<li>Watchtower</li>
+</ul>
 ]]></content:encoded></item><item><title>Como minha jornada de autonomia digital começou</title><link>https://eternodevir.com/pt-br/blog/como-minha-jornada-de-autonomia-digital-come%C3%A7ou/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/como-minha-jornada-de-autonomia-digital-come%C3%A7ou/</guid><description>Tudo teve início com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele havia parado de funcionar para tarefas básicas e, embora a maioria das pessoas apenas comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional, e preparamos inúmeras receitas juntos.</description><content:encoded><![CDATA[
 <p>
 Tudo teve início com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele havia parado de funcionar para tarefas básicas e, embora a maioria das pessoas apenas comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível  tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional, e preparamos inúmeras receitas juntos. Vertov tinha história demais para ser apenas mais uma tragédia da obsolescência programada.</p>

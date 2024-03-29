@@ -168,6 +168,7 @@ Articles
 <li><a href="https://antonz.org/writing-package-manager/">antonz.org/writing-package-manager</a></li>
 <li><a href="https://austinhenley.com/blog/challengingprojects.html">austinhenley.com/blog/challengingprojects.html</a></li>
 <li><a href="https://backspace.com/notes/2009/07/design-manifestos.php">backspace.com/notes/2009/07/design-manifestos.php</a></li>
+<li><a href="https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/">badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking</a></li>
 <li><a href="https://www.bell-labs.com/usr/dmr/www/chist.html">bell-labs.com/usr/dmr/www/chist.html</a></li>
 <li><a href="https://blog.sanctum.geek.nz/vim-anti-patterns/">blog.sanctum.geek.nz/vim-anti-patterns</a></li>
 <li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">catb.org/~esr/faqs/smart-questions.html</a></li>
@@ -285,15 +286,13 @@ Until this moment I was using the formidable <a href="https://github.com/kmonad/
 However, even after customizing my entire keyboard using KMonad, I was still bothered by the physical position of the keys. Furthermore, the idea of ​​running a separate program to modify them did not appeal to me that much either. It was then that I discovered the X-Bows keyboard.</p>
 <p>
 <figure><img src="/images/blog/2023/image00.jpg"
-         alt="X-Bows"/><figcaption>
-            <p>X-Bows</p>
-        </figcaption>
+         alt="X-Bows"/>
 </figure>
 </p>
 <p>
 The X-Bows has alternative keys for the thumb position, which was previously used primarily to press <kbd>SPC</kbd>. With these new keys, I can control the <kbd>C</kbd>, <kbd>M</kbd> and <kbd>S</kbd> modifiers only with that finger. I also have <kbd>DEL</kbd> and <kbd>RET</kbd> within easy reach. In short, the keyboard relieves combinations from the weakest finger, the little finger, to stronger fingers near the keyboard&#39;s center. That, along with the spacing and angulation, represents huge gains in comfort and performance.</p>
 <p>
-Aside from the ergonomic benefits, the ability to use thumb modifiers is also a boon when using GNU Emacs. Additionally, I found adapting to the keyboard to be quicker than expected. I will write more about that in an upcoming post on <code class="verbatim">touch typing</code>.</p>
+Aside from the ergonomic benefits, the ability to use thumb modifiers is also a boon when using GNU Emacs. Additionally, I found adapting to the keyboard to be quicker than expected. I will write more about that in an upcoming post on <strong>touch typing</strong>.</p>
 <p>
 In advance, I have been using the X-Bows for just over 3 months now. The only disadvantage I have noticed so far is that I have become so used to its design that it feels odd typing on other keyboards, especially on laptops. I have become somewhat dependent on it, which is not necessarily a bad thing. Ideally, it would be great to have laptops with the thumb cluster design one day. Or rather, if this design became a widespread standard.</p>
 <p>
@@ -311,60 +310,46 @@ Until then, the most viable option has been carrying the X-Bows with me whenever
 </div>
 ]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/homelab/</guid><description>Area: self-hosting Date: 2022-current
 This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.
-System
-QEMU/KVM Ansible Debian, RHEL Docker, Podman Network</description><content:encoded><![CDATA[<p>
+System:
+QEMU/KVM Ansible Debian,RHEL Docker, Podman Network:
+Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Services:</description><content:encoded><![CDATA[<p>
 <strong>Area</strong>: self-hosting <br>
 <strong>Date</strong>: 2022-current</p>
 <p>
 This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.</p>
 <p>
-<div class="double-list">
-  <ul>
-    <li>
-      <p>System</p>
-      <ul>
-        <li>QEMU/KVM</li>
-        <li>Ansible</li>
-        <li>Debian, RHEL</li>
-        <li>Docker, Podman</li>
-      </ul>
-      </li>
-    <li>
-        <p>Network</p>
-        <ul>
-          <li>Nginx Reverse Proxy</li>
-          <li>Unbound DNS</li>
-          <li>Pihole</li>
-          <li>VPN</li>
-          <li>SSH</li>
-          <li>iptables</li>
-        </ul>
-    </li>
-    </ul>
-  <ul>
-      <li>
-        <p>Services</p>
-        <ul>
-          <li>Home Assistant</li>
-          <li>Jellyfin</li>
-          <li>Hugo</li>
-          <li>Gotify</li>
-        </ul>
-      </li>
-      <li>
-        <p>Management</p>
-        <ul>
-          <li>Portainer</li>
-          <li>Grafana</li>
-          <li>Prometheus</li>
-          <li>Node Exporter</li>
-          <li>cAdvisor</li>
-          <li>Watchtower</li>
-        </ul>
-      </li>
-    </ul>
-</div>
-</p>
+System:</p>
+<ul>
+<li>QEMU/KVM</li>
+<li>Ansible</li>
+<li>Debian,RHEL</li>
+<li>Docker, Podman</li>
+</ul>
+<p>Network:</p>
+<ul>
+<li>Nginx Reverse Proxy</li>
+<li>Unbound DNS</li>
+<li>Pihole</li>
+<li>VPN</li>
+<li>SSH</li>
+<li>iptables</li>
+</ul>
+<p>Services:</p>
+<ul>
+<li>Home Assistant</li>
+<li>Jellyfin</li>
+<li>Hugo</li>
+<li>Gotify</li>
+</ul>
+<p>Management:</p>
+<ul>
+<li>Portainer</li>
+<li>Grafana</li>
+<li>Prometheus</li>
+<li>Node Exporter</li>
+<li>cAdvisor</li>
+<li>Watchtower</li>
+</ul>
 ]]></content:encoded></item><item><title>How my digital autonomy journey began</title><link>https://eternodevir.com/blog/how-my-digital-autonomy-journey-began/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/how-my-digital-autonomy-journey-began/</guid><description>It all started with my first laptop, an old Samsung RV415, hostname Vertov. It had stopped working for basic tasks, and while most people would simply buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together.</description><content:encoded><![CDATA[
 <p>
 It all started with my first laptop, an old Samsung RV415, hostname Vertov. It had stopped working for basic tasks, and while most people would simply buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together. Vertov had too much history to be just another tragedy of planned obsolescence.</p>
