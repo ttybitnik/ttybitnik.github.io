@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>notes on Eterno Devir</title><link>https://eternodevir.com/pt-br/categories/notes/</link><description>Recent content in notes on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Tue, 11 Jul 2023 08:01:06 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/categories/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Um teclado mais sensato</title><link>https://eternodevir.com/pt-br/blog/um-teclado-mais-sensato/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/um-teclado-mais-sensato/</guid><description>Eu acho teclados dispositivos fascinantes, do ponto de vista do design, tecnológico e linguístico. Afinal, um teclado abrange as tarefas de (i) comunicação em linguagem escrita, (ii) operação e controle da máquina e (iii) programação em linguagem computacional.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>notes on Eterno Devir</title><link>https://eternodevir.com/pt-br/categories/notes/</link><description>Recent content in notes on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Tue, 11 Jul 2023 08:01:06 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/categories/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Um teclado mais sensato</title><link>https://eternodevir.com/pt-br/palimpsests/um-teclado-mais-sensato/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/um-teclado-mais-sensato/</guid><description>Eu acho teclados dispositivos fascinantes, do ponto de vista do design, tecnológico e linguístico. Afinal, um teclado abrange as tarefas de (i) comunicação em linguagem escrita, (ii) operação e controle da máquina e (iii) programação em linguagem computacional.
 Pouco tempo após começar a utilizar o GNU Emacs, eu me peguei pensando bastante sobre a posição das teclas do meu teclado. Depois de pesquisar um pouco, a primeira informação que encontrei foi sobre os diferentes layouts, principalmente o qwerty e o dvorak.</description><content:encoded><![CDATA[<p>
 Eu acho teclados dispositivos fascinantes, do ponto de vista do design, tecnológico e linguístico. Afinal, um teclado abrange as tarefas de (i) comunicação em linguagem escrita, (ii) operação e controle da máquina e (iii) programação em linguagem computacional.</p>
 <p>
 Pouco tempo após começar a utilizar o GNU Emacs, eu me peguei pensando bastante sobre a posição das teclas do meu teclado. Depois de pesquisar um pouco, a primeira informação que encontrei foi sobre os diferentes layouts, principalmente o <code class="verbatim">qwerty</code> e o <code class="verbatim">dvorak</code>.</p>
 <p>
-<figure><img src="/images/blog/2023/image01.jpg"
+<figure><img src="/images/palimpsests/2023/image01.jpg"
          alt="Qwerty Layout"/><figcaption>
             <p>Qwerty Layout</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/blog/2023/image02.jpg"
+<figure><img src="/images/palimpsests/2023/image02.jpg"
          alt="Dvorak Layout"/><figcaption>
             <p>Dvorak Layout</p>
         </figcaption>
@@ -29,7 +29,7 @@ Embora o layout linguístico tenha tido impacto, eu estava mais preocupado com a
 <p>
 Quando vi a foto de um Space Cadet usado nas primeiras máquinas Lisp, muitos atalhos tradicionais do GNU começaram a fazer ainda mais sentido, para além do seu aspecto mnemônico. Por exemplo, o fato de a atual tecla <kbd>Alt</kbd> ser chamada de <kbd>M</kbd> (Meta).</p>
 <figure>
-  <img src="/images/blog/2023/image03.jpg" alt="Space Cadet">
+  <img src="/images/palimpsests/2023/image03.jpg" alt="Space Cadet">
   <figcaption>
     <p>Space Cadet utilizado na LM-2<sup class="footnote-reference"><a id="footnote-reference-1" href="#footnote-1">1</a></sup></p>
   </figcaption>
@@ -95,7 +95,7 @@ Até esse momento eu estava utilizando o formidável <a href="https://github.com
 <p>
 Porém, mesmo após personalizar o meu teclado inteiro com o KMonad, eu ainda me incomodava com a posição física das teclas. Além disso, a ideia de executar um programa separado para modificá-las também não me agradava tanto. Foi então que descobri o teclado X-Bows.</p>
 <p>
-<figure><img src="/images/blog/2023/image00.jpg"
+<figure><img src="/images/palimpsests/2023/image00.jpg"
          alt="X-Bows"/>
 </figure>
 </p>
@@ -118,10 +118,10 @@ Até lá, a opção mais viável tem sido carregar o X-Bows sempre que necessár
     </div>
   </div>
 </div>
-]]></content:encoded></item><item><title>Escrevo para descobrir o que penso</title><link>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/escrevo-para-descobrir-o-que-penso/</guid><description>Outro dia me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…
+]]></content:encoded></item><item><title>Escrevo para descobrir o que penso</title><link>https://eternodevir.com/pt-br/palimpsests/escrevo-para-descobrir-o-que-penso/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/escrevo-para-descobrir-o-que-penso/</guid><description>Outro dia me lembrei do meu professor de matemática do ensino médio e de como análise combinatória era um dos poucos assuntos que me interessava. A capacidade de visualizar um universo de possibilidades dentro de um determinado cenário era encantadora. Esta manhã, combinei essa memória com uma ideia que tem ocupado a minha mente ultimamente — escrever como exercício de reflexão e descoberta. As aulas nunca terminam…
 Exercício de análise combinatória I Escrevo para descobrir o que penso.</description><content:encoded><![CDATA[
 <p>
-<figure><img src="/images/blog/2020/image03.jpg"
+<figure><img src="/images/palimpsests/2020/image03.jpg"
          alt="Exercício"/>
 </figure>
 </p>
@@ -141,14 +141,20 @@ Penso para descobrir o que escrevo.<br>
 Descubro para escrever o que penso.</p>
 </div>
 </div>
-]]></content:encoded></item><item><title>Festa dos incomodados</title><link>https://eternodevir.com/pt-br/blog/festa-dos-incomodados/</link><pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/festa-dos-incomodados/</guid><description>Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.
+]]></content:encoded></item><item><title>Festa dos incomodados</title><link>https://eternodevir.com/pt-br/palimpsests/festa-dos-incomodados/</link><pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/festa-dos-incomodados/</guid><description>Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.
 No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente.</description><content:encoded>&lt;p>
 Um incomodado fala sobre seu incômodo. Alguns incomodados concordam, outros incomodados discordam. Na festa, os não incomodados se dividem em dois grupos de incomodados: os que não se incomodam com o incômodo, mas com o fato de existirem tantos incomodados incomodando; e os que não se incomodam com absolutamente nada, com exceção dos não incomodados se incomodando com tantos incomodados, o que, sabidamente, lhes causa um incômodo profundo.&lt;/p>
 &lt;p>
-No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente. Quer dizer, parecia ser assim… pelo menos até perceberem que sequer tinham sido convidados.&lt;/p></content:encoded></item><item><title>Por memórias de Cinema de Rua</title><link>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/por-mem%C3%B3rias-de-cinema-de-rua/</guid><description>Cinearte Palace, Juiz de Fora, 2017
-Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Um lugar de arte, experimentação, transformação e liberdade. Cada diretor com sua visão única, criando um espaço de resistência às fórmulas predeterminadas e óbvias de Hollywood.
-No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil.</description><content:encoded><![CDATA[<p>
-<figure><img src="/images/blog/2019/image00.jpg"
+No fim, só não estava incomodado de verdade quem decidiu não ir à festa — o que, com certeza, incomodava muita gente. Quer dizer, parecia ser assim… pelo menos até perceberem que sequer tinham sido convidados.&lt;/p></content:encoded></item><item><title>Por memórias de Cinema de Rua</title><link>https://eternodevir.com/pt-br/palimpsests/por-mem%C3%B3rias-de-cinema-de-rua/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/por-mem%C3%B3rias-de-cinema-de-rua/</guid><description>Continuo fechado com minhas posições de um cinema terceiro-mundista. Um cinema independente do ponto-de-vista econômico e artístico, que não deixe a criatividade estética desaparecer em nome de uma objetividade comercial e de um imediatismo político.
+— Glauber Rocha, diretor
+Cinearte Palace, Juiz de Fora, 2017
+Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Um lugar de arte, experimentação, transformação e liberdade.</description><content:encoded><![CDATA[<blockquote>
+<p>Continuo fechado com minhas posições de um cinema terceiro-mundista. Um cinema independente do ponto-de-vista econômico e artístico, que não deixe a criatividade estética desaparecer em nome de uma objetividade comercial e de um imediatismo político.</p>
+<p>
+— Glauber Rocha, diretor</p>
+</blockquote>
+<p>
+<figure><img src="/images/palimpsests/2019/image00.jpg"
          alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2017</p>
         </figcaption>
@@ -159,7 +165,7 @@ Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema na
 <p>
 No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade semelhantes, especialmente com o crescente domínio das principais produções norte-americanas no Brasil. A experiência cinematográfica foi transformada, deslocando-se para os grandes centros comerciais, e os cinemas populares e as produções locais foram colocadas em segundo plano pelos blockbusters. Apesar disso, alguns locais de encontro com o desconhecido ainda resistem.</p>
 <p>
-<figure><img src="/images/blog/2019/image01.jpg"
+<figure><img src="/images/palimpsests/2019/image01.jpg"
          alt="Cine Roxy"/><figcaption>
             <p>Cine Roxy, Rio de Janeiro, 2018</p>
         </figcaption>
@@ -168,21 +174,21 @@ No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade se
 <p>
 Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entre Alemanha e Áustria, tive a sorte de encontrar um cinema de rua exibindo o filme brasileiro <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em> — que assisti durante uma das duas únicas sessões que aconteceram em Juiz de Fora. A obra, de Marcelo Caetano, me lembra a vontade genuína de Glauber em criar algo instigante que, mais do que compreender, ousa nos convidar a sentir. Na escuridão das fileiras vazias daquele cinema de rua alemão, reafirmei o quão surpreendentes e fascinantes são estes espaços que ainda incentivam a diversidade e a experimentação. Depois de viver sete anos perto do último cinema de rua de Juiz de Fora, nunca me senti tão perto de casa mesmo estando tão distante.</p>
 <p>
-<figure><img src="/images/blog/2019/image02.jpg"
+<figure><img src="/images/palimpsests/2019/image02.jpg"
          alt="Metropolis"/><figcaption>
             <p>Metropolis, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/blog/2019/image03.jpg"
+<figure><img src="/images/palimpsests/2019/image03.jpg"
          alt="ProLi"/><figcaption>
             <p>ProLi, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/blog/2019/image04.jpg"
+<figure><img src="/images/palimpsests/2019/image04.jpg"
          alt="Regina"/><figcaption>
             <p>Regina, Regensburg, 2019</p>
         </figcaption>

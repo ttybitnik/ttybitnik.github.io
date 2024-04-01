@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>essays on Eterno Devir</title><link>https://eternodevir.com/categories/essays/</link><description>Recent content in essays on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sat, 10 Dec 2022 08:44:01 -0300</lastBuildDate><atom:link href="https://eternodevir.com/categories/essays/index.xml" rel="self" type="application/rss+xml"/><item><title>How my digital autonomy journey began</title><link>https://eternodevir.com/blog/how-my-digital-autonomy-journey-began/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/how-my-digital-autonomy-journey-began/</guid><description>It all started with my first laptop, an old Samsung RV415, hostname Vertov. It had stopped working for basic tasks, and while most people would simply buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together.</description><content:encoded><![CDATA[
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>essays on Eterno Devir</title><link>https://eternodevir.com/categories/essays/</link><description>Recent content in essays on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sat, 10 Dec 2022 08:44:01 -0300</lastBuildDate><atom:link href="https://eternodevir.com/categories/essays/index.xml" rel="self" type="application/rss+xml"/><item><title>How my digital autonomy journey began</title><link>https://eternodevir.com/palimpsests/how-my-digital-autonomy-journey-began/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/palimpsests/how-my-digital-autonomy-journey-began/</guid><description>It all started with my first laptop, an old Samsung RV415, hostname Vertov. It had stopped working for basic tasks, and while most people would simply buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together.</description><content:encoded><![CDATA[
 <p>
 It all started with my first laptop, an old Samsung RV415, hostname Vertov. It had stopped working for basic tasks, and while most people would simply buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together. Vertov had too much history to be just another tragedy of planned obsolescence.</p>
 <div id="outline-container-headline-1" class="outline-2">
@@ -9,7 +9,7 @@ Hardware revival
 <p>
 The first idea that occurred to me was to make as many hardware improvements as possible. After an extensive research, I found some interesting components. I replaced the HHD with an SSD and doubled the amount of RAM with a new stick. However, opening the laptop completely to do a deep cleaning was somewhat challenging, and I had to struggle a bit with the plastic clips on the case. Nevertheless, everything went well, and I managed to change the thermal paste on the CPU as well. Even though I am used to doing this on my desktop computer, this adventure taught me a lot about the specifics of laptops.</p>
 <p>
-<figure><img src="/images/blog/2022/image00.jpg"
+<figure><img src="/images/palimpsests/2022/image00.jpg"
          alt="Vertov"/>
 </figure>
 </p>
@@ -25,7 +25,7 @@ GNU/Linux rediscovery
 <p>
 Coincidentally, in a conversation during this same period, a friend ended up mentioning that he ran Debian on his main computer—he had recently bought a desktop computer with the same specifications as mine. This mention brought back memories from high school when I and another friend installed Slackware. At the time, we had no idea all that it represented. Ultimately, I convinced myself to install &#34;Linux&#34; on Vertov, hoping to continue using it. The first choice, as a remembrance, was Slackware.</p>
 <p>
-<figure><img src="/images/blog/2022/image01.jpg"
+<figure><img src="/images/palimpsests/2022/image01.jpg"
          alt="Slackware"/>
 </figure>
 </p>
@@ -59,12 +59,12 @@ window.onmessage = function (e) { if (e.data.hasOwnProperty("freedom-iframe-heig
 All of this happened because, at a certain point, I refused to give up Vertov due to planned obsolescence. Not to mention the reuse of a perfectly functional equipment that would become e-waste. There is life beyond the <em>windows</em>.</p>
 </div>
 </div>
-]]></content:encoded></item><item><title>Until the glorious end</title><link>https://eternodevir.com/blog/until-the-glorious-end/</link><pubDate>Thu, 19 Mar 2020 23:26:08 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/until-the-glorious-end/</guid><description>Caixa Cultural, São Paulo, 2015
+]]></content:encoded></item><item><title>Until the glorious end</title><link>https://eternodevir.com/palimpsests/until-the-glorious-end/</link><pubDate>Thu, 19 Mar 2020 23:26:08 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/palimpsests/until-the-glorious-end/</guid><description>Caixa Cultural, São Paulo, 2015
 Essay by Paulo Leminski, published in 1989 in Folha de Londrina, months before his death.
 Body not mind1 When Francis Xavier, the Jesuit missionary, arrived in Japan during the peak of navigation, his catechesis resulted in thousands of conversions, and Catholicism started to spread throughout the country.
 In his letters to his superiors in Rome, Xavier expressed with joy the progress of the apostolate in the Land of the Rising Sun.</description><content:encoded><![CDATA[
 <p>
-<figure><img src="/images/blog/2020/image00.jpg"
+<figure><img src="/images/palimpsests/2020/image00.jpg"
          alt="Caixa Cultural"/><figcaption>
             <p>Caixa Cultural, São Paulo, 2015</p>
         </figcaption>

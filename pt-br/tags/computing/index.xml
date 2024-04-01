@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>computing on Eterno Devir</title><link>https://eternodevir.com/pt-br/tags/computing/</link><description>Recent content in computing on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 28 Jan 2024 11:12:03 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/tags/computing/index.xml" rel="self" type="application/rss+xml"/><item><title>Páginas</title><link>https://eternodevir.com/pt-br/digital-garden/bookmarks/</link><pubDate>Sun, 28 Jan 2024 11:12:03 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/digital-garden/bookmarks/</guid><description>Coleção pessoal com links para outros valiosos domínios digitais.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>computing on Eterno Devir</title><link>https://eternodevir.com/pt-br/tags/computing/</link><description>Recent content in computing on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 28 Jan 2024 11:12:03 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/tags/computing/index.xml" rel="self" type="application/rss+xml"/><item><title>Páginas</title><link>https://eternodevir.com/pt-br/dg/bookmarks/</link><pubDate>Sun, 28 Jan 2024 11:12:03 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/dg/bookmarks/</guid><description>Coleção pessoal com links para outros valiosos domínios digitais.
 Sites kernel.org O Arquivo do Kernel Linux. gnu.org O site do Projeto GNU. lua.org A linguagem de programação brasileira Lua, desenvolvida na PUC-Rio. gnus.org Gnus Network User Services (Gnus), um leitor de mensagens que faz parte do GNU Emacs. orgmode.org Org Mode é um sistema de texto rápido e eficaz do GNU Emacs para fazer anotações, criar documentos, programar, planejar projetos e muito mais.</description><content:encoded><![CDATA[
 <p>
 Coleção pessoal com links para outros valiosos domínios digitais.</p>
@@ -380,20 +380,20 @@ Uma lista de publicações e textos que considero significativos e que valem a p
 </ul>
 </div>
 </div>
-]]></content:encoded></item><item><title>Um teclado mais sensato</title><link>https://eternodevir.com/pt-br/blog/um-teclado-mais-sensato/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/um-teclado-mais-sensato/</guid><description>Eu acho teclados dispositivos fascinantes, do ponto de vista do design, tecnológico e linguístico. Afinal, um teclado abrange as tarefas de (i) comunicação em linguagem escrita, (ii) operação e controle da máquina e (iii) programação em linguagem computacional.
+]]></content:encoded></item><item><title>Um teclado mais sensato</title><link>https://eternodevir.com/pt-br/palimpsests/um-teclado-mais-sensato/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/um-teclado-mais-sensato/</guid><description>Eu acho teclados dispositivos fascinantes, do ponto de vista do design, tecnológico e linguístico. Afinal, um teclado abrange as tarefas de (i) comunicação em linguagem escrita, (ii) operação e controle da máquina e (iii) programação em linguagem computacional.
 Pouco tempo após começar a utilizar o GNU Emacs, eu me peguei pensando bastante sobre a posição das teclas do meu teclado. Depois de pesquisar um pouco, a primeira informação que encontrei foi sobre os diferentes layouts, principalmente o qwerty e o dvorak.</description><content:encoded><![CDATA[<p>
 Eu acho teclados dispositivos fascinantes, do ponto de vista do design, tecnológico e linguístico. Afinal, um teclado abrange as tarefas de (i) comunicação em linguagem escrita, (ii) operação e controle da máquina e (iii) programação em linguagem computacional.</p>
 <p>
 Pouco tempo após começar a utilizar o GNU Emacs, eu me peguei pensando bastante sobre a posição das teclas do meu teclado. Depois de pesquisar um pouco, a primeira informação que encontrei foi sobre os diferentes layouts, principalmente o <code class="verbatim">qwerty</code> e o <code class="verbatim">dvorak</code>.</p>
 <p>
-<figure><img src="/images/blog/2023/image01.jpg"
+<figure><img src="/images/palimpsests/2023/image01.jpg"
          alt="Qwerty Layout"/><figcaption>
             <p>Qwerty Layout</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/blog/2023/image02.jpg"
+<figure><img src="/images/palimpsests/2023/image02.jpg"
          alt="Dvorak Layout"/><figcaption>
             <p>Dvorak Layout</p>
         </figcaption>
@@ -411,7 +411,7 @@ Embora o layout linguístico tenha tido impacto, eu estava mais preocupado com a
 <p>
 Quando vi a foto de um Space Cadet usado nas primeiras máquinas Lisp, muitos atalhos tradicionais do GNU começaram a fazer ainda mais sentido, para além do seu aspecto mnemônico. Por exemplo, o fato de a atual tecla <kbd>Alt</kbd> ser chamada de <kbd>M</kbd> (Meta).</p>
 <figure>
-  <img src="/images/blog/2023/image03.jpg" alt="Space Cadet">
+  <img src="/images/palimpsests/2023/image03.jpg" alt="Space Cadet">
   <figcaption>
     <p>Space Cadet utilizado na LM-2<sup class="footnote-reference"><a id="footnote-reference-1" href="#footnote-1">1</a></sup></p>
   </figcaption>
@@ -477,7 +477,7 @@ Até esse momento eu estava utilizando o formidável <a href="https://github.com
 <p>
 Porém, mesmo após personalizar o meu teclado inteiro com o KMonad, eu ainda me incomodava com a posição física das teclas. Além disso, a ideia de executar um programa separado para modificá-las também não me agradava tanto. Foi então que descobri o teclado X-Bows.</p>
 <p>
-<figure><img src="/images/blog/2023/image00.jpg"
+<figure><img src="/images/palimpsests/2023/image00.jpg"
          alt="X-Bows"/>
 </figure>
 </p>
@@ -500,23 +500,32 @@ Até lá, a opção mais viável tem sido carregar o X-Bows sempre que necessár
     </div>
   </div>
 </div>
-]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/pt-br/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/homelab/</guid><description>Área: auto-hospedagem Data: 2022-presente
+]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/pt-br/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/projects/homelab/</guid><description> Área: auto-hospedagem Data: 2022-presente
 Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
-Sistema:
-QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede:</description><content:encoded><![CDATA[<p>
+Sistema QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Serviços Home Assistant Jellyfin Hugo Gotify Gerenciamento Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
+<p>
 <strong>Área</strong>: auto-hospedagem <br>
 <strong>Data</strong>: 2022-presente</p>
 <p>
 Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.</p>
-<p>
-Sistema:</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Sistema
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
 <ul>
 <li>QEMU/KVM</li>
 <li>Ansible</li>
 <li>Debian, RHEL</li>
 <li>Docker, Podman</li>
 </ul>
-<p>Rede:</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Rede
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
 <ul>
 <li>Nginx Reverse Proxy</li>
 <li>Unbound DNS</li>
@@ -525,14 +534,26 @@ Sistema:</p>
 <li>SSH</li>
 <li>iptables</li>
 </ul>
-<p>Serviços:</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Serviços
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
 <ul>
 <li>Home Assistant</li>
 <li>Jellyfin</li>
 <li>Hugo</li>
 <li>Gotify</li>
 </ul>
-<p>Gerenciamento:</p>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Gerenciamento
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
 <ul>
 <li>Portainer</li>
 <li>Grafana</li>
@@ -541,7 +562,9 @@ Sistema:</p>
 <li>cAdvisor</li>
 <li>Watchtower</li>
 </ul>
-]]></content:encoded></item><item><title>Como minha jornada de autonomia digital começou</title><link>https://eternodevir.com/pt-br/blog/como-minha-jornada-de-autonomia-digital-come%C3%A7ou/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/blog/como-minha-jornada-de-autonomia-digital-come%C3%A7ou/</guid><description>Tudo teve início com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele havia parado de funcionar para tarefas básicas e, embora a maioria das pessoas apenas comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional, e preparamos inúmeras receitas juntos.</description><content:encoded><![CDATA[
+</div>
+</div>
+]]></content:encoded></item><item><title>Como minha jornada de autonomia digital começou</title><link>https://eternodevir.com/pt-br/palimpsests/como-minha-jornada-de-autonomia-digital-come%C3%A7ou/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/como-minha-jornada-de-autonomia-digital-come%C3%A7ou/</guid><description>Tudo teve início com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele havia parado de funcionar para tarefas básicas e, embora a maioria das pessoas apenas comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional, e preparamos inúmeras receitas juntos.</description><content:encoded><![CDATA[
 <p>
 Tudo teve início com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele havia parado de funcionar para tarefas básicas e, embora a maioria das pessoas apenas comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível  tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional, e preparamos inúmeras receitas juntos. Vertov tinha história demais para ser apenas mais uma tragédia da obsolescência programada.</p>
 <div id="outline-container-headline-1" class="outline-2">
@@ -552,7 +575,7 @@ Renovando o hardware
 <p>
 A primeira ideia que me ocorreu foi fazer o máximo possível de melhorias de hardware. Após uma extensa pesquisa, encontrei alguns componentes interessantes. Troquei o HHD por um SSD e dobrei a quantidade de RAM com um novo cartucho. No entanto, abrir o laptop inteiro para fazer uma limpeza profunda foi um tanto desafiador, tive que brigar um pouco com os clipes de plástico da carcaça. Mesmo assim, deu tudo certo e consegui trocar a pasta térmica da CPU também. Embora esteja acostumado a fazer isso no meu computador de mesa, essa aventura me ensinou bastante sobre as especificidades dos laptops.</p>
 <p>
-<figure><img src="/images/blog/2022/image00.jpg"
+<figure><img src="/images/palimpsests/2022/image00.jpg"
          alt="Vertov"/>
 </figure>
 </p>
@@ -568,7 +591,7 @@ Redescobrindo o GNU/Linux
 <p>
 Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou mencionando que rodava Debian no seu computador principal — recentemente ele havia comprado um computador de mesa com as mesmas especificações que o meu. Essa menção me trouxe memórias do ensino médio, quando eu e um outro amigo instalamos o Slackware. Na época, não tínhamos ideia de tudo o que aquilo representava. No fim das contas, me convenci a instalar &#34;Linux&#34; no Vertov, na esperança de continuar o utilizando. A primeira escolha, como uma forma de lembrança, foi o Slackware.</p>
 <p>
-<figure><img src="/images/blog/2022/image01.jpg"
+<figure><img src="/images/palimpsests/2022/image01.jpg"
          alt="Slackware"/>
 </figure>
 </p>

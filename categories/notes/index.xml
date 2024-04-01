@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>notes on Eterno Devir</title><link>https://eternodevir.com/categories/notes/</link><description>Recent content in notes on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Tue, 11 Jul 2023 08:01:06 -0300</lastBuildDate><atom:link href="https://eternodevir.com/categories/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>A saner keyboard</title><link>https://eternodevir.com/blog/a-saner-keyboard/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/a-saner-keyboard/</guid><description>I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>notes on Eterno Devir</title><link>https://eternodevir.com/categories/notes/</link><description>Recent content in notes on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Tue, 11 Jul 2023 08:01:06 -0300</lastBuildDate><atom:link href="https://eternodevir.com/categories/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>A saner keyboard</title><link>https://eternodevir.com/palimpsests/a-saner-keyboard/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/palimpsests/a-saner-keyboard/</guid><description>I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.
 Shortly after starting to use GNU Emacs, I found myself thinking extensively about the position of the keys on my keyboard. After researching a bit, the first information I found was about the different layouts, particularly qwerty and dvorak.</description><content:encoded><![CDATA[<p>
 I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.</p>
 <p>
 Shortly after starting to use GNU Emacs, I found myself thinking extensively about the position of the keys on my keyboard. After researching a bit, the first information I found was about the different layouts, particularly <code class="verbatim">qwerty</code> and <code class="verbatim">dvorak</code>.</p>
 <p>
-<figure><img src="/images/blog/2023/image01.jpg"
+<figure><img src="/images/palimpsests/2023/image01.jpg"
          alt="Qwerty Layout"/><figcaption>
             <p>Qwerty Layout</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/blog/2023/image02.jpg"
+<figure><img src="/images/palimpsests/2023/image02.jpg"
          alt="Dvorak Layout"/><figcaption>
             <p>Dvorak Layout</p>
         </figcaption>
@@ -29,7 +29,7 @@ Although the linguistic layout had an impact, I was more concerned with the posi
 <p>
 When I saw the photo of a Space Cadet used on the first Lisp machines, many traditional GNU bindings started to make even more sense, beyond their mnemonic aspect. For example, the fact that the current <kbd>Alt</kbd> key is called <kbd>M</kbd> (Meta).</p>
 <figure>
-  <img src="/images/blog/2023/image03.jpg" alt="Space Cadet">
+  <img src="/images/palimpsests/2023/image03.jpg" alt="Space Cadet">
   <figcaption>
     <p>Space Cadet used with the LM-2<sup class="footnote-reference"><a id="footnote-reference-1" href="#footnote-1">1</a></sup></p>
   </figcaption>
@@ -95,7 +95,7 @@ Until this moment I was using the formidable <a href="https://github.com/kmonad/
 <p>
 However, even after customizing my entire keyboard using KMonad, I was still bothered by the physical position of the keys. Furthermore, the idea of ​​running a separate program to modify them did not appeal to me that much either. It was then that I discovered the X-Bows keyboard.</p>
 <p>
-<figure><img src="/images/blog/2023/image00.jpg"
+<figure><img src="/images/palimpsests/2023/image00.jpg"
          alt="X-Bows"/>
 </figure>
 </p>
@@ -118,10 +118,10 @@ Until then, the most viable option has been carrying the X-Bows with me whenever
     </div>
   </div>
 </div>
-]]></content:encoded></item><item><title>I write to discover what I think</title><link>https://eternodevir.com/blog/i-write-to-discover-what-i-think/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/i-write-to-discover-what-i-think/</guid><description>The other day, I was reminded of my high school math teacher and how combinatorics was one of the few topics that interested me. The ability to envision an universe of possibilities within a given scenario was delightful. This morning, I combined that memory with an idea that has been occupying my mind lately—writing as an exercise of reflection and discovery. The lessons never end…
+]]></content:encoded></item><item><title>I write to discover what I think</title><link>https://eternodevir.com/palimpsests/i-write-to-discover-what-i-think/</link><pubDate>Thu, 21 May 2020 00:02:29 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/palimpsests/i-write-to-discover-what-i-think/</guid><description>The other day, I was reminded of my high school math teacher and how combinatorics was one of the few topics that interested me. The ability to envision an universe of possibilities within a given scenario was delightful. This morning, I combined that memory with an idea that has been occupying my mind lately—writing as an exercise of reflection and discovery. The lessons never end…
 Combinatorial analysis exercise I I write to discover what I think.</description><content:encoded><![CDATA[
 <p>
-<figure><img src="/images/blog/2020/image03.jpg"
+<figure><img src="/images/palimpsests/2020/image03.jpg"
          alt="Exercise"/>
 </figure>
 </p>
@@ -141,13 +141,19 @@ I think to discover what I write.<br>
 I discover to write what I think.</p>
 </div>
 </div>
-]]></content:encoded></item><item><title>Party of the bothered ones</title><link>https://eternodevir.com/blog/party-of-the-bothered-ones/</link><pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/party-of-the-bothered-ones/</guid><description>A person who is bothered talks about something that is annoying them. Some people who are bothered agree with them, while others who are bothered disagree. At the party, those who are not bothered are divided into two groups: those who are not bothered by the annoyance itself, but by the fact that there are so many bothered people bothering them; and those who are not bothered by anything at all, except for those who are not bothered by being bothered by so many bothers, which is known to cause them deep annoyance.</description><content:encoded>&lt;p>
+]]></content:encoded></item><item><title>Party of the bothered ones</title><link>https://eternodevir.com/palimpsests/party-of-the-bothered-ones/</link><pubDate>Wed, 12 Feb 2020 00:57:28 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/palimpsests/party-of-the-bothered-ones/</guid><description>A person who is bothered talks about something that is annoying them. Some people who are bothered agree with them, while others who are bothered disagree. At the party, those who are not bothered are divided into two groups: those who are not bothered by the annoyance itself, but by the fact that there are so many bothered people bothering them; and those who are not bothered by anything at all, except for those who are not bothered by being bothered by so many bothers, which is known to cause them deep annoyance.</description><content:encoded>&lt;p>
 A person who is bothered talks about something that is annoying them. Some people who are bothered agree with them, while others who are bothered disagree. At the party, those who are not bothered are divided into two groups: those who are not bothered by the annoyance itself, but by the fact that there are so many bothered people bothering them; and those who are not bothered by anything at all, except for those who are not bothered by being bothered by so many bothers, which is known to cause them deep annoyance.&lt;/p>
 &lt;p>
-In the end, the only people who decided not to go to the party were those who were not bothered at all, which certainly bothered a lot of people. Or at least that is how it seemed until they realized they were not even invited.&lt;/p></content:encoded></item><item><title>For Street Cinema memories</title><link>https://eternodevir.com/blog/for-street-cinema-memories/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/blog/for-street-cinema-memories/</guid><description>Cinearte Palace, Juiz de Fora, 2017
-Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. A place for art, experimentation, transformation, and freedom. Each director with their own unique vision, creating a space of resistance to the predetermined and obvious formulas of Hollywood.
-However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil.</description><content:encoded><![CDATA[<p>
-<figure><img src="/images/blog/2019/image00.jpg"
+In the end, the only people who decided not to go to the party were those who were not bothered at all, which certainly bothered a lot of people. Or at least that is how it seemed until they realized they were not even invited.&lt;/p></content:encoded></item><item><title>For Street Cinema memories</title><link>https://eternodevir.com/palimpsests/for-street-cinema-memories/</link><pubDate>Sun, 03 Feb 2019 20:36:05 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/palimpsests/for-street-cinema-memories/</guid><description>I do remain with my positions of a third-worldist cinema. An independent cinema from an economic and artistic point of view, which does not let aesthetic creativity disappear in the name of commercial objectivity and political immediacy.
+— Glauber Rocha, director
+Cinearte Palace, Juiz de Fora, 2017
+Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. A place for art, experimentation, transformation, and freedom.</description><content:encoded><![CDATA[<blockquote>
+<p>I do remain with my positions of a third-worldist cinema. An independent cinema from an economic and artistic point of view, which does not let aesthetic creativity disappear in the name of commercial objectivity and political immediacy.</p>
+<p>
+— Glauber Rocha, director</p>
+</blockquote>
+<p>
+<figure><img src="/images/palimpsests/2019/image00.jpg"
          alt="Cinearte Palace"/><figcaption>
             <p>Cinearte Palace, Juiz de Fora, 2017</p>
         </figcaption>
@@ -158,7 +164,7 @@ Glauber Rocha taught me that Cinema Novo had the potential to be a national cine
 <p>
 However, it became increasingly difficult to find similar expressions of will, especially with the growing dominance of major US productions in Brazil. The cinema experience was transformed, shifting to large shopping centers, and popular festivals and local productions were put in the background by blockbusters. Despite this, some places for encountering the unknown still resist.</p>
 <p>
-<figure><img src="/images/blog/2019/image01.jpg"
+<figure><img src="/images/palimpsests/2019/image01.jpg"
          alt="Cine Roxy"/><figcaption>
             <p>Cine Roxy, Rio de Janeiro, 2018</p>
         </figcaption>
@@ -167,21 +173,21 @@ However, it became increasingly difficult to find similar expressions of will, e
 <p>
 In my search for one of these places in Passau, a small town on the border of Germany and Austria, I was fortunate to find a street cinema showing the Brazilian film <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em>—which I watched during one of the only two sessions that took place in Juiz de Fora. The feature, by Marcelo Caetano, reminds me of Glauber&#39;s genuine will to create something instigating that, more than understanding, dares to invite us to feel. In the darkness of the emptied rows of that German street cinema, I reaffirmed how surprising and fascinating these spaces are that still encourage diversity and experimentation. After having lived near the last street cinema in Juiz de Fora for seven years, I have never felt so close to home even when so far away.</p>
 <p>
-<figure><img src="/images/blog/2019/image02.jpg"
+<figure><img src="/images/palimpsests/2019/image02.jpg"
          alt="Metropolis"/><figcaption>
             <p>Metropolis, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/blog/2019/image03.jpg"
+<figure><img src="/images/palimpsests/2019/image03.jpg"
          alt="ProLi"/><figcaption>
             <p>ProLi, Passau, 2019</p>
         </figcaption>
 </figure>
 </p>
 <p>
-<figure><img src="/images/blog/2019/image04.jpg"
+<figure><img src="/images/palimpsests/2019/image04.jpg"
          alt="Regina"/><figcaption>
             <p>Regina, Regensburg, 2019</p>
         </figcaption>
