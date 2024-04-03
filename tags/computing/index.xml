@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>computing on Eterno Devir</title><link>https://eternodevir.com/tags/computing/</link><description>Recent content in computing on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinicius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinicius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 28 Jan 2024 11:12:03 -0300</lastBuildDate><atom:link href="https://eternodevir.com/tags/computing/index.xml" rel="self" type="application/rss+xml"/><item><title>Bookmarks</title><link>https://eternodevir.com/dg/bookmarks/</link><pubDate>Sun, 28 Jan 2024 11:12:03 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/dg/bookmarks/</guid><description>Personal collection of links to other valuable digital realms.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>computing on Eterno Devir</title><link>https://eternodevir.com/tags/computing/</link><description>Recent content in computing on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinícius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinícius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 28 Jan 2024 11:12:03 -0300</lastBuildDate><atom:link href="https://eternodevir.com/tags/computing/index.xml" rel="self" type="application/rss+xml"/><item><title>Bookmarks</title><link>https://eternodevir.com/dg/bookmarks/</link><pubDate>Sun, 28 Jan 2024 11:12:03 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/dg/bookmarks/</guid><description>Personal collection of links to other valuable digital realms.
 Websites kernel.org The Linux Kernel Archives. gnu.org The GNU Project website. lua.org The Brazilian programming language Lua, designed at PUC-Rio. gnus.org Gnus Network User Services (Gnus), a message reader part of GNU Emacs. orgmode.org Org Mode is a fast and effective GNU Emacs plain text system for keeping notes, authoring documents, literate programming, planning projects, and much more. ietf.org The Internet Engineering Task Force (IETF), founded in 1986.</description><content:encoded><![CDATA[
 <p>
 Personal collection of links to other valuable digital realms.</p>
@@ -107,6 +107,10 @@ Wikis/Archives
 </dt>
 <dd>Tedinski&#39;s Archive about programming design models and design case studies on various system.</dd>
 <dt>
+<a href="http://www.typewritten.org/">typewritten.org</a>
+</dt>
+<dd>Typewritten is a retrotechnology research lab.</dd>
+<dt>
 <a href="https://archive.org/">archive.org</a>
 </dt>
 <dd>The Internet Archive is building a digital library of Internet sites and other cultural artifacts in digital form.</dd>
@@ -138,6 +142,26 @@ Wikis/Archives
 <a href="https://ottavianas-kitchen.com/">ottavianas-kitchen.com</a>
 </dt>
 <dd>Ottaviana&#39;s Kitchen is a family collection of authentic Italian recipes.</dd>
+<dt>
+<a href="http://www.bitsavers.org/">bitsavers.org</a>
+</dt>
+<dd>Bitsavers hosts archives of software, computing, communications, components, magazines, and test equipments.</dd>
+<dt>
+<a href="https://amr.abime.net/">amr.abime.net</a>
+</dt>
+<dd>Amiga Magazine Rack contains reviews, previews, cheats, coverdisks, public domain, covers, trivia and thousands of page scans from Amiga mags.</dd>
+<dt>
+<a href="http://toastytech.com/guis/">toastytech.com/guis</a>
+</dt>
+<dd>Toastytech&#39;s GUI Gallery gathers screen shots of various desktop computer Graphical User Interfaces and operating systems.</dd>
+<dt>
+<a href="https://www.gregdonner.org/workbench/">gregdonner.org/workbench</a>
+</dt>
+<dd>Gregdonner&#39;s Workbench Nostalgia is dedicated to the preservation of the interesting history of the AmigaOS, especially its GUI known as Workbench.</dd>
+<dt>
+<a href="https://www.exxoshost.co.uk/atari/mirror/myatari/index.htm">exxoshost.co.uk/atari/mirror/myatari</a>
+</dt>
+<dd>The final resting place of MyAtari Magazine, the online magazine for Atari enthusiasts published between October 2000 and February 2005.</dd>
 </dl>
 </div>
 </div>
@@ -148,9 +172,9 @@ Magazines/News
 <div id="outline-text-headline-4" class="outline-text-2">
 <dl>
 <dt>
-<a href="http://phrack.org">phrack.org</a>
+<a href="https://news.ycombinator.com/">news.ycombinator.com</a>
 </dt>
-<dd>Phrack is a zine older than the World Wide Web. Since 1985, it has been a premier publication for new and exciting discoveries in the world of hacking.</dd>
+<dd>Hacker News (HN) is a news aggregator where users can find and discuss content on anything that gratifies one’s intellectual curiosity.</dd>
 <dt>
 <a href="https://solar.lowtechmagazine.com/">solar.lowtechmagazine.com</a>
 </dt>
@@ -160,9 +184,9 @@ Magazines/News
 </dt>
 <dd>No Tech Magazine hosts all links and updates from the Low-tech Magazine.</dd>
 <dt>
-<a href="https://news.ycombinator.com/">news.ycombinator.com</a>
+<a href="http://phrack.org">phrack.org</a>
 </dt>
-<dd>Hacker News (HN) is a news aggregator where users can find and discuss content on anything that gratifies one’s intellectual curiosity.</dd>
+<dd>Phrack is a zine older than the World Wide Web. Since 1985, it has been a premier publication for new and exciting discoveries in the world of hacking.</dd>
 <dt>
 <a href="https://webzine.puffy.cafe/">webzine.puffy.cafe</a>
 </dt>
@@ -298,7 +322,7 @@ Groups
 <dt>
 <a href="https://5bits.one/">5bits.one</a>
 </dt>
-<dd>010 001 111.</dd>
+<dd>010 001 111</dd>
 <dt>
 <a href="https://www.inkandswitch.com/">inkandswitch.com</a>
 </dt>
@@ -338,6 +362,7 @@ Here is a list of personal websites that I find interesting and inspiring. Most 
 <li><a href="https://howardism.org/">howardism.org</a></li>
 <li><a href="https://koehr.ing/">koehr.ing</a></li>
 <li><a href="https://kokorobot.ca/">kokorobot.ca</a></li>
+<li><a href="https://www.linusakesson.net">linusakesson.net</a></li>
 <li><a href="https://neustadt.fr/">neustadt.fr</a></li>
 <li><a href="https://parenteses.org">parenteses.org</a></li>
 <li><a href="https://www.paritybit.ca">paritybit.ca</a></li>
@@ -373,6 +398,7 @@ A list of posts and texts that I consider significant and worth keeping here. Th
 <li><a href="https://home.cern/science/computing/birth-web/short-history-web">home.cern/science/computing/birth-web/short-history-web</a></li>
 <li><a href="https://www.inkandswitch.com/local-first/">inkandswitch.com/local-first</a></li>
 <li><a href="https://www.inkandswitch.com/slow-software/">inkandswitch.com/slow-software</a></li>
+<li><a href="https://www.in-ulm.de/~mascheck/bourne/">in-ulm.de/~mascheck/bourne</a></li>
 <li><a href="https://jeffhuang.com/designed_to_last/">jeffhuang.com/designed_to_last</a></li>
 <li><a href="https://justinjackson.ca/words.html">justinjackson.ca/words.html</a></li>
 <li><a href="https://neustadt.fr/essays/the-small-web/">neustadt.fr/essays/the-small-web</a></li>
@@ -381,7 +407,7 @@ A list of posts and texts that I consider significant and worth keeping here. Th
 </ul>
 </div>
 </div>
-]]></content:encoded></item><item><title>A saner keyboard</title><link>https://eternodevir.com/palimpsests/a-saner-keyboard/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/palimpsests/a-saner-keyboard/</guid><description>I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.
+]]></content:encoded></item><item><title>A saner keyboard</title><link>https://eternodevir.com/palimpsests/a-saner-keyboard/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/palimpsests/a-saner-keyboard/</guid><description>I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.
 Shortly after starting to use GNU Emacs, I found myself thinking extensively about the position of the keys on my keyboard. After researching a bit, the first information I found was about the different layouts, particularly qwerty and dvorak.</description><content:encoded><![CDATA[<p>
 I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.</p>
 <p>
@@ -501,7 +527,7 @@ Until then, the most viable option has been carrying the X-Bows with me whenever
     </div>
   </div>
 </div>
-]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/homelab/</guid><description> Area: self-hosting Date: 2022-current
+]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/projects/homelab/</guid><description> Area: self-hosting Date: 2022-current
 This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.
 System QEMU/KVM Ansible Debian, RHEL Docker, Podman Network Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Services Home Assistant Jellyfin Hugo Gotify Management Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
 <p>
@@ -565,7 +591,7 @@ Management
 </ul>
 </div>
 </div>
-]]></content:encoded></item><item><title>How my digital autonomy journey began</title><link>https://eternodevir.com/palimpsests/how-my-digital-autonomy-journey-began/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/palimpsests/how-my-digital-autonomy-journey-began/</guid><description>It all started with my first laptop, an old Samsung RV415, hostname Vertov. It had stopped working for basic tasks, and while most people would simply buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together.</description><content:encoded><![CDATA[
+]]></content:encoded></item><item><title>How my digital autonomy journey began</title><link>https://eternodevir.com/palimpsests/how-my-digital-autonomy-journey-began/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/palimpsests/how-my-digital-autonomy-journey-began/</guid><description>It all started with my first laptop, an old Samsung RV415, hostname Vertov. It had stopped working for basic tasks, and while most people would simply buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together.</description><content:encoded><![CDATA[
 <p>
 It all started with my first laptop, an old Samsung RV415, hostname Vertov. It had stopped working for basic tasks, and while most people would simply buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together. Vertov had too much history to be just another tragedy of planned obsolescence.</p>
 <div id="outline-container-headline-1" class="outline-2">
@@ -626,7 +652,7 @@ window.onmessage = function (e) { if (e.data.hasOwnProperty("freedom-iframe-heig
 All of this happened because, at a certain point, I refused to give up Vertov due to planned obsolescence. Not to mention the reuse of a perfectly functional equipment that would become e-waste. There is life beyond the <em>windows</em>.</p>
 </div>
 </div>
-]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinicius Moraes</author><guid>https://eternodevir.com/projects/aws-cloud/</guid><description> Area: cloud‑hosting Date: 2018-2022
+]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/projects/aws-cloud/</guid><description> Area: cloud‑hosting Date: 2018-2022
 This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.
 Ubuntu Server Route 53 Lightsail CloudWatch Bitnami Wordpress Multisite</description><content:encoded><![CDATA[<p>
 <strong>Area</strong>: cloud‑hosting <br>
