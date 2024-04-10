@@ -1,4 +1,102 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>notes on Eterno Devir</title><link>https://eternodevir.com/categories/notes/</link><description>Recent content in notes on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinícius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinícius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Tue, 11 Jul 2023 08:01:06 -0300</lastBuildDate><atom:link href="https://eternodevir.com/categories/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>A saner keyboard</title><link>https://eternodevir.com/palimpsests/a-saner-keyboard/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/palimpsests/a-saner-keyboard/</guid><description>I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>notes on Eterno Devir</title><link>https://eternodevir.com/categories/notes/</link><description>Recent content in notes on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinícius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinícius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 13 Aug 2023 08:45:32 -0300</lastBuildDate><atom:link href="https://eternodevir.com/categories/notes/index.xml" rel="self" type="application/rss+xml"/><item><title>Learning touch typing</title><link>https://eternodevir.com/palimpsests/learning-touch-typing/</link><pubDate>Sun, 13 Aug 2023 08:45:32 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/palimpsests/learning-touch-typing/</guid><description>As soon as my X-Bows keyboard arrived, I also started learning touch typing. It is a method where touch is relied upon instead of vision to locate the keys on the keyboard. In other words, a touch typist can type all the keys through muscle memory. This practice involves a series of concepts, which are summarized in the image below and further explained on the websites ahead.
+Resting position of fingers on the home row1</description><content:encoded><![CDATA[
+<p>
+As soon as my <a href="/palimpsests/a-saner-keyboard/">X-Bows</a> keyboard arrived, I also started learning touch typing. It is a method where touch is relied upon instead of vision to locate the keys on the keyboard. In other words, a <strong>touch typist</strong> can type all the keys through muscle memory. This practice involves a series of concepts, which are summarized in the image below and further explained on the websites ahead.</p>
+<figure>
+  <img src="/images/palimpsests/2023/image04.webp" alt="Resting position of fingers on the home row">
+  <figcaption>
+    <p>Resting position of fingers on the home row<sup class="footnote-reference"><a id="footnote-reference-1" href="#footnote-1">1</a></sup></p>
+  </figcaption>
+</figure>
+<p>
+It is worth saying that besides the inherent challenges of transitioning to touch typing, I was also facing changes in keyboard layout (from <code class="verbatim">pt-br</code> to <code class="verbatim">us</code>), design (from conventional to thumb cluster), and language (from Portuguese to English) due to the anglophone aspect of the exercises.</p>
+<p>
+After testing some options, I decided to use these two websites for learning it:</p>
+<dl>
+<dt>
+<a href="https://www.typing.com">typing.com</a>
+</dt>
+<dd>For theoretical content and basic exercises.</dd>
+<dt>
+<a href="https://www.keybr.com/">keybr.com</a>
+</dt>
+<dd>For more advanced exercises, adapted to my progress level.</dd>
+</dl>
+<p>I practiced <strong>30 minutes a day for a month</strong>. 15 minutes on <code class="verbatim">typing.com</code> followed by 15 minutes on <code class="verbatim">keybr.com</code>. Additionally, I made a conscious effort to not abandon the touch typing method whenever I needed to use the computer for day-to-day tasks. <em>Yes, the beginning was quite difficult.</em></p>
+<p>
+Here are some <a href="https://www.keybr.com/profile/q43lvyf">statistics</a> from <code class="verbatim">keybr.com</code> about my learning process. I also wrote down my daily impressions in my journal, which I recapped by week at the end of this text.</p>
+<p>
+All in all, after a month of this routine, I went from 36 words per minute with the visual method to an average of <strong>85 words per minute</strong> with touch typing. In addition to benefits in speed and muscle memory, typing properly also provided me with much more comfort. Certainly, it is a skill that I wish I had developed sooner and that is absolutely welcome in our times.</p>
+<p>
+After this learning period, I started using <a href="https://monkeytype.com/">monkeytype.com</a> for maintenance and warming up whenever I feel the need.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Week 1
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+Certainly, this has been the hardest week. The desire to revert to typing the old way is strong. Basic tasks take a lot of time, to the point where the computer becomes practically unusable.</p>
+<p>
+After a few days, with persistent efforts to position the fingers correctly, simple tasks became manageable.</p>
+<p>
+From the middle to the end of this week, I noticed some signs of smoothness.</p>
+<p>
+Practices have already begun to involve capitalization and a broader set of sequences.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Week 2
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+Typing speed is increasing. I can now type capital letters quickly.</p>
+<p>
+Practices have begun to involve accentuation and punctuation.</p>
+<p>
+Despite an increase in the number of mistakes, I&#39;m managing to maintain the same speed as before.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Week 3
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>
+Getting accents and capital letters right is quite pleasant.</p>
+<p>
+Exercises are progressing without many surprises.</p>
+<p>
+Typing speed continues to increase, but at a slower pace.</p>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Week 4
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<p>
+Mistakes are becoming much less frequent.</p>
+<p>
+I&#39;m already typing in a comfortable and smooth manner.</p>
+<p>
+There is a dilemma between typing faster and making more mistakes and typing slower and being more accurate.</p>
+<p>
+The second option tends to be more effective at the end of the sessions, both in terms of learning and words typed.</p>
+<div class="footnotes">
+  <hr class="footnotes-separatator">
+  <div class="footnote-definitions">
+    <div class="footnote-definition">
+      <sup id="footnote-1"><a href="#footnote-reference-1">1</a></sup>
+      <div class="footnote-body">
+        <p>Sakurambo, via <a href="https://commons.wikimedia.org/wiki/File:Keyboard_layout_english_fingers.png#/media/File:Keyboard_layout_english_fingers.png">Wikimedia Commons</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+]]></content:encoded></item><item><title>A saner keyboard</title><link>https://eternodevir.com/palimpsests/a-saner-keyboard/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/palimpsests/a-saner-keyboard/</guid><description>I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.
 Shortly after starting to use GNU Emacs, I found myself thinking extensively about the position of the keys on my keyboard. After researching a bit, the first information I found was about the different layouts, particularly qwerty and dvorak.</description><content:encoded><![CDATA[<p>
 I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.</p>
 <p>
