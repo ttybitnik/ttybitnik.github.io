@@ -1962,6 +1962,7 @@ A list of posts and texts that I consider significant and worth keeping here. Th
 <li><a href="https://blog.sanctum.geek.nz/vim-anti-patterns/">blog.sanctum.geek.nz/vim-anti-patterns</a></li>
 <li><a href="https://boehs.org/node/everything-i-know-about-the-xz-backdoor">boehs.org/node/everything-i-know-about-the-xz-backdoor</a></li>
 <li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">catb.org/~esr/faqs/smart-questions.html</a></li>
+<li><a href="https://corecursive.com/lisp-in-space-with-ron-garret/">corecursive.com/lisp-in-space-with-ron-garret</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc791">datatracker.ietf.org/doc/html/rfc791</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc2616">datatracker.ietf.org/doc/html/rfc2616</a></li>
 <li><a href="https://dwheeler.com/secure-programs/">dwheeler.com/secure-programs</a></li>
@@ -2371,6 +2372,7 @@ Uma lista de publicações e textos que considero significativos e que valem a p
 <li><a href="https://blog.sanctum.geek.nz/vim-anti-patterns/">blog.sanctum.geek.nz/vim-anti-patterns</a></li>
 <li><a href="https://boehs.org/node/everything-i-know-about-the-xz-backdoor">boehs.org/node/everything-i-know-about-the-xz-backdoor</a></li>
 <li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">catb.org/~esr/faqs/smart-questions.html</a></li>
+<li><a href="https://corecursive.com/lisp-in-space-with-ron-garret/">corecursive.com/lisp-in-space-with-ron-garret</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc791">datatracker.ietf.org/doc/html/rfc791</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc2616">datatracker.ietf.org/doc/html/rfc2616</a></li>
 <li><a href="https://dwheeler.com/secure-programs/">dwheeler.com/secure-programs</a></li>
@@ -9361,6 +9363,13 @@ Au contraire.</p>
 <p>
 <br></p>
 <blockquote>
+<p>Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.</p>
+<p>
+— <strong>Edsger Dijkstra</strong>, cientista da computação</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
 <p>A luz no fim do túnel é, no máximo, outro trem vindo em alta velocidade.</p>
 <p>
 — <strong>Slavoj Žižek</strong>, filósofo</p>
@@ -9580,6 +9589,13 @@ Au contraire.</p>
 <p>There&#39;s beauty in simplicity; the smallest moments can hold the greatest significance.</p>
 <p>
 — <strong>Wong Kar-Wai</strong>, director</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.</p>
+<p>
+— <strong>Edsger Dijkstra</strong>, computer scientist</p>
 </blockquote>
 <p>
 <br></p>
@@ -19344,9 +19360,9 @@ Aliases
 What I&#39;m doing now
 </h2>
 <div id="outline-text-headline-4" class="outline-text-2">
-Reading: <a href="https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others">Stories of Your Life and Others, Ted Chiang (2002)</a>
+Reading: <a href="https://www.goodreads.com/book/show/58571862-100-go-mistakes-and-how-to-avoid-them">100 Go Mistakes and How to Avoid Them, Teiva Harsanyi (2002)</a>
 <br>
-Listening: <a href="https://open.spotify.com/track/5JDL8Z21Du2vvBB1NU3Atj">Solidão de Volta, Terno Rei (2019)</a>
+Listening: <a href="https://open.spotify.com/track/2kAdK72mjmKiAxfAMGgXBU">Rondo in A Minor, K. 511, Wolfgang A. Mozart - Seong-Jin Cho (2019)</a>
 
 <br>
 Watching: <a href="https://www.themoviedb.org/tv/126308-shogun">Shōgun (2024)</a>
@@ -19354,7 +19370,7 @@ Watching: <a href="https://www.themoviedb.org/tv/126308-shogun">Shōgun (2024)</
 <span class="post-info">
   <br>
   
-  <i>Last update on Apr 10, 2024 11:16 AM</i>
+  <i>Last update on Apr 14, 2024 8:31 PM</i>
 </span>
 </div>
 </div>
@@ -19648,9 +19664,9 @@ Pseudôminos
 O que estou fazendo agora
 </h2>
 <div id="outline-text-headline-4" class="outline-text-2">
-Lendo: <a href="https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others">Stories of Your Life and Others, Ted Chiang (2002)</a>
+Lendo: <a href="https://www.goodreads.com/book/show/58571862-100-go-mistakes-and-how-to-avoid-them">100 Go Mistakes and How to Avoid Them, Teiva Harsanyi (2002)</a>
 <br>
-Ouvindo: <a href="https://open.spotify.com/track/5JDL8Z21Du2vvBB1NU3Atj">Solidão de Volta, Terno Rei (2019)</a>
+Ouvindo: <a href="https://open.spotify.com/track/2kAdK72mjmKiAxfAMGgXBU">Rondo in A Minor, K. 511, Wolfgang A. Mozart - Seong-Jin Cho (2019)</a>
 
 <br>
 Assistindo: <a href="https://www.themoviedb.org/tv/126308-shogun">Shōgun (2024)</a>
@@ -19658,7 +19674,7 @@ Assistindo: <a href="https://www.themoviedb.org/tv/126308-shogun">Shōgun (2024)
 <span class="post-info">
   <br>
   
-  <i>Última atualização em abr. 10, 2024 11:16 AM</i>
+  <i>Última atualização em abr. 14, 2024 8:31 PM</i>
 </span>
 </div>
 </div>
