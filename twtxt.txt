@@ -28,3 +28,5 @@
 2024-02-10T23:35:37-03:00	Nights like this remind me why I enjoy Lyon's festivals and Berlinale way more.
 2024-04-04T19:23:49-03:00	Sourcehut UX's and workflow is superb. Simple, yet thoughtful. Beautiful, yet functional. Kudos!
 2024-04-04T21:52:31-03:00	Just migrated to the *Insidious Big Brother Database* for contacts. GPG, regex, and aliases support. What a breeze.
+2024-04-15T21:02:08-03:00	Today I had to debug my entire network because a VPN service thinks it's a good feature overwriting all firewall rules.
+2024-04-15T21:03:38-03:00	Why a VPN cannot simply be a VPN? God dammit. Kudos to the UNIX philosophy more than ever.
