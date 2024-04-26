@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projetos on Eterno Devir</title><link>https://eternodevir.com/pt-br/projects/</link><description>Recent content in Projetos on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinícius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinícius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Thu, 31 May 2018 00:09:00 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Homelab</title><link>https://eternodevir.com/pt-br/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/projects/homelab/</guid><description> Área: auto-hospedagem Data: 2022-presente
 Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
-Sistema QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Serviços Home Assistant Jellyfin Hugo Gotify Gerenciamento Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
+Sistema QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede Nginx Reverse Proxy Unbound DNS Pihole WireGuard OpenSSH iptables Serviços Home Assistant Jellyfin Hugo Gotify Gerenciamento Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
 <p>
 <strong>Área</strong>: auto-hospedagem <br>
 <strong>Data</strong>: 2022-presente</p>
@@ -28,8 +28,8 @@ Rede
 <li>Nginx Reverse Proxy</li>
 <li>Unbound DNS</li>
 <li>Pihole</li>
-<li>VPN</li>
-<li>SSH</li>
+<li>WireGuard</li>
+<li>OpenSSH</li>
 <li>iptables</li>
 </ul>
 </div>

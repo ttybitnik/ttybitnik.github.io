@@ -1965,6 +1965,7 @@ A list of posts and texts that I consider significant and worth keeping here. Th
 <li><a href="https://corecursive.com/lisp-in-space-with-ron-garret/">corecursive.com/lisp-in-space-with-ron-garret</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc791">datatracker.ietf.org/doc/html/rfc791</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc2616">datatracker.ietf.org/doc/html/rfc2616</a></li>
+<li><a href="https://doc.norang.ca/org-mode.html">doc.norang.ca/org-mode.html</a></li>
 <li><a href="https://dwheeler.com/secure-programs/">dwheeler.com/secure-programs</a></li>
 <li><a href="https://ethw.org/Ancient_Computers">ethw.org/ancient_computers</a></li>
 <li><a href="https://www.gnu.org/philosophy/free-sw.html">gnu.org/philosophy/free-sw.html</a></li>
@@ -2375,6 +2376,7 @@ Uma lista de publicações e textos que considero significativos e que valem a p
 <li><a href="https://corecursive.com/lisp-in-space-with-ron-garret/">corecursive.com/lisp-in-space-with-ron-garret</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc791">datatracker.ietf.org/doc/html/rfc791</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc2616">datatracker.ietf.org/doc/html/rfc2616</a></li>
+<li><a href="https://doc.norang.ca/org-mode.html">doc.norang.ca/org-mode.html</a></li>
 <li><a href="https://dwheeler.com/secure-programs/">dwheeler.com/secure-programs</a></li>
 <li><a href="https://ethw.org/Ancient_Computers">ethw.org/ancient_computers</a></li>
 <li><a href="https://www.gnu.org/philosophy/free-sw.html">gnu.org/philosophy/free-sw.html</a></li>
@@ -19392,14 +19394,13 @@ What I&#39;m doing now
 <div id="outline-text-headline-4" class="outline-text-2">
 Reading: <a href="https://www.goodreads.com/book/show/58571862-100-go-mistakes-and-how-to-avoid-them">100 Go Mistakes and How to Avoid Them, Teiva Harsanyi (2002)</a>
 <br>
-Listening: <a href="https://open.spotify.com/track/1BXsM3GKEtJQnc9qUw3lVd">Ride Into The Sun, The Velvet Underground (1969)</a>
-
+Listening: <a href="https://open.spotify.com/track/0uO1ejCv4Spok2NQ0oUHUm">The World At Large, Modest Mouse (2004)</a>
 <br>
 Watching: <a href="https://letterboxd.com/film/perfect-days-2023/">Perfect Days (2023)</a>
 <span class="post-info">
   <br>
   
-  <i>Last update on Apr 20, 2024 7:51 PM</i>
+  <i>Last update on Apr 26, 2024 7:43 PM</i>
 </span>
 </div>
 </div>
@@ -19695,14 +19696,13 @@ O que estou fazendo agora
 <div id="outline-text-headline-4" class="outline-text-2">
 Lendo: <a href="https://www.goodreads.com/book/show/58571862-100-go-mistakes-and-how-to-avoid-them">100 Go Mistakes and How to Avoid Them, Teiva Harsanyi (2002)</a>
 <br>
-Ouvindo: <a href="https://open.spotify.com/track/1BXsM3GKEtJQnc9qUw3lVd">Ride Into The Sun, The Velvet Underground (1969)</a>
-
+Ouvindo: <a href="https://open.spotify.com/track/0uO1ejCv4Spok2NQ0oUHUm">The World At Large, Modest Mouse (2004)</a>
 <br>
 Assistindo: <a href="https://letterboxd.com/film/perfect-days-2023/">Perfect Days (2023)</a>
 <span class="post-info">
   <br>
   
-  <i>Última atualização em abr. 20, 2024 7:51 PM</i>
+  <i>Última atualização em abr. 26, 2024 7:43 PM</i>
 </span>
 </div>
 </div>
@@ -19735,7 +19735,7 @@ Este site é inteiramente escrito e gerenciado utilizando <a href="https://githu
 </div>
 ]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/projects/homelab/</guid><description> Area: self-hosting Date: 2022-current
 This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.
-System QEMU/KVM Ansible Debian, RHEL Docker, Podman Network Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Services Home Assistant Jellyfin Hugo Gotify Management Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
+System QEMU/KVM Ansible Debian, RHEL Docker, Podman Network Nginx Reverse Proxy Unbound DNS Pihole WireGuard OpenSSH iptables Services Home Assistant Jellyfin Hugo Gotify Management Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
 <p>
 <strong>Area</strong>: self-hosting <br>
 <strong>Date</strong>: 2022-current</p>
@@ -19763,8 +19763,8 @@ Network
 <li>Nginx Reverse Proxy</li>
 <li>Unbound DNS</li>
 <li>Pihole</li>
-<li>VPN</li>
-<li>SSH</li>
+<li>WireGuard</li>
+<li>OpenSSH</li>
 <li>iptables</li>
 </ul>
 </div>
@@ -19799,7 +19799,7 @@ Management
 </div>
 ]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/pt-br/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/projects/homelab/</guid><description> Área: auto-hospedagem Data: 2022-presente
 Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
-Sistema QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Serviços Home Assistant Jellyfin Hugo Gotify Gerenciamento Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
+Sistema QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede Nginx Reverse Proxy Unbound DNS Pihole WireGuard OpenSSH iptables Serviços Home Assistant Jellyfin Hugo Gotify Gerenciamento Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
 <p>
 <strong>Área</strong>: auto-hospedagem <br>
 <strong>Data</strong>: 2022-presente</p>
@@ -19827,8 +19827,8 @@ Rede
 <li>Nginx Reverse Proxy</li>
 <li>Unbound DNS</li>
 <li>Pihole</li>
-<li>VPN</li>
-<li>SSH</li>
+<li>WireGuard</li>
+<li>OpenSSH</li>
 <li>iptables</li>
 </ul>
 </div>

@@ -393,6 +393,7 @@ Uma lista de publicações e textos que considero significativos e que valem a p
 <li><a href="https://corecursive.com/lisp-in-space-with-ron-garret/">corecursive.com/lisp-in-space-with-ron-garret</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc791">datatracker.ietf.org/doc/html/rfc791</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc2616">datatracker.ietf.org/doc/html/rfc2616</a></li>
+<li><a href="https://doc.norang.ca/org-mode.html">doc.norang.ca/org-mode.html</a></li>
 <li><a href="https://dwheeler.com/secure-programs/">dwheeler.com/secure-programs</a></li>
 <li><a href="https://ethw.org/Ancient_Computers">ethw.org/ancient_computers</a></li>
 <li><a href="https://www.gnu.org/philosophy/free-sw.html">gnu.org/philosophy/free-sw.html</a></li>
@@ -627,7 +628,7 @@ Até lá, a opção mais viável tem sido carregar o X-Bows sempre que necessár
 </div>
 ]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/pt-br/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/projects/homelab/</guid><description> Área: auto-hospedagem Data: 2022-presente
 Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
-Sistema QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Serviços Home Assistant Jellyfin Hugo Gotify Gerenciamento Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
+Sistema QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede Nginx Reverse Proxy Unbound DNS Pihole WireGuard OpenSSH iptables Serviços Home Assistant Jellyfin Hugo Gotify Gerenciamento Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
 <p>
 <strong>Área</strong>: auto-hospedagem <br>
 <strong>Data</strong>: 2022-presente</p>
@@ -655,8 +656,8 @@ Rede
 <li>Nginx Reverse Proxy</li>
 <li>Unbound DNS</li>
 <li>Pihole</li>
-<li>VPN</li>
-<li>SSH</li>
+<li>WireGuard</li>
+<li>OpenSSH</li>
 <li>iptables</li>
 </ul>
 </div>

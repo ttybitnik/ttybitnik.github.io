@@ -393,6 +393,7 @@ A list of posts and texts that I consider significant and worth keeping here. Th
 <li><a href="https://corecursive.com/lisp-in-space-with-ron-garret/">corecursive.com/lisp-in-space-with-ron-garret</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc791">datatracker.ietf.org/doc/html/rfc791</a></li>
 <li><a href="https://datatracker.ietf.org/doc/html/rfc2616">datatracker.ietf.org/doc/html/rfc2616</a></li>
+<li><a href="https://doc.norang.ca/org-mode.html">doc.norang.ca/org-mode.html</a></li>
 <li><a href="https://dwheeler.com/secure-programs/">dwheeler.com/secure-programs</a></li>
 <li><a href="https://ethw.org/Ancient_Computers">ethw.org/ancient_computers</a></li>
 <li><a href="https://www.gnu.org/philosophy/free-sw.html">gnu.org/philosophy/free-sw.html</a></li>
@@ -628,7 +629,7 @@ Until then, the most viable option has been carrying the X-Bows with me whenever
 </div>
 ]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/projects/homelab/</guid><description> Area: self-hosting Date: 2022-current
 This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.
-System QEMU/KVM Ansible Debian, RHEL Docker, Podman Network Nginx Reverse Proxy Unbound DNS Pihole VPN SSH iptables Services Home Assistant Jellyfin Hugo Gotify Management Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
+System QEMU/KVM Ansible Debian, RHEL Docker, Podman Network Nginx Reverse Proxy Unbound DNS Pihole WireGuard OpenSSH iptables Services Home Assistant Jellyfin Hugo Gotify Management Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
 <p>
 <strong>Area</strong>: self-hosting <br>
 <strong>Date</strong>: 2022-current</p>
@@ -656,8 +657,8 @@ Network
 <li>Nginx Reverse Proxy</li>
 <li>Unbound DNS</li>
 <li>Pihole</li>
-<li>VPN</li>
-<li>SSH</li>
+<li>WireGuard</li>
+<li>OpenSSH</li>
 <li>iptables</li>
 </ul>
 </div>
