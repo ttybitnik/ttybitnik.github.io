@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>computing no Eterno Devir</title><link>https://eternodevir.com/pt-br/topics/computing/</link><description>Conteúdo recente em computing no Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt‑BR</language><managingEditor>vinicius.moraes@eternodevir.com (Vinícius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinícius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 28 Jan 2024 11:12:03 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/topics/computing/index.xml" rel="self" type="application/rss+xml"/><item><title>Páginas</title><link>https://eternodevir.com/pt-br/dg/bookmarks/</link><pubDate>Sun, 28 Jan 2024 11:12:03 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/dg/bookmarks/</guid><description>Índice Recursos Principais Projetos Wikis e Arquivos Revistas e Notícias Jogos e Diversão Manifestos Clubes Grupos Pessoas Artigos Recursos Principais kernel.org O Arquivo do Kernel Linux. gnu.org O site do Projeto GNU. lua.org A linguagem de programação brasileira Lua, desenvolvida na PUC-Rio. gnus.org Gnus Network User Services (Gnus), um leitor de mensagens que faz parte do GNU Emacs. orgmode.org Org Mode é um sistema de texto rápido e eficaz do GNU Emacs para fazer anotações, criar documentos, programar, planejar projetos e muito mais.</description><content:encoded><![CDATA[
+<div class="h5"><small><strong>Índice</strong></small></div>
+<nav>
+<ul>
+<li><a href="#headline-1">Recursos Principais</a>
+</li>
+<li><a href="#headline-2">Projetos</a>
+</li>
+<li><a href="#headline-3">Wikis e Arquivos</a>
+</li>
+<li><a href="#headline-4">Revistas e Notícias</a>
+</li>
+<li><a href="#headline-5">Jogos e Diversão</a>
+</li>
+<li><a href="#headline-6">Manifestos</a>
+</li>
+<li><a href="#headline-7">Clubes</a>
+</li>
+<li><a href="#headline-8">Grupos</a>
+</li>
+<li><a href="#headline-9">Pessoas</a>
+</li>
+<li><a href="#headline-10">Artigos</a>
+</li>
+</ul>
+</nav>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Recursos Principais
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://kernel.org/">kernel.org</a>
+</dt>
+<dd>O Arquivo do Kernel Linux.</dd>
+<dt>
+<a href="https://www.gnu.org/">gnu.org</a>
+</dt>
+<dd>O site do Projeto GNU.</dd>
+<dt>
+<a href="https://lua.org">lua.org</a>
+</dt>
+<dd>A linguagem de programação brasileira Lua, desenvolvida na PUC-Rio.</dd>
+<dt>
+<a href="https://gnus.org">gnus.org</a>
+</dt>
+<dd>Gnus Network User Services (Gnus), um leitor de mensagens que faz parte do GNU Emacs.</dd>
+<dt>
+<a href="https://orgmode.org/">orgmode.org</a>
+</dt>
+<dd>Org Mode é um sistema de texto rápido e eficaz do GNU Emacs para fazer anotações, criar documentos, programar, planejar projetos e muito mais.</dd>
+<dt>
+<a href="https://www.ietf.org/">ietf.org</a>
+</dt>
+<dd>A Internet Engineering Task Force (IETF), fundada em 1986. É a principal organização de desenvolvimento de padrões (SDO) para a Internet.</dd>
+<dt>
+<a href="https://whatwg.org/">whatwg.org</a>
+</dt>
+<dd>Grupo de Trabalho de Tecnologia de Aplicativos de Hipertexto da Web (WHATWG). É responsável pela especificação HTML e outros padrões web.</dd>
+<dt>
+<a href="https://semver.org/">semver.org</a>
+</dt>
+<dd>A especificação de Versionamento Semântico.</dd>
+<dt>
+<a href="https://www.conventionalcommits.org/en/v1.0.0/">conventionalcommits.org</a>
+</dt>
+<dd>A especificação de Commits Convencionais.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Projetos
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://www.linuxfromscratch.org/">linuxfromscratch.org</a>
+</dt>
+<dd>Linux from Scratch (LFS) fornece instruções passo a passo para construir seu próprio sistema Linux personalizado inteiramente a partir do código-fonte.</dd>
+<dt>
+<a href="https://missing.csail.mit.edu/">missing.csail.mit.edu</a>
+</dt>
+<dd>O semestre que faltava nos estudos em Ciência da Computação. Um projeto do MIT que cobre tópicos para ser um cientista da computação e programador eficaz.</dd>
+<dt>
+<a href="https://penkesu.computer/">penkesu.computer</a>
+</dt>
+<dd>Penkesu (ペンケース), um PC Homebrew portátil com estilo retro.</dd>
+<dt>
+<a href="https://www.nand2tetris.org/">nand2tetris.org</a>
+</dt>
+<dd>Da NAND ao Tetris. Um projeto para construir um computador moderno a partir dos princípios básicos.</dd>
+<dt>
+<a href="https://projecteuler.net/">projecteuler.net</a>
+</dt>
+<dd>O Projeto Euler é uma série de problemas desafiadores sobre programação matemática e computadores.</dd>
+<dt>
+<a href="https://cses.fi/problemset/">cses.fi</a>
+</dt>
+<dd>O conjunto de problemas do Code Submission Evaluation System (CSES) é uma coleção com problemas práticos de programação de algoritmos.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Wikis e Arquivos
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<dl>
+<dt>
+<a href="http://savethesounds.info/">savethesounds.info</a>
+</dt>
+<dd>O Museu dos Sons Ameaçados.</dd>
+<dt>
+<a href="http://textfiles.com/">textfiles.com</a>
+</dt>
+<dd>Textfiles é um vislumbre da história de escritores e artistas vinculados aos 128 caracteres do American Standard Code for Information Interchange (ASCII).</dd>
+<dt>
+<a href="https://bienal.org.br/">bienal.org.br</a>
+</dt>
+<dd>O Arquivo da Bienal, um dos mais importantes centros de documentação da produção artística contemporânea e moderna da América Latina.</dd>
+<dt>
+<a href="https://livingcomputers.org/">livingcomputers.org</a>
+</dt>
+<dd>Living Computers oferece recursos on-line de educação em ciência da computação.</dd>
+<dt>
+<a href="https://ethw.org/">ethw.org</a>
+</dt>
+<dd>A Engineering and Technology History Wiki (ETHW) é um dos principais sites do mundo para documentação e análise da história da tecnologia.</dd>
+<dt>
+<a href="https://www.tedinski.com/archive/">tedinski.com</a>
+</dt>
+<dd>Arquivo do Tedinski sobre modelos de design de programação e estudos de caso em vários sistemas.</dd>
+<dt>
+<a href="http://www.typewritten.org/">typewritten.org</a>
+</dt>
+<dd>Typewritten é um laboratório de pesquisa de tecnologia retro.</dd>
+<dt>
+<a href="https://archive.org/">archive.org</a>
+</dt>
+<dd>O Internet Archive está construindo uma biblioteca digital de sites da Internet e outros artefatos culturais em formato digital.</dd>
+<dt>
+<a href="https://visualverse.org/">visualverse.org</a>
+</dt>
+<dd>Visual Verse é um diário literário exclusivo que contém mais de 11.000 peças de escrita ecfrástica.</dd>
+<dt>
+<a href="https://www.rfc-editor.org/">rfc-editor.org</a>
+</dt>
+<dd>O RFC (ISSN 2070-1721) contém documentos técnicos e organizacionais sobre a Internet.</dd>
+<dt>
+<a href="https://curlie.org/">curlie.org</a>
+</dt>
+<dd>Curlie se empenha para ser o maior diretório da Web editado por humanos.</dd>
+<dt>
+<a href="https://wiby.me/">wiby.me</a>
+</dt>
+<dd>O mecanismo de busca Wiby constrói uma rede de páginas como nos primórdios da internet.</dd>
+<dt>
+<a href="https://lieu.cblgh.org/">lieu.cblgh.org</a>
+</dt>
+<dd>Lieu é um mecanismo de busca alternativo. Criado em resposta aos ambientes de apatia em relação ao uso da pesquisa e descoberta de hipertexto.</dd>
+<dt>
+<a href="https://www.webtender.com">webtender.com</a>
+</dt>
+<dd>Webtender é um banco de dados sobre drinks e bartending, inspirado pelo Amiga PC.</dd>
+<dt>
+<a href="https://ottavianas-kitchen.com/">ottavianas-kitchen.com</a>
+</dt>
+<dd>Cozinha da Ottaviana é uma coleção familiar de autênticas receitas italianas.</dd>
+<dt>
+<a href="http://www.bitsavers.org/">bitsavers.org</a>
+</dt>
+<dd>Bitsavers hospeda arquivos de software, computação, comunicação, componentes, revistas e equipamentos de teste.</dd>
+<dt>
+<a href="https://amr.abime.net/">amr.abime.net</a>
+</dt>
+<dd>Amiga Magazine Rack contém análises, pré-visualizações, cheats, coverdisks, domínio público, capas, curiosidades e milhares de digitalizações de páginas das revistas Amiga.</dd>
+<dt>
+<a href="http://toastytech.com/guis/">toastytech.com/guis</a>
+</dt>
+<dd>A Galeria GUI do Toastytech reúne capturas de tela de diversas Interfaces Gráficas do Usuário e sistemas operacionais de computadores desktop.</dd>
+<dt>
+<a href="https://www.gregdonner.org/workbench/">gregdonner.org/workbench</a>
+</dt>
+<dd>A Workbench Nostalgia do Gregdonner dedica-se à preservação da interessante história do AmigaOS, especialmente da sua GUI conhecida como Workbench.</dd>
+<dt>
+<a href="https://www.exxoshost.co.uk/atari/mirror/myatari/index.htm">exxoshost.co.uk/atari/mirror/myatari</a>
+</dt>
+<dd>O local de descanso final da MyAtari Magazine, a revista online para entusiastas do Atari publicada entre outubro de 2000 e fevereiro de 2005.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Revistas e Notícias
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://news.ycombinator.com/">news.ycombinator.com</a>
+</dt>
+<dd>Hacker News (HN) é um agregador de notícias em que os usuários podem encontrar e discutir conteúdo sobre qualquer coisa que satisfaça a curiosidade intelectual.</dd>
+<dt>
+<a href="https://solar.lowtechmagazine.com/">solar.lowtechmagazine.com</a>
+</dt>
+<dd>A Low-tech Magazine destaca o potencial das tecnologias passadas e muitas vezes esquecidas e como elas podem informar práticas energéticas sustentáveis.</dd>
+<dt>
+<a href="https://www.notechmagazine.com/">notechmagazine.com</a>
+</dt>
+<dd>A No Tech Magazine hospeda todos os links e atualizações da Low-tech Magazine.</dd>
+<dt>
+<a href="http://phrack.org">phrack.org</a>
+</dt>
+<dd>Phrack é um zine mais antigo que a World Wide Web. Desde 1985, tem sido uma publicação de primeira linha para novas e emocionantes descobertas no mundo hacking.</dd>
+<dt>
+<a href="https://webzine.puffy.cafe/">webzine.puffy.cafe</a>
+</dt>
+<dd>OpenBSD Webzine, uma saborosa dose de notícias do OpenBSD.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-2">
+<h2 id="headline-5">
+Jogos e Diversão
+</h2>
+<div id="outline-text-headline-5" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://englishsandwich.github.io/">englishsandwich.github.io</a>
+</dt>
+<dd>English Sandwich é um jogo de perguntas e respostas. Você consegue adivinhar de onde vem cada prato de comida?</dd>
+<dt>
+<a href="https://wheels.org/spacewar/index.html">wheels.org/spacewar</a>
+</dt>
+<dd>Spacewar foi um dos jogos de computador mais importantes de todos os tempos. Este link é um compilado de informações históricas sobre o jogo junto com uma versão para Macintosh.</dd>
+<dt>
+<a href="https://wordsandbuttons.online/">wordsandbuttons.online</a>
+</dt>
+<dd>Words and Buttons é uma coleção de tutoriais interativos, demonstrações e questionários sobre matemática, algoritmos e programação.</dd>
+<dt>
+<a href="https://overthewire.org/">overthewire.org</a>
+</dt>
+<dd>OverTheWire oferece jogos de hacking envolventes para aprender e praticar conceitos de segurança por meio de desafios divertidos.</dd>
+<dt>
+<a href="https://unixgraybeard.com/">unixgraybeard.com</a>
+</dt>
+<dd>Uma sátira sobre os Unix Graybeards, também conhecidos como nossos eus futuros.</dd>
+<dt>
+<a href="https://lichess.org/">lichess.org</a>
+</dt>
+<dd>Lichess é um servidor de xadrez de código aberto gratuito, mantido por voluntários e doações. É um dos sites de xadrez mais populares do mundo.</dd>
+<dt>
+<a href="https://itch.io/">itch.io</a>
+</dt>
+<dd>Itch.io é uma plataforma que permite aos criadores independentes compartilhar e vender conteúdo digital exclusivo. Sem anúncios, sem limites, apenas liberdade criativa.</dd>
+<dt>
+<a href="https://xkcd.com/">xkcd.com</a>
+</dt>
+<dd>Xkcd é uma webcomic de romance, sarcasmo, matemática e linguagem.</dd>
+<dt>
+<a href="https://ascii.theater/">ascii.theater</a>
+</dt>
+<dd>ASCII Theatre transmite filmes gratuitos baseados em texto dentro do terminal.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-2">
+<h2 id="headline-6">
+Manifestos
+</h2>
+<div id="outline-text-headline-6" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://www.repair.org/">repair.org</a>
+</dt>
+<dd>A Right to Repair luta pelos direitos do consumidor. Se você o comprou algo deve ter o direito de usar, modificar e reparar onde, quando e como quiser.</dd>
+<dt>
+<a href="https://bauhausmanifesto.com/">bauhausmanifesto.com</a>
+</dt>
+<dd>Bauhaus foi uma escola de arte alemã que combinou marcenaria e artes plásticas. É famosa por uma abordagem multidisciplinar aplicada à educação em arte e design.</dd>
+<dt>
+<a href="https://useplaintext.email/">useplaintext.email</a>
+</dt>
+<dd>Use Plaintext Email apresenta as normas e convenções de e-mail em texto simples, e porquê de ele ser melhor do que e-mails em HTML.</dd>
+<dt>
+<a href="http://slow-science.org/">slow-science.org</a>
+</dt>
+<dd>O manifesto Slow Science defende uma abordagem deliberada e reflexiva da pesquisa, enfatizando a importância do tempo no contexto científico.</dd>
+<dt>
+<a href="https://brutalist-web.design/">brutalist-web.design</a>
+</dt>
+<dd>Brutalist Web Design propõe um web design focado em conteúdo bruto e fiel à sua construção, priorizando os visitantes do site, a simplicidade e o desempenho.</dd>
+<dt>
+<a href="https://www.nospec.com/">nospec.com</a>
+</dt>
+<dd>No!Spec promove práticas comerciais profissionais e éticas, recusando o trabalho especulativo e os concursos de design baseados em especulação.</dd>
+<dt>
+<a href="https://permacomputing.net/">permacomputing.net</a>
+</dt>
+<dd>Inspirada na permacultura, a permacomputação incentiva práticas de resiliência e regeneratividade na tecnologia de computadores e redes.</dd>
+<dt>
+<a href="https://www.gnu.org/philosophy/free-sw.html">gnu.org/philosophy/free-sw.html</a>
+</dt>
+<dd>O Software Livre garante que os usuários tenham a liberdade de executar, copiar, distribuir, estudar, alterar e melhorar o software.</dd>
+<dt>
+<a href="https://justforfunnoreally.dev/">justforfunnoreally.dev</a>
+</dt>
+<dd>Just for Fun No Really celebra a arte de criar software por diversão.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+Clubes
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://rawtext.club/">rawtext.club</a>
+</dt>
+<dd>Rawtext.club é uma comunidade experimental para socializar, desenvolver habilidades digitais e colaborar por meio do shell GNU/Linux.</dd>
+<dt>
+<a href="https://tilde.club/">tilde.club</a>
+</dt>
+<dd>Tilde.club é um computador Unix padrão que as pessoas utilizam respeitosamente em conjunto na sua busca compartilhada para construir páginas da web.</dd>
+<dt>
+<a href="https://sdf.org/">sdf.org</a>
+</dt>
+<dd>O Super Dimension Fortress (SDF) é um sistema Unix de Acesso Público, iniciado em 1987, para autores, professores, estudantes, pesquisadores e entusiastas de Software Livre.</dd>
+<dt>
+<a href="https://neocities.org/">neocities.org</a>
+</dt>
+<dd>Neocities é um serviço de hospedagem web de código aberto para páginas estáticas, endossando a volta da criatividade individual da web.</dd>
+<dt>
+<a href="https://emacs-berlin.org/">emacs-berlin.org</a>
+</dt>
+<dd>O Emacs Berlin reúne entusiastas do Emacs de Berlim, realizando reuniões regulares para discutir e apresentar a arte do M-x.</dd>
+<dt>
+<a href="https://250kb.club/">250kb.club</a>
+</dt>
+<dd>O clube 250KB é uma coleção com curadoria de páginas da web que focam em desempenho, eficiência e acessibilidade.</dd>
+<dt>
+<a href="https://no-js.club/">no-js.club</a>
+</dt>
+<dd>O clube No-JS é uma coleção com curadoria de páginas da web sem Javascript.</dd>
+<dt>
+<a href="https://darktheme.club/">darktheme.club</a>
+</dt>
+<dd>O clube Dark Theme é uma coleção com curadoria de páginas da web que usam um tema escuro por padrão ou respeitam as preferências dos usuários.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-8" class="outline-2">
+<h2 id="headline-8">
+Grupos
+</h2>
+<div id="outline-text-headline-8" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://5bits.one/">5bits.one</a>
+</dt>
+<dd>010 001 111</dd>
+<dt>
+<a href="https://www.inkandswitch.com/">inkandswitch.com</a>
+</dt>
+<dd>Ink &amp; Switch é um laboratório de pesquisa independente que trabalha em soluções de computação para profissionais criativos.</dd>
+<dt>
+<a href="https://suckless.org/">suckless.org</a>
+</dt>
+<dd>Suckless é um coletivo de programação que projeta softwares elegantes para usuários avançados e experientes. Eles se concentram em manter as coisas simples, mínimas e utilizáveis.</dd>
+<dt>
+<a href="https://spritely.institute/">spritely.institute</a>
+</dt>
+<dd>Spritely é um instituto que cria padrões abertos e implementações de referência de código aberto licenciado livremente para comunidades em rede seguras e descentralizadas.</dd>
+<dt>
+<a href="https://indieweb.org/">indieweb.org</a>
+</dt>
+<dd>IndieWeb é uma comunidade de sites independentes e pessoais conectados por padrões abertos. É uma alternativa às mídias sociais com foco nas pessoas.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-9" class="outline-2">
+<h2 id="headline-9">
+Pessoas
+</h2>
+<div id="outline-text-headline-9" class="outline-text-2">
+<p>
+Esta é uma lista de sites pessoais que considero interessantes e inspiradores. A maioria é relacionada à arte ou à tecnologia. Para acompanhar as novas postagens, também tenho seus feeds RSS no meu leitor de notícias (Gnus).</p>
+<p>
+<em>As visões e opiniões expressas nestes sites não refletem necessariamente as minhas. Contudo, gosto de lê-los e acompanhá-los.</em></p>
+<ul>
+<li><a href="https://anhvn.com/">anhvn.com</a></li>
+<li><a href="https://atlasminor.com">atlasminor.com</a></li>
+<li><a href="https://www.bunniestudios.com">bunniestudios.com</a></li>
+<li><a href="http://catb.org">catb.org</a></li>
+<li><a href="https://cblgh.org/">cblgh.org</a></li>
+<li><a href="https://datagubbe.se/">datagubbe.se</a></li>
+<li><a href="https://dthompson.us/">dthompson.us</a></li>
+<li><a href="https://dustycloud.org/">dustycloud.org</a></li>
+<li><a href="https://dwheeler.com/">dwheeler.com</a></li>
+<li><a href="https://eater.net">eater.net</a></li>
+<li><a href="https://emile.space/">emile.space</a></li>
+<li><a href="https://gluer.org/">gluer.org</a></li>
+<li><a href="https://helveticablanc.com">helveticablanc.com</a></li>
+<li><a href="https://heracl.es">heracl.es</a></li>
+<li><a href="https://howardism.org/">howardism.org</a></li>
+<li><a href="https://koehr.ing/">koehr.ing</a></li>
+<li><a href="https://kokorobot.ca/">kokorobot.ca</a></li>
+<li><a href="https://ladyada.net/">ladyada.net</a></li>
+<li><a href="https://www.linusakesson.net">linusakesson.net</a></li>
+<li><a href="https://mrmrs.cc/">mrmrs.cc</a></li>
+<li><a href="https://neustadt.fr/">neustadt.fr</a></li>
+<li><a href="https://parenteses.org">parenteses.org</a></li>
+<li><a href="https://www.paritybit.ca">paritybit.ca</a></li>
+<li><a href="https://protesilaos.com/">protesilaos.com</a></li>
+<li><a href="https://ratfactor.com/">ratfactor.com</a></li>
+<li><a href="https://robinrendle.com/">robinrendle.com</a></li>
+<li><a href="https://sachachua.com/">sachachua.com</a></li>
+<li><a href="https://susam.net/">susam.net</a></li>
+<li><a href="https://wingolog.org/">wingolog.org</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-10" class="outline-2">
+<h2 id="headline-10">
+Artigos
+</h2>
+<div id="outline-text-headline-10" class="outline-text-2">
+<p>
+Uma lista de publicações e textos que considero significativos e que valem a pena manter aqui. Existe também outra lista contendo outras leituras minhas no meu <a href="https://www.instapaper.com/p/12152153">perfil no Instapaper</a>. Talvez um dia eu escreva uma breve descrição para cada item desta seção também. <em>(Eu acho).</em></p>
+<ul>
+<li><a href="https://alistapart.com/article/web-typography-tables/">alistapart.com/article/web-typography-tables</a></li>
+<li><a href="https://all-things-andy-gavin.com/2011/03/12/making-crash-bandicoot-gool-part-9/">all-things-andy-gavin.com/2011/03/12/making-crash-bandicoot-gool-part-9</a></li>
+<li><a href="https://antonz.org/writing-package-manager/">antonz.org/writing-package-manager</a></li>
+<li><a href="https://austinhenley.com/blog/challengingprojects.html">austinhenley.com/blog/challengingprojects.html</a></li>
+<li><a href="https://backspace.com/notes/2009/07/design-manifestos.php">backspace.com/notes/2009/07/design-manifestos.php</a></li>
+<li><a href="https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/">badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking</a></li>
+<li><a href="https://www.bell-labs.com/usr/dmr/www/chist.html">bell-labs.com/usr/dmr/www/chist.html</a></li>
+<li><a href="https://blog.sanctum.geek.nz/vim-anti-patterns/">blog.sanctum.geek.nz/vim-anti-patterns</a></li>
+<li><a href="https://boehs.org/node/everything-i-know-about-the-xz-backdoor">boehs.org/node/everything-i-know-about-the-xz-backdoor</a></li>
+<li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">catb.org/~esr/faqs/smart-questions.html</a></li>
+<li><a href="https://corecursive.com/lisp-in-space-with-ron-garret/">corecursive.com/lisp-in-space-with-ron-garret</a></li>
+<li><a href="https://datatracker.ietf.org/doc/html/rfc791">datatracker.ietf.org/doc/html/rfc791</a></li>
+<li><a href="https://datatracker.ietf.org/doc/html/rfc2616">datatracker.ietf.org/doc/html/rfc2616</a></li>
+<li><a href="https://doc.norang.ca/org-mode.html">doc.norang.ca/org-mode.html</a></li>
+<li><a href="https://dwheeler.com/secure-programs/">dwheeler.com/secure-programs</a></li>
+<li><a href="https://ethw.org/Ancient_Computers">ethw.org/ancient_computers</a></li>
+<li><a href="https://www.gnu.org/philosophy/free-sw.html">gnu.org/philosophy/free-sw.html</a></li>
+<li><a href="https://home.cern/science/computing/birth-web/short-history-web">home.cern/science/computing/birth-web/short-history-web</a></li>
+<li><a href="https://www.inkandswitch.com/local-first/">inkandswitch.com/local-first</a></li>
+<li><a href="https://www.inkandswitch.com/slow-software/">inkandswitch.com/slow-software</a></li>
+<li><a href="https://www.in-ulm.de/~mascheck/bourne/">in-ulm.de/~mascheck/bourne</a></li>
+<li><a href="https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-taste-technology-art-280224">itsnicethat.com/articles/elizabeth-goodspeed-column-taste-technology-art-280224</a></li>
+<li><a href="https://jeffhuang.com/designed_to_last/">jeffhuang.com/designed_to_last</a></li>
+<li><a href="https://justinjackson.ca/words.html">justinjackson.ca/words.html</a></li>
+<li><a href="https://neustadt.fr/essays/the-small-web/">neustadt.fr/essays/the-small-web</a></li>
+<li><a href="https://www.newyorker.com/magazine/2003/10/06/the-challenge-gabriel-garcia-marquez">newyorker.com/magazine/2003/10/06/the-challenge-gabriel-garcia-marquez</a></li>
+<li><a href="https://publicdomainreview.org/collection/le-petit-journal-des-refusees/">publicdomainreview.org/collection/le-petit-journal-des-refusees</a></li>
+<li><a href="https://tomasp.net/commodore64/">tomasp.net/commodore64</a></li>
+<li><a href="https://wheels.org/spacewar/stone/rolling_stone.html">wheels.org/spacewar/stone/rolling_stone.html</a></li>
+</ul>
+</div>
+</div>
+]]></content:encoded></item><item><title>Aprendendo digitação por toque</title><link>https://eternodevir.com/pt-br/palimpsests/aprendendo-digita%C3%A7%C3%A3o-por-toque/</link><pubDate>Sun, 13 Aug 2023 08:45:32 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/aprendendo-digita%C3%A7%C3%A3o-por-toque/</guid><description>Assim que meu teclado X-Bows chegou, também comecei a aprender digitação por toque. É um método em que se utiliza o tato em vez da visão para localizar as teclas do teclado. Em outras palavras, um digitador por toque consegue digitar todas as teclas através da memória muscular. Essa prática envolve uma série de conceitos, que são resumidos na imagem abaixo e explicados com mais detalhes nos sites a seguir.</description><content:encoded><![CDATA[
+<p>
+Assim que meu teclado <a href="/pt-br/palimpsests/um-teclado-mais-sensato/">X-Bows</a> chegou, também comecei a aprender digitação por toque. É um método em que se utiliza o tato em vez da visão para localizar as teclas do teclado. Em outras palavras, um <strong>digitador por toque</strong> consegue digitar todas as teclas através da memória muscular. Essa prática envolve uma série de conceitos, que são resumidos na imagem abaixo e explicados com mais detalhes nos sites a seguir.</p>
+<figure>
+  <img src="/images/palimpsests/2023/image04.webp" alt="Posição de descanso dos dedos na fileira inicial">
+  <figcaption>
+    <p>Posição de descanso dos dedos na fileira inicial<sup class="footnote-reference"><a id="footnote-reference-1" href="#footnote-1">1</a></sup></p>
+  </figcaption>
+</figure>
+<p>
+É importante destacar que, além dos desafios inerentes à transição para a digitação por toque, eu também estava enfrentando mudanças de layout do teclado (de <code class="verbatim">pt-br</code> para <code class="verbatim">us</code>), design (de convencional para <em>thumb cluster</em>) e linguagem (de português para inglês) devido ao aspecto anglófono dos exercícios.</p>
+<p>
+Depois de testar algumas opções, decidi utilizar estes dois sites para aprender:</p>
+<dl>
+<dt>
+<a href="https://www.typing.com">typing.com</a>
+</dt>
+<dd>Para conteúdo teórico e exercícios básicos.</dd>
+<dt>
+<a href="https://www.keybr.com/">keybr.com</a>
+</dt>
+<dd>Para exercícios mais avançados, adaptados ao meu nível de progresso.</dd>
+</dl>
+<p>Pratiquei <strong>30 minutos por dia durante um mês</strong>. 15 minutos de <code class="verbatim">typing.com</code> seguidos de 15 minutos de <code class="verbatim">keybr.com</code>. Além disso, fiz um esforço deliberado para não abandonar o método de digitação por toque sempre que precisasse utilizar o computador para as tarefas do dia a dia. <em>Sim, o começo foi bastante difícil.</em></p>
+<p>
+Aqui estão algumas <a href="https://www.keybr.com/profile/q43lvyf">estatísticas</a> do <code class="verbatim">keybr.com</code> sobre meu processo de aprendizagem. Também anotei minhas impressões de cada dia no meu diário, que resumi por semana no final deste texto.</p>
+<p>
+Ao todo, depois de um mês dessa rotina, saí de 36 palavras por minuto com o método visual para uma média de <strong>85 palavras por minuto</strong> com a digitação por toque. Além dos benefícios em velocidade e memória muscular, digitar corretamente também me proporcionou muito mais conforto. Certamente, é uma habilidade que gostaria de ter desenvolvido antes e que é absolutamente bem-vinda nos nossos tempos.</p>
+<p>
+Após esse período de aprendizado, passei a utilizar o <a href="https://monkeytype.com/">monkeytype.com</a> para manutenção e aquecimento sempre que sinto necessidade.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Semana 1
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+Certamente, esta foi a semana mais difícil. A vontade de voltar a digitar da maneira antiga é forte. Tarefas básicas levam muito tempo, a ponto de o computador se tornar praticamente inutilizável.</p>
+<p>
+Depois de alguns dias, com bastante esforço para posicionar os dedos corretamente, tarefas simples já se tornaram possíveis.</p>
+<p>
+Do meio para o final desta semana, notei alguns sinais de fluidez.</p>
+<p>
+As práticas já começaram a envolver letras maiúsculas e um conjunto mais amplo de sequências.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Semana 2
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+A velocidade de digitação está aumentando. Agora consigo digitar letras maiúsculas rapidamente.</p>
+<p>
+As práticas começaram a envolver acentuação e pontuação.</p>
+<p>
+Apesar do aumento no número de erros, estou conseguindo manter a mesma velocidade de antes.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Semana 3
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>
+Acertar os acentos e as letras maiúsculas é bastante agradável.</p>
+<p>
+Os exercícios estão progredindo sem muitas surpresas.</p>
+<p>
+A velocidade de digitação continua aumentando, mas em um ritmo mais lento.</p>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Semana 4
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<p>
+Os erros estão se tornando muito menos frequentes.</p>
+<p>
+Já estou digitando de maneira confortável e fluída.</p>
+<p>
+Existe um dilema entre digitar mais rápido e cometer mais erros e digitar mais devagar e ser mais preciso.</p>
+<p>
+A segunda opção tende a ser mais eficaz ao final das sessões, tanto em termos de aprendizado quanto de palavras digitadas.</p>
+<div class="footnotes">
+  <hr class="footnotes-separatator">
+  <div class="footnote-definitions">
+    <div class="footnote-definition">
+      <sup id="footnote-1"><a href="#footnote-reference-1">1</a></sup>
+      <div class="footnote-body">
+        <p>Sakurambo, via <a href="https://commons.wikimedia.org/wiki/File:Keyboard_layout_english_fingers.png#/media/File:Keyboard_layout_english_fingers.png">Wikimedia Commons</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+]]></content:encoded></item><item><title>Um teclado mais sensato</title><link>https://eternodevir.com/pt-br/palimpsests/um-teclado-mais-sensato/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/um-teclado-mais-sensato/</guid><description>Eu acho teclados dispositivos fascinantes, do ponto de vista do design, tecnológico e linguístico. Afinal, um teclado abrange as tarefas de (i) comunicação em linguagem escrita, (ii) operação e controle da máquina e (iii) programação em linguagem computacional.
+Pouco tempo após começar a utilizar o GNU Emacs, eu me peguei pensando bastante sobre a posição das teclas do meu teclado. Depois de pesquisar um pouco, a primeira informação que encontrei foi sobre os diferentes layouts, principalmente o qwerty e o dvorak.</description><content:encoded><![CDATA[<p>
+Eu acho teclados dispositivos fascinantes, do ponto de vista do design, tecnológico e linguístico. Afinal, um teclado abrange as tarefas de (i) comunicação em linguagem escrita, (ii) operação e controle da máquina e (iii) programação em linguagem computacional.</p>
+<p>
+Pouco tempo após começar a utilizar o GNU Emacs, eu me peguei pensando bastante sobre a posição das teclas do meu teclado. Depois de pesquisar um pouco, a primeira informação que encontrei foi sobre os diferentes layouts, principalmente o <code class="verbatim">qwerty</code> e o <code class="verbatim">dvorak</code>.</p>
+<p>
+<figure><img src="/images/palimpsests/2023/image01.jpg"
+         alt="Qwerty Layout"/><figcaption>
+            <p>Qwerty Layout</p>
+        </figcaption>
+</figure>
+</p>
+<p>
+<figure><img src="/images/palimpsests/2023/image02.jpg"
+         alt="Dvorak Layout"/><figcaption>
+            <p>Dvorak Layout</p>
+        </figcaption>
+</figure>
+</p>
+<p>
+A princípio, a proposta do <code class="verbatim">dvorak</code> de distribuir as teclas de acordo com a frequência das letras me pareceu sensata. Porém, em um contexto de escrita em línguas diferentes, a frequência e as posições teriam que mudar para cada idioma. Por esse único motivo, acabei decidindo continuar com o <code class="verbatim">qwerty</code> por enquanto.</p>
+<p>
+Embora o layout linguístico tenha tido impacto, eu estava mais preocupado com a posição das teclas operacionais. Por exemplo, para mim, não fazia sentido o <kbd>CAPS</kbd> ser uma tecla mais fácil de pressionar do que o <kbd>ESC</kbd>. Ao ler o livro <em>Mastering Emacs</em>, acabei descobrindo que os teclados, na época da criação do GNU Emacs, eram completamente diferentes em relação aos modificadores.</p>
+<blockquote>
+<p>A much older joke is that Emacs stands for “Escape Meta Alt Control Shift.” (…) Back then, most Emacs keys were bound to a larger range of physical keyboard modifiers but when the keyboard maker (and the business that made the machines the keyboards were plugged into) went bust, Emacs had to change with the times. Instead of undoing the cornerstone of Emacs, the developers shuffled the keys around and made them work on normal, boring PC keyboards.</p>
+<p>
+— Mickey Petersen, in Mastering Emacs (2015)</p>
+</blockquote>
+<p>
+Quando vi a foto de um Space Cadet usado nas primeiras máquinas Lisp, muitos atalhos tradicionais do GNU começaram a fazer ainda mais sentido, para além do seu aspecto mnemônico. Por exemplo, o fato de a atual tecla <kbd>Alt</kbd> ser chamada de <kbd>M-</kbd> (Meta).</p>
+<figure>
+  <img src="/images/palimpsests/2023/image03.jpg" alt="Space Cadet">
+  <figcaption>
+    <p>Space Cadet utilizado na LM-2<sup class="footnote-reference"><a id="footnote-reference-1" href="#footnote-1">1</a></sup></p>
+  </figcaption>
+</figure>
+<p>
+Até esse momento eu estava utilizando o formidável <a href="https://github.com/kmonad/kmonad">KMonad</a> para trocar a posição do <kbd>CAPS</kbd> com o  <kbd>ESC</kbd>. Também passei algum tempo personalizando diferentes camadas para ter um pouco mais de conforto, mesmo em um design de teclado tradicional. Um dos recursos mais poderosos do KMonad é a possibilidade de atribuir comandos diferentes à mesma tecla com base no tipo de pressionamento. Por exemplo, eu programei minha tecla <kbd>SPC</kbd> para agir como <kbd>s-</kbd> (Super) quando pressionada por mais de 500ms, sem afetar sua funcionalidade padrão.</p>
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">#| --------------------------------------------------------------------
+</span></span><span class="line"><span class="cl">                   KMonad: BR abnt-2 100% template
+</span></span><span class="line"><span class="cl">-------------------------------------------------------------------- |#
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(defsrc
+</span></span><span class="line"><span class="cl">  esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="cl">  grv 1 2 3 4 5 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="cl">  tab q w e r t y u i o p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="cl">  caps a s d f g h j k l ; &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="cl">  lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="cl">  lctl lmet lalt spc ralt cmp rctl left down rght kp0 kp. )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(deflayer base
+</span></span><span class="line"><span class="cl">  caps f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="cl">  grv 1 2 3 4 5 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="cl">  tab q w e r t y u i o p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="cl">  @ces a s d f g h j k l ; &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="cl">  lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="cl">  lctl lmet lalt @dwm ralt @swt rctl left down rght kp0 kp. )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(deflayer xfk
+</span></span><span class="line"><span class="cl">  esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="cl">  grv 1 2 3 4 del 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="cl">  tab q w @db @df t y @bw up @fw p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="cl">  caps a ret bspc f g home left down rght end &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="cl">  lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="cl">  lctl lmet lalt spc ralt @swt rctl left down rght kp0 kp. )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(deflayer switch
+</span></span><span class="line"><span class="cl">  _ @s1 @s2 _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ @swt _ _ _ _ _ _ )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(defalias
+</span></span><span class="line"><span class="cl">  dwm (tap-hold 500 spc lmet)
+</span></span><span class="line"><span class="cl">  swt (layer-toggle switch)
+</span></span><span class="line"><span class="cl">  ces (tap-hold 500 esc lctl)
+</span></span><span class="line"><span class="cl">  s1 (layer-switch base)
+</span></span><span class="line"><span class="cl">  s2 (layer-switch xfk)
+</span></span><span class="line"><span class="cl">  bw (around ctl left)
+</span></span><span class="line"><span class="cl">  fw (around ctl right)
+</span></span><span class="line"><span class="cl">  db (around ctl bspc)
+</span></span><span class="line"><span class="cl">  df (around ctl del))</span></span></code></pre></div>
+</div>
+<p>
+Porém, mesmo após personalizar o meu teclado inteiro com o KMonad, eu ainda me incomodava com a posição física das teclas. Além disso, a ideia de executar um programa separado para modificá-las também não me agradava tanto. Foi então que descobri o teclado X-Bows.</p>
+<p>
+<figure><img src="/images/palimpsests/2023/image00.jpg"
+         alt="X-Bows"/>
+</figure>
+</p>
+<p>
+O X-Bows possui teclas alternativas para a posição do polegar, que anteriormente era utilizado principalmente para pressionar a tecla <kbd>SPC</kbd>. Com essas novas teclas, consigo controlar os modificadores <kbd>C-</kbd>, <kbd>M-</kbd> e <kbd>S-</kbd > apenas com esse dedo. Também possuo <kbd>DEL</kbd> e <kbd>RET</kbd> em fácil alcance. Em síntese, o teclado alivia combinações do dedo mais fraco, o mindinho, para dedos mais fortes próximos ao centro do teclado. Isso, junto com o espaçamento e a angulação, representa enormes ganhos em conforto e desempenho.</p>
+<p>
+Além dos benefícios ergonômicos, poder pressionar os modificadores com o polegar também é uma dádiva ao utilizar o GNU Emacs. Além disso, percebi que a adaptação ao teclado foi mais rápida do que imaginei. Vou escrever mais sobre isso em uma próxima publicação sobre <strong>digitação por toque</strong>.</p>
+<p>
+De antemão, estou utilizando o X-Bows há pouco mais de 3 meses. A única desvantagem que notei até agora foi que me acostumei tanto com seu design que estranho digitar em outros teclados, principalmente em laptops. De certa forma, fiquei um pouco dependente dele, o que não é necessariamente ruim. Idealmente, seria ótimo se existissem laptops com o design <em>thumb cluster</em> um dia. Ou melhor, se esse design se tornasse um padrão difundido.</p>
+<p>
+Até lá, a opção mais viável tem sido carregar o X-Bows sempre que necessário.</p>
+<div class="footnotes">
+  <hr class="footnotes-separatator">
+  <div class="footnote-definitions">
+    <div class="footnote-definition">
+      <sup id="footnote-1"><a href="#footnote-reference-1">1</a></sup>
+      <div class="footnote-body">
+        <p>Retro-Computing Society of Rhode Island, via <a href="https://en.wikipedia.org/wiki/Space-cadet_keyboard#/media/File:Space-cadet.jpg">Wikimedia Commons</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/pt-br/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/projects/homelab/</guid><description> Área: auto-hospedagem Data: 2022-presente
+Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.
+Sistema QEMU/KVM Ansible Debian, RHEL Docker, Podman Rede Nginx Reverse Proxy Unbound DNS Pihole WireGuard OpenSSH iptables Serviços Home Assistant Jellyfin Hugo Gotify Gerenciamento Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
+<p>
+<strong>Área</strong>: auto-hospedagem <br>
+<strong>Data</strong>: 2022-presente</p>
+<p>
+Este projeto é um servidor doméstico customizado que envolve uma ampla gama de áreas, incluindo virtualização, conteinerização, segurança de rede, administração de sistema e infraestrutura como código. Ao integrar tecnologias como Ansible e Podman, tenho testado e implementado continuamente uma variedade de ferramentas e serviços, o que me permite criar um sistema otimizado para atender minhas demandas.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Sistema
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<ul>
+<li>QEMU/KVM</li>
+<li>Ansible</li>
+<li>Debian, RHEL</li>
+<li>Docker, Podman</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Rede
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<ul>
+<li>Nginx Reverse Proxy</li>
+<li>Unbound DNS</li>
+<li>Pihole</li>
+<li>WireGuard</li>
+<li>OpenSSH</li>
+<li>iptables</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Serviços
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<ul>
+<li>Home Assistant</li>
+<li>Jellyfin</li>
+<li>Hugo</li>
+<li>Gotify</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Gerenciamento
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<ul>
+<li>Portainer</li>
+<li>Grafana</li>
+<li>Prometheus</li>
+<li>Node Exporter</li>
+<li>cAdvisor</li>
+<li>Watchtower</li>
+</ul>
+</div>
+</div>
+]]></content:encoded></item><item><title>Além das janelas</title><link>https://eternodevir.com/pt-br/palimpsests/al%C3%A9m-das-janelas/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/al%C3%A9m-das-janelas/</guid><description>Tudo teve início com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele havia parado de funcionar para tarefas básicas e, embora a maioria das pessoas apenas comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional, e preparamos inúmeras receitas juntos.</description><content:encoded><![CDATA[
+<p>
+Tudo teve início com meu primeiro laptop, um antigo Samsung RV415, hostname Vertov. Ele havia parado de funcionar para tarefas básicas e, embora a maioria das pessoas apenas comprasse um laptop mais novo, eu não poderia simplesmente me desfazer do Vertov. Ele esteve comigo durante a maior parte da minha graduação e tornou possível  tocar trilhas sonoras no 1408. Ele me acompanhou na minha primeira viagem internacional, e preparamos inúmeras receitas juntos. Vertov tinha história demais para ser apenas mais uma tragédia da obsolescência programada.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Renovando o hardware
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+A primeira ideia que me ocorreu foi fazer o máximo possível de melhorias de hardware. Após uma extensa pesquisa, encontrei alguns componentes interessantes. Troquei o HHD por um SSD e dobrei a quantidade de RAM com um novo cartucho. No entanto, abrir o laptop inteiro para fazer uma limpeza profunda foi um tanto desafiador, tive que brigar um pouco com os clipes de plástico da carcaça. Mesmo assim, deu tudo certo e consegui trocar a pasta térmica da CPU também. Embora esteja acostumado a fazer isso no meu computador de mesa, essa aventura me ensinou bastante sobre as especificidades dos laptops.</p>
+<p>
+<figure><img src="/images/palimpsests/2022/image00.jpg"
+         alt="Vertov"/>
+</figure>
+</p>
+<p>
+Em meio ao procedimento de renascimento do Vertov, comecei a entender que a lentidão que ele apresentava era um problema muito mais amplo do que parecia inicialmente. Afinal, por que ele começou a ficar lento? Poderia não ser necessariamente um problema de hardware. Além disso, por que seu processador era soldado à placa-mãe? Isso tornava qualquer modificação praticamente impossível. Mesmo após as melhorias de hardware, Vertov ainda apresentava certa dificuldade em realizar tarefas simultâneas. Ficou evidente para mim que, além do hardware, parte da lentidão se devia aos próprios programas, que estavam cada vez mais pesados ​​com recursos que nem eram necessários para meu uso.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Redescobrindo o GNU/Linux
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+Coincidentemente, em uma conversa nesse mesmo período, um amigo acabou mencionando que rodava Debian no seu computador principal — recentemente ele havia comprado um computador de mesa com as mesmas especificações que o meu. Essa menção me trouxe memórias do ensino médio, quando eu e um outro amigo instalamos o Slackware. Na época, não tínhamos ideia de tudo o que aquilo representava. No fim das contas, me convenci a instalar &#34;Linux&#34; no Vertov, na esperança de continuar o utilizando. A primeira escolha, como uma forma de lembrança, foi o Slackware.</p>
+<p>
+<figure><img src="/images/palimpsests/2022/image01.jpg"
+         alt="Slackware"/>
+</figure>
+</p>
+<p>
+Depois de instalar o Slackware, Vertov ganhou uma nova vida, e eu pude aprender e descobrir inúmeras coisas. O Windows que vinha o pesando, à medida que seus requisitos aumentavam com o tempo, exigindo componentes mais fortes. Como o Windows parecia ser a única opção existente de sistema operacional, Vertov haveria se tornando obsoleto. Logo percebi que ficar restrito a esse sistema operacional proprietário sempre me obrigaria a me desfazer do meu hardware, mesmo estando satisfeito com seus recursos. Nesse momento, iniciei um processo intenso de aprendizado sobre o movimento FOSS, GNU/Linux, e toda a sua filosofia, que me proporcionavam a liberdade de ter um sistema operacional livre. Era o início da minha jornada de usuário comum para usuário avançado.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Autonomia digital
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>
+A partir desse momento, comecei a, de fato, controlar meu computador e seus programas e não o contrário. Passei a utilizar Window Managers e até mesmo TTY como ambientes de escrita, que eram visivelmente mais leves e livres de distrações para meu uso. Descobri o GNU Emacs e seu incrível org-mode, que transformou completamente a maneira como interajo com computadores e textos. Também comecei a usar RSS para organizar e consumir conteúdo em vez de me submeter a algoritmos arbitrários. Com o tempo, aprofundei meu conhecimento prático de UNIX/Linux, ao ponto de começar meu próprio homelab. Agora, eu estava assumindo mais do que o controle sobre meu hardware ou software em si, estava começando a assumir o controle sobre minha vida digital como um todo.</p>
+<p>
+<div id="freedom-iframe-container" style="position: relative; padding-top: calc(60% + 100px); width: 100%;">
+<iframe src="https://www.fsf.org/videos/escape-to-freedom/" scrolling="no" style="overflow: hidden; margin: 0; border: 0 none; display: block; position: absolute; width: 100%; height: 100%; top: 0;"></iframe>
+</div>
+<script>
+
+window.onmessage = function (e) { if (e.data.hasOwnProperty("freedom-iframe-height")) { document.getElementById('freedom-iframe-container').style.height=`${e.data["freedom-iframe-height"]}px`;  document.getElementById('freedom-iframe-container').style["padding-top"]="unset";} };
+
+</script>
+
+
+
+
+
+</p>
+<p>
+Tudo isso aconteceu porque, em determinado momento, me recusei a abrir mão do Vertov por conta da obsolescência programada. Isso sem mencionar o reaproveitamento de um equipamento perfeitamente funcional que se tornaria lixo eletrônico. Há vida além das <em>janelas</em>.</p>
+</div>
+</div>
+]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/pt-br/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/projects/aws-cloud/</guid><description> Área: nuvem Data: 2018-2022
+Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciamento de rede, DNS, snapshots e atualização de sistema em instâncias Ubuntu Server. Para isso, utilizei uma combinação de recursos da AWS, como Route 53 e Lightsail, juntamente com ferramentas remotas e de segurança. Durante a operação, também lidei com tarefas de gerenciamento de WordPress, criação de conteúdo e design e personalização de sites.
+Ubuntu Server Route 53 Lightsail CloudWatch Bitnami Wordpress Multisite</description><content:encoded><![CDATA[<p>
+<strong>Área</strong>: nuvem <br>
+<strong>Data</strong>: 2018-2022</p>
+<p>
+Este projeto envolveu a implementação de sites dinâmicos na AWS, gerenciamento de rede, DNS, snapshots e atualização de sistema em instâncias Ubuntu Server. Para isso, utilizei uma combinação de recursos da AWS, como Route 53 e Lightsail, juntamente com ferramentas remotas e de segurança. Durante a operação, também lidei com tarefas de gerenciamento de WordPress, criação de conteúdo e design e personalização de sites.</p>
+<ul>
+<li>Ubuntu Server</li>
+<li>Route 53</li>
+<li>Lightsail</li>
+<li>CloudWatch</li>
+<li>Bitnami</li>
+<li>Wordpress Multisite</li>
+</ul>
+]]></content:encoded></item></channel></rss>

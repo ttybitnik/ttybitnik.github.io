@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>computing on Eterno Devir</title><link>https://eternodevir.com/topics/computing/</link><description>Recent content in computing on Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>vinicius.moraes@eternodevir.com (Vinícius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinícius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 28 Jan 2024 11:12:03 -0300</lastBuildDate><atom:link href="https://eternodevir.com/topics/computing/index.xml" rel="self" type="application/rss+xml"/><item><title>Bookmarks</title><link>https://eternodevir.com/dg/bookmarks/</link><pubDate>Sun, 28 Jan 2024 11:12:03 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/dg/bookmarks/</guid><description>Table of Contents Core Resources Projects Wikis and Archives Magazines and News Games and Fun Manifestos Clubs Groups People Articles Core Resources kernel.org The Linux Kernel Archives. gnu.org The GNU Project website. lua.org The Brazilian programming language Lua, designed at PUC-Rio. gnus.org Gnus Network User Services (Gnus), a message reader part of GNU Emacs. orgmode.org Org Mode is a fast and effective GNU Emacs plain text system for keeping notes, authoring documents, literate programming, planning projects, and much more.</description><content:encoded><![CDATA[
+<div class="h5"><small><strong>Table of Contents</strong></small></div>
+<nav>
+<ul>
+<li><a href="#headline-1">Core Resources</a>
+</li>
+<li><a href="#headline-2">Projects</a>
+</li>
+<li><a href="#headline-3">Wikis and Archives</a>
+</li>
+<li><a href="#headline-4">Magazines and News</a>
+</li>
+<li><a href="#headline-5">Games and Fun</a>
+</li>
+<li><a href="#headline-6">Manifestos</a>
+</li>
+<li><a href="#headline-7">Clubs</a>
+</li>
+<li><a href="#headline-8">Groups</a>
+</li>
+<li><a href="#headline-9">People</a>
+</li>
+<li><a href="#headline-10">Articles</a>
+</li>
+</ul>
+</nav>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Core Resources
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://kernel.org/">kernel.org</a>
+</dt>
+<dd>The Linux Kernel Archives.</dd>
+<dt>
+<a href="https://www.gnu.org/">gnu.org</a>
+</dt>
+<dd>The GNU Project website.</dd>
+<dt>
+<a href="https://lua.org">lua.org</a>
+</dt>
+<dd>The Brazilian programming language Lua, designed at PUC-Rio.</dd>
+<dt>
+<a href="https://gnus.org">gnus.org</a>
+</dt>
+<dd>Gnus Network User Services (Gnus), a message reader part of GNU Emacs.</dd>
+<dt>
+<a href="https://orgmode.org/">orgmode.org</a>
+</dt>
+<dd>Org Mode is a fast and effective GNU Emacs plain text system for keeping notes, authoring documents, literate programming, planning projects, and much more.</dd>
+<dt>
+<a href="https://www.ietf.org/">ietf.org</a>
+</dt>
+<dd>The Internet Engineering Task Force (IETF), founded in 1986. It is the premier standards development organization (SDO) for the Internet.</dd>
+<dt>
+<a href="https://whatwg.org/">whatwg.org</a>
+</dt>
+<dd>The Web Hypertext Application Technology Working Group (WHATWG). It is responsible for the HTML specification and other web standards.</dd>
+<dt>
+<a href="https://semver.org/">semver.org</a>
+</dt>
+<dd>The Semantic Versioning specification.</dd>
+<dt>
+<a href="https://www.conventionalcommits.org/en/v1.0.0/">conventionalcommits.org</a>
+</dt>
+<dd>The Conventional Commits specification.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Projects
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://www.linuxfromscratch.org/">linuxfromscratch.org</a>
+</dt>
+<dd>Linux from Scratch (LFS) provides step-by-step instructions for building your own custom Linux system, entirely from source code.</dd>
+<dt>
+<a href="https://missing.csail.mit.edu/">missing.csail.mit.edu</a>
+</dt>
+<dd>The missing semester of your CS education. A MIT project that covers topics to be an effective computer scientist and programmer.</dd>
+<dt>
+<a href="https://penkesu.computer/">penkesu.computer</a>
+</dt>
+<dd>Penkesu (ペンケース) computer, a Homebrew retro-style handheld PC.</dd>
+<dt>
+<a href="https://www.nand2tetris.org/">nand2tetris.org</a>
+</dt>
+<dd>From NAND to Tetris. A project for building a modern computer from first principles.</dd>
+<dt>
+<a href="https://projecteuler.net/">projecteuler.net</a>
+</dt>
+<dd>Project Euler is a series of challenging mathematical/computer programming problems.</dd>
+<dt>
+<a href="https://cses.fi/problemset/">cses.fi</a>
+</dt>
+<dd>The Code Submission Evaluation System (CSES) Problem Set is a collection of algorithm programming practice problems.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Wikis and Archives
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<dl>
+<dt>
+<a href="http://savethesounds.info/">savethesounds.info</a>
+</dt>
+<dd>The Museum of Endangered Sounds.</dd>
+<dt>
+<a href="http://textfiles.com/">textfiles.com</a>
+</dt>
+<dd>Textfiles is a glimpse into the history of writers and artists bound by the 128 characters from the American Standard Code for Information Interchange (ASCII).</dd>
+<dt>
+<a href="https://bienal.org.br/en/home/">bienal.org.br</a>
+</dt>
+<dd>The Bienal Archive, one of the most important centers of documentation of contemporary and modern artistic production in Latin America.</dd>
+<dt>
+<a href="https://livingcomputers.org/">livingcomputers.org</a>
+</dt>
+<dd>Living Computers offers online computer science education resources.</dd>
+<dt>
+<a href="https://ethw.org/">ethw.org</a>
+</dt>
+<dd>The Engineering and Technology History Wiki (ETHW) is one of the world’s premier sites for the documentation and  analysis of the history of technology.</dd>
+<dt>
+<a href="https://www.tedinski.com/archive/">tedinski.com</a>
+</dt>
+<dd>Tedinski&#39;s Archive about programming design models and design case studies on various system.</dd>
+<dt>
+<a href="http://www.typewritten.org/">typewritten.org</a>
+</dt>
+<dd>Typewritten is a retrotechnology research lab.</dd>
+<dt>
+<a href="https://archive.org/">archive.org</a>
+</dt>
+<dd>The Internet Archive is building a digital library of Internet sites and other cultural artifacts in digital form.</dd>
+<dt>
+<a href="https://visualverse.org/">visualverse.org</a>
+</dt>
+<dd>Visual Verse is a unique literary journal containing more than 11,000 pieces of ekphrastic writing.</dd>
+<dt>
+<a href="https://www.rfc-editor.org/">rfc-editor.org</a>
+</dt>
+<dd>The RFC Series (ISSN 2070-1721) contains technical and organizational documents about the Internet.</dd>
+<dt>
+<a href="https://curlie.org/">curlie.org</a>
+</dt>
+<dd>Curlie strives to be the largest human-edited directory of the Web.</dd>
+<dt>
+<a href="https://wiby.me/">wiby.me</a>
+</dt>
+<dd>The Wiby search engine builds a web of pages as it was in the earlier days of the internet.</dd>
+<dt>
+<a href="https://lieu.cblgh.org/">lieu.cblgh.org</a>
+</dt>
+<dd>Lieu is an alternative search engine. Created in response to the environs of apathy concerning the use of hypertext search and discovery.</dd>
+<dt>
+<a href="https://www.webtender.com">webtender.com</a>
+</dt>
+<dd>Webtender is a database about drinks and bartending, inspired by the Amiga PC.</dd>
+<dt>
+<a href="https://ottavianas-kitchen.com/">ottavianas-kitchen.com</a>
+</dt>
+<dd>Ottaviana&#39;s Kitchen is a family collection of authentic Italian recipes.</dd>
+<dt>
+<a href="http://www.bitsavers.org/">bitsavers.org</a>
+</dt>
+<dd>Bitsavers hosts archives of software, computing, communications, components, magazines, and test equipments.</dd>
+<dt>
+<a href="https://amr.abime.net/">amr.abime.net</a>
+</dt>
+<dd>Amiga Magazine Rack contains reviews, previews, cheats, coverdisks, public domain, covers, trivia and thousands of page scans from Amiga mags.</dd>
+<dt>
+<a href="http://toastytech.com/guis/">toastytech.com/guis</a>
+</dt>
+<dd>Toastytech&#39;s GUI Gallery gathers screen shots of various desktop computer Graphical User Interfaces and operating systems.</dd>
+<dt>
+<a href="https://www.gregdonner.org/workbench/">gregdonner.org/workbench</a>
+</dt>
+<dd>Gregdonner&#39;s Workbench Nostalgia is dedicated to the preservation of the interesting history of the AmigaOS, especially its GUI known as Workbench.</dd>
+<dt>
+<a href="https://www.exxoshost.co.uk/atari/mirror/myatari/index.htm">exxoshost.co.uk/atari/mirror/myatari</a>
+</dt>
+<dd>The final resting place of MyAtari Magazine, the online magazine for Atari enthusiasts published between October 2000 and February 2005.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Magazines and News
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://news.ycombinator.com/">news.ycombinator.com</a>
+</dt>
+<dd>Hacker News (HN) is a news aggregator where users can find and discuss content on anything that gratifies one’s intellectual curiosity.</dd>
+<dt>
+<a href="https://solar.lowtechmagazine.com/">solar.lowtechmagazine.com</a>
+</dt>
+<dd>Low-tech Magazine underscores the potential of past and often forgotten technologies and how they can inform sustainable energy practices.</dd>
+<dt>
+<a href="https://www.notechmagazine.com/">notechmagazine.com</a>
+</dt>
+<dd>No Tech Magazine hosts all links and updates from the Low-tech Magazine.</dd>
+<dt>
+<a href="http://phrack.org">phrack.org</a>
+</dt>
+<dd>Phrack is a zine older than the World Wide Web. Since 1985, it has been a premier publication for new and exciting discoveries in the world of hacking.</dd>
+<dt>
+<a href="https://webzine.puffy.cafe/">webzine.puffy.cafe</a>
+</dt>
+<dd>OpenBSD Webzine, a tasty dose of OpenBSD news.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-2">
+<h2 id="headline-5">
+Games and Fun
+</h2>
+<div id="outline-text-headline-5" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://englishsandwich.github.io/">englishsandwich.github.io</a>
+</dt>
+<dd>English Sandwich is a quiz game. Can you guess where each food dish is from?</dd>
+<dt>
+<a href="https://wheels.org/spacewar/index.html">wheels.org/spacewar</a>
+</dt>
+<dd>Spacewar was one of the most important computer games ever. This is a dump of historical information about the game along with a Macintosh build.</dd>
+<dt>
+<a href="https://wordsandbuttons.online/">wordsandbuttons.online</a>
+</dt>
+<dd>Words and Buttons is a collection of interactive tutorials, demos, and quizzes about mathematics, algorithms, and programming.</dd>
+<dt>
+<a href="https://overthewire.org/">overthewire.org</a>
+</dt>
+<dd>OverTheWire offers engaging wargames for learning and practicing security concepts through fun-filled challenges.</dd>
+<dt>
+<a href="https://unixgraybeard.com/">unixgraybeard.com</a>
+</dt>
+<dd>A satire about the Unix Graybeards, a.k.a our future selves.</dd>
+<dt>
+<a href="https://lichess.org/">lichess.org</a>
+</dt>
+<dd>Lichess is a free/libre open-source chess server powered by volunteers and donations. It is one of the most popular chess websites in the world.</dd>
+<dt>
+<a href="https://itch.io/">itch.io</a>
+</dt>
+<dd>Itch.io is a platform that enables indie creators to share and sell unique digital content. No ads, no limits, just creative freedom.</dd>
+<dt>
+<a href="https://xkcd.com/">xkcd.com</a>
+</dt>
+<dd>Xkcd is a webcomic of romance, sarcasm, math, and language.</dd>
+<dt>
+<a href="https://ascii.theater/">ascii.theater</a>
+</dt>
+<dd>ASCII Theater streams free text-based films inside the terminal.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-2">
+<h2 id="headline-6">
+Manifestos
+</h2>
+<div id="outline-text-headline-6" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://www.repair.org/">repair.org</a>
+</dt>
+<dd>Right to Repair fights for customer rights. You bought it, you should have the right to use it, modify it, and repair it wherever, whenever, and however you want.</dd>
+<dt>
+<a href="https://bauhausmanifesto.com/">bauhausmanifesto.com</a>
+</dt>
+<dd>Bauhaus was a German art school that combined crafts and the fine arts. It is famous for a multi-disciplinary approach to art and design education.</dd>
+<dt>
+<a href="https://useplaintext.email/">useplaintext.email</a>
+</dt>
+<dd>Use Plaintext Email introduces the norms and conventions of plain text email why it is better than HTML emails.</dd>
+<dt>
+<a href="http://slow-science.org/">slow-science.org</a>
+</dt>
+<dd>The Slow Science manifesto advocates for a deliberate, reflective approach to research, emphasizing the importance of time in scientific context.</dd>
+<dt>
+<a href="https://brutalist-web.design/">brutalist-web.design</a>
+</dt>
+<dd>Brutalist Web Design proposes a web design focused on raw content true to its construction, prioritizing the website visitors, simplicity, and performance.</dd>
+<dt>
+<a href="https://www.nospec.com/">nospec.com</a>
+</dt>
+<dd>No!Spec promotes professional, ethical business practices by saying no to spec work and spec-based design contests.</dd>
+<dt>
+<a href="https://permacomputing.net/">permacomputing.net</a>
+</dt>
+<dd>Inspired by the permaculture, permacomputing encourages practices of resilience and regenerativity in computer and network technology.</dd>
+<dt>
+<a href="https://www.gnu.org/philosophy/free-sw.html">gnu.org/philosophy/free-sw.html</a>
+</dt>
+<dd>Free Software guarantees that users have the freedom to run, copy, distribute, study, change and improve the software.</dd>
+<dt>
+<a href="https://justforfunnoreally.dev/">justforfunnoreally.dev</a>
+</dt>
+<dd>Just for Fun No Really celebrates the art of building software for the fun of it.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+Clubs
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://rawtext.club/">rawtext.club</a>
+</dt>
+<dd>Rawtext.club is an experimental community for socializing, digital skill building, and collaboration through the medium of the GNU/Linux shell.</dd>
+<dt>
+<a href="https://tilde.club/">tilde.club</a>
+</dt>
+<dd>Tilde.club is a standard Unix computer that people respectfully use together in their shared quest to build web pages.</dd>
+<dt>
+<a href="https://sdf.org/">sdf.org</a>
+</dt>
+<dd>The Super Dimension Fortress (SDF) is a Public Access Unix system, started in 1987, for Free Software authors, teachers, students, researchers, and enthusiasts.</dd>
+<dt>
+<a href="https://neocities.org/">neocities.org</a>
+</dt>
+<dd>Neocities is an open-source web hosting service for static pages bringing back the lost individual creativity of the web.</dd>
+<dt>
+<a href="https://emacs-berlin.org/">emacs-berlin.org</a>
+</dt>
+<dd>Emacs Berlin gathers Emacs enthusiasts based in Berlin holding regular meetings to discuss and present the art of M-x.</dd>
+<dt>
+<a href="https://250kb.club/">250kb.club</a>
+</dt>
+<dd>The 250KB Club is a curated collection of web pages that focus on performance, efficiency and accessibility.</dd>
+<dt>
+<a href="https://no-js.club/">no-js.club</a>
+</dt>
+<dd>The No-JS Club is a curated collection of Javascript-free web pages.</dd>
+<dt>
+<a href="https://darktheme.club/">darktheme.club</a>
+</dt>
+<dd>The Dark Theme Club is a curated collection of web pages using either a dark theme by default or respecting users&#39; preferences.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-8" class="outline-2">
+<h2 id="headline-8">
+Groups
+</h2>
+<div id="outline-text-headline-8" class="outline-text-2">
+<dl>
+<dt>
+<a href="https://5bits.one/">5bits.one</a>
+</dt>
+<dd>010 001 111</dd>
+<dt>
+<a href="https://www.inkandswitch.com/">inkandswitch.com</a>
+</dt>
+<dd>Ink &amp; Switch is an independent research lab working on computing solutions for creative professionals.</dd>
+<dt>
+<a href="https://suckless.org/">suckless.org</a>
+</dt>
+<dd>Suckless is a programming collective designing elegant software for advanced and experienced users. They focus on keeping things simple, minimal and usable.</dd>
+<dt>
+<a href="https://spritely.institute/">spritely.institute</a>
+</dt>
+<dd>Spritely is an institute creating open standards and freely licensed open source reference implementations for safe, decentralized networked communities.</dd>
+<dt>
+<a href="https://indieweb.org/">indieweb.org</a>
+</dt>
+<dd>IndieWeb is a community of independent and personal websites connected by open standards. It is a people-focused alternative to the social media.</dd>
+</dl>
+</div>
+</div>
+<div id="outline-container-headline-9" class="outline-2">
+<h2 id="headline-9">
+People
+</h2>
+<div id="outline-text-headline-9" class="outline-text-2">
+<p>
+Here is a list of personal websites that I find interesting and inspiring. Most of them are related to either art or technology. To keep up with new posts, I have their RSS feeds in my news reader (Gnus) as well.</p>
+<p>
+<em>Please note that the views and opinions expressed on these websites do not necessarily reflect my own. However, I do enjoy reading and hearing from them.</em></p>
+<ul>
+<li><a href="https://anhvn.com/">anhvn.com</a></li>
+<li><a href="https://atlasminor.com">atlasminor.com</a></li>
+<li><a href="https://www.bunniestudios.com">bunniestudios.com</a></li>
+<li><a href="http://catb.org">catb.org</a></li>
+<li><a href="https://cblgh.org/">cblgh.org</a></li>
+<li><a href="https://datagubbe.se/">datagubbe.se</a></li>
+<li><a href="https://dthompson.us/">dthompson.us</a></li>
+<li><a href="https://dustycloud.org/">dustycloud.org</a></li>
+<li><a href="https://dwheeler.com/">dwheeler.com</a></li>
+<li><a href="https://eater.net">eater.net</a></li>
+<li><a href="https://emile.space/">emile.space</a></li>
+<li><a href="https://gluer.org/">gluer.org</a></li>
+<li><a href="https://helveticablanc.com">helveticablanc.com</a></li>
+<li><a href="https://heracl.es">heracl.es</a></li>
+<li><a href="https://howardism.org/">howardism.org</a></li>
+<li><a href="https://koehr.ing/">koehr.ing</a></li>
+<li><a href="https://kokorobot.ca/">kokorobot.ca</a></li>
+<li><a href="https://ladyada.net/">ladyada.net</a></li>
+<li><a href="https://www.linusakesson.net">linusakesson.net</a></li>
+<li><a href="https://mrmrs.cc/">mrmrs.cc</a></li>
+<li><a href="https://neustadt.fr/">neustadt.fr</a></li>
+<li><a href="https://parenteses.org">parenteses.org</a></li>
+<li><a href="https://www.paritybit.ca">paritybit.ca</a></li>
+<li><a href="https://protesilaos.com/">protesilaos.com</a></li>
+<li><a href="https://ratfactor.com/">ratfactor.com</a></li>
+<li><a href="https://robinrendle.com/">robinrendle.com</a></li>
+<li><a href="https://sachachua.com/">sachachua.com</a></li>
+<li><a href="https://susam.net/">susam.net</a></li>
+<li><a href="https://wingolog.org/">wingolog.org</a></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-10" class="outline-2">
+<h2 id="headline-10">
+Articles
+</h2>
+<div id="outline-text-headline-10" class="outline-text-2">
+<p>
+A list of posts and texts that I consider significant and worth keeping here. There is also another list containing other readings of mine on my <a href="https://www.instapaper.com/p/12152153">Instapaper profile</a>. One day I may write a brief description for each entry on this section as well. <em>(I guess).</em></p>
+<ul>
+<li><a href="https://alistapart.com/article/web-typography-tables/">alistapart.com/article/web-typography-tables</a></li>
+<li><a href="https://all-things-andy-gavin.com/2011/03/12/making-crash-bandicoot-gool-part-9/">all-things-andy-gavin.com/2011/03/12/making-crash-bandicoot-gool-part-9</a></li>
+<li><a href="https://antonz.org/writing-package-manager/">antonz.org/writing-package-manager</a></li>
+<li><a href="https://austinhenley.com/blog/challengingprojects.html">austinhenley.com/blog/challengingprojects.html</a></li>
+<li><a href="https://backspace.com/notes/2009/07/design-manifestos.php">backspace.com/notes/2009/07/design-manifestos.php</a></li>
+<li><a href="https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/">badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking</a></li>
+<li><a href="https://www.bell-labs.com/usr/dmr/www/chist.html">bell-labs.com/usr/dmr/www/chist.html</a></li>
+<li><a href="https://blog.sanctum.geek.nz/vim-anti-patterns/">blog.sanctum.geek.nz/vim-anti-patterns</a></li>
+<li><a href="https://boehs.org/node/everything-i-know-about-the-xz-backdoor">boehs.org/node/everything-i-know-about-the-xz-backdoor</a></li>
+<li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">catb.org/~esr/faqs/smart-questions.html</a></li>
+<li><a href="https://corecursive.com/lisp-in-space-with-ron-garret/">corecursive.com/lisp-in-space-with-ron-garret</a></li>
+<li><a href="https://datatracker.ietf.org/doc/html/rfc791">datatracker.ietf.org/doc/html/rfc791</a></li>
+<li><a href="https://datatracker.ietf.org/doc/html/rfc2616">datatracker.ietf.org/doc/html/rfc2616</a></li>
+<li><a href="https://doc.norang.ca/org-mode.html">doc.norang.ca/org-mode.html</a></li>
+<li><a href="https://dwheeler.com/secure-programs/">dwheeler.com/secure-programs</a></li>
+<li><a href="https://ethw.org/Ancient_Computers">ethw.org/ancient_computers</a></li>
+<li><a href="https://www.gnu.org/philosophy/free-sw.html">gnu.org/philosophy/free-sw.html</a></li>
+<li><a href="https://home.cern/science/computing/birth-web/short-history-web">home.cern/science/computing/birth-web/short-history-web</a></li>
+<li><a href="https://www.inkandswitch.com/local-first/">inkandswitch.com/local-first</a></li>
+<li><a href="https://www.inkandswitch.com/slow-software/">inkandswitch.com/slow-software</a></li>
+<li><a href="https://www.in-ulm.de/~mascheck/bourne/">in-ulm.de/~mascheck/bourne</a></li>
+<li><a href="https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-taste-technology-art-280224">itsnicethat.com/articles/elizabeth-goodspeed-column-taste-technology-art-280224</a></li>
+<li><a href="https://jeffhuang.com/designed_to_last/">jeffhuang.com/designed_to_last</a></li>
+<li><a href="https://justinjackson.ca/words.html">justinjackson.ca/words.html</a></li>
+<li><a href="https://neustadt.fr/essays/the-small-web/">neustadt.fr/essays/the-small-web</a></li>
+<li><a href="https://www.newyorker.com/magazine/2003/10/06/the-challenge-gabriel-garcia-marquez">newyorker.com/magazine/2003/10/06/the-challenge-gabriel-garcia-marquez</a></li>
+<li><a href="https://publicdomainreview.org/collection/le-petit-journal-des-refusees/">publicdomainreview.org/collection/le-petit-journal-des-refusees</a></li>
+<li><a href="https://tomasp.net/commodore64/">tomasp.net/commodore64</a></li>
+<li><a href="https://wheels.org/spacewar/stone/rolling_stone.html">wheels.org/spacewar/stone/rolling_stone.html</a></li>
+</ul>
+</div>
+</div>
+]]></content:encoded></item><item><title>Learning touch typing</title><link>https://eternodevir.com/palimpsests/learning-touch-typing/</link><pubDate>Sun, 13 Aug 2023 08:45:32 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/palimpsests/learning-touch-typing/</guid><description>As soon as my X-Bows keyboard arrived, I also started learning touch typing. It is a method where touch is relied upon instead of vision to locate the keys on the keyboard. In other words, a touch typist can type all the keys through muscle memory. This practice involves a series of concepts, which are summarized in the image below and further explained on the websites ahead.
+Resting position of fingers on the home row1</description><content:encoded><![CDATA[
+<p>
+As soon as my <a href="/palimpsests/a-saner-keyboard/">X-Bows</a> keyboard arrived, I also started learning touch typing. It is a method where touch is relied upon instead of vision to locate the keys on the keyboard. In other words, a <strong>touch typist</strong> can type all the keys through muscle memory. This practice involves a series of concepts, which are summarized in the image below and further explained on the websites ahead.</p>
+<figure>
+  <img src="/images/palimpsests/2023/image04.webp" alt="Resting position of fingers on the home row">
+  <figcaption>
+    <p>Resting position of fingers on the home row<sup class="footnote-reference"><a id="footnote-reference-1" href="#footnote-1">1</a></sup></p>
+  </figcaption>
+</figure>
+<p>
+It is worth saying that besides the inherent challenges of transitioning to touch typing, I was also facing changes in keyboard layout (from <code class="verbatim">pt-br</code> to <code class="verbatim">us</code>), design (from conventional to thumb cluster), and language (from Portuguese to English) due to the anglophone aspect of the exercises.</p>
+<p>
+After testing some options, I decided to use these two websites for learning it:</p>
+<dl>
+<dt>
+<a href="https://www.typing.com">typing.com</a>
+</dt>
+<dd>For theoretical content and basic exercises.</dd>
+<dt>
+<a href="https://www.keybr.com/">keybr.com</a>
+</dt>
+<dd>For more advanced exercises, adapted to my progress level.</dd>
+</dl>
+<p>I practiced <strong>30 minutes a day for a month</strong>. 15 minutes on <code class="verbatim">typing.com</code> followed by 15 minutes on <code class="verbatim">keybr.com</code>. Additionally, I made a conscious effort to not abandon the touch typing method whenever I needed to use the computer for day-to-day tasks. <em>Yes, the beginning was quite difficult.</em></p>
+<p>
+Here are some <a href="https://www.keybr.com/profile/q43lvyf">statistics</a> from <code class="verbatim">keybr.com</code> about my learning process. I also wrote down my daily impressions in my journal, which I recapped by week at the end of this text.</p>
+<p>
+All in all, after a month of this routine, I went from 36 words per minute with the visual method to an average of <strong>85 words per minute</strong> with touch typing. In addition to benefits in speed and muscle memory, typing properly also provided me with much more comfort. Certainly, it is a skill that I wish I had developed sooner and that is absolutely welcome in our times.</p>
+<p>
+After this learning period, I started using <a href="https://monkeytype.com/">monkeytype.com</a> for maintenance and warming up whenever I feel the need.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Week 1
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+Certainly, this has been the hardest week. The desire to revert to typing the old way is strong. Basic tasks take a lot of time, to the point where the computer becomes practically unusable.</p>
+<p>
+After a few days, with persistent efforts to position the fingers correctly, simple tasks became manageable.</p>
+<p>
+From the middle to the end of this week, I noticed some signs of smoothness.</p>
+<p>
+Practices have already begun to involve capitalization and a broader set of sequences.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Week 2
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+Typing speed is increasing. I can now type capital letters quickly.</p>
+<p>
+Practices have begun to involve accentuation and punctuation.</p>
+<p>
+Despite an increase in the number of mistakes, I&#39;m managing to maintain the same speed as before.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Week 3
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>
+Getting accents and capital letters right is quite pleasant.</p>
+<p>
+Exercises are progressing without many surprises.</p>
+<p>
+Typing speed continues to increase, but at a slower pace.</p>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Week 4
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<p>
+Mistakes are becoming much less frequent.</p>
+<p>
+I&#39;m already typing in a comfortable and smooth manner.</p>
+<p>
+There is a dilemma between typing faster and making more mistakes and typing slower and being more accurate.</p>
+<p>
+The second option tends to be more effective at the end of the sessions, both in terms of learning and words typed.</p>
+<div class="footnotes">
+  <hr class="footnotes-separatator">
+  <div class="footnote-definitions">
+    <div class="footnote-definition">
+      <sup id="footnote-1"><a href="#footnote-reference-1">1</a></sup>
+      <div class="footnote-body">
+        <p>Sakurambo, via <a href="https://commons.wikimedia.org/wiki/File:Keyboard_layout_english_fingers.png#/media/File:Keyboard_layout_english_fingers.png">Wikimedia Commons</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+]]></content:encoded></item><item><title>A saner keyboard</title><link>https://eternodevir.com/palimpsests/a-saner-keyboard/</link><pubDate>Tue, 11 Jul 2023 08:01:06 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/palimpsests/a-saner-keyboard/</guid><description>I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.
+Shortly after starting to use GNU Emacs, I found myself thinking extensively about the position of the keys on my keyboard. After researching a bit, the first information I found was about the different layouts, particularly qwerty and dvorak.</description><content:encoded><![CDATA[<p>
+I think keyboards are fascinating devices, from design, technological, and linguistic perspectives. After all, a keyboard encompasses the tasks of (i) communicating in written language, (ii) operating and controlling the machine, and (iii) programming in computer language.</p>
+<p>
+Shortly after starting to use GNU Emacs, I found myself thinking extensively about the position of the keys on my keyboard. After researching a bit, the first information I found was about the different layouts, particularly <code class="verbatim">qwerty</code> and <code class="verbatim">dvorak</code>.</p>
+<p>
+<figure><img src="/images/palimpsests/2023/image01.jpg"
+         alt="Qwerty Layout"/><figcaption>
+            <p>Qwerty Layout</p>
+        </figcaption>
+</figure>
+</p>
+<p>
+<figure><img src="/images/palimpsests/2023/image02.jpg"
+         alt="Dvorak Layout"/><figcaption>
+            <p>Dvorak Layout</p>
+        </figcaption>
+</figure>
+</p>
+<p>
+At first, <code class="verbatim">dvorak</code>&#39;s proposal to distribute the keys according to letter frequency seemed sound to me. However, in a context of writing in different languages, the frequency and positions would have to change for each language. For that reason alone, I ended up deciding to stick with <code class="verbatim">qwerty</code> for now.</p>
+<p>
+Although the linguistic layout had an impact, I was more concerned with the position of the operational keys. For example, to me, it did not make sense for <kbd>CAPS</kbd> to be an easier-key-to-press than <kbd>ESC</kbd>. While reading the book <em>Mastering Emacs</em>,  I ended up discovering that the keyboards, at the time of GNU Emacs creation, were completely different in terms of modifiers.</p>
+<blockquote>
+<p>A much older joke is that Emacs stands for “Escape Meta Alt Control Shift.” (…) Back then, most Emacs keys were bound to a larger range of physical keyboard modifiers but when the keyboard maker (and the business that made the machines the keyboards were plugged into) went bust, Emacs had to change with the times. Instead of undoing the cornerstone of Emacs, the developers shuffled the keys around and made them work on normal, boring PC keyboards.</p>
+<p>
+— Mickey Petersen, in Mastering Emacs (2015)</p>
+</blockquote>
+<p>
+When I saw the photo of a Space Cadet used on the first Lisp machines, many traditional GNU bindings started to make even more sense, beyond their mnemonic aspect. For example, the fact that the current <kbd>Alt</kbd> key is called <kbd>M-</kbd> (Meta).</p>
+<figure>
+  <img src="/images/palimpsests/2023/image03.jpg" alt="Space Cadet">
+  <figcaption>
+    <p>Space Cadet used with the LM-2<sup class="footnote-reference"><a id="footnote-reference-1" href="#footnote-1">1</a></sup></p>
+  </figcaption>
+</figure>
+<p>
+Until this moment I was using the formidable <a href="https://github.com/kmonad/kmonad">KMonad</a> to swap the position of <kbd>CAPS</kbd> and <kbd>ESC</kbd>. I also spent some time customizing different layers to have a little more comfort even on a traditional keyboard design. One of KMonad&#39;s most powerful features is the ability to assign different commands to the same key based on the press type. For instance, I programmed my <kbd>SPC</kbd> key to act like <kbd>s-</kbd> (Super) when pressed for more than 500ms without affecting its default functionality.</p>
+<div class="src src-text">
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">#| --------------------------------------------------------------------
+</span></span><span class="line"><span class="cl">                   KMonad: BR abnt-2 100% template
+</span></span><span class="line"><span class="cl">-------------------------------------------------------------------- |#
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(defsrc
+</span></span><span class="line"><span class="cl">  esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="cl">  grv 1 2 3 4 5 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="cl">  tab q w e r t y u i o p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="cl">  caps a s d f g h j k l ; &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="cl">  lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="cl">  lctl lmet lalt spc ralt cmp rctl left down rght kp0 kp. )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(deflayer base
+</span></span><span class="line"><span class="cl">  caps f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="cl">  grv 1 2 3 4 5 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="cl">  tab q w e r t y u i o p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="cl">  @ces a s d f g h j k l ; &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="cl">  lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="cl">  lctl lmet lalt @dwm ralt @swt rctl left down rght kp0 kp. )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(deflayer xfk
+</span></span><span class="line"><span class="cl">  esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="cl">  grv 1 2 3 4 del 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="cl">  tab q w @db @df t y @bw up @fw p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="cl">  caps a ret bspc f g home left down rght end &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="cl">  lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="cl">  lctl lmet lalt spc ralt @swt rctl left down rght kp0 kp. )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(deflayer switch
+</span></span><span class="line"><span class="cl">  _ @s1 @s2 _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ @swt _ _ _ _ _ _ )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(defalias
+</span></span><span class="line"><span class="cl">  dwm (tap-hold 500 spc lmet)
+</span></span><span class="line"><span class="cl">  swt (layer-toggle switch)
+</span></span><span class="line"><span class="cl">  ces (tap-hold 500 esc lctl)
+</span></span><span class="line"><span class="cl">  s1 (layer-switch base)
+</span></span><span class="line"><span class="cl">  s2 (layer-switch xfk)
+</span></span><span class="line"><span class="cl">  bw (around ctl left)
+</span></span><span class="line"><span class="cl">  fw (around ctl right)
+</span></span><span class="line"><span class="cl">  db (around ctl bspc)
+</span></span><span class="line"><span class="cl">  df (around ctl del))</span></span></code></pre></div>
+</div>
+<p>
+However, even after customizing my entire keyboard using KMonad, I was still bothered by the physical position of the keys. Furthermore, the idea of ​​running a separate program to modify them did not appeal to me that much either. It was then that I discovered the X-Bows keyboard.</p>
+<p>
+<figure><img src="/images/palimpsests/2023/image00.jpg"
+         alt="X-Bows"/>
+</figure>
+</p>
+<p>
+The X-Bows has alternative keys for the thumb position, which was previously used primarily to press <kbd>SPC</kbd>. With these new keys, I can control the <kbd>C-</kbd>, <kbd>M-</kbd> and <kbd>S-</kbd> modifiers only with that finger. I also have <kbd>DEL</kbd> and <kbd>RET</kbd> within easy reach. In short, the keyboard relieves combinations from the weakest finger, the little finger, to stronger fingers near the keyboard&#39;s center. That, along with the spacing and angulation, represents huge gains in comfort and performance.</p>
+<p>
+Aside from the ergonomic benefits, the ability to use thumb modifiers is also a boon when using GNU Emacs. Additionally, I found adapting to the keyboard to be quicker than expected. I will write more about that in an upcoming post on <strong>touch typing</strong>.</p>
+<p>
+In advance, I have been using the X-Bows for just over 3 months now. The only disadvantage I have noticed so far is that I have become so used to its design that it feels odd typing on other keyboards, especially on laptops. I have become somewhat dependent on it, which is not necessarily a bad thing. Ideally, it would be great to have laptops with the thumb cluster design one day. Or rather, if this design became a widespread standard.</p>
+<p>
+Until then, the most viable option has been carrying the X-Bows with me whenever necessary.</p>
+<div class="footnotes">
+  <hr class="footnotes-separatator">
+  <div class="footnote-definitions">
+    <div class="footnote-definition">
+      <sup id="footnote-1"><a href="#footnote-reference-1">1</a></sup>
+      <div class="footnote-body">
+        <p>Retro-Computing Society of Rhode Island, via <a href="https://en.wikipedia.org/wiki/Space-cadet_keyboard#/media/File:Space-cadet.jpg">Wikimedia Commons</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+]]></content:encoded></item><item><title>Homelab</title><link>https://eternodevir.com/projects/homelab/</link><pubDate>Thu, 02 Mar 2023 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/projects/homelab/</guid><description> Area: self-hosting Date: 2022-current
+This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.
+System QEMU/KVM Ansible Debian, RHEL Docker, Podman Network Nginx Reverse Proxy Unbound DNS Pihole WireGuard OpenSSH iptables Services Home Assistant Jellyfin Hugo Gotify Management Portainer Grafana Prometheus Node Exporter cAdvisor Watchtower</description><content:encoded><![CDATA[
+<p>
+<strong>Area</strong>: self-hosting <br>
+<strong>Date</strong>: 2022-current</p>
+<p>
+This project is a custom home server that involves a wide range of areas, including virtualization, containerization, network security, system administration, and infrastructure as code. By integrating technologies such as Ansible and Podman, I have been continuously testing and deploying a variety of tools and services, enabling me to create an optimized system for my specific needs.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+System
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<ul>
+<li>QEMU/KVM</li>
+<li>Ansible</li>
+<li>Debian, RHEL</li>
+<li>Docker, Podman</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Network
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<ul>
+<li>Nginx Reverse Proxy</li>
+<li>Unbound DNS</li>
+<li>Pihole</li>
+<li>WireGuard</li>
+<li>OpenSSH</li>
+<li>iptables</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Services
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<ul>
+<li>Home Assistant</li>
+<li>Jellyfin</li>
+<li>Hugo</li>
+<li>Gotify</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Management
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<ul>
+<li>Portainer</li>
+<li>Grafana</li>
+<li>Prometheus</li>
+<li>Node Exporter</li>
+<li>cAdvisor</li>
+<li>Watchtower</li>
+</ul>
+</div>
+</div>
+]]></content:encoded></item><item><title>Beyond the windows</title><link>https://eternodevir.com/palimpsests/beyond-the-windows/</link><pubDate>Sat, 10 Dec 2022 08:44:01 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/palimpsests/beyond-the-windows/</guid><description>It all started with my first laptop, an old Samsung RV415, hostname Vertov. It had stopped working for basic tasks, and while most people would simply buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together.</description><content:encoded><![CDATA[
+<p>
+It all started with my first laptop, an old Samsung RV415, hostname Vertov. It had stopped working for basic tasks, and while most people would simply buy a newer laptop, I could not just dispose of Vertov. He had been with me through most of my undergraduate studies and made it possible to play the soundtracks at 1408. He was my companion on my first international trip, and we cooked countless recipes together. Vertov had too much history to be just another tragedy of planned obsolescence.</p>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Hardware revival
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+The first idea that occurred to me was to make as many hardware improvements as possible. After an extensive research, I found some interesting components. I replaced the HHD with an SSD and doubled the amount of RAM with a new stick. However, opening the laptop completely to do a deep cleaning was somewhat challenging, and I had to struggle a bit with the plastic clips on the case. Nevertheless, everything went well, and I managed to change the thermal paste on the CPU as well. Even though I am used to doing this on my desktop computer, this adventure taught me a lot about the specifics of laptops.</p>
+<p>
+<figure><img src="/images/palimpsests/2022/image00.jpg"
+         alt="Vertov"/>
+</figure>
+</p>
+<p>
+In the midst of Vertov&#39;s revival procedure, I began to understand that the slowness he was experiencing was a much broader issue than it initially seemed. After all, why had he started to get slow? It might not necessarily be a hardware issue. Also, why was his processor soldered to the motherboard? This made any modification practically impossible. Even after the hardware improvements, Vertov still had some difficulty performing simultaneous tasks. It became evident to me that, in addition to the hardware, part of the slowness was due to the programs themselves, which were becoming increasingly heavier with features that were not even necessary for my use.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+GNU/Linux rediscovery
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+Coincidentally, in a conversation during this same period, a friend ended up mentioning that he ran Debian on his main computer—he had recently bought a desktop computer with the same specifications as mine. This mention brought back memories from high school when I and another friend installed Slackware. At the time, we had no idea all that it represented. Ultimately, I convinced myself to install &#34;Linux&#34; on Vertov, hoping to continue using it. The first choice, as a remembrance, was Slackware.</p>
+<p>
+<figure><img src="/images/palimpsests/2022/image01.jpg"
+         alt="Slackware"/>
+</figure>
+</p>
+<p>
+After installing Slackware, Vertov gained a new lease of life, and I was able to learn and discover countless things. Windows had been weighing him down, as its requirements grew over time, demanding stronger components. Since Windows seemed to be the only existing operating system option, Vertov would have become obsolete. I soon realized that being restricted to this proprietary operating system would always force me to dispose of my hardware, even though I was satisfied with its features. At that point, I began an intense learning process about the FOSS movement, GNU/Linux, and its entire philosophy, which gave me the freedom to have a free operating system. This was the start of my journey from being a regular user to becoming an advanced one.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+Digital autonomy
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>
+From that moment on, I began to actually control my computer and its programs and not the other way around. I started using Window Managers and even TTY as writing environments, which were noticeably lighter and free from distractions for my use. I discovered GNU Emacs and its incredible org-mode, which completely transformed the way I interact with computers and texts. I also started using RSS to organize and consume content instead of subjecting myself to arbitrary algorithms. Over time, I deepened my practical knowledge of UNIX/Linux, to the point where I started my own homelab. Now I was taking more than control over my hardware or software itself, I was starting to take control over my digital life as a whole.</p>
+<p>
+<div id="freedom-iframe-container" style="position: relative; padding-top: calc(60% + 100px); width: 100%;">
+<iframe src="https://www.fsf.org/videos/escape-to-freedom/" scrolling="no" style="overflow: hidden; margin: 0; border: 0 none; display: block; position: absolute; width: 100%; height: 100%; top: 0;"></iframe>
+</div>
+<script>
+
+window.onmessage = function (e) { if (e.data.hasOwnProperty("freedom-iframe-height")) { document.getElementById('freedom-iframe-container').style.height=`${e.data["freedom-iframe-height"]}px`;  document.getElementById('freedom-iframe-container').style["padding-top"]="unset";} };
+
+</script>
+
+
+
+
+
+</p>
+<p>
+All of this happened because, at a certain point, I refused to give up Vertov due to planned obsolescence. Not to mention the reuse of a perfectly functional equipment that would become e-waste. There is life beyond the <em>windows</em>.</p>
+</div>
+</div>
+]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/projects/aws-cloud/</guid><description> Area: cloud Date: 2018-2022
+This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.
+Ubuntu Server Route 53 Lightsail CloudWatch Bitnami Wordpress Multisite</description><content:encoded><![CDATA[<p>
+<strong>Area</strong>: cloud <br>
+<strong>Date</strong>: 2018-2022</p>
+<p>
+This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.</p>
+<ul>
+<li>Ubuntu Server</li>
+<li>Route 53</li>
+<li>Lightsail</li>
+<li>CloudWatch</li>
+<li>Bitnami</li>
+<li>Wordpress Multisite</li>
+</ul>
+]]></content:encoded></item></channel></rss>

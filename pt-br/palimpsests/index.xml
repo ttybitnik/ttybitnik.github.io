@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Palimpsestos no Eterno Devir</title><link>https://eternodevir.com/pt-br/palimpsests/</link><description>Conteúdo recente em Palimpsestos no Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><managingEditor>vinicius.moraes@eternodevir.com (Vinícius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinícius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 12 Mar 2023 19:16:33 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/palimpsests/index.xml" rel="self" type="application/rss+xml"/><item><title>Aprendendo digitação por toque</title><link>https://eternodevir.com/pt-br/palimpsests/aprendendo-digita%C3%A7%C3%A3o-por-toque/</link><pubDate>Sun, 13 Aug 2023 08:45:32 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/aprendendo-digita%C3%A7%C3%A3o-por-toque/</guid><description>Assim que meu teclado X-Bows chegou, também comecei a aprender digitação por toque. É um método em que se utiliza o tato em vez da visão para localizar as teclas do teclado. Em outras palavras, um digitador por toque consegue digitar todas as teclas através da memória muscular. Essa prática envolve uma série de conceitos, que são resumidos na imagem abaixo e explicados com mais detalhes nos sites a seguir.</description><content:encoded><![CDATA[
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Palimpsestos no Eterno Devir</title><link>https://eternodevir.com/pt-br/palimpsests/</link><description>Conteúdo recente em Palimpsestos no Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt‑BR</language><managingEditor>vinicius.moraes@eternodevir.com (Vinícius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinícius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Sun, 12 Mar 2023 19:16:33 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/palimpsests/index.xml" rel="self" type="application/rss+xml"/><item><title>Aprendendo digitação por toque</title><link>https://eternodevir.com/pt-br/palimpsests/aprendendo-digita%C3%A7%C3%A3o-por-toque/</link><pubDate>Sun, 13 Aug 2023 08:45:32 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/aprendendo-digita%C3%A7%C3%A3o-por-toque/</guid><description>Assim que meu teclado X-Bows chegou, também comecei a aprender digitação por toque. É um método em que se utiliza o tato em vez da visão para localizar as teclas do teclado. Em outras palavras, um digitador por toque consegue digitar todas as teclas através da memória muscular. Essa prática envolve uma série de conceitos, que são resumidos na imagem abaixo e explicados com mais detalhes nos sites a seguir.</description><content:encoded><![CDATA[
 <p>
 Assim que meu teclado <a href="/pt-br/palimpsests/um-teclado-mais-sensato/">X-Bows</a> chegou, também comecei a aprender digitação por toque. É um método em que se utiliza o tato em vez da visão para localizar as teclas do teclado. Em outras palavras, um <strong>digitador por toque</strong> consegue digitar todas as teclas através da memória muscular. Essa prática envolve uma série de conceitos, que são resumidos na imagem abaixo e explicados com mais detalhes nos sites a seguir.</p>
 <figure>
@@ -124,7 +124,7 @@ Embora o layout linguístico tenha tido impacto, eu estava mais preocupado com a
 — Mickey Petersen, in Mastering Emacs (2015)</p>
 </blockquote>
 <p>
-Quando vi a foto de um Space Cadet usado nas primeiras máquinas Lisp, muitos atalhos tradicionais do GNU começaram a fazer ainda mais sentido, para além do seu aspecto mnemônico. Por exemplo, o fato de a atual tecla <kbd>Alt</kbd> ser chamada de <kbd>M</kbd> (Meta).</p>
+Quando vi a foto de um Space Cadet usado nas primeiras máquinas Lisp, muitos atalhos tradicionais do GNU começaram a fazer ainda mais sentido, para além do seu aspecto mnemônico. Por exemplo, o fato de a atual tecla <kbd>Alt</kbd> ser chamada de <kbd>M-</kbd> (Meta).</p>
 <figure>
   <img src="/images/palimpsests/2023/image03.jpg" alt="Space Cadet">
   <figcaption>
@@ -132,62 +132,54 @@ Quando vi a foto de um Space Cadet usado nas primeiras máquinas Lisp, muitos at
   </figcaption>
 </figure>
 <p>
-Até esse momento eu estava utilizando o formidável <a href="https://github.com/kmonad/kmonad">KMonad</a> para trocar a posição do <kbd>CAPS</kbd> com o  <kbd>ESC</kbd>. Também passei algum tempo personalizando diferentes camadas para ter um pouco mais de conforto, mesmo em um design de teclado tradicional. Um dos recursos mais poderosos do KMonad é a possibilidade de atribuir comandos diferentes à mesma tecla com base no tipo de pressionamento. Por exemplo, eu programei minha tecla <kbd>SPC</kbd> para agir como <kbd>s</kbd> (Super) quando pressionada por mais de 500ms, sem afetar sua funcionalidade padrão.</p>
+Até esse momento eu estava utilizando o formidável <a href="https://github.com/kmonad/kmonad">KMonad</a> para trocar a posição do <kbd>CAPS</kbd> com o  <kbd>ESC</kbd>. Também passei algum tempo personalizando diferentes camadas para ter um pouco mais de conforto, mesmo em um design de teclado tradicional. Um dos recursos mais poderosos do KMonad é a possibilidade de atribuir comandos diferentes à mesma tecla com base no tipo de pressionamento. Por exemplo, eu programei minha tecla <kbd>SPC</kbd> para agir como <kbd>s-</kbd> (Super) quando pressionada por mais de 500ms, sem afetar sua funcionalidade padrão.</p>
 <div class="src src-text">
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="ln"> 1</span><span class="cl">  #| --------------------------------------------------------------------
-</span></span><span class="line"><span class="ln"> 2</span><span class="cl">                     KMonad: BR abnt-2 100% template
-</span></span><span class="line"><span class="ln"> 3</span><span class="cl">  -------------------------------------------------------------------- |#
-</span></span><span class="line"><span class="ln"> 4</span><span class="cl">
-</span></span><span class="line"><span class="ln"> 5</span><span class="cl">  (defsrc
-</span></span><span class="line"><span class="ln"> 6</span><span class="cl">    esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
-</span></span><span class="line"><span class="ln"> 7</span><span class="cl">    grv 1 2 3 4 5 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
-</span></span><span class="line"><span class="ln"> 8</span><span class="cl">    tab q w e r t y u i o p [ [ ret del end pgdn kp7 kp8 kp9 kp+
-</span></span><span class="line"><span class="ln"> 9</span><span class="cl">    caps a s d f g h j k l ; &#39; ] kp4 kp5 kp6
-</span></span><span class="line"><span class="ln">10</span><span class="cl">    lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
-</span></span><span class="line"><span class="ln">11</span><span class="cl">    lctl lmet lalt spc ralt cmp rctl left down rght kp0 kp.
-</span></span><span class="line"><span class="ln">12</span><span class="cl">  )
-</span></span><span class="line"><span class="ln">13</span><span class="cl">
-</span></span><span class="line"><span class="ln">14</span><span class="cl">  (deflayer base
-</span></span><span class="line"><span class="ln">15</span><span class="cl">    caps f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
-</span></span><span class="line"><span class="ln">16</span><span class="cl">    grv 1 2 3 4 5 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
-</span></span><span class="line"><span class="ln">17</span><span class="cl">    tab q w e r t y u i o p [ [ ret del end pgdn kp7 kp8 kp9 kp+
-</span></span><span class="line"><span class="ln">18</span><span class="cl">    @ces a s d f g h j k l ; &#39; ] kp4 kp5 kp6
-</span></span><span class="line"><span class="ln">19</span><span class="cl">    lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
-</span></span><span class="line"><span class="ln">20</span><span class="cl">    lctl lmet lalt @dwm ralt @swt rctl left down rght kp0 kp.
-</span></span><span class="line"><span class="ln">21</span><span class="cl">  )
-</span></span><span class="line"><span class="ln">22</span><span class="cl">
-</span></span><span class="line"><span class="ln">23</span><span class="cl">  (deflayer xfk
-</span></span><span class="line"><span class="ln">24</span><span class="cl">    esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
-</span></span><span class="line"><span class="ln">25</span><span class="cl">    grv 1 2 3 4 del 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
-</span></span><span class="line"><span class="ln">26</span><span class="cl">    tab q w @db @df t y @bw up @fw p [ [ ret del end pgdn kp7 kp8 kp9 kp+
-</span></span><span class="line"><span class="ln">27</span><span class="cl">    caps a ret bspc f g home left down rght end &#39; ] kp4 kp5 kp6
-</span></span><span class="line"><span class="ln">28</span><span class="cl">    lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
-</span></span><span class="line"><span class="ln">29</span><span class="cl">    lctl lmet lalt spc ralt @swt rctl left down rght kp0 kp.
-</span></span><span class="line"><span class="ln">30</span><span class="cl">  )
-</span></span><span class="line"><span class="ln">31</span><span class="cl">
-</span></span><span class="line"><span class="ln">32</span><span class="cl">  (deflayer switch
-</span></span><span class="line"><span class="ln">33</span><span class="cl">    _ @s1 @s2 _ _ _ _ _ _ _ _ _ _ _ _ _
-</span></span><span class="line"><span class="ln">34</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-</span></span><span class="line"><span class="ln">35</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-</span></span><span class="line"><span class="ln">36</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-</span></span><span class="line"><span class="ln">37</span><span class="cl">    _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-</span></span><span class="line"><span class="ln">38</span><span class="cl">    _ _ _ _ _ @swt _ _ _ _ _ _
-</span></span><span class="line"><span class="ln">39</span><span class="cl">
-</span></span><span class="line"><span class="ln">40</span><span class="cl">  )
-</span></span><span class="line"><span class="ln">41</span><span class="cl">
-</span></span><span class="line"><span class="ln">42</span><span class="cl">
-</span></span><span class="line"><span class="ln">43</span><span class="cl">  (defalias
-</span></span><span class="line"><span class="ln">44</span><span class="cl">    dwm (tap-hold 500 spc lmet)
-</span></span><span class="line"><span class="ln">45</span><span class="cl">    swt (layer-toggle switch)
-</span></span><span class="line"><span class="ln">46</span><span class="cl">    ces (tap-hold 500 esc lctl)
-</span></span><span class="line"><span class="ln">47</span><span class="cl">    s1 (layer-switch base)
-</span></span><span class="line"><span class="ln">48</span><span class="cl">    s2 (layer-switch xfk)
-</span></span><span class="line"><span class="ln">49</span><span class="cl">
-</span></span><span class="line"><span class="ln">50</span><span class="cl">    bw (around ctl left)
-</span></span><span class="line"><span class="ln">51</span><span class="cl">    fw (around ctl right)
-</span></span><span class="line"><span class="ln">52</span><span class="cl">    db (around ctl bspc)
-</span></span><span class="line"><span class="ln">53</span><span class="cl">    df (around ctl del)
-</span></span><span class="line"><span class="ln">54</span><span class="cl">  )</span></span></code></pre></div>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">#| --------------------------------------------------------------------
+</span></span><span class="line"><span class="cl">                   KMonad: BR abnt-2 100% template
+</span></span><span class="line"><span class="cl">-------------------------------------------------------------------- |#
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(defsrc
+</span></span><span class="line"><span class="cl">  esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="cl">  grv 1 2 3 4 5 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="cl">  tab q w e r t y u i o p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="cl">  caps a s d f g h j k l ; &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="cl">  lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="cl">  lctl lmet lalt spc ralt cmp rctl left down rght kp0 kp. )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(deflayer base
+</span></span><span class="line"><span class="cl">  caps f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="cl">  grv 1 2 3 4 5 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="cl">  tab q w e r t y u i o p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="cl">  @ces a s d f g h j k l ; &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="cl">  lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="cl">  lctl lmet lalt @dwm ralt @swt rctl left down rght kp0 kp. )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(deflayer xfk
+</span></span><span class="line"><span class="cl">  esc f1 f2 f3 f4 f5 f6 f7 f8 f9 f10 f11 f12 ssrq slck pause
+</span></span><span class="line"><span class="cl">  grv 1 2 3 4 del 6 7 8 9 0 - = bspc ins home pgup nlck kp/ kp* kp-
+</span></span><span class="line"><span class="cl">  tab q w @db @df t y @bw up @fw p [ [ ret del end pgdn kp7 kp8 kp9 kp+
+</span></span><span class="line"><span class="cl">  caps a ret bspc f g home left down rght end &#39; ] kp4 kp5 kp6
+</span></span><span class="line"><span class="cl">  lsft 102d z x c v b n m , . ; / rsft up kp1 kp2 kp3 kprt
+</span></span><span class="line"><span class="cl">  lctl lmet lalt spc ralt @swt rctl left down rght kp0 kp. )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(deflayer switch
+</span></span><span class="line"><span class="cl">  _ @s1 @s2 _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+</span></span><span class="line"><span class="cl">  _ _ _ _ _ @swt _ _ _ _ _ _ )
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">(defalias
+</span></span><span class="line"><span class="cl">  dwm (tap-hold 500 spc lmet)
+</span></span><span class="line"><span class="cl">  swt (layer-toggle switch)
+</span></span><span class="line"><span class="cl">  ces (tap-hold 500 esc lctl)
+</span></span><span class="line"><span class="cl">  s1 (layer-switch base)
+</span></span><span class="line"><span class="cl">  s2 (layer-switch xfk)
+</span></span><span class="line"><span class="cl">  bw (around ctl left)
+</span></span><span class="line"><span class="cl">  fw (around ctl right)
+</span></span><span class="line"><span class="cl">  db (around ctl bspc)
+</span></span><span class="line"><span class="cl">  df (around ctl del))</span></span></code></pre></div>
 </div>
 <p>
 Porém, mesmo após personalizar o meu teclado inteiro com o KMonad, eu ainda me incomodava com a posição física das teclas. Além disso, a ideia de executar um programa separado para modificá-las também não me agradava tanto. Foi então que descobri o teclado X-Bows.</p>
@@ -197,7 +189,7 @@ Porém, mesmo após personalizar o meu teclado inteiro com o KMonad, eu ainda me
 </figure>
 </p>
 <p>
-O X-Bows possui teclas alternativas para a posição do polegar, que anteriormente era utilizado principalmente para pressionar a tecla <kbd>SPC</kbd>. Com essas novas teclas, consigo controlar os modificadores <kbd>C</kbd>, <kbd>M</kbd> e <kbd>S</kbd > apenas com esse dedo. Também possuo <kbd>DEL</kbd> e <kbd>RET</kbd> em fácil alcance. Em síntese, o teclado alivia combinações do dedo mais fraco, o mindinho, para dedos mais fortes próximos ao centro do teclado. Isso, junto com o espaçamento e a angulação, representa enormes ganhos em conforto e desempenho.</p>
+O X-Bows possui teclas alternativas para a posição do polegar, que anteriormente era utilizado principalmente para pressionar a tecla <kbd>SPC</kbd>. Com essas novas teclas, consigo controlar os modificadores <kbd>C-</kbd>, <kbd>M-</kbd> e <kbd>S-</kbd > apenas com esse dedo. Também possuo <kbd>DEL</kbd> e <kbd>RET</kbd> em fácil alcance. Em síntese, o teclado alivia combinações do dedo mais fraco, o mindinho, para dedos mais fortes próximos ao centro do teclado. Isso, junto com o espaçamento e a angulação, representa enormes ganhos em conforto e desempenho.</p>
 <p>
 Além dos benefícios ergonômicos, poder pressionar os modificadores com o polegar também é uma dádiva ao utilizar o GNU Emacs. Além disso, percebi que a adaptação ao teclado foi mais rápida do que imaginei. Vou escrever mais sobre isso em uma próxima publicação sobre <strong>digitação por toque</strong>.</p>
 <p>
@@ -494,7 +486,7 @@ No entanto, tornou-se cada vez mais difícil encontrar expressões de vontade se
 </figure>
 </p>
 <p>
-Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entre Alemanha e Áustria, tive a sorte de encontrar um cinema de rua exibindo o filme brasileiro <em><a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a></em> — que assisti durante uma das duas únicas sessões que aconteceram em Juiz de Fora. A obra, de Marcelo Caetano, me lembra a vontade genuína de Glauber em criar algo instigante que, mais do que compreender, ousa nos convidar a sentir. Na escuridão das fileiras vazias daquele cinema de rua alemão, reafirmei o quão surpreendentes e fascinantes são estes espaços que ainda incentivam a diversidade e a experimentação. Depois de viver sete anos perto do último cinema de rua de Juiz de Fora, nunca me senti tão perto de casa mesmo estando tão distante.</p>
+Na minha busca por um desses lugares em Passau, pequena cidade na fronteira entre Alemanha e Áustria, tive a sorte de encontrar um cinema de rua exibindo o filme brasileiro <a href="https://www.youtube.com/watch?v=GxCOCthjc7o">Corpo Elétrico</a> — que assisti durante uma das duas únicas sessões que aconteceram em Juiz de Fora. A obra, de Marcelo Caetano, me lembra a vontade genuína de Glauber em criar algo instigante que, mais do que compreender, ousa nos convidar a sentir. Na escuridão das fileiras vazias daquele cinema de rua alemão, reafirmei o quão surpreendentes e fascinantes são estes espaços que ainda incentivam a diversidade e a experimentação. Depois de viver sete anos perto do último cinema de rua de Juiz de Fora, nunca me senti tão perto de casa mesmo estando tão distante.</p>
 <p>
 <figure><img src="/images/palimpsests/2019/image02.jpg"
          alt="Metropolis"/><figcaption>

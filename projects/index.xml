@@ -62,10 +62,10 @@ Management
 </ul>
 </div>
 </div>
-]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/projects/aws-cloud/</guid><description> Area: cloud‑hosting Date: 2018-2022
+]]></content:encoded></item><item><title>AWS Cloud</title><link>https://eternodevir.com/projects/aws-cloud/</link><pubDate>Fri, 13 Jul 2018 22:07:49 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/projects/aws-cloud/</guid><description> Area: cloud Date: 2018-2022
 This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.
 Ubuntu Server Route 53 Lightsail CloudWatch Bitnami Wordpress Multisite</description><content:encoded><![CDATA[<p>
-<strong>Area</strong>: cloud‑hosting <br>
+<strong>Area</strong>: cloud <br>
 <strong>Date</strong>: 2018-2022</p>
 <p>
 This project involved deploying dynamic websites on AWS, managing network, DNS, snapshots, and system updates on Ubuntu Server instances. To accomplish this, I employed a combination of AWS resources, such as Route 53 and Lightsail, along with remote and security tools. During its operation, I also handled other tasks including WordPress management, content creation, and website design and customization.</p>

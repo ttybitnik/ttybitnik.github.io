@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>literature no Eterno Devir</title><link>https://eternodevir.com/pt-br/topics/literature/</link><description>Conteúdo recente em literature no Eterno Devir</description><generator>Hugo -- gohugo.io</generator><language>pt‑BR</language><managingEditor>vinicius.moraes@eternodevir.com (Vinícius Moraes)</managingEditor><webMaster>vinicius.moraes@eternodevir.com (Vinícius Moraes)</webMaster><copyright>CC BY-SA 4.0</copyright><lastBuildDate>Wed, 03 Jan 2024 19:28:25 -0300</lastBuildDate><atom:link href="https://eternodevir.com/pt-br/topics/literature/index.xml" rel="self" type="application/rss+xml"/><item><title>Livros</title><link>https://eternodevir.com/pt-br/dg/books/</link><pubDate>Wed, 03 Jan 2024 19:28:25 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/dg/books/</guid><description>Destaques Toda Poesia Open City Ficções Poemas Malone Dies Metamorfoses Poemas 1913 A Primeira Pessoa Lista em ordem alfabética Favorite Books Livro Autor Ano A Anatomia da Influência: literatura como modo de vida Harold Bloom 2011 A Arte no Horizonte do Provável Haroldo de Campos 1977 A Primeira Pessoa Ali Smith 2008 A Tradução e a Letra ou o Albergue do Longínquo Antoine Berman 2004 Also sprach Zarathustra Friedrich Nietzsche 1998 Antologia da Literatura Fantástica Jorge Luis Borges 1940 Ars Poetica Horatius -19 As Moscas Jean-Paul Sartre 1942 Camera Lucida: Reflections on Photography Roland Barthes 1980 Cartas Pônticas Ovidius 16 Confesso Que Vivi Pablo Neruda 1974 Die schreckliche deutsche Sprache Mark Twain 1880 Edgar Allan Poe: Complete Tales and Poems Edgar Allan Poe 1845 Ein Brasilianer in Berlin João Ubaldo Ribeiro 1994 Ele que o Abismo Viu: Epopeia de Gilgámesh Sîn-lēqi-unninni -2000 Escola de Tradutores Paulo Rónai 2012 Estética da Criação Verbal Mikhail Bakhtin 1979 Ficções Jorge Luis Borges 1944 Gota d&amp;#39;Água Chico Buarque 1975 História do Cinema Mundial Fernando Mascarello 2006 How to Write a Thesis Umberto Eco 1977 Ilíada Hómēros -700 Interpretação e Superinterpretação Umberto Eco 1992 Magia e Técnica, Arte e Política: ensaios sobre literatura e história da cultura Walter Benjamin 1985 Malleus Maleficarum Heinrich Kramer 1485 Malone Dies Samuel Beckett 1951 Medeia Eurípedes -431 Memórias do Subsolo Fyódor Dostoyévskiy 1864 Memórias Póstumas de Brás Cubas Machado de Assis 1881 Metamorfoses Ovidius 8 Natural Language Annotation for Machine Learning James Pustejovsky 2012 O Homem Unidimensional Herbert Marcuse 1964 O livro de Catulo Catullus -60 O Mito de Sísifo Albert Camus 1942 O que é um autor?</description><content:encoded><![CDATA[
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Destaques
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+<div class="grid grid--poster">
+  
+  <div class="grid__item">
+    <figure class="margin-0 padding-0">
+      <img src="/images/dg/books/toda-poesia.jpg" alt="Toda Poesia" class="grid__img grid__img--poster">
+      <figcaption class="grid__caption">
+	<small>
+	  <a href="https://www.goodreads.com/book/show/17455042">
+	    
+	    
+	    Toda Poesia
+	  </a>
+	</small>
+      </figcaption>
+    </figure>
+  </div>
+  
+  <div class="grid__item">
+    <figure class="margin-0 padding-0">
+      <img src="/images/dg/books/open-city.jpg" alt="Open City" class="grid__img grid__img--poster">
+      <figcaption class="grid__caption">
+	<small>
+	  <a href="https://www.goodreads.com/book/show/8526694">
+	    
+	    
+	    Open City
+	  </a>
+	</small>
+      </figcaption>
+    </figure>
+  </div>
+  
+  <div class="grid__item">
+    <figure class="margin-0 padding-0">
+      <img src="/images/dg/books/fic%c3%a7%c3%b5es.jpg" alt="Ficções" class="grid__img grid__img--poster">
+      <figcaption class="grid__caption">
+	<small>
+	  <a href="https://www.goodreads.com/book/show/3640776">
+	    
+	    
+	    Ficções
+	  </a>
+	</small>
+      </figcaption>
+    </figure>
+  </div>
+  
+  <div class="grid__item">
+    <figure class="margin-0 padding-0">
+      <img src="/images/dg/books/poemas.jpg" alt="Poemas" class="grid__img grid__img--poster">
+      <figcaption class="grid__caption">
+	<small>
+	  <a href="https://www.goodreads.com/book/show/12902036">
+	    
+	    
+	    Poemas
+	  </a>
+	</small>
+      </figcaption>
+    </figure>
+  </div>
+  
+  <div class="grid__item">
+    <figure class="margin-0 padding-0">
+      <img src="/images/dg/books/malone-dies.jpg" alt="Malone Dies" class="grid__img grid__img--poster">
+      <figcaption class="grid__caption">
+	<small>
+	  <a href="https://www.goodreads.com/book/show/54042">
+	    
+	    
+	    Malone Dies
+	  </a>
+	</small>
+      </figcaption>
+    </figure>
+  </div>
+  
+  <div class="grid__item">
+    <figure class="margin-0 padding-0">
+      <img src="/images/dg/books/metamorfoses.jpg" alt="Metamorfoses" class="grid__img grid__img--poster">
+      <figcaption class="grid__caption">
+	<small>
+	  <a href="https://www.goodreads.com/book/show/13482633">
+	    
+	    
+	    Metamorfoses
+	  </a>
+	</small>
+      </figcaption>
+    </figure>
+  </div>
+  
+  <div class="grid__item">
+    <figure class="margin-0 padding-0">
+      <img src="/images/dg/books/poemas-1913-1956.jpg" alt="Poemas 1913-1956" class="grid__img grid__img--poster">
+      <figcaption class="grid__caption">
+	<small>
+	  <a href="https://www.goodreads.com/book/show/18387160">
+	    
+	    
+	    Poemas 1913
+	  </a>
+	</small>
+      </figcaption>
+    </figure>
+  </div>
+  
+  <div class="grid__item">
+    <figure class="margin-0 padding-0">
+      <img src="/images/dg/books/a-primeira-pessoa.jpg" alt="A Primeira Pessoa" class="grid__img grid__img--poster">
+      <figcaption class="grid__caption">
+	<small>
+	  <a href="https://www.goodreads.com/book/show/18136903">
+	    
+	    
+	    A Primeira Pessoa
+	  </a>
+	</small>
+      </figcaption>
+    </figure>
+  </div>
+  
+</div>
+</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Lista em ordem alfabética
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+<table class="width-100">
+  <caption class="sr-only">
+    Favorite Books
+  </caption>
+  <thead>
+    <tr>
+      <th>Livro</th>
+      <th>Autor</th>
+      <th class="align-right">Ano</th>
+    </tr>
+  </thead>
+  <tbody>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/18632171">A Anatomia da Influência: literatura como modo de vida</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Harold Bloom
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2011
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/11174946">A Arte no Horizonte do Provável</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Haroldo de Campos
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1977
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/18136903">A Primeira Pessoa</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Ali Smith
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2008
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/18395516">A Tradução e a Letra ou o Albergue do Longínquo</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Antoine Berman
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2004
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/18446283">Also sprach Zarathustra</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Friedrich Nietzsche
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1998
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/18457911">Antologia da Literatura Fantástica</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Jorge Luis Borges
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1940
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/17368752">Ars Poetica</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Horatius
+      </td>
+      <td data-cell="Ano" class="align-right">
+	-19
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/18367037">As Moscas</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Jean-Paul Sartre
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1942
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/497164">Camera Lucida: Reflections on Photography</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Roland Barthes
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1980
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/42288065">Cartas Pônticas</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Ovidius
+      </td>
+      <td data-cell="Ano" class="align-right">
+	16
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/50756182">Confesso Que Vivi</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Pablo Neruda
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1974
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/8144897">Die schreckliche deutsche Sprache</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Mark Twain
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1880
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/16126730">Edgar Allan Poe: Complete Tales and Poems</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Edgar Allan Poe
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1845
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/13614950">Ein Brasilianer in Berlin</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	João Ubaldo Ribeiro
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1994
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/36391645">Ele que o Abismo Viu: Epopeia de Gilgámesh</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Sîn-lēqi-unninni
+      </td>
+      <td data-cell="Ano" class="align-right">
+	-2000
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/16091251">Escola de Tradutores</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Paulo Rónai
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2012
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/15777718">Estética da Criação Verbal</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Mikhail Bakhtin
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1979
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/3640776">Ficções</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Jorge Luis Borges
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1944
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/6435901">Gota d&#39;Água</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Chico Buarque
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1975
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/16177584">História do Cinema Mundial</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Fernando Mascarello
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2006
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/23461426">How to Write a Thesis</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Umberto Eco
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1977
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/28236189">Ilíada</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Hómēros
+      </td>
+      <td data-cell="Ano" class="align-right">
+	-700
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/11357966">Interpretação e Superinterpretação</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Umberto Eco
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1992
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/13583937">Magia e Técnica, Arte e Política: ensaios sobre literatura e história da cultura</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Walter Benjamin
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1985
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/25695813">Malleus Maleficarum</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Heinrich Kramer
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1485
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/54042">Malone Dies</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Samuel Beckett
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1951
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/13496059">Medeia</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Eurípedes
+      </td>
+      <td data-cell="Ano" class="align-right">
+	-431
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/517435">Memórias do Subsolo</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Fyódor Dostoyévskiy
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1864
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/87264">Memórias Póstumas de Brás Cubas</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Machado de Assis
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1881
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/13482633">Metamorfoses</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Ovidius
+      </td>
+      <td data-cell="Ano" class="align-right">
+	8
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/15808115">Natural Language Annotation for Machine Learning</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	James Pustejovsky
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2012
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/50439241">O Homem Unidimensional</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Herbert Marcuse
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1964
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/25233531">O livro de Catulo</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Catullus
+      </td>
+      <td data-cell="Ano" class="align-right">
+	-60
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/34638757">O Mito de Sísifo</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Albert Camus
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1942
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/48563344">O que é um autor?</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Roger Chartier
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2012
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/12024090">Obra Aberta</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Umberto Eco
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1962
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/28236235">Odisseia</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Hómēros
+      </td>
+      <td data-cell="Ano" class="align-right">
+	-700
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/8526694">Open City</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Teju Cole
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2011
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/699151">Palimpsests: Literature in the Second Degree</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Gérard Genette
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1982
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/12902036">Poemas</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Wisława Szymborska
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1981
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/18387160">Poemas 1913-1956</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Bertolt Brecht
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1969
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/13609325">Primeiro como tragédia, depois como farsa</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Slavoj Žižek
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2009
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/1431007">Reception Studies</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Lorna Hardwick
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2003
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/12985">The Tempest</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	William Shakespeare
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1611
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/17455042">Toda Poesia</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Paulo Leminski
+      </td>
+      <td data-cell="Ano" class="align-right">
+	2013
+      </td>
+    </tr>
+  
+    <tr>
+      <td data-cell="Livro">
+	<a href="https://www.goodreads.com/book/show/18414">Utopia</a>
+      </td>
+      <td data-cell="Autor" class="nowrap">
+	Thomas More
+      </td>
+      <td data-cell="Ano" class="align-right">
+	1516
+      </td>
+    </tr>
+  
+  </tbody>
+</table>
+</p>
+</div>
+</div>
+]]></content:encoded></item><item><title>Citações</title><link>https://eternodevir.com/pt-br/dg/quotes/</link><pubDate>Wed, 04 Oct 2023 19:28:25 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/dg/quotes/</guid><description>Novas entradas são organizadas mais ou menos intencionalmente.
+Certain things are visible only in speech.
+— Teju Cole, escritor/fotógrafo
+Aqui poemas para lerem, em silêncio, o olho, o coração e a inteligência…
+— Paulo Leminski, poeta
+If you ask me for really dangerous ideological films, for ideology at its purest, I’d say Kung Fu Panda.
+— Slavoj Žižek, filósofo
+Alors, Monsieur Beckett, vous êtes anglais ?
+Au contraire.
+— Samuel Beckett, dramaturgo</description><content:encoded><![CDATA[<p>
+Novas entradas são organizadas mais ou menos intencionalmente.</p>
+<p>
+<br></p>
+<blockquote>
+<p>Certain things are visible only in speech.</p>
+<p>
+— <strong>Teju Cole</strong>, escritor/fotógrafo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Aqui poemas para lerem, em silêncio, o olho, o coração e a inteligência…</p>
+<p>
+— <strong>Paulo Leminski</strong>, poeta</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>If you ask me for really dangerous ideological films, for ideology at its purest, I’d say Kung Fu Panda.</p>
+<p>
+— <strong>Slavoj Žižek</strong>, filósofo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Alors, Monsieur Beckett, vous êtes anglais ?</p>
+<p>
+Au contraire.</p>
+<p>
+— <strong>Samuel Beckett</strong>, dramaturgo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Cuando miro la forma de América en el mapa, amor, a ti te veo.</p>
+<p>
+— <strong>Pablo Neruda</strong>, poeta</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Design something that gets better with use.</p>
+<p>
+— <strong>Bill Moggridge</strong>, designer</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Fracassei em tudo o que tentei na vida. Tentei alfabetizar as crianças brasileiras, não consegui. Tentei salvar os índios, não consegui. Tentei fazer uma universidade séria e fracassei. Tentei fazer o Brasil desenvolver-se autonomamente e fracassei. Mas os fracassos são minhas vitórias. Eu detestaria estar no lugar de quem me venceu.</p>
+<p>
+— <strong>Darcy Ribeiro</strong>, antropólogo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Try again. Fail again. Fail better.</p>
+<p>
+— <strong>Samuel Beckett</strong>, dramaturgo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>A book is not an isolated being: it is a relationship, an axis of innumerable relationships.</p>
+<p>
+— <strong>Jorge Luis Borges</strong>, escritor</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Nothing&#39;s sacred for those who think. The filthy fingering of touchy subjects is music to their ears.</p>
+<p>
+— <strong>Wisława Szymborska</strong>, poeta</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Poetry is just the evidence of life. If your life is burning well, poetry is just the ash.</p>
+<p>
+— <strong>Leonard Cohen</strong>, músico</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>A photograph is both a pseudo-presence and a token of absence.</p>
+<p>
+— <strong>Roland Barthes</strong>, semioticista</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>There&#39;s beauty in simplicity; the smallest moments can hold the greatest significance.</p>
+<p>
+— <strong>Wong Kar-Wai</strong>, diretor</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better.</p>
+<p>
+— <strong>Edsger Dijkstra</strong>, cientista da computação</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>A luz no fim do túnel é, no máximo, outro trem vindo em alta velocidade.</p>
+<p>
+— <strong>Slavoj Žižek</strong>, filósofo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>The Times asked Samuel Beckett for his New Year&#39;s resolutions and hopes.</p>
+<p>
+resolutions colon zero stop period hopes colon zero stop beckett.</p>
+<p>
+— <strong>Samuel Beckett</strong>, dramaturgo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Pessimism of the intellect, optimism of the will.</p>
+<p>
+— <strong>Antonio Gramsci</strong>, filósofo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>I&#39;m not interested in how people move, but what moves them.</p>
+<p>
+— <strong>Pina Bausch</strong>, coreógrafa</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>I don&#39;t want to show things, but to give people the desire to see.</p>
+<p>
+— <strong>Agnès Varda</strong>, diretora</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>O objetivo de toda arte não é algo impossível? O poeta exprime (ou quer exprimir) o inexprimível, o pintor reproduz o irreproduzível, o estatuário fixa o infixável. Não é surpreendente, pois, que o tradutor se empenhe em traduzir o intraduzível.</p>
+<p>
+— <strong>Paulo Rónai</strong>, tradutor</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Soyez réalistes, demandez l&#39;impossible.</p>
+<p>
+— May 68, Sciences-Po</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>É tempo de não mais se contentarem com essas gotas no oceano.</p>
+<p>
+— <strong>Bertolt Brecht</strong>, dramaturgo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>POESIA: “words set to music” (Dante via Pound), “uma viagem ao desconhecido” (Maiakovski), “cernes e medulas” (Ezra Pound), “a fala do infalável (Goethe), “linguagem voltada para a sua própria materialidade” (Jakobson), “permanente hesitação entre som e sentido” (Paul Valéry), “fundação do ser mediante a palavra” (Heidegger), “a religião original da humanidade” (Novalis), “as melhores palavras na melhor ordem” (Coleridge), “emoção relembrada na tranquilidade” (Wordsworth), “ciência e paixão” (Alfred de Vigny), “se faz com palavras, não com idéias” (Mallarmé), “música que se faz com idéias” (Ricardo Reis/ Fernando Pessoa), “um fingimento deveras” (Fernando Pessoa), “criticism of life” (Mathew Arnold), “palavra-coisa” (Sartre), “linguagem em estado de pureza selvagem” (Octavio Paz), “poetry is to inspire” (Bob Dylan), “design de linguagem” (Décio Pignatari), “lo imposible hecho posible” (García Lorca), “aquilo que se perde na tradução” (Robert Frost), “a liberdade da minha linguagem” (Paulo Leminski)…</p>
+<p>
+— <strong>Paulo Leminski</strong>, poeta</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>My world has just become perfect, pain is also a joy. Go away, or you&#39;ll learn: a wise man is also insane.</p>
+<p>
+– <strong>Friedrich Nietzsche</strong>, filósofo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Colorless green ideas sleep furiously.</p>
+<p>
+— <strong>Noam Chomsky</strong>, linguista</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Insignificance, my friend, is the essence of existence… It&#39;s all around us, we must learn to love it.</p>
+<p>
+— <strong>Milan Kundera</strong>, romancista</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>A photographer is literally someone who writes and rewrites the world with light and shadow.</p>
+<p>
+— <strong>Sebastião Salgado</strong>, fotógrafo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Being diferent isn&#39;t good or bad. It only means that you are brave enough to be yourself.</p>
+<p>
+— <strong>Albert Camus</strong>, filósofo</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Pedicabo ego vos et irrumabo.</p>
+<p>
+— <strong>Valerius Catullus</strong>, poeta</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>Il faut être absolument moderne.</p>
+<p>
+— <strong>Arthur Rimbaud</strong>, poeta</p>
+</blockquote>
+<p>
+<br></p>
+<blockquote>
+<p>A verdade está na totalidade.</p>
+<p>
+— <strong>Friedrich Hegel</strong>, filósofo</p>
+</blockquote>
+]]></content:encoded></item><item><title>Lendo</title><link>https://eternodevir.com/pt-br/dg/reading/</link><pubDate>Tue, 04 Apr 2023 19:28:25 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/dg/reading/</guid><description> Lendo agora Lido recentemente</description><content:encoded><![CDATA[
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Lendo agora
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+<div id="current_reading">
+<script src="https://www.goodreads.com/review/grid_widget/172004246.Vin%C3%ADcius's%20currently-reading%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=4&order=d&shelf=currently-reading&sort=date_added&widget_id=1702895292" type="text/javascript" charset="utf-8"></script>
+</div>
+</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Lido recentemente
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+<script src="https://www.goodreads.com/review/grid_widget/172004246.Vin%C3%ADcius's%20bookshelf:%20read?cover_size=medium&hide_link=true&hide_title=true&num_books=8&order=d&shelf=read&sort=date_read&widget_id=1704296522" type="text/javascript" charset="utf-8"></script>
+
+<script>
+  document.querySelectorAll('.gr_grid_container').forEach(function(container) {
+    container.classList.remove('gr_grid_container');
+    container.classList.add('grid', 'grid--poster');
+  });
+
+  document.querySelectorAll('.gr_grid_book_container').forEach(function(container) {
+    container.classList.replace('gr_grid_book_container', 'grid__item');
+  });
+
+  var imgElements = document.querySelectorAll('.grid__item img');
+
+  imgElements.forEach(function (imgElement) {
+    var src = imgElement.getAttribute('src');
+    src = src.replace(/_SX98_.|_SY160_.|Y160_./g, '');
+
+    var match = src.match(/\/(\d+)\.jpg/);
+    var bookId = match ? match[1] : null;
+
+    var bookUrl = bookId ? 'https://www.goodreads.com/book/show/' + bookId : null;
+
+    imgElement.setAttribute('src', src);
+
+    var linkElement = imgElement.closest('.grid__item').querySelector('a');
+    linkElement.setAttribute('href', bookUrl);
+
+    var container = imgElement.closest('.grid__item');
+
+    var title = linkElement.getAttribute('title');
+    var trimmedTitle = title.split(':')[0].trim(); 
+
+    var href = linkElement.getAttribute('href');
+    var alt = imgElement.getAttribute('alt');
+    var border = imgElement.getAttribute('border');
+
+    var figureElement = document.createElement('figure');
+    figureElement.setAttribute('style', 'padding: 0; margin: 0;');
+
+    var newImgElement = document.createElement('img');
+    newImgElement.classList.add('grid__img', 'grid__img--poster');
+    newImgElement.setAttribute('alt', alt);
+    newImgElement.setAttribute('border', border);
+    newImgElement.setAttribute('src', src);
+
+    var newFigcaptionElement = document.createElement('figcaption');
+    newFigcaptionElement.classList.add('grid__caption');
+
+    var newSmallElement = document.createElement('small');
+
+    var newLinkElement = document.createElement('a');
+    newLinkElement.setAttribute('href', href);
+    newLinkElement.textContent = trimmedTitle; 
+
+    newSmallElement.appendChild(newLinkElement);
+    newFigcaptionElement.appendChild(newSmallElement);
+    figureElement.appendChild(newImgElement);
+    figureElement.appendChild(newFigcaptionElement);
+    container.appendChild(figureElement);
+
+    linkElement.remove();
+  });
+</script>
+</p>
+</div>
+</div>
+]]></content:encoded></item><item><title>Até o glorioso fim</title><link>https://eternodevir.com/pt-br/palimpsests/at%C3%A9-o-glorioso-fim/</link><pubDate>Thu, 19 Mar 2020 23:26:08 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/palimpsests/at%C3%A9-o-glorioso-fim/</guid><description>Caixa Cultural, São Paulo, 2015
+Ensaio de Paulo Leminski, publicado em 1989 na Folha de Londrina, meses antes de sua morte.
+Corpo não mente Quando Francisco Xavier, o missionário jesuíta, aportou no Japão, na crista das navegações, sua catequese produziu milhares de conversões e o catolicismo começou a se espalhar pelo país.
+Nas cartas que escreveu para seus superiores em Roma, Xavier descreve com júbilo os progressos do apostolado na Terra do Sol Nascente.</description><content:encoded><![CDATA[
+<p>
+<figure><img src="/images/palimpsests/2020/image00.jpg"
+         alt="Caixa Cultural"/><figcaption>
+            <p>Caixa Cultural, São Paulo, 2015</p>
+        </figcaption>
+</figure>
+</p>
+<blockquote>
+<p>Ensaio de Paulo Leminski, publicado em 1989 na Folha de Londrina, meses antes de sua morte.</p>
+</blockquote>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Corpo não mente
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<p>
+Quando Francisco Xavier, o missionário jesuíta, aportou no Japão, na crista das navegações, sua catequese produziu milhares de conversões e o catolicismo começou a se espalhar pelo país.</p>
+<p>
+Nas cartas que escreveu para seus superiores em Roma, Xavier descreve com júbilo os progressos do apostolado na Terra do Sol Nascente. Nas mesmas cartas, porém, queixa-se contra os adeptos de uma seita chamada zen (deve ser a primeira menção ao zen na Europa). Não consigo converter nenhum dos adeptos dessa seita, Xavier confessa. Não mostram nenhum respeito pelas coisas sagradas, riem de tudo e debocham dos símbolos de nossa religião, prossegue ele.</p>
+<p>
+A razão secreta do insucesso de Xavier com os praticantes do zen reside na radical diferença entre as relações corpo/mente (ou corpo/alma) no catolicismo e no zen. Todas as práticas zen (o zen é – sobretudo – uma prática) visam atingir o ponto de fusão corpo/mente, aquele lugar alfa onde essa distinção (vista como erro e ilusão) não seja mais possível. Visariam, de certa maneira, uma espiritualização do corpo e uma corporificação da mente e do espírito.</p>
+<p>
+Isso é muito visível nas artes marciais, judô, kendô, caratê, aikidô, todas empapadas de zen. Quem pratica artes marciais, aprende logo que o corpo não é uma máquina governada por um comandante genial chamado mente. Na hora de aplicar um golpe, sente-se claramente que o corpo pensa. Impossível não ver os paralelos entre essa experiência e a vivência do sexo que, para ser realizado plenamente, exige um momento de fusão total entre um corpo que sente e uma mente que dirige. Não se pode obter uma ereção ou um orgasmo pensando em reforma tributária…</p>
+<p>
+Ao tentar converter superiores da seita zen, com a frase básica “salve tua alma”, Xavier esbarrou num obstáculo intransponível: os monges zen não podiam conceber que a alma fosse uma coisa que a gente possuísse e pudesse ter um destino distinto do corpo, suas peripécias, misérias e esplendores. A arte de um judoca ou de um carateca não é “una cosa mentale”, como disse Leonardo da pintura. É essencialmente unitária, anterior ou posterior à dicotomia corpo/mente que impregna, sub-repticiamente, todo o pensamento ocidental de Descartes para cá.</p>
+<p>
+As origens desse divórcio no indissociável são, claro, de natureza religiosa: a mente do racionalismo ocidental é a filha leiga da alma salvável no cristianismo. Sem direito a além-túmulo, porém. Mas não pense que coisa tão grave teve raízes apenas filosóficas na mente de algum pensador isolado. A sociedade urbano-industrial, através dos métodos de trabalho que impôs, promove a dissociação corpo/mente mais do que qualquer tratado de metafísica.</p>
+<p>
+É uma força desagregadora, destribalizante, atomizante. Não há lugar para o corpo na grande fábrica, a não ser como a unidade de trabalho, nunca como lugar de prazer e satisfação sensorial. E a alma toma os novos nomes de “habilitação profissional”, “treinamento especializado”, abstrações no seio dessa imensa abstração que é a anônima sociedade industrial-urbana.</p>
+</div>
+</div>
+<div id="outline-container-headline-2" class="outline-2">
+<h2 id="headline-2">
+Eu mando, você obedece
+</h2>
+<div id="outline-text-headline-2" class="outline-text-2">
+<p>
+Escravos e senhores. Nobres e servos. Patrões e empregados. Técnicos e operários. Nada distingue mais o homem dos animais do que a divisão de trabalho, nossa grande força e também a fonte de nossas fraquezas.</p>
+<p>
+Foi através da divisão do trabalho que o homem multiplicou seus poderes sobre a natureza numa velocidade fantástica: há apenas 30 mil anos tudo o que tínhamos para enfrentar a hostilidade do meio ambiente eram armas de pau, pedra e osso e vestimentas de peles de animais. Neste prazo biologicamente curtíssimo, saltamos da lança de madeira para o computador, a eletricidade, a engenharia genética e a energia nuclear. Isso só foi possível porque o homem, em todas as latitudes, especializou determinados grupos da sociedade em tarefas específicas. Qualquer tigre sabe fazer tudo o que qualquer tigre faz, e nada além disso. Todo tigre é um inteiro. Nós somos fragmentados. Uns plantam, outros vendem. Uns mandam, outros obedecem. Uns celebram cerimônias aos deuses, outros carregam pedras para erguer pirâmides, templos e catedrais.</p>
+<p>
+Quem não vê que a dicotomia mente/corpo é uma projeção e uma decorrência da divisão do trabalho, a divisão interiorizada em nós? A mente é uma metáfora da classe dirigente servida pelo corpo.</p>
+<p>
+A divisão do trabalho é o verdadeiro Pecado Original, aquele que nos expulsa do paraíso e nos lança na grande aventura da vida e do mundo. A serpente sugere, Eva colhe o fruto proibido, Adão o come… Integrar mente e corpo é voltar ao paraíso que só conseguimos experimentar em momentos privilegiados: a pessoas desintegradas, o paraíso também é vivido sob a forma de fragmento.</p>
+<p>
+Um dos momentos mais radicais da divisão do trabalho está na separação entre trabalho braçal e intelectual. Essa divisão começa no mundo religioso. Sacerdotes e agricultores, monges e guerreiros, padres e fiéis, são o modelo remoto da atual divisão entre técnicos e teóricos diante da mão-de-obra.</p>
+<p>
+E certas práticas religiosas como o jejum, a castidade, o silêncio e a busca do desconforto físico concorreram poderosamente para acelerar a cisão entre corpo e mente. Não seria exagero imaginar que a noção da “alma” tenha nascido dessas práticas onde o corpo é tratado como um inimigo, fera que deve ser domada, humilhada e reduzida a ser uma montaria dócil sob as rédeas do “Espírito”.</p>
+<p>
+No século passado, quando começa o mando industrial de hoje, aparece a figura do “intelectual”, o homem/mente por excelência, vivendo apenas na atmosfera rarefeita do “mundo das idéias”. Com o intelectual, seus afins, o técnico, o especialista, o pensador…</p>
+<p>
+Entre um corpo e uma mente, mil anos-luz de vazio onde se criam monstros e demônios, duendes e neuroses. Os demônios se chamavam Lúcifer, Belzebu, Asmodeu, Belial. Hoje chamam-se neurose, paranoia, esquizofrenia, mania, ansiedade. É perigoso separar aquilo que, por natureza, é uno e inteiro.</p>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+De volta à unidade
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>
+Retorno ao paraíso perdido, a re-união mente e corpo não pode sequer ser sonhada, em termos integrais. Essa estranha entidade que é o ser humano, que somos nós, resulta irremediavelmente cindida.</p>
+<p>
+O próprio exercício disso que se chama “razão” parece estar ligado, carne e unha, com a dissociação entre uma metade que “pensa” e um corpo que obedece. Estamos condenados à razão. Mas é essa mesma razão dissociativa que pode nos aproximar, por momentos iluminados, da unidade perdida, em algum ponto-anos-luz no espaço/tempo.</p>
+<p>
+Nós buscamos essa unidade na prática do lúdico e do erótico, na arte, no esporte, no amor e no sexo. Nessas áreas do in-utensílio, a vida além da tirania do lucro e da utilidade. Ao brincar e jogar, estamos salvos, livres. E de volta.</p>
+<p>
+Para o zen, é na própria vida cotidiana que está o segredo. É preciso resgatar a grandeza infinita dos gestos simples e “elementares”. Cuidar da vida. Curtir a minúcia. Lavar a própria roupa. A louça. Arrumar a casa. Fazer sua comida. Tomar banho como quem realiza um ato sacro. Recuperar o prazer da prática dos atos primários. Saber que ser matéria, caralho e buceta, boca e estômago, é uma dignidade e um esplendor.</p>
+<p>
+Dá trabalho.</p>
+<p>
+Mas, para brilhar, as estrelas têm que arder, até o glorioso fim.</p>
+</div>
+</div>
+]]></content:encoded></item></channel></rss>
