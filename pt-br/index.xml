@@ -1108,11 +1108,13 @@ Latest played
     <figure class="margin-0 padding-0">
       <img src="https://i.scdn.co/image/ab67616d00001e026436cac21081118469051f71" alt="Cucurrucucu Paloma - En Vivo" class="grid__img grid__img-square">
       <figcaption class="grid__caption">
+	<small>
 	  <a href="https://open.spotify.com/track/4GEJx7GJWxsDczLGly7KUX">
 	    
 	    
 	    Cucurrucucu Paloma 
 	  </a>
+	</small>
       </figcaption>
     </figure>
   </div>
@@ -1289,11 +1291,13 @@ Tocada por último
      <figure class="margin-0 padding-0">
        <img src="https://i.scdn.co/image/ab67616d00001e026436cac21081118469051f71" alt="Cucurrucucu Paloma - En Vivo" class="grid__img grid__img-square">
        <figcaption class="grid__caption">
+ 	<small>
  	  <a href="https://open.spotify.com/track/4GEJx7GJWxsDczLGly7KUX">
  	    
  	    
  	    Cucurrucucu Paloma 
  	  </a>
+ 	</small>
        </figcaption>
      </figure>
    </div>
@@ -17888,13 +17892,12 @@ Translation
 </ul>
 </div>
 </div>
-]]></content:encoded></item><item><title>About</title><link>https://eternodevir.com/about/</link><pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/about/</guid><description>Vinícius Moraes Alias: ttybitnik Social: GitHub, Sourcehut, Instapaper, Twtxt PGP: 0xD3ABD88652EA7D41 Contact: Email Biography I graduated with two Bachelor of Arts degrees from the Federal University of Juiz de Fora, where I specialized in Portuguese and Translation. For my undergraduate thesis, The Abyss of the Original, I addressed Paulo Leminski&amp;#39;s simultaneous bitranslation of Samuel Beckett&amp;#39;s Malone Dies and Malone Meurt. Within my academic program, I pursued topics in Classical Studies, Semiotics, Translation Theory, Computational Linguistics, and a range of other subjects.</description><content:encoded><![CDATA[
+]]></content:encoded></item><item><title>About</title><link>https://eternodevir.com/about/</link><pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/about/</guid><description>Vinícius Moraes, ttybitnik Social: GitHub, Sourcehut, Instapaper, Twtxt PGP: 0xD3ABD88652EA7D41 Contact: Email Biography I graduated with two Bachelor of Arts degrees from the Federal University of Juiz de Fora, where I specialized in Portuguese and Translation. For my undergraduate thesis, The Abyss of the Original, I addressed Paulo Leminski&amp;#39;s simultaneous bitranslation of Samuel Beckett&amp;#39;s Malone Dies and Malone Meurt. Within my academic program, I pursued topics in Classical Studies, Semiotics, Translation Theory, Computational Linguistics, and a range of other subjects.</description><content:encoded><![CDATA[
 <div class="avatar-container">
 <img src="/images/avatar.jpg" alt="An art picture of me" title="Hi there 👋🏻" style="max-width:180px;" class="avatar-image"/>
 <div class="avatar-info">
 <ul>
-<li><strong>Vinícius Moraes</strong></li>
-<li><strong>Alias</strong>: ttybitnik</li>
+<li><strong>Vinícius Moraes</strong>, ttybitnik</li>
 <li><strong>Social</strong>: <a href="https://github.com/ttybitnik">GitHub</a>, <a href="https://sr.ht/~ttybitnik/">Sourcehut</a>, <a href="https://www.instapaper.com/p/12152153">Instapaper</a>, <a href="/twtxt.txt">Twtxt</a></li>
 <li><strong>PGP</strong>: <a href="/contact/#pgp">0xD3ABD88652EA7D41</a></li>
 <li><strong>Contact</strong>: <a href="/contact/">Email</a></li>
@@ -18173,13 +18176,12 @@ O81gkBhudWXO8aqa8sYy3ppWm8esr5bpN+FU6g==
 Recomendo aprender sobre criptografia para se comunicar com seus contatos de forma mais segura e confiável. Ao usar o PGP, você pode ter certeza de que o conteúdo do e-mail é confidencial, autêntico e não foi adulterado durante a transmissão. Você pode começar com este excelente <a href="https://emailselfdefense.fsf.org/en/">guia</a> da Free Software Foundation.</p>
 </div>
 </div>
-]]></content:encoded></item><item><title>Sobre</title><link>https://eternodevir.com/pt-br/about/</link><pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/about/</guid><description>Vinícius Moraes Pseudômino: ttybitnik Social: GitHub, Sourcehut, Instapaper, Twtxt PGP: 0xD3ABD88652EA7D41 Contato: E-mail Biografia Eu me formei em dois cursos da Faculdade de Letras da Universidade Federal de Juiz de Fora, onde me especializei em Português e Tradução. Na minha monografia de graduação, O abismo do original, abordei a bitradução simultânea de Paulo Leminski das obras Malone Dies e Malone Meurt de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</description><content:encoded><![CDATA[
+]]></content:encoded></item><item><title>Sobre</title><link>https://eternodevir.com/pt-br/about/</link><pubDate>Mon, 06 Mar 2023 15:34:29 -0300</pubDate><author>Vinícius Moraes</author><guid>https://eternodevir.com/pt-br/about/</guid><description>Vinícius Moraes, ttybitnik Social: GitHub, Sourcehut, Instapaper, Twtxt PGP: 0xD3ABD88652EA7D41 Contato: E-mail Biografia Eu me formei em dois cursos da Faculdade de Letras da Universidade Federal de Juiz de Fora, onde me especializei em Português e Tradução. Na minha monografia de graduação, O abismo do original, abordei a bitradução simultânea de Paulo Leminski das obras Malone Dies e Malone Meurt de Samuel Beckett. Dentro do programa de graduação, fiz tópicos em Estudos Clássicos, Semiótica, Teoria da Tradução, Linguística Computacional e em uma série de outras disciplinas.</description><content:encoded><![CDATA[
 <div class="avatar-container">
 <img src="/images/avatar.jpg" alt="An art picture of me" title="Olá! 👋🏻" style="max-width:180px;" class="avatar-image"/>
 <div class="avatar-info">
 <ul>
-<li><strong>Vinícius Moraes</strong></li>
-<li><strong>Pseudômino</strong>: ttybitnik</li>
+<li><strong>Vinícius Moraes</strong>, ttybitnik</li>
 <li><strong>Social</strong>: <a href="https://github.com/ttybitnik">GitHub</a>, <a href="https://sr.ht/~ttybitnik/">Sourcehut</a>, <a href="https://www.instapaper.com/p/12152153">Instapaper</a>, <a href="/twtxt.txt">Twtxt</a></li>
 <li><strong>PGP</strong>: <a href="/pt-br/contact/#pgp">0xD3ABD88652EA7D41</a></li>
 <li><strong>Contato</strong>: <a href="/pt-br/contact/">E-mail</a></li>

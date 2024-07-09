@@ -12,11 +12,13 @@ Latest played
     <figure class="margin-0 padding-0">
       <img src="https://i.scdn.co/image/ab67616d00001e026436cac21081118469051f71" alt="Cucurrucucu Paloma - En Vivo" class="grid__img grid__img-square">
       <figcaption class="grid__caption">
+	<small>
 	  <a href="https://open.spotify.com/track/4GEJx7GJWxsDczLGly7KUX">
 	    
 	    
 	    Cucurrucucu Paloma 
 	  </a>
+	</small>
       </figcaption>
     </figure>
   </div>
