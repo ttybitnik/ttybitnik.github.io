@@ -27,7 +27,7 @@
 2024-02-10T23:33:48-03:00	Scorsese didn't win a single Oscar with KOTFM today. What an Oscars classic ¯\_(ツ)_/¯
 2024-02-10T23:35:37-03:00	Nights like this remind me why I enjoy Lyon's festivals and Berlinale way more.
 2024-04-04T19:23:49-03:00	Sourcehut's UX and workflow are superb. Simple, yet thoughtful. Beautiful, yet functional. Kudos!
-2024-04-04T21:52:31-03:00	Just migrated to the *Insidious Big Brother Database* for contacts. GPG, regex, and aliases support. What a breeze.
+2024-04-04T21:52:31-03:00	Just migrated to the *Insidious Big Brother Database* for contacts. PGP, regex, and aliases support. What a breeze.
 2024-04-15T21:02:08-03:00	Today I had to debug my entire network because a VPN service thinks it's a good feature overwriting all firewall rules.
 2024-04-15T21:03:38-03:00	Why a VPN cannot simply be a VPN? God dammit. Kudos to the UNIX philosophy more than ever.
 2024-04-25T22:29:30-03:00	Just watched Shōgun season finale. What an incredible run, Mariko-san!
@@ -35,3 +35,5 @@
 2024-07-08T19:04:28-03:00	Today I managed to finish the new design of Eterno Devir, embodying the Brutalist Web Design. Couldn't be happier with the results.
 2024-07-08T19:06:31-03:00	In architecture, Brutalism itself doesn't appeal to me as much, but the concept of truth to materials is simply fascinating.
 2024-07-08T19:08:53-03:00	Besides holding an enormous aesthetic potential, as seen in modernism with Niemeyer. Thinking from the ground up. Raw, honest, beautiful.
+2024-07-15T21:18:03-03:00	The Linux Experiment interview with Andy Wen, CEO of Proton, was quite good. I really recommend it.
+2024-07-18T09:15:41-03:00 	Have you ever felt like something was billions of years away? Well, that's how I felt today when I thought I had forgotten a PGP passphrase.
