@@ -122,7 +122,7 @@ Although the linguistic layout had an impact, I was more concerned with the posi
 <blockquote>
 <p>A much older joke is that Emacs stands for “Escape Meta Alt Control Shift.” (…) Back then, most Emacs keys were bound to a larger range of physical keyboard modifiers but when the keyboard maker (and the business that made the machines the keyboards were plugged into) went bust, Emacs had to change with the times. Instead of undoing the cornerstone of Emacs, the developers shuffled the keys around and made them work on normal, boring PC keyboards.</p>
 <p>
-— Mickey Petersen, in Mastering Emacs (2015)</p>
+<span class="style-normal">— Mickey Petersen, in Mastering Emacs (2015)</span></p>
 </blockquote>
 <p>
 When I saw the photo of a Space Cadet used on the first Lisp machines, many traditional GNU bindings started to make even more sense, beyond their mnemonic aspect. For example, the fact that the current <kbd>Alt</kbd> key is called <kbd>M-</kbd> (Meta).</p>
@@ -240,7 +240,7 @@ Cinearte Palace, Juiz de Fora, 2017
 Glauber Rocha taught me that Cinema Novo had the potential to be a national cinema that was not purely commercial. A place for art, experimentation, transformation, and freedom.</description><content:encoded><![CDATA[<blockquote>
 <p>I do remain with my positions of a third-worldist cinema. An independent cinema from an economic and artistic point of view, which does not let aesthetic creativity disappear in the name of commercial objectivity and political immediacy.</p>
 <p>
-— Glauber Rocha, director</p>
+<span class="style-normal">— Glauber Rocha, director</span></p>
 </blockquote>
 <p>
 <figure><img src="/images/palimpsests/2019/image00.jpg"

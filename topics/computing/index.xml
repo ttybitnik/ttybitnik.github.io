@@ -588,7 +588,7 @@ Although the linguistic layout had an impact, I was more concerned with the posi
 <blockquote>
 <p>A much older joke is that Emacs stands for “Escape Meta Alt Control Shift.” (…) Back then, most Emacs keys were bound to a larger range of physical keyboard modifiers but when the keyboard maker (and the business that made the machines the keyboards were plugged into) went bust, Emacs had to change with the times. Instead of undoing the cornerstone of Emacs, the developers shuffled the keys around and made them work on normal, boring PC keyboards.</p>
 <p>
-— Mickey Petersen, in Mastering Emacs (2015)</p>
+<span class="style-normal">— Mickey Petersen, in Mastering Emacs (2015)</span></p>
 </blockquote>
 <p>
 When I saw the photo of a Space Cadet used on the first Lisp machines, many traditional GNU bindings started to make even more sense, beyond their mnemonic aspect. For example, the fact that the current <kbd>Alt</kbd> key is called <kbd>M-</kbd> (Meta).</p>

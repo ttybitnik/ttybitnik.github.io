@@ -121,7 +121,7 @@ Embora o layout linguístico tenha tido impacto, eu estava mais preocupado com a
 <blockquote>
 <p>A much older joke is that Emacs stands for “Escape Meta Alt Control Shift.” (…) Back then, most Emacs keys were bound to a larger range of physical keyboard modifiers but when the keyboard maker (and the business that made the machines the keyboards were plugged into) went bust, Emacs had to change with the times. Instead of undoing the cornerstone of Emacs, the developers shuffled the keys around and made them work on normal, boring PC keyboards.</p>
 <p>
-— Mickey Petersen, in Mastering Emacs (2015)</p>
+<span class="style-normal">— Mickey Petersen, em Mastering Emacs (2015)</span></p>
 </blockquote>
 <p>
 Quando vi a foto de um Space Cadet usado nas primeiras máquinas Lisp, muitos atalhos tradicionais do GNU começaram a fazer ainda mais sentido, para além do seu aspecto mnemônico. Por exemplo, o fato de a atual tecla <kbd>Alt</kbd> ser chamada de <kbd>M-</kbd> (Meta).</p>
@@ -240,7 +240,7 @@ Cinearte Palace, Juiz de Fora, 2017
 Glauber Rocha me ensinou que o Cinema Novo tinha potencial para ser um cinema nacional que não fosse puramente comercial. Um lugar de arte, experimentação, transformação e liberdade.</description><content:encoded><![CDATA[<blockquote>
 <p>Continuo fechado com minhas posições de um cinema terceiro-mundista. Um cinema independente do ponto-de-vista econômico e artístico, que não deixe a criatividade estética desaparecer em nome de uma objetividade comercial e de um imediatismo político.</p>
 <p>
-— Glauber Rocha, diretor</p>
+<span class="style-normal">— Glauber Rocha, diretor</span></p>
 </blockquote>
 <p>
 <figure><img src="/images/palimpsests/2019/image00.jpg"
